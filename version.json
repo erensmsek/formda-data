@@ -3,6 +3,7 @@
   "foods": {
     "turkomp": { "version": "1.0.0", "count": 645, "updated_at": "2026-07-23" },
     "usda_top5000": { "version": "1.0.0", "count": 5000, "updated_at": "2026-07-23" },
-    "off_tr": { "version": "1.0.0", "count": 706, "updated_at": "2026-07-23" }
+    "off_tr": { "version": "1.0.0", "count": 706, "updated_at": "2026-07-23" },
+    "popular_tr": { "version": "1.0.0", "count": 104, "updated_at": "2026-07-23" }
   }
 }
