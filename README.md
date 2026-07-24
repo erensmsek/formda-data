@@ -1,6 +1,6 @@
 # formda-data
 
-FormDa uygulamasının statik yemek (ve ileride egzersiz) veri seti. Uygulama bu
+FormDa uygulamasının statik yemek ve egzersiz veri seti. Uygulama bu
 JSON'ları GitHub raw üzerinden açılışta indirir; `version.json` değişince
 güncellenen setleri çeker.
 
@@ -12,14 +12,19 @@ foods/
   turkomp_v1.json     # 645  — TürKomp, laboratuvar analizli TR gıdalar
   usda_top5000_v1.json# 5000 — USDA FoodData Central (Foundation + SR Legacy)
   off_tr_v1.json      # 706  — Open Food Facts, TR barkodlu paketli ürünler
+  popular_tr_foods_v1.json # 104 — elle derlenen popüler TR yemekleri
+exercises/
+  exercises_v1.json   # 873  — Free Exercise DB, TR çevirili
+  manifest.json       # dosya listesi + checksum + lisans
 ```
 
-Her kayıt 100 g başına makro içerir (şema: FormDa reposu
-`scripts/schemas/food.schema.json`).
+Yemek kayıtları 100 g başına makro içerir (şema: FormDa reposu
+`scripts/schemas/food.schema.json`). Egzersiz kayıtları kas grubu, ekipman,
+zorluk, TR talimatlar ve 2 kare görsel URL'i içerir.
 
 ## Bir seti güncellerken
 
-1. İlgili JSON'u yenileyip `foods/`'a koy.
+1. İlgili JSON'u yenileyip `foods/` ya da `exercises/`'a koy.
 2. `version.json`'da o setin `version` alanını artır (örn. `1.0.0` → `1.1.0`).
 3. Push et. Uygulama sürüm farkını görüp yalnızca o seti yeniden indirir.
 
@@ -32,5 +37,9 @@ Her kayıt 100 g başına makro içerir (şema: FormDa reposu
 - **Open Food Facts** (openfoodfacts.org) — veri **ODbL** (Open Database
   License) altındadır; **atıf zorunludur** ve uygulamanın "Hakkında" ekranında
   belirtilir. Ürün içerikleri Database Contents License kapsamındadır.
+- **Free Exercise DB** (github.com/yuhonas/free-exercise-db) — **Unlicense**
+  (kamu malı), ticari kullanım serbest. Egzersiz görselleri de aynı repodan
+  raw URL ile referanslanır. Türkçe çeviriler Gemini ile üretilip elle
+  gözden geçirilmiştir.
 
 Veriler `FormDa/scripts/` altındaki üretim scriptleriyle oluşturulmuştur.

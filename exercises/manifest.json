@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "name": "exercises_v1.json",
+      "count": 873,
+      "checksum": "sha256:fb794e9e283af6c17f5012dbbc325393245ee2279e1f72124d442b6a4ae8f625",
+      "source": "free-exercise-db (Unlicense) + Gemini TR çeviri",
+      "license": "Unlicense (kamu malı)"
+    }
+  ]
+}
