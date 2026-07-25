@@ -12,6 +12,12 @@
       "count": 873,
       "updated_at": "2026-07-24",
       "checksum": "sha256:fb794e9e283af6c17f5012dbbc325393245ee2279e1f72124d442b6a4ae8f625"
+    },
+    "activities": {
+      "version": "1.0.0",
+      "count": 818,
+      "updated_at": "2026-07-25",
+      "checksum": "sha256:ab839816a6c4b98dad8f533a4447f11866ac0a952dab854526fa4c2de137d03d"
     }
   }
 }

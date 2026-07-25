@@ -14,7 +14,9 @@ foods/
   off_tr_v1.json      # 706  — Open Food Facts, TR barkodlu paketli ürünler
   popular_tr_foods_v1.json # 104 — elle derlenen popüler TR yemekleri
 exercises/
-  exercises_v1.json   # 873  — Free Exercise DB, TR çevirili
+  exercises_v1.json   # 873  — Free Exercise DB, TR çevirili (salon hareketleri)
+  activities_v1.json  # 818  — Compendium of Physical Activities (spor dalları,
+                      #        kardiyo ve günlük aktiviteler; MET değerleriyle)
   manifest.json       # dosya listesi + checksum + lisans
 ```
 
@@ -41,5 +43,14 @@ zorluk, TR talimatlar ve 2 kare görsel URL'i içerir.
   (kamu malı), ticari kullanım serbest. Egzersiz görselleri de aynı repodan
   raw URL ile referanslanır. Türkçe çeviriler Gemini ile üretilip elle
   gözden geçirilmiştir.
+- **2024 Adult Compendium of Physical Activities**
+  (https://pacompendium.com) — spor dalları ve günlük aktivitelerin MET
+  değerleri. Ticari kullanım **serbest**, **atıf zorunludur**; uygulamanın
+  "Hakkında" ekranında belirtilir.
+  ⚠️ Lisans şartı: MET değerleri **değiştirilmez** ve farklı MET seviyesindeki
+  aktiviteler **birleştirilmez**. Yalnızca açıklama metinleri Türkçeleştirilir
+  (ölçü birimleri metrik sisteme çevrilir).
+  Atıf: Herrmann SD, Willis EA, Ainsworth BE, et al. 2024 Adult Compendium of
+  Physical Activities. *J Sport Health Sci.* 2024;13(1).
 
 Veriler `FormDa/scripts/` altındaki üretim scriptleriyle oluşturulmuştur.
