@@ -24,6 +24,12 @@
       "count": 384,
       "updated_at": "2026-08-13",
       "checksum": "sha256:74ccc0cf1195d9390eecd902b355f9355cc1e72cd25e069cda5e3f520b65c106"
+    },
+    "community_tr": {
+      "version": "1.0.1",
+      "count": 0,
+      "updated_at": "2026-08-13",
+      "checksum": "sha256:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
     }
   },
   "exercises": {
@@ -38,6 +44,12 @@
       "count": 816,
       "updated_at": "2026-08-13",
       "checksum": "sha256:474c2cb93b6d04e2a25ea6604899455ee4f33d7edb855ca3bf664039f15b8209"
+    },
+    "community": {
+      "version": "1.0.1",
+      "count": 1,
+      "updated_at": "2026-08-13",
+      "checksum": "sha256:910fc116f95b4834c94fce7a74a5f550622638ed317101fc3dae40b2de3193ac"
     }
   }
 }
