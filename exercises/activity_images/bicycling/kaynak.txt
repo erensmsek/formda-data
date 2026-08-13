@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Ana Hidalgo Burgos on Pexels
+fotografci_url: https://www.pexels.com/@ana-hidalgo-burgos-4848204
+fotograf_url: https://www.pexels.com/photo/men-riding-bicycles-21588830/
+pexels_id: 21588830
+arama_terimi: cycling road bicycle

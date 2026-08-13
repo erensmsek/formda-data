@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Jacek Pobłocki on Pexels
+fotografci_url: https://www.pexels.com/@pigeonphoto
+fotograf_url: https://www.pexels.com/photo/back-view-of-a-woman-carrying-a-child-in-a-park-17309023/
+pexels_id: 17309023
+arama_terimi: mother carrying toddler walking outdoors

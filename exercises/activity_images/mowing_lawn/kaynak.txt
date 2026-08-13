@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Rajesh S  Balouria on Pexels
+fotografci_url: https://www.pexels.com/@rajesh-s-balouria-1289088
+fotograf_url: https://www.pexels.com/photo/men-lawn-mowing-in-sunny-garden-environment-32632465/
+pexels_id: 32632465
+arama_terimi: man mowing lawn with lawnmower

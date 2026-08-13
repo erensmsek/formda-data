@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Georgy Druzhinin on Pexels
+fotografci_url: https://www.pexels.com/@georgy-druzhinin-199436815
+fotograf_url: https://www.pexels.com/photo/grayscale-photo-of-a-boy-playing-table-tennis-11717764/
+pexels_id: 11717764
+arama_terimi: children playing ping pong outdoors

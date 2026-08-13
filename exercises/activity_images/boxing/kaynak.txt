@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Julia Larson on Pexels
+fotografci_url: https://www.pexels.com/@julia-larson
+fotograf_url: https://www.pexels.com/photo/serious-ethnic-coach-showing-punch-to-black-woman-6456180/
+pexels_id: 6456180
+arama_terimi: woman boxing training gloves gym plain

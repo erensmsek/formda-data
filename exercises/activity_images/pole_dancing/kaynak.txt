@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Konstantin Mishchenko on Pexels
+fotografci_url: https://www.pexels.com/@aksioart
+fotograf_url: https://www.pexels.com/photo/woman-in-black-sports-bra-balancing-in-a-pole-between-legs-6100288/
+pexels_id: 6100288
+arama_terimi: pole dance fitness studio

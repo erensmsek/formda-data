@@ -1,23 +1,43 @@
 {
   "schema_version": 1,
   "foods": {
-    "turkomp": { "version": "1.0.0", "count": 645, "updated_at": "2026-07-23" },
-    "usda_top5000": { "version": "1.0.0", "count": 5000, "updated_at": "2026-07-23" },
-    "off_tr": { "version": "1.0.0", "count": 706, "updated_at": "2026-07-23" },
-    "popular_tr": { "version": "1.0.0", "count": 104, "updated_at": "2026-07-23" }
+    "turkomp": {
+      "version": "1.1.0",
+      "count": 639,
+      "updated_at": "2026-08-13",
+      "checksum": "sha256:33b585d0a05de5c9dcd703f3ed5bc0f6bddc4783523ba9f292efbc23969fe5d6"
+    },
+    "usda_top5000": {
+      "version": "1.1.0",
+      "count": 1267,
+      "updated_at": "2026-08-13",
+      "checksum": "sha256:a91ed0ee48d20e167d4ab8017b68f8ef459dcceba712282318e5f466feccca4c"
+    },
+    "off_tr": {
+      "version": "1.1.0",
+      "count": 645,
+      "updated_at": "2026-08-13",
+      "checksum": "sha256:8c60731181081311c2bea8ce57f4d7c17913aaadf88b2d659c3f6b35eeeef3f7"
+    },
+    "popular_tr": {
+      "version": "1.1.0",
+      "count": 384,
+      "updated_at": "2026-08-13",
+      "checksum": "sha256:74ccc0cf1195d9390eecd902b355f9355cc1e72cd25e069cda5e3f520b65c106"
+    }
   },
   "exercises": {
     "main": {
-      "version": "1.0.0",
-      "count": 873,
-      "updated_at": "2026-07-24",
-      "checksum": "sha256:fb794e9e283af6c17f5012dbbc325393245ee2279e1f72124d442b6a4ae8f625"
+      "version": "1.1.0",
+      "count": 872,
+      "updated_at": "2026-08-13",
+      "checksum": "sha256:7e6a68ce662c8b6ad593e6269fcc8692ace7f3694c8e2b57e0ee309574378416"
     },
     "activities": {
-      "version": "1.0.0",
-      "count": 818,
-      "updated_at": "2026-07-25",
-      "checksum": "sha256:ab839816a6c4b98dad8f533a4447f11866ac0a952dab854526fa4c2de137d03d"
+      "version": "1.1.0",
+      "count": 816,
+      "updated_at": "2026-08-13",
+      "checksum": "sha256:474c2cb93b6d04e2a25ea6604899455ee4f33d7edb855ca3bf664039f15b8209"
     }
   }
 }

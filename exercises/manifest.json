@@ -3,15 +3,15 @@
   "files": [
     {
       "name": "exercises_v1.json",
-      "count": 873,
-      "checksum": "sha256:fb794e9e283af6c17f5012dbbc325393245ee2279e1f72124d442b6a4ae8f625",
+      "count": 872,
+      "checksum": "sha256:7e6a68ce662c8b6ad593e6269fcc8692ace7f3694c8e2b57e0ee309574378416",
       "source": "free-exercise-db (Unlicense) + Gemini TR çeviri",
       "license": "Unlicense (kamu malı)"
     },
     {
       "name": "activities_v1.json",
-      "count": 818,
-      "checksum": "sha256:ab839816a6c4b98dad8f533a4447f11866ac0a952dab854526fa4c2de137d03d",
+      "count": 816,
+      "checksum": "sha256:474c2cb93b6d04e2a25ea6604899455ee4f33d7edb855ca3bf664039f15b8209",
       "source": "2024 Adult Compendium of Physical Activities + Gemini TR çeviri",
       "license": "Ticari kullanım serbest, atıf zorunlu. MET değerleri değiştirilemez."
     }

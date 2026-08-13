@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by MART  PRODUCTION on Pexels
+fotografci_url: https://www.pexels.com/@mart-production
+fotograf_url: https://www.pexels.com/photo/a-woman-in-black-tank-top-using-a-skip-rope-8846581/
+pexels_id: 8846581
+arama_terimi: woman jumping rope skipping

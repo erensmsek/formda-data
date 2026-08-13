@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by RDNE Stock project on Pexels
+fotografci_url: https://www.pexels.com/@rdne
+fotograf_url: https://www.pexels.com/photo/man-and-woman-riding-horses-on-footpath-8625647/
+pexels_id: 8625647
+arama_terimi: man riding horse trail nature

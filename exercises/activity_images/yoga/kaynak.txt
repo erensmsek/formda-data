@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by KoolShooters on Pexels
+fotografci_url: https://www.pexels.com/@koolshooters
+fotograf_url: https://www.pexels.com/photo/women-doing-a-yoga-pose-6246682/
+pexels_id: 6246682
+arama_terimi: yoga pose mat

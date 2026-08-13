@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Erika  Reyes on Pexels
+fotografci_url: https://www.pexels.com/@er17
+fotograf_url: https://www.pexels.com/photo/man-swimming-in-pool-18353095/
+pexels_id: 18353095
+arama_terimi: swimmer swimming pool
