@@ -175,22 +175,36 @@ def main() -> None:
         print('\n(kuru çalıştırma — dosya ve durum değişmedi)')
         return
 
-    if not (new_foods or new_ex):
-        print('\nYeni onay yok, üretim atlandı.')
-        return
-
+    # ⚠️ "Yeni onay var mı" diye BAKILMAZ, üretilen içerik diskteki dosyayla
+    # KARŞILAŞTIRILIR. Önceki sürüm yalnızca yeni onay varsa üretiyordu; geri
+    # çekilen (`revoked`) kayıt yeni onay yaratmadığı için setten hiç
+    # düşmüyordu (9.6.16 çalışmıyordu). İçerik karşılaştırması geri çekmeyi,
+    # elle düzeltmeyi ve şema değişikliğini de kapsıyor.
     os.makedirs(os.path.dirname(FOOD_OUT), exist_ok=True)
     os.makedirs(os.path.dirname(EX_OUT), exist_ok=True)
-    with open(FOOD_OUT, 'w', encoding='utf-8') as f:
-        json.dump([food_record(r) for r in foods], f,
-                  ensure_ascii=False, indent=1)
-    with open(EX_OUT, 'w', encoding='utf-8') as f:
-        json.dump([exercise_record(r) for r in exercises], f,
-                  ensure_ascii=False, indent=1)
 
-    fv = bump_version(('foods', 'community_tr'), FOOD_OUT, len(foods))
-    ev = bump_version(('exercises', 'community'), EX_OUT, len(exercises))
-    print(f'\ncommunity_tr → {fv}   community(exercises) → {ev}')
+    changed = []
+    for label, path, payload, version_key, count in (
+        ('community_tr', FOOD_OUT, [food_record(r) for r in foods],
+         ('foods', 'community_tr'), len(foods)),
+        ('community(exercises)', EX_OUT, [exercise_record(r) for r in exercises],
+         ('exercises', 'community'), len(exercises)),
+    ):
+        rendered = json.dumps(payload, ensure_ascii=False, indent=1)
+        current = None
+        if os.path.exists(path):
+            with open(path, encoding='utf-8') as f:
+                current = f.read()
+        if rendered == current:
+            continue
+        with open(path, 'w', encoding='utf-8') as f:
+            f.write(rendered)
+        changed.append(f'{label} → {bump_version(version_key, path, count)}')
+
+    if not changed:
+        print('\nDeğişiklik yok, üretim atlandı.')
+    else:
+        print('\n' + '   '.join(changed))
 
     # Durum geri yazma (9.6.14): panelde "yayında" rozeti, çift yayın önlenir.
     now = datetime.datetime.now(datetime.timezone.utc).isoformat()
