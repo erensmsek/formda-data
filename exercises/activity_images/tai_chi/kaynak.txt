@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Vlada Karpovich on Pexels
+fotografci_url: https://www.pexels.com/@vlada-karpovich
+fotograf_url: https://www.pexels.com/photo/an-elderly-couple-doing-yoga-with-their-arms-outstretched-8940488/
+pexels_id: 8940488
+arama_terimi: people practicing tai chi in park morning

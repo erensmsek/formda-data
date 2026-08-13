@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Gaspar Zaldo on Pexels
+fotografci_url: https://www.pexels.com/@gasparzaldo
+fotograf_url: https://www.pexels.com/photo/a-fisherman-in-a-lake-26738294/
+pexels_id: 26738294
+arama_terimi: man fishing with rod standing at lake

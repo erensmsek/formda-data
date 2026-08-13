@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Greta Hoffman on Pexels
+fotografci_url: https://www.pexels.com/@greta-hoffman
+fotograf_url: https://www.pexels.com/photo/person-planting-a-green-plant-on-the-soil-7728921/
+pexels_id: 7728921
+arama_terimi: person gardening planting soil

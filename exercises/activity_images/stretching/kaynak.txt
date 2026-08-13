@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Cliff  Booth on Pexels
+fotografci_url: https://www.pexels.com/@cliff-booth
+fotograf_url: https://www.pexels.com/photo/photo-of-a-girl-in-bending-position-4056826/
+pexels_id: 4056826
+arama_terimi: woman stretching exercise floor

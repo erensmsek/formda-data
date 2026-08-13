@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by SHVETS production on Pexels
+fotografci_url: https://www.pexels.com/@shvets-production
+fotograf_url: https://www.pexels.com/photo/young-man-carrying-heap-of-cardboard-boxes-during-relocation-in-new-flat-7203789/
+pexels_id: 7203789
+arama_terimi: man carrying heavy boxes moving

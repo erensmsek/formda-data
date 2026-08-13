@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Haim Charbit on Pexels
+fotografci_url: https://www.pexels.com/@haim-charbit-46102840
+fotograf_url: https://www.pexels.com/photo/a-man-riding-a-jet-ski-on-the-water-27638422/
+pexels_id: 27638422
+arama_terimi: jet ski rider water

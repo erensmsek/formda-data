@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Pixabay on Pexels
+fotografci_url: https://www.pexels.com/@pixabay
+fotograf_url: https://www.pexels.com/photo/man-in-red-jacket-playing-ice-skates-during-day-time-47356/
+pexels_id: 47356
+arama_terimi: skiing snow slope

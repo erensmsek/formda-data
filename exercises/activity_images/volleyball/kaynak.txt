@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Kampus Production on Pexels
+fotografci_url: https://www.pexels.com/@kampus
+fotograf_url: https://www.pexels.com/photo/people-playing-volleyball-6180399/
+pexels_id: 6180399
+arama_terimi: volleyball players beach net

@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Efrem  Efre on Pexels
+fotografci_url: https://www.pexels.com/@efrem-efre-2786187
+fotograf_url: https://www.pexels.com/photo/a-person-walking-up-the-stairs-15164649/
+pexels_id: 15164649
+arama_terimi: person climbing stairs steps
