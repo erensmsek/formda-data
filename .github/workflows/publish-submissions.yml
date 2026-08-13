@@ -1,8 +1,10 @@
 # Faz 9.6 — onaylanan kullanıcı katkılarını otomatik yayınlar (9.6.12, 9.6.13)
 #
 # Tetikleyici iki yönlü:
-#   1. repository_dispatch — Supabase Database Webhook onay satırını görünce
-#      anında çağırır. Gecikme dakikalar mertebesinde.
+#   1. repository_dispatch — Supabase'deki `notify_submission_approved`
+#      tetikleyicisi (pg_net) onay anında çağırır. Gecikme saniyeler.
+#      ⚠️ Dashboard'daki "Database Webhook" KULLANILMADI: gövdesi sabit,
+#      GitHub'ın istediği `event_type` alanı konulamıyor (422 dönerdi).
 #   2. schedule — webhook düşerse onaylar birikip beklemesin diye saatlik yedek.
 #
 # ⚠️ SUPABASE_SERVICE_KEY repo secret'ında. Repo PUBLIC olduğu için script
@@ -26,15 +28,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      # ⚠️ Üretici script bu depoda tutuluyor, FormDa'dan ÇEKİLMİYOR:
+      # FormDa private ve `GITHUB_TOKEN` yalnızca kendi deposuna erişiyor,
+      # çapraz checkout "Not Found" ile kırılıyordu.
       - name: Veri deposunu al
         uses: actions/checkout@v4
-
-      - name: Üretici scriptleri al
-        uses: actions/checkout@v4
-        with:
-          repository: erensmsek/FormDa
-          path: .app
-          sparse-checkout: scripts
 
       - uses: actions/setup-python@v5
         with:
@@ -45,11 +43,10 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
           FORMDA_DATA: ${{ github.workspace }}
-        run: python3 .app/scripts/export_submissions.py --apply
+        run: python3 scripts/export_submissions.py --apply
 
       - name: Değişiklik varsa commit'le
         run: |
-          rm -rf .app
           if [ -z "$(git status --porcelain)" ]; then
             echo "Yeni onay yok, commit atlandı."
             exit 0
