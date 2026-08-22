@@ -24,7 +24,12 @@
   "tags": [
    "turkish",
    "street_food"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_doner_durum",
@@ -51,7 +56,16 @@
   "tags": [
    "turkish",
    "street_food"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuk_doner",
@@ -78,7 +92,12 @@
   "tags": [
    "turkish",
    "street_food"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuk_doner_durum",
@@ -101,7 +120,16 @@
   "tags": [
    "turkish",
    "street_food"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_lahmacun",
@@ -124,7 +152,16 @@
   "tags": [
    "turkish",
    "street_food"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_izgara_kofte",
@@ -150,7 +187,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_adana_kebap",
@@ -176,7 +222,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_urfa_kebap",
@@ -198,7 +249,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuk_sis",
@@ -224,7 +280,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_kuzu_sis",
@@ -246,7 +307,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuk_izgara",
@@ -272,7 +338,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuk_sote",
@@ -294,7 +365,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_et_sote",
@@ -316,7 +392,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_iskender",
@@ -338,7 +419,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tantuni",
@@ -361,7 +447,12 @@
   "tags": [
    "turkish",
    "street_food"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_cig_kofte",
@@ -388,7 +479,16 @@
   "tags": [
    "turkish",
    "street_food"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_kokorec",
@@ -415,7 +515,12 @@
   "tags": [
    "turkish",
    "street_food"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_karniyarik",
@@ -441,7 +546,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_imam_bayildi",
@@ -464,7 +574,12 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_kuru_fasulye",
@@ -490,7 +605,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_nohut_yemegi",
@@ -512,7 +632,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_etli_bezelye",
@@ -534,7 +659,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_turlu",
@@ -557,7 +687,12 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_musakka",
@@ -579,7 +714,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_biber_dolma",
@@ -605,7 +745,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_yaprak_sarma",
@@ -632,7 +777,12 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_lahana_sarma",
@@ -654,7 +804,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_zeytinyagli_fasulye",
@@ -677,7 +832,12 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_mercimek_corba",
@@ -703,7 +863,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_ezogelin_corba",
@@ -725,7 +890,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_yayla_corba",
@@ -747,7 +917,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tarhana_corba",
@@ -769,7 +944,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_domates_corba",
@@ -791,7 +975,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuk_suyu_corba",
@@ -813,7 +1002,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_iskembe_corba",
@@ -835,7 +1029,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_pirinc_pilav",
@@ -861,7 +1060,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_bulgur_pilav",
@@ -883,7 +1087,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_nohutlu_pilav",
@@ -905,7 +1118,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_ic_pilav",
@@ -927,7 +1145,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_sehriyeli_pilav",
@@ -949,7 +1172,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_makarna_domates",
@@ -971,7 +1203,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_firin_makarna",
@@ -993,7 +1234,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_menemen",
@@ -1015,7 +1265,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_sucuklu_yumurta",
@@ -1037,7 +1295,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_omlet",
@@ -1059,7 +1325,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_menemen_peynirli",
@@ -1081,7 +1355,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_kasarli_tost",
@@ -1103,7 +1386,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_sucuklu_tost",
@@ -1125,7 +1417,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_simit",
@@ -1147,7 +1447,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_pogaca",
@@ -1169,7 +1477,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_acma",
@@ -1191,7 +1507,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_su_boregi",
@@ -1213,7 +1533,17 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_sigara_boregi",
@@ -1239,7 +1569,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_ispanakli_borek",
@@ -1261,7 +1600,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kiymali_pide",
@@ -1287,7 +1635,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_kasarli_pide",
@@ -1309,7 +1666,17 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_gozleme_peynir",
@@ -1331,7 +1698,17 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_gozleme_patates",
@@ -1353,7 +1730,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_gozleme_kiymali",
@@ -1375,7 +1761,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_manti",
@@ -1401,7 +1796,18 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_coban_salata",
@@ -1424,7 +1830,12 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_mevsim_salata",
@@ -1447,7 +1858,12 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_cacik",
@@ -1470,7 +1886,12 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_haydari",
@@ -1493,7 +1914,12 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_acili_ezme",
@@ -1516,7 +1942,12 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_humus",
@@ -1539,7 +1970,16 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "allergens": [
+   "sesame"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_patlican_salata",
@@ -1562,7 +2002,12 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_kisir",
@@ -1585,7 +2030,12 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_baklava",
@@ -1611,7 +2061,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_sutlac",
@@ -1633,7 +2091,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kazandibi",
@@ -1655,7 +2121,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kunefe",
@@ -1677,7 +2151,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_revani",
@@ -1699,7 +2182,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_sekerpare",
@@ -1725,7 +2212,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_lokma",
@@ -1747,7 +2238,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_asure",
@@ -1769,7 +2264,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kabak_tatlisi",
@@ -1791,7 +2290,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_tulumba",
@@ -1813,7 +2316,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_hamburger",
@@ -1835,7 +2342,16 @@
   ],
   "tags": [
    "fast_food"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_patates_kizartma",
@@ -1861,7 +2377,12 @@
   ],
   "tags": [
    "fast_food"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_pizza_karisik",
@@ -1887,7 +2408,17 @@
   ],
   "tags": [
    "fast_food"
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kumpir",
@@ -1909,7 +2440,16 @@
   ],
   "tags": [
    "fast_food"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_cig_kofte_durum",
@@ -1932,7 +2472,16 @@
   "tags": [
    "turkish",
    "street_food"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_ayran",
@@ -1955,7 +2504,18 @@
   "tags": [
    "turkish",
    "beverage"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_turk_kahvesi",
@@ -1978,7 +2538,14 @@
   "tags": [
    "turkish",
    "beverage"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kofte_ekmek",
@@ -2001,7 +2568,16 @@
   "tags": [
    "turkish",
    "street_food"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kadinbudu_kofte",
@@ -2027,7 +2603,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuk_pirzola",
@@ -2049,7 +2634,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_ali_nazik",
@@ -2071,7 +2661,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuklu_pilav",
@@ -2093,7 +2688,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_balik_ekmek",
@@ -2116,7 +2716,17 @@
   "tags": [
    "turkish",
    "street_food"
-  ]
+  ],
+  "allergens": [
+   "fish",
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_hamsi_tava",
@@ -2138,7 +2748,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_midye_dolma",
@@ -2165,7 +2784,16 @@
   "tags": [
    "turkish",
    "street_food"
-  ]
+  ],
+  "allergens": [
+   "molluscs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_midye_tava",
@@ -2188,7 +2816,16 @@
   "tags": [
    "turkish",
    "street_food"
-  ]
+  ],
+  "allergens": [
+   "molluscs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_sahanda_yumurta",
@@ -2210,7 +2847,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_cilbir",
@@ -2232,7 +2877,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_roka_salata",
@@ -2255,7 +2904,12 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_mercimek_koftesi",
@@ -2282,7 +2936,16 @@
   "tags": [
    "turkish",
    "vegetarian"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_kadayif",
@@ -2304,7 +2967,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_gullac",
@@ -2326,7 +2997,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_muhallebi",
@@ -2348,7 +3023,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_profiterol",
@@ -2370,7 +3053,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_trilece",
@@ -2392,7 +3079,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_dondurma",
@@ -2418,7 +3109,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_corba_sebze",
@@ -2440,7 +3139,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_corba_brokoli",
@@ -2462,7 +3166,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_corba_mantar",
@@ -2484,7 +3193,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_corba_dugun",
@@ -2506,7 +3220,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_corba_sehriye",
@@ -2528,7 +3247,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_corba_paca",
@@ -2550,7 +3278,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_corba_balik",
@@ -2572,7 +3305,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_corba_analikizli",
@@ -2594,7 +3336,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_corba_toyga",
@@ -2616,7 +3363,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_corba_yogurtlu",
@@ -2638,7 +3390,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_beyti_kebap",
@@ -2660,7 +3421,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_cag_kebap",
@@ -2686,7 +3452,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_patlican_kebap",
@@ -2708,7 +3479,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_kuzu_tandir",
@@ -2730,7 +3506,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_kuzu_incik",
@@ -2752,7 +3533,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_etli_guvec",
@@ -2774,7 +3560,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_hunkar_begendi",
@@ -2796,7 +3587,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tas_kebap",
@@ -2818,7 +3614,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_orman_kebap",
@@ -2840,7 +3641,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_sac_kavurma",
@@ -2862,7 +3668,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_kavurma",
@@ -2884,7 +3695,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_ciger_tava",
@@ -2906,7 +3722,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_bonfile",
@@ -2928,7 +3749,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_dana_rosto",
@@ -2950,7 +3776,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_icli_kofte",
@@ -2976,7 +3807,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_sulu_kofte",
@@ -2998,7 +3838,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_inegol_kofte",
@@ -3024,7 +3873,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_akcaabat_kofte",
@@ -3046,7 +3904,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_terbiyeli_kofte",
@@ -3068,7 +3935,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_etli_patates",
@@ -3090,7 +3966,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuk_guvec",
@@ -3112,7 +3993,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuk_kavurma",
@@ -3134,7 +4020,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuk_sinitzel",
@@ -3156,7 +4047,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuk_haslama",
@@ -3178,7 +4074,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuk_kanat",
@@ -3200,7 +4101,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tavuklu_makarna",
@@ -3222,7 +4128,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_pilav_ustu_tavuk",
@@ -3244,7 +4159,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_levrek_izgara",
@@ -3266,7 +4186,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_cipura_izgara",
@@ -3288,7 +4217,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_somon_izgara",
@@ -3310,7 +4248,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_alabalik_tava",
@@ -3332,7 +4279,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_palamut_firin",
@@ -3354,7 +4310,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_kalamar_tava",
@@ -3376,7 +4341,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "molluscs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_karides_guvec",
@@ -3398,7 +4372,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "crustaceans"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_sardalya_izgara",
@@ -3420,7 +4403,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_zy_enginar",
@@ -3442,7 +4434,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_zy_pirasa",
@@ -3464,7 +4461,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_zy_kereviz",
@@ -3486,7 +4488,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "celery"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_zy_bakla",
@@ -3508,7 +4519,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_barbunya_pilaki",
@@ -3530,7 +4546,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_fava",
@@ -3552,7 +4573,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_bamya_yemegi",
@@ -3574,7 +4600,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_ispanak_yemegi",
@@ -3596,7 +4627,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_pirasa_yemegi",
@@ -3618,7 +4654,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_karnabahar_yemegi",
@@ -3640,7 +4681,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_brokoli_haslama",
@@ -3662,7 +4708,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_mucver",
@@ -3688,7 +4739,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kabak_dolma",
@@ -3710,7 +4766,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_domates_dolma",
@@ -3732,7 +4793,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_mantar_sote",
@@ -3754,7 +4820,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_kuskus_pilavi",
@@ -3776,7 +4847,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_eriste",
@@ -3798,7 +4878,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_patates_pure",
@@ -3820,7 +4909,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_firin_patates",
@@ -3842,7 +4936,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_sebzeli_pilav",
@@ -3864,7 +4963,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_mercimekli_bulgur",
@@ -3886,7 +4990,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_arpa_sehriye",
@@ -3908,7 +5021,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_kahvalti_beyaz_peynir",
@@ -3934,7 +5056,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_kahvalti_kasar",
@@ -3960,7 +5090,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_kahvalti_tulum",
@@ -3982,7 +5120,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_kahvalti_lor",
@@ -4004,7 +5150,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_kahvalti_labne",
@@ -4026,7 +5180,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_kahvalti_kaymak",
@@ -4048,7 +5210,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_kahvalti_bal",
@@ -4070,7 +5240,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_kahvalti_recel",
@@ -4092,7 +5266,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_kahvalti_tereyagi",
@@ -4114,7 +5292,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_kahvalti_zeytin_siyah",
@@ -4136,7 +5322,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_kahvalti_zeytin_yesil",
@@ -4158,7 +5348,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_bal_kaymak",
@@ -4180,7 +5374,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_katmer",
@@ -4202,7 +5404,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_bazlama",
@@ -4224,7 +5434,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_pisi",
@@ -4246,7 +5464,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_sahanda_sucuk",
@@ -4268,7 +5490,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_yumurta_haslanmis",
@@ -4290,7 +5516,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_kahvalti_tabagi",
@@ -4312,7 +5546,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_saksuka",
@@ -4334,7 +5572,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_piyaz",
@@ -4356,7 +5599,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_gavurdagi",
@@ -4378,7 +5626,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_semizotu_salata",
@@ -4400,7 +5653,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_babagannus",
@@ -4422,7 +5680,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_girit_ezme",
@@ -4444,7 +5707,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_atom_meze",
@@ -4466,7 +5734,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_mercimek_salata",
@@ -4488,7 +5761,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_marul_salata",
@@ -4510,7 +5788,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_turp_salata",
@@ -4532,7 +5815,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_irmik_helvasi",
@@ -4554,7 +5842,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_un_helvasi",
@@ -4576,7 +5872,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_tahin_helvasi",
@@ -4598,7 +5898,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "sesame"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_lokum_tatli",
@@ -4620,7 +5928,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kemalpasa",
@@ -4642,7 +5954,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_hosmerim",
@@ -4664,7 +5980,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_cezerye",
@@ -4686,7 +6006,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_ayva_tatlisi",
@@ -4708,7 +6032,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_incir_tatlisi",
@@ -4730,7 +6058,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_supangle",
@@ -4752,7 +6084,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_tavukgogsu",
@@ -4774,7 +6110,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_zerde",
@@ -4796,7 +6136,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_magnolya",
@@ -4818,7 +6162,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kadayif_dolma",
@@ -4840,7 +6188,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_pismaniye",
@@ -4862,7 +6218,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_sekerli_kurabiye",
@@ -4884,7 +6244,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_cay",
@@ -4906,7 +6274,14 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_cay_sekerli",
@@ -4928,7 +6303,14 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_salgam_icecek",
@@ -4950,7 +6332,14 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_boza_icecek",
@@ -4972,7 +6361,14 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_sutlu_kahve",
@@ -4994,7 +6390,18 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_salep_icecek",
@@ -5016,7 +6423,14 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_ihlamur",
@@ -5038,7 +6452,14 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_elma",
@@ -5060,7 +6481,12 @@
   ],
   "tags": [
    "fruit"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_muz",
@@ -5082,7 +6508,12 @@
   ],
   "tags": [
    "fruit"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_portakal",
@@ -5104,7 +6535,12 @@
   ],
   "tags": [
    "fruit"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_seftali",
@@ -5126,7 +6562,12 @@
   ],
   "tags": [
    "fruit"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_kayisi",
@@ -5148,7 +6589,12 @@
   ],
   "tags": [
    "fruit"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_erik",
@@ -5170,7 +6616,12 @@
   ],
   "tags": [
    "fruit"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_armut",
@@ -5192,7 +6643,12 @@
   ],
   "tags": [
    "fruit"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_karpuz",
@@ -5214,7 +6670,12 @@
   ],
   "tags": [
    "fruit"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_kavun",
@@ -5236,7 +6697,12 @@
   ],
   "tags": [
    "fruit"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_incir",
@@ -5258,7 +6724,12 @@
   ],
   "tags": [
    "fruit"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_kuru_kayisi",
@@ -5280,7 +6751,12 @@
   ],
   "tags": [
    "fruit"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_kuru_uzum",
@@ -5302,7 +6778,12 @@
   ],
   "tags": [
    "fruit"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_hurma",
@@ -5324,7 +6805,12 @@
   ],
   "tags": [
    "fruit"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kuruyemis_badem",
@@ -5346,7 +6832,15 @@
   ],
   "tags": [
    "snack"
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kuruyemis_ceviz",
@@ -5368,7 +6862,15 @@
   ],
   "tags": [
    "snack"
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kuruyemis_findik",
@@ -5390,7 +6892,15 @@
   ],
   "tags": [
    "snack"
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kuruyemis_fistik",
@@ -5412,7 +6922,15 @@
   ],
   "tags": [
    "snack"
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kuruyemis_yer_fistigi",
@@ -5434,7 +6952,15 @@
   ],
   "tags": [
    "snack"
-  ]
+  ],
+  "allergens": [
+   "peanuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kuruyemis_kabak_cekirdegi",
@@ -5456,7 +6982,11 @@
   ],
   "tags": [
    "snack"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_yulaf_ezmesi",
@@ -5478,7 +7008,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_yulaf_kuru",
@@ -5500,7 +7039,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_granola_kase",
@@ -5522,7 +7069,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_protein_shake",
@@ -5544,7 +7099,18 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_whey_tozu_kuru",
@@ -5566,7 +7132,15 @@
   ],
   "tags": [
    "supplement"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_yogurt_meyveli",
@@ -5588,7 +7162,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_chia_puding",
@@ -5610,7 +7192,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_avokado_tost",
@@ -5632,7 +7218,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_ton_salata",
@@ -5654,7 +7248,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_tavuklu_salata",
@@ -5676,7 +7279,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_hindi_fume_dilim",
@@ -5698,7 +7306,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_suzme_yogurt",
@@ -5720,7 +7332,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_ekmek_beyaz",
@@ -5742,7 +7362,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_ekmek_tam",
@@ -5764,7 +7393,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_ekmek_cavdar_d",
@@ -5786,7 +7424,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_lavas",
@@ -5808,7 +7455,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_pide_ekmek",
@@ -5830,7 +7486,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_sucuklu_pide",
@@ -5852,7 +7517,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_yumurtali_pide",
@@ -5874,7 +7548,17 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_kusbasili_pide",
@@ -5896,7 +7580,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_talas_boregi",
@@ -5918,7 +7611,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kol_boregi",
@@ -5940,7 +7642,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_pacanga_boregi",
@@ -5962,7 +7673,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_cig_borek",
@@ -5984,7 +7704,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_keskek",
@@ -6006,7 +7735,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_yalanci_dolma",
@@ -6032,7 +7766,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_mezgit_tava",
@@ -6054,7 +7793,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_istavrit_izgara",
@@ -6076,7 +7824,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_kozlenmis_patlican",
@@ -6098,7 +7855,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_kozlenmis_biber",
@@ -6120,7 +7882,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_tavuk_burger",
@@ -6142,7 +7909,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_citir_tavuk",
@@ -6164,7 +7940,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_tavuk_nugget",
@@ -6186,7 +7967,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_pizza_margarita",
@@ -6208,7 +7994,17 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_ayvalik_tostu",
@@ -6230,7 +8026,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_sandvic_peynirli",
@@ -6252,7 +8053,17 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_misir_haslanmis",
@@ -6274,7 +8085,11 @@
   ],
   "tags": [
    "snack"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kestane_kebap",
@@ -6296,7 +8111,15 @@
   ],
   "tags": [
    "snack"
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_waffle_meyveli",
@@ -6318,7 +8141,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_gazoz_icecek",
@@ -6340,7 +8167,14 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_maden_suyu",
@@ -6362,7 +8196,14 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyveli_sut",
@@ -6384,7 +8225,18 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_firin_sutlac",
@@ -6406,7 +8258,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_keskul",
@@ -6428,7 +8288,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_yas_pasta",
@@ -6450,7 +8318,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kek_sade",
@@ -6472,7 +8348,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_brownie",
@@ -6494,7 +8378,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_tiramisu",
@@ -6516,7 +8404,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_bisküvi_sade",
@@ -6538,7 +8430,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_misir_gevregi_sutlu",
@@ -6560,7 +8460,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_sut_tam",
@@ -6582,7 +8490,18 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_yogurt_sade",
@@ -6604,7 +8523,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_kefir_icecek",
@@ -6626,7 +8553,18 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_cikolata_bar",
@@ -6652,7 +8590,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_meyve_salatasi",
@@ -6674,7 +8620,11 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_smoothie_muzlu",
@@ -6696,7 +8646,14 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_patates_salatasi",
@@ -6718,7 +8675,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_nohut_salatasi",
@@ -6740,7 +8702,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_kuru_kofte",
@@ -6766,7 +8733,16 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_peynirli_makarna",
@@ -6788,7 +8764,17 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_sucuklu_menemen",
@@ -6810,7 +8796,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_yesil_mercimek",
@@ -6832,7 +8826,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_tarator",
@@ -6854,7 +8853,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_kozlenmis_domates",
@@ -6876,7 +8880,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_enginar_salata",
@@ -6898,7 +8907,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_yesil_salata",
@@ -6920,7 +8934,12 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_dondurma_kulah",
@@ -6942,7 +8961,15 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_sigara_boregi_peynir",
@@ -6964,7 +8991,17 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_pogaca_peynirli",
@@ -6986,7 +9023,17 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_ayran_evde",
@@ -7008,7 +9055,18 @@
   ],
   "tags": [
    "turkish"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_espresso_tek",
@@ -7034,7 +9092,14 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_americano",
@@ -7056,7 +9121,14 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_latte",
@@ -7078,7 +9150,14 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_cappuccino",
@@ -7100,7 +9179,14 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_mocha",
@@ -7122,7 +9208,14 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_filtre_kahve",
@@ -7144,7 +9237,14 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_badem_sutu_icecek",
@@ -7166,7 +9266,18 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_yulaf_sutu_icecek",
@@ -7188,7 +9299,18 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_soya_sutu_icecek",
@@ -7210,7 +9332,18 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "soybeans"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_enerji_icecegi",
@@ -7232,7 +9365,14 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_sushi_somon",
@@ -7258,7 +9398,16 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_california_roll",
@@ -7280,7 +9429,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_burrito",
@@ -7302,7 +9456,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_taco",
@@ -7324,7 +9483,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_quesadilla",
@@ -7346,7 +9510,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_nachos",
@@ -7368,7 +9537,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_pad_thai",
@@ -7390,7 +9564,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_ramen",
@@ -7412,7 +9591,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_pho",
@@ -7434,7 +9618,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_spring_roll",
@@ -7456,7 +9645,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_fried_rice",
@@ -7478,7 +9672,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_kore_bibimbap",
@@ -7500,7 +9699,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_kimchi_meze",
@@ -7522,7 +9726,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_curry_tavuk",
@@ -7544,7 +9753,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_falafel",
@@ -7570,7 +9784,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_shawarma",
@@ -7592,7 +9811,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_lazanya",
@@ -7614,7 +9838,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_risotto",
@@ -7636,7 +9865,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_gnocchi",
@@ -7658,7 +9892,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_paella",
@@ -7680,7 +9919,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_carbonara",
@@ -7702,7 +9946,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_pesto_makarna",
@@ -7724,7 +9973,16 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_quiche",
@@ -7746,7 +10004,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_club_sandvic",
@@ -7768,7 +10031,16 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_hot_dog",
@@ -7790,7 +10062,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_cheeseburger",
@@ -7812,7 +10089,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_caesar_salata",
@@ -7834,7 +10116,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_yunan_salatasi",
@@ -7856,7 +10143,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_guacamole",
@@ -7878,7 +10170,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_tofu_sote",
@@ -7900,7 +10197,16 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "soybeans"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "curated_edamame_meze",
@@ -7922,7 +10228,15 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "soybeans"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kinoa_salata",
@@ -7944,7 +10258,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "curated_kruvasan",
@@ -7966,7 +10285,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_pankek",
@@ -7988,7 +10311,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_krep",
@@ -8010,7 +10337,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_bagel",
@@ -8032,7 +10363,15 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_donut",
@@ -8054,7 +10393,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_muffin",
@@ -8076,7 +10419,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_cheesecake",
@@ -8098,7 +10445,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_churros",
@@ -8120,7 +10471,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_granola_bar",
@@ -8142,7 +10497,15 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_protein_bar",
@@ -8164,7 +10527,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_yunan_yogurdu_k",
@@ -8186,7 +10553,15 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_cheddar_peynir",
@@ -8208,7 +10583,15 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_mozzarella_peynir",
@@ -8230,7 +10613,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_parmesan_peynir",
@@ -8252,7 +10639,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_krem_peynir_g",
@@ -8274,7 +10665,15 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_fistik_ezmesi_k",
@@ -8296,7 +10695,16 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_cikolata_krema_k",
@@ -8318,7 +10726,15 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_jambon_dilim",
@@ -8340,7 +10756,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_salam_dilim",
@@ -8362,7 +10782,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_bacon_dilim",
@@ -8384,7 +10808,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_hindi_gogus_dilim",
@@ -8406,7 +10834,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 5
  },
  {
   "id": "curated_mayonez_k",
@@ -8428,7 +10860,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "curated_ketcap_k",
@@ -8472,7 +10908,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "mustard"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "curated_soya_sosu_k",
@@ -8494,7 +10934,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "soybeans"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "curated_akcaagac_k",
@@ -8538,7 +10982,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_misir_cips_k",
@@ -8560,7 +11008,11 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "curated_kinoa_haslanmis",
@@ -8582,7 +11034,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_esmer_pirinc_pilav",
@@ -8604,7 +11061,12 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
  },
  {
   "id": "curated_tofu_ham",
@@ -8626,6 +11088,15 @@
   ],
   "tags": [
    "global"
-  ]
+  ],
+  "allergens": [
+   "soybeans"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  }
 ]
