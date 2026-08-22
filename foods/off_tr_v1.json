@@ -16,21 +16,37 @@
   "barcode": "8690526069500",
   "tags": [
    "grain",
-   "meat",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "grain",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "gluten",
+   "milk",
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504011521",
@@ -58,7 +74,19 @@
     "name": "1 paket",
     "grams": 35
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "nuts",
+   "peanuts",
+   "soybeans"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526095417",
@@ -90,7 +118,22 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690766009205",
@@ -122,7 +165,21 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "sesame"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_18921102",
@@ -147,14 +204,29 @@
   "category": "fruit",
   "common_servings": [
    {
-    "name": "1 orta boy",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 40
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "mustard",
+   "sesame"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504135913",
@@ -186,7 +258,16 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077102010",
@@ -218,7 +299,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_80176800",
@@ -250,7 +336,14 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526039503",
@@ -269,21 +362,30 @@
   "barcode": "8690526039503",
   "tags": [
    "grain",
-   "meat",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "grain",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696362804718",
@@ -314,7 +416,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112672039",
@@ -350,7 +457,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682214707047",
@@ -381,7 +495,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077100092",
@@ -412,7 +531,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_80135876",
@@ -444,7 +568,14 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565100530",
@@ -475,7 +606,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526063508",
@@ -507,7 +643,22 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692886310711",
@@ -538,7 +689,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690766086473",
@@ -570,7 +726,24 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971413075",
@@ -601,7 +774,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_86935241",
@@ -632,7 +810,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504121541",
@@ -656,14 +839,25 @@
   "category": "dairy",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 100
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526028040",
@@ -681,21 +875,22 @@
   },
   "barcode": "8690526028040",
   "tags": [
-   "meat",
    "off",
+   "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630310015",
@@ -720,10 +915,19 @@
   "category": "oil_fat",
   "common_servings": [
    {
+    "name": "1 yemek kaşığı",
+    "grams": 16
+   },
+   {
     "name": "1 tatlı kaşığı",
-    "grams": 10
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504028536",
@@ -755,7 +959,23 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690787251010",
@@ -787,7 +1007,15 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526083254",
@@ -819,7 +1047,15 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690574114528",
@@ -851,7 +1087,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504142959",
@@ -883,7 +1124,22 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "peanuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690585810068",
@@ -902,20 +1158,28 @@
   "tags": [
    "nut_seed",
    "off",
-   "packaged",
-   "sweet"
+   "packaged"
   ],
-  "category": "sweet",
+  "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504117858",
@@ -947,7 +1211,18 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690787261033",
@@ -978,7 +1253,15 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699270013418",
@@ -998,7 +1281,6 @@
   "tags": [
    "beverage",
    "off",
-   "other",
    "packaged"
   ],
   "category": "beverage",
@@ -1008,10 +1290,24 @@
     "grams": 100
    },
    {
-    "name": "1 bardak (200 ml)",
+    "name": "1 kupa (200 ml)",
     "grams": 200
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690574114795",
@@ -1042,7 +1338,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_50189052",
@@ -1074,7 +1375,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112664881",
@@ -1110,7 +1412,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_90454752",
@@ -1142,7 +1451,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077124685",
@@ -1174,7 +1488,12 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_1500144801659",
@@ -1205,7 +1524,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 500
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683130067796",
@@ -1237,7 +1563,17 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "celery",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630361017",
@@ -1262,14 +1598,24 @@
   "category": "dairy",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 100
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077004369",
@@ -1301,7 +1647,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504410911",
@@ -1333,7 +1684,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526076379",
@@ -1365,7 +1725,19 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts",
+   "soybeans"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526044873",
@@ -1384,11 +1756,10 @@
   "barcode": "8690526044873",
   "tags": [
    "grain",
-   "meat",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "grain",
   "common_servings": [
    {
     "name": "1 adet",
@@ -1398,7 +1769,24 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "celery",
+   "eggs",
+   "gluten",
+   "milk",
+   "sesame"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696362805210",
@@ -1427,7 +1815,12 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112666076",
@@ -1458,7 +1851,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077007018",
@@ -1489,7 +1887,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691641529016",
@@ -1521,7 +1924,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526095226",
@@ -1553,7 +1957,25 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "milk",
+   "nuts",
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526084671",
@@ -1571,21 +1993,22 @@
   },
   "barcode": "8690526084671",
   "tags": [
-   "meat",
    "off",
+   "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077000873",
@@ -1616,7 +2039,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690120070148",
@@ -1648,7 +2072,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504034506",
@@ -1680,7 +2113,19 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "nuts"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526016573",
@@ -1712,7 +2157,25 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "gluten",
+   "milk",
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_86920124",
@@ -1730,22 +2193,26 @@
   },
   "barcode": "86920124",
   "tags": [
-   "meat",
    "off",
    "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077092021",
@@ -1776,7 +2243,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526064741",
@@ -1795,21 +2271,35 @@
   "barcode": "8690526064741",
   "tags": [
    "grain",
-   "meat",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "grain",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "celery",
+   "milk",
+   "mustard"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526004822",
@@ -1837,7 +2327,12 @@
     "name": "1 tatlı kaşığı",
     "grams": 15
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_1500144801765",
@@ -1868,7 +2363,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 500
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696362804732",
@@ -1900,7 +2402,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630107011",
@@ -1932,7 +2439,15 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690637921100",
@@ -1963,7 +2478,21 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "celery",
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "celery",
+   "fish",
+   "gluten",
+   "mustard"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683417000140",
@@ -1995,7 +2524,13 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_86926249",
@@ -2026,7 +2561,11 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504142973",
@@ -2058,7 +2597,16 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971434407",
@@ -2090,7 +2638,16 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_4000177407608",
@@ -2121,7 +2678,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8697471724379",
@@ -2150,7 +2712,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683717471428",
@@ -2178,7 +2745,12 @@
     "name": "1 paket",
     "grams": 35
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526064499",
@@ -2197,11 +2769,10 @@
   "barcode": "8690526064499",
   "tags": [
    "grain",
-   "meat",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "grain",
   "common_servings": [
    {
     "name": "1 adet",
@@ -2211,7 +2782,25 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "celery",
+   "eggs",
+   "gluten",
+   "sesame"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526095202",
@@ -2243,7 +2832,22 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767714924",
@@ -2275,7 +2879,16 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690574114443",
@@ -2300,14 +2913,21 @@
   "category": "beverage",
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
+    "name": "1 çay bardağı (100 ml)",
     "grams": 100
    },
    {
     "name": "1 bardak (200 ml)",
     "grams": 200
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692886622517",
@@ -2338,7 +2958,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8680050304925",
@@ -2370,7 +2999,15 @@
     "name": "1/4 somun",
     "grams": 90
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118060963",
@@ -2401,7 +3038,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5449000000996",
@@ -2436,7 +3074,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504142980",
@@ -2468,7 +3113,23 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "milk",
+   "peanuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "milk",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526061108",
@@ -2500,7 +3161,11 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077051820",
@@ -2524,14 +3189,23 @@
   "category": "dairy",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 100
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690629252007",
@@ -2561,7 +3235,13 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504007807",
@@ -2592,7 +3272,13 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526093543",
@@ -2624,7 +3310,11 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565017555",
@@ -2656,7 +3346,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526083728",
@@ -2684,7 +3383,25 @@
     "name": "1 orta boy",
     "grams": 120
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "sesame"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "nuts",
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630311012",
@@ -2709,14 +3426,22 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690635151554",
@@ -2747,7 +3472,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526047256",
@@ -2765,21 +3491,26 @@
   },
   "barcode": "8690526047256",
   "tags": [
-   "meat",
    "off",
+   "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565022108",
@@ -2810,7 +3541,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5900020004574",
@@ -2838,7 +3574,12 @@
     "name": "1 tatlı kaşığı",
     "grams": 15
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767160189",
@@ -2870,7 +3611,18 @@
     "name": "1 kutu (250 ml)",
     "grams": 258
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690533081137",
@@ -2888,22 +3640,32 @@
   },
   "barcode": "8690533081137",
   "tags": [
-   "meat",
    "off",
    "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "sesame",
+   "sulphites"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690635151424",
@@ -2934,7 +3696,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767670053",
@@ -2965,7 +3728,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504271833",
@@ -2993,7 +3761,13 @@
     "name": "1 porsiyon (pişmiş)",
     "grams": 180
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112664980",
@@ -3025,7 +3799,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690508601841",
@@ -3056,7 +3835,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5900951311505",
@@ -3087,7 +3867,19 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "milk",
+   "nuts",
+   "peanuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630162010",
@@ -3119,7 +3911,20 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526069906",
@@ -3151,7 +3956,15 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681349030815",
@@ -3187,7 +4000,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 500
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690105014594",
@@ -3210,14 +4030,21 @@
   "category": "beverage",
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
+    "name": "1 çay bardağı (100 ml)",
     "grams": 100
    },
    {
     "name": "1 bardak (200 ml)",
     "grams": 200
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526073873",
@@ -3249,7 +4076,15 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergen_traces": [
+   "eggs",
+   "milk"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526748344",
@@ -3267,22 +4102,26 @@
   },
   "barcode": "8690526748344",
   "tags": [
-   "meat",
    "off",
    "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8683417000126",
@@ -3314,7 +4153,13 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_4014400400007",
@@ -3346,7 +4191,19 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts",
+   "peanuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699141057053",
@@ -3377,7 +4234,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077020413",
@@ -3409,7 +4267,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077061096",
@@ -3441,7 +4304,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526094045",
@@ -3458,11 +4326,11 @@
   },
   "barcode": "8690526094045",
   "tags": [
-   "meat",
+   "grain",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "grain",
   "common_servings": [
    {
     "name": "1 adet",
@@ -3472,7 +4340,13 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526004891",
@@ -3500,7 +4374,23 @@
     "name": "1 tatlı kaşığı",
     "grams": 15
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "milk",
+   "mustard",
+   "sesame"
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690508601865",
@@ -3532,7 +4422,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632049168",
@@ -3563,7 +4454,13 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565041734",
@@ -3595,7 +4492,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504271680",
@@ -3627,7 +4533,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8699432205972",
@@ -3658,7 +4569,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077102034",
@@ -3689,7 +4605,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690579140614",
@@ -3720,7 +4641,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "soybeans"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690558013229",
@@ -3750,7 +4680,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 525
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630312019",
@@ -3774,14 +4711,22 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_7622201459826",
@@ -3806,14 +4751,26 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692886311619",
@@ -3844,7 +4801,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565005538",
@@ -3874,7 +4840,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526643298",
@@ -3906,7 +4877,23 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691316521208",
@@ -3937,7 +4924,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630314013",
@@ -3965,7 +4961,16 @@
     "name": "1 paket",
     "grams": 35
    }
-  ]
+  ],
+  "allergens": [
+   "mustard"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_7622300498429",
@@ -3993,7 +4998,20 @@
     "name": "1 kase",
     "grams": 150
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682815015497",
@@ -4017,14 +5035,18 @@
   "category": "sweet",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8410066125203",
@@ -4055,7 +5077,14 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "mustard"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8681324006149",
@@ -4086,7 +5115,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691375608551",
@@ -4115,7 +5149,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "soybeans"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690533034010",
@@ -4134,11 +5177,10 @@
   "barcode": "8690533034010",
   "tags": [
    "grain",
-   "meat",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "grain",
   "common_servings": [
    {
     "name": "1 adet",
@@ -4148,7 +5190,25 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "celery",
+   "eggs",
+   "gluten",
+   "milk",
+   "sesame"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504079323",
@@ -4180,7 +5240,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_4008400290126",
@@ -4212,7 +5273,18 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "soybeans"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077125651",
@@ -4237,14 +5309,23 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767716430",
@@ -4275,7 +5356,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690574114726",
@@ -4305,7 +5395,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630302010",
@@ -4337,7 +5432,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077010827",
@@ -4369,7 +5473,22 @@
     "name": "1/4 somun",
     "grams": 90
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "milk",
+   "sesame"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5900951311321",
@@ -4400,7 +5519,17 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504271628",
@@ -4432,7 +5561,21 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "milk"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690612314958",
@@ -4459,7 +5602,16 @@
     "name": "1 tatlı kaşığı",
     "grams": 15
    }
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565011928",
@@ -4491,7 +5643,16 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624303490",
@@ -4523,7 +5684,11 @@
     "name": "1 paket",
     "grams": 50
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692813006823",
@@ -4555,7 +5720,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 525
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683508112066",
@@ -4587,7 +5759,23 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "nuts",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681349030754",
@@ -4618,7 +5806,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526895512",
@@ -4637,21 +5830,37 @@
   "barcode": "8690526895512",
   "tags": [
    "grain",
-   "meat",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "grain",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "gluten",
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_1500144801598",
@@ -4682,7 +5891,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 500
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526602943",
@@ -4714,7 +5930,18 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504027508",
@@ -4746,7 +5973,20 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8680908020021",
@@ -4778,7 +6018,18 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "celery",
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504067108",
@@ -4810,7 +6061,15 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504010104",
@@ -4842,7 +6101,21 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504023135",
@@ -4874,7 +6147,23 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "peanuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "gluten",
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691641080036",
@@ -4897,14 +6186,25 @@
   "category": "sweet",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077074560",
@@ -4936,7 +6236,12 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504429210",
@@ -4967,7 +6272,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504035909",
@@ -4999,7 +6313,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565026335",
@@ -5031,7 +6346,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_86900201",
@@ -5060,7 +6384,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 525
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526083711",
@@ -5092,7 +6423,22 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565026038",
@@ -5124,7 +6470,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5449000033109",
@@ -5155,7 +6510,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 525
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690787541012",
@@ -5187,7 +6549,22 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "nuts",
+   "peanuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526053738",
@@ -5205,21 +6582,28 @@
   },
   "barcode": "8690526053738",
   "tags": [
-   "meat",
    "off",
+   "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504050056",
@@ -5251,7 +6635,24 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "soybeans",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "gluten",
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690787511015",
@@ -5282,7 +6683,22 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "nuts",
+   "peanuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690787561010",
@@ -5300,20 +6716,32 @@
   "barcode": "8690787561010",
   "tags": [
    "off",
-   "other",
-   "packaged"
+   "packaged",
+   "snack"
   ],
-  "category": "other",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 100
+    "grams": 30
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 paket",
+    "grams": 50
    }
-  ]
+  ],
+  "allergens": [
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696368041674",
@@ -5344,7 +6772,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504077268",
@@ -5376,7 +6809,25 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "nuts",
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504961482",
@@ -5408,7 +6859,11 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077086648",
@@ -5440,7 +6895,24 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "milk",
+   "nuts",
+   "peanuts",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624102277",
@@ -5468,7 +6940,12 @@
     "name": "1 paket",
     "grams": 35
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8694587138472",
@@ -5500,7 +6977,19 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "celery",
+   "eggs",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526069920",
@@ -5518,22 +7007,29 @@
   },
   "barcode": "8690526069920",
   "tags": [
-   "meat",
    "off",
    "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112664560",
@@ -5552,8 +7048,7 @@
   "tags": [
    "beverage",
    "off",
-   "packaged",
-   "vegetable"
+   "packaged"
   ],
   "category": "beverage",
   "common_servings": [
@@ -5569,7 +7064,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690558037751",
@@ -5600,7 +7102,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergen_traces": [
+   "gluten",
+   "milk"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112666175",
@@ -5623,14 +7130,21 @@
   "category": "beverage",
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
+    "name": "1 çay bardağı (100 ml)",
     "grams": 100
    },
    {
     "name": "1 bardak (200 ml)",
     "grams": 200
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690766109981",
@@ -5662,7 +7176,22 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "nuts",
+   "sesame"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504024538",
@@ -5694,7 +7223,15 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526094205",
@@ -5726,7 +7263,15 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118041290",
@@ -5757,7 +7302,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696368944173",
@@ -5788,7 +7338,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118032205",
@@ -5820,7 +7371,11 @@
     "name": "1 paket",
     "grams": 50
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632018904",
@@ -5852,7 +7407,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526063744",
@@ -5884,7 +7444,16 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767674693",
@@ -5916,7 +7485,16 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526267937",
@@ -5935,21 +7513,34 @@
   "barcode": "8690526267937",
   "tags": [
    "grain",
-   "meat",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "grain",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526487403",
@@ -5967,22 +7558,22 @@
   },
   "barcode": "8690526487403",
   "tags": [
-   "meat",
    "off",
    "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691058008579",
@@ -6014,7 +7605,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 475
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077143730",
@@ -6046,7 +7644,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632762913",
@@ -6077,7 +7684,15 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682696740440",
@@ -6109,7 +7724,11 @@
     "name": "1 paket",
     "grams": 50
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699270017638",
@@ -6129,8 +7748,7 @@
   "tags": [
    "beverage",
    "off",
-   "packaged",
-   "sweet"
+   "packaged"
   ],
   "category": "beverage",
   "common_servings": [
@@ -6146,7 +7764,26 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "nuts",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630410159",
@@ -6171,14 +7808,24 @@
   "category": "dairy",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 100
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690787131077",
@@ -6210,7 +7857,15 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504108115",
@@ -6242,7 +7897,12 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696368011882",
@@ -6274,7 +7934,17 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergen_traces": [
+   "gluten",
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690574116744",
@@ -6299,14 +7969,21 @@
   "category": "beverage",
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
+    "name": "1 çay bardağı (100 ml)",
     "grams": 100
    },
    {
     "name": "1 bardak (200 ml)",
     "grams": 200
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8684698000096",
@@ -6337,7 +8014,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 500
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8697520103018",
@@ -6373,7 +8057,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681324004510",
@@ -6404,7 +8095,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682588741845",
@@ -6436,7 +8136,13 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526027593",
@@ -6468,7 +8174,22 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "peanuts",
+   "sesame"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683130077184",
@@ -6486,7 +8207,6 @@
   "barcode": "8683130077184",
   "tags": [
    "off",
-   "other",
    "packaged",
    "sauce_condiment"
   ],
@@ -6500,7 +8220,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5449000054227",
@@ -6536,7 +8257,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691026060035",
@@ -6561,14 +8289,23 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504011699",
@@ -6600,7 +8337,17 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "nuts",
+   "soybeans"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504007203",
@@ -6632,7 +8379,17 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_7300400118101",
@@ -6664,7 +8421,21 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "milk",
+   "sesame"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526094700",
@@ -6682,22 +8453,25 @@
   },
   "barcode": "8690526094700",
   "tags": [
-   "meat",
    "nut_seed",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 30
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504065395",
@@ -6729,7 +8503,20 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "nuts",
+   "peanuts"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504033936",
@@ -6761,7 +8548,18 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "peanuts"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682615106098",
@@ -6793,7 +8591,17 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526094090",
@@ -6811,21 +8619,34 @@
   },
   "barcode": "8690526094090",
   "tags": [
-   "meat",
    "off",
+   "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "celery",
+   "eggs",
+   "milk",
+   "peanuts",
+   "sesame"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504020509",
@@ -6856,7 +8677,11 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077004444",
@@ -6886,7 +8711,14 @@
     "name": "1 kutu (250 ml)",
     "grams": 258
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077020512",
@@ -6918,7 +8750,12 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8410066134878",
@@ -6950,7 +8787,13 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "mustard"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_5900020028051",
@@ -6969,20 +8812,24 @@
   "barcode": "5900020028051",
   "tags": [
    "off",
-   "other",
-   "packaged"
+   "packaged",
+   "snack"
   ],
-  "category": "other",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 100
+    "grams": 30
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 paket",
+    "grams": 50
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526083360",
@@ -7014,7 +8861,20 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "sesame"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971441535",
@@ -7044,7 +8904,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504143727",
@@ -7076,7 +8945,22 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526083704",
@@ -7095,21 +8979,36 @@
   "barcode": "8690526083704",
   "tags": [
    "fruit",
-   "meat",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "fruit",
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 orta boy",
     "grams": 150
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504114925",
@@ -7141,7 +9040,14 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077097439",
@@ -7173,7 +9079,20 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767714641",
@@ -7205,7 +9124,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682530220121",
@@ -7236,7 +9164,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077085429",
@@ -7267,7 +9196,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504157649",
@@ -7299,7 +9233,15 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690579975032",
@@ -7327,7 +9269,13 @@
     "name": "1 porsiyon (pişmiş)",
     "grams": 180
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683417000102",
@@ -7359,7 +9307,20 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690637805219",
@@ -7390,7 +9351,18 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "fish",
+   "gluten",
+   "mustard"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "milk"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526011714",
@@ -7408,11 +9380,11 @@
   },
   "barcode": "8690526011714",
   "tags": [
-   "meat",
+   "fruit",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "fruit",
   "common_servings": [
    {
     "name": "5 adet",
@@ -7422,7 +9394,12 @@
     "name": "10 adet",
     "grams": 40
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692095344569",
@@ -7454,7 +9431,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682214708129",
@@ -7485,7 +9471,18 @@
     "name": "1 kutu (250 ml)",
     "grams": 258
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696362500368",
@@ -7517,7 +9514,16 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "mustard"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "milk"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077013033",
@@ -7548,7 +9554,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077143914",
@@ -7579,7 +9590,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971415673",
@@ -7611,7 +9627,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630315010",
@@ -7639,7 +9664,15 @@
     "name": "1 paket",
     "grams": 35
    }
-  ]
+  ],
+  "allergen_traces": [
+   "mustard"
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112664614",
@@ -7668,7 +9701,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682214707085",
@@ -7699,7 +9737,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690533734064",
@@ -7717,21 +9760,31 @@
   },
   "barcode": "8690533734064",
   "tags": [
-   "meat",
+   "nut_seed",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 30
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "sesame"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699936610357",
@@ -7756,14 +9809,25 @@
   "category": "dairy",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 100
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077074515",
@@ -7794,7 +9858,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699270017874",
@@ -7814,8 +9882,7 @@
   "tags": [
    "beverage",
    "off",
-   "packaged",
-   "sweet"
+   "packaged"
   ],
   "category": "beverage",
   "common_servings": [
@@ -7831,7 +9898,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077074263",
@@ -7860,7 +9934,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504011828",
@@ -7892,7 +9971,23 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "sesame",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "nuts",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_86924962",
@@ -7924,7 +10019,19 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696362500382",
@@ -7956,7 +10063,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "mustard"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624304695",
@@ -7988,7 +10104,19 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690105000436",
@@ -8020,7 +10148,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077003843",
@@ -8051,7 +10184,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077091741",
@@ -8082,7 +10220,16 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504136514",
@@ -8114,7 +10261,23 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077002563",
@@ -8145,7 +10308,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632018812",
@@ -8175,7 +10343,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692095344354",
@@ -8207,7 +10380,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526024608",
@@ -8225,22 +10407,29 @@
   },
   "barcode": "8690526024608",
   "tags": [
-   "meat",
    "nut_seed",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 30
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690559019008",
@@ -8270,7 +10459,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_16920958",
@@ -8301,7 +10499,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971435657",
@@ -8332,7 +10531,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077043641",
@@ -8364,7 +10568,11 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690533003177",
@@ -8382,22 +10590,32 @@
   },
   "barcode": "8690533003177",
   "tags": [
-   "meat",
    "off",
    "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "milk",
+   "nuts",
+   "sesame"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118018049",
@@ -8428,7 +10646,13 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112664676",
@@ -8447,8 +10671,7 @@
   "tags": [
    "beverage",
    "off",
-   "packaged",
-   "vegetable"
+   "packaged"
   ],
   "category": "beverage",
   "common_servings": [
@@ -8464,7 +10687,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624103694",
@@ -8496,7 +10726,16 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624103557",
@@ -8528,7 +10767,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8697742720826",
@@ -8560,7 +10804,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8691707140193",
@@ -8592,7 +10841,20 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "nuts",
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077087126",
@@ -8624,7 +10886,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971435367",
@@ -8656,7 +10923,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565006702",
@@ -8688,7 +10964,16 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8698529312135",
@@ -8720,7 +11005,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "nuts",
+   "sesame"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8693374255477",
@@ -8738,11 +11032,11 @@
   },
   "barcode": "8693374255477",
   "tags": [
-   "fish_seafood",
+   "legume",
    "off",
    "packaged"
   ],
-  "category": "fish_seafood",
+  "category": "legume",
   "common_servings": [
    {
     "name": "1 porsiyon",
@@ -8752,7 +11046,19 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "milk"
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692886311312",
@@ -8781,7 +11087,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077141231",
@@ -8809,7 +11124,12 @@
     "name": "1 orta boy",
     "grams": 150
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690612314897",
@@ -8840,7 +11160,13 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681324005449",
@@ -8871,7 +11197,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690558040041",
@@ -8902,7 +11233,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526940649",
@@ -8934,7 +11270,22 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699141059507",
@@ -8966,7 +11317,17 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "soybeans"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681324005968",
@@ -8996,7 +11357,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112664683",
@@ -9020,14 +11386,21 @@
   "category": "beverage",
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
+    "name": "1 çay bardağı (100 ml)",
     "grams": 100
    },
    {
     "name": "1 bardak (200 ml)",
     "grams": 200
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112664508",
@@ -9062,7 +11435,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526596372",
@@ -9094,7 +11474,22 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526066233",
@@ -9126,7 +11521,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5449000046048",
@@ -9158,7 +11557,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630171012",
@@ -9190,7 +11594,11 @@
     "name": "1 paket",
     "grams": 50
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692095344316",
@@ -9221,7 +11629,19 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8694962011024",
@@ -9252,7 +11672,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077150967",
@@ -9284,7 +11709,26 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "peanuts",
+   "sesame",
+   "sulphites"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526023021",
@@ -9302,22 +11746,35 @@
   },
   "barcode": "8690526023021",
   "tags": [
-   "meat",
    "nut_seed",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 30
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077147523",
@@ -9349,7 +11806,16 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077116307",
@@ -9380,7 +11846,12 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504108122",
@@ -9412,7 +11883,25 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "milk",
+   "nuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077135728",
@@ -9444,7 +11933,26 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "milk",
+   "nuts",
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682214704725",
@@ -9471,7 +11979,13 @@
     "name": "1 porsiyon (pişmiş)",
     "grams": 180
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526877860",
@@ -9503,7 +12017,13 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632020297",
@@ -9531,7 +12051,23 @@
     "name": "1 porsiyon (pişmiş)",
     "grams": 180
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_86900478",
@@ -9549,17 +12085,22 @@
   },
   "barcode": "86900478",
   "tags": [
-   "meat",
+   "fruit",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "fruit",
   "common_servings": [
    {
     "name": "1 orta boy",
     "grams": 180
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683130068410",
@@ -9591,7 +12132,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690637846908",
@@ -9623,7 +12168,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526074474",
@@ -9655,7 +12205,21 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "celery",
+   "mustard"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682214726888",
@@ -9687,7 +12251,17 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5941664011733",
@@ -9719,7 +12293,11 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630410197",
@@ -9751,7 +12329,16 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8680679340632",
@@ -9782,7 +12369,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077130990",
@@ -9814,7 +12406,23 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "celery",
+   "fish",
+   "gluten",
+   "mustard",
+   "nuts",
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8445291594876",
@@ -9842,7 +12450,17 @@
     "name": "1 tatlı kaşığı",
     "grams": 15
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690105014747",
@@ -9867,14 +12485,21 @@
   "category": "beverage",
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
+    "name": "1 çay bardağı (100 ml)",
     "grams": 100
    },
    {
     "name": "1 bardak (200 ml)",
     "grams": 200
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683476143703",
@@ -9898,14 +12523,18 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683476142867",
@@ -9930,14 +12559,18 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690533014234",
@@ -9955,22 +12588,22 @@
   },
   "barcode": "8690533014234",
   "tags": [
-   "meat",
    "off",
    "packaged",
    "sauce_condiment"
   ],
-  "category": "meat",
+  "category": "sauce_condiment",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077003140",
@@ -10002,7 +12635,22 @@
     "name": "1/4 somun",
     "grams": 90
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "milk",
+   "sesame"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624105711",
@@ -10034,7 +12682,16 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8684207695713",
@@ -10066,7 +12723,19 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "milk",
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118044697",
@@ -10098,7 +12767,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077154293",
@@ -10126,7 +12796,12 @@
     "name": "1 paket",
     "grams": 35
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526563053",
@@ -10145,21 +12820,33 @@
   "barcode": "8690526563053",
   "tags": [
    "fruit",
-   "meat",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "fruit",
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 orta boy",
     "grams": 150
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690629310943",
@@ -10186,7 +12873,13 @@
     "name": "1 porsiyon (pişmiş)",
     "grams": 180
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112664843",
@@ -10222,7 +12915,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767710568",
@@ -10253,7 +12953,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630430539",
@@ -10284,7 +12993,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690585812062",
@@ -10301,20 +13014,25 @@
   "tags": [
    "off",
    "other",
-   "packaged",
-   "sweet"
+   "packaged"
   ],
-  "category": "sweet",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 50
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690559021629",
@@ -10345,7 +13063,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696362805364",
@@ -10377,7 +13104,19 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "milk",
+   "mustard"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "milk",
+   "mustard"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504121336",
@@ -10409,7 +13148,14 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8695876200061",
@@ -10441,7 +13187,20 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "milk",
+   "mustard",
+   "nuts",
+   "peanuts",
+   "soybeans",
+   "sulphites"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632760278",
@@ -10473,7 +13232,13 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526067438",
@@ -10491,21 +13256,33 @@
   },
   "barcode": "8690526067438",
   "tags": [
-   "meat",
    "off",
+   "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "soybeans"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077006806",
@@ -10537,7 +13314,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_0076223000264",
@@ -10569,7 +13351,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504131458",
@@ -10601,7 +13384,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504012139",
@@ -10633,7 +13417,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526012957",
@@ -10665,7 +13458,17 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergen_traces": [
+   "eggs",
+   "milk",
+   "nuts",
+   "sesame"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696368041698",
@@ -10697,7 +13500,21 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691058005769",
@@ -10728,7 +13545,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 500
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077002327",
@@ -10760,7 +13584,14 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077046963",
@@ -10792,7 +13623,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690931005896",
@@ -10822,7 +13657,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8719200750593",
@@ -10849,7 +13689,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 10
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971410630",
@@ -10879,7 +13720,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632040851",
@@ -10911,7 +13753,13 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526073446",
@@ -10942,7 +13790,19 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "milk"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971421117",
@@ -10974,7 +13834,16 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630105017",
@@ -11006,7 +13875,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690787311059",
@@ -11037,7 +13915,13 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632056753",
@@ -11069,7 +13953,19 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695876200115",
@@ -11100,7 +13996,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767710469",
@@ -11132,7 +14029,16 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565019436",
@@ -11159,7 +14065,16 @@
     "name": "1 orta boy",
     "grams": 120
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624202281",
@@ -11190,7 +14105,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526019949",
@@ -11209,21 +14125,34 @@
   "barcode": "8690526019949",
   "tags": [
    "grain",
-   "meat",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "grain",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767716980",
@@ -11255,7 +14184,16 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767675089",
@@ -11287,7 +14225,16 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632760391",
@@ -11319,7 +14266,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690559019824",
@@ -11344,7 +14292,16 @@
     "name": "1 tatlı kaşığı",
     "grams": 15
    }
-  ]
+  ],
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565017531",
@@ -11375,7 +14332,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118029731",
@@ -11406,7 +14372,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683508073732",
@@ -11437,7 +14408,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_7622202050947",
@@ -11468,7 +14443,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682214709010",
@@ -11499,7 +14475,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690575109110",
@@ -11527,7 +14508,11 @@
     "name": "1 tatlı kaşığı",
     "grams": 15
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077069542",
@@ -11558,7 +14543,18 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_7622210578266",
@@ -11590,7 +14586,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971433264",
@@ -11621,7 +14618,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_7622210750495",
@@ -11653,7 +14655,18 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690637852053",
@@ -11677,6 +14690,10 @@
   "category": "prepared",
   "common_servings": [
    {
+    "name": "1 tabak",
+    "grams": 300
+   },
+   {
     "name": "1 porsiyon",
     "grams": 250
    },
@@ -11684,7 +14701,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624003093",
@@ -11716,7 +14738,21 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077106520",
@@ -11748,7 +14784,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 525
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077071576",
@@ -11780,7 +14823,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504034032",
@@ -11812,7 +14859,14 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8682214708044",
@@ -11844,7 +14898,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8680751007804",
@@ -11869,14 +14928,15 @@
   "category": "other",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 100
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624103298",
@@ -11908,7 +14968,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526001531",
@@ -11940,7 +15001,11 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8680181105705",
@@ -11972,7 +15037,16 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077009289",
@@ -12003,7 +15077,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077054906",
@@ -12034,7 +15113,25 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "celery",
+   "gluten",
+   "nuts",
+   "peanuts",
+   "sulphites"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683417000508",
@@ -12066,7 +15163,17 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696368011332",
@@ -12097,7 +15204,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696368944524",
@@ -12129,7 +15237,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8697471725666",
@@ -12160,7 +15273,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565023594",
@@ -12191,7 +15309,18 @@
     "name": "1 kutu (1 L)",
     "grams": 1030
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682983760038",
@@ -12222,7 +15351,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504103394",
@@ -12254,7 +15388,21 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690635061174",
@@ -12286,7 +15434,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695876203703",
@@ -12317,7 +15470,13 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692886311213",
@@ -12344,7 +15503,16 @@
     "name": "1 kase",
     "grams": 150
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690637894091",
@@ -12376,7 +15544,22 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691316522885",
@@ -12408,7 +15591,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971478791",
@@ -12439,7 +15631,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691316523554",
@@ -12468,7 +15669,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118012757",
@@ -12500,7 +15710,19 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682983760083",
@@ -12531,7 +15753,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696368011493",
@@ -12562,7 +15789,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112664706",
@@ -12594,7 +15826,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630163017",
@@ -12626,7 +15863,17 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683200063055",
@@ -12651,14 +15898,27 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "nuts",
+   "sesame"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690120053233",
@@ -12688,7 +15948,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077128225",
@@ -12719,7 +15983,11 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077088031",
@@ -12744,14 +16012,20 @@
   "category": "grain",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 100
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5061013944373",
@@ -12786,7 +16060,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526035512",
@@ -12818,7 +16099,22 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690876010016",
@@ -12850,7 +16146,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5061013944465",
@@ -12880,7 +16177,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691316523523",
@@ -12912,7 +16214,16 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692095344330",
@@ -12940,7 +16251,19 @@
     "name": "1 kase",
     "grams": 150
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8697403873847",
@@ -12971,7 +16294,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696425016041",
@@ -13001,7 +16329,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526013527",
@@ -13033,7 +16366,16 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_86900188",
@@ -13065,7 +16407,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691316521635",
@@ -13096,7 +16443,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8697447041417",
@@ -13132,7 +16488,21 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971435190",
@@ -13163,7 +16533,16 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681324003056",
@@ -13194,7 +16573,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8680751007903",
@@ -13219,14 +16599,22 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691641380051",
@@ -13250,14 +16638,19 @@
   "category": "dairy",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 100
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682983760335",
@@ -13288,7 +16681,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 500
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695876206384",
@@ -13317,7 +16717,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_90495489",
@@ -13335,7 +16736,6 @@
   },
   "barcode": "90495489",
   "tags": [
-   "beverage",
    "fruit",
    "off",
    "packaged"
@@ -13350,7 +16750,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690629442293",
@@ -13380,7 +16785,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8693374273341",
@@ -13410,7 +16820,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681749146529",
@@ -13441,7 +16855,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632060392",
@@ -13470,7 +16885,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "peanuts"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077141552",
@@ -13502,7 +16926,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 525
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112664904",
@@ -13536,7 +16967,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077029423",
@@ -13567,7 +17005,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699495573193",
@@ -13598,7 +17041,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8694023910761",
@@ -13626,7 +17073,11 @@
     "name": "1 tatlı kaşığı",
     "grams": 15
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077102126",
@@ -13658,7 +17109,13 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8680722050105",
@@ -13690,7 +17147,13 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690698511760",
@@ -13722,7 +17185,18 @@
     "name": "1/4 somun",
     "grams": 90
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "sesame"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692813005635",
@@ -13753,7 +17227,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526074238",
@@ -13771,22 +17250,22 @@
   },
   "barcode": "8690526074238",
   "tags": [
-   "meat",
    "off",
    "packaged",
    "sauce_condiment"
   ],
-  "category": "meat",
+  "category": "sauce_condiment",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682214724532",
@@ -13813,7 +17292,12 @@
     "name": "1 kase",
     "grams": 150
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681349030938",
@@ -13844,7 +17328,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 500
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971435664",
@@ -13875,7 +17366,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504108245",
@@ -13907,7 +17403,12 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971435626",
@@ -13934,7 +17435,12 @@
     "name": "1 kase",
     "grams": 150
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682530221968",
@@ -13966,7 +17472,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077129109",
@@ -13990,10 +17500,18 @@
   "category": "nut_seed",
   "common_servings": [
    {
+    "name": "1 yemek kaşığı",
+    "grams": 16
+   },
+   {
     "name": "1 tatlı kaşığı",
-    "grams": 15
+    "grams": 6
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504014508",
@@ -14025,7 +17543,20 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "sesame"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696368944005",
@@ -14056,7 +17587,16 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691316521819",
@@ -14086,7 +17626,14 @@
     "name": "1 kutu (250 ml)",
     "grams": 258
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682214708839",
@@ -14118,7 +17665,16 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077029560",
@@ -14148,7 +17704,14 @@
     "name": "1 kutu (250 ml)",
     "grams": 258
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8693407004751",
@@ -14179,7 +17742,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692095345580",
@@ -14210,7 +17778,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690558039540",
@@ -14241,7 +17814,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504073772",
@@ -14273,7 +17851,23 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526786568",
@@ -14291,22 +17885,31 @@
   },
   "barcode": "8690526786568",
   "tags": [
-   "meat",
    "off",
    "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "sesame"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699141059712",
@@ -14337,7 +17940,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690559024026",
@@ -14366,7 +17970,12 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630170015",
@@ -14398,7 +18007,17 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690787211052",
@@ -14430,7 +18049,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504109266",
@@ -14461,7 +18084,11 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077058584",
@@ -14493,7 +18120,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699141055035",
@@ -14525,7 +18153,14 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118009566",
@@ -14557,7 +18192,15 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_0695457074942",
@@ -14589,7 +18232,28 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "nuts",
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "nuts",
+   "peanuts",
+   "sesame",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681655007075",
@@ -14621,7 +18285,13 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_86947053",
@@ -14650,7 +18320,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 500
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691375611827",
@@ -14678,7 +18355,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 10
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691316521468",
@@ -14710,7 +18388,16 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077091253",
@@ -14742,7 +18429,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682214713574",
@@ -14773,7 +18465,12 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8697742720796",
@@ -14797,14 +18494,19 @@
   "category": "fruit",
   "common_servings": [
    {
-    "name": "1 orta boy",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 40
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681413801228",
@@ -14832,7 +18534,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 10
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699032006856",
@@ -14864,7 +18567,20 @@
     "name": "1/4 somun",
     "grams": 90
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690575171513",
@@ -14895,7 +18611,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8693342016246",
@@ -14927,7 +18644,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118072690",
@@ -14958,7 +18684,18 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts",
+   "soybeans"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682304680502",
@@ -14989,7 +18726,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690579975001",
@@ -15021,7 +18763,21 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696027017910",
@@ -15053,7 +18809,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8693638902314",
@@ -15078,14 +18835,18 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504190554",
@@ -15117,7 +18878,14 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8692562018009",
@@ -15141,14 +18909,22 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "sesame"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682214707603",
@@ -15180,7 +18956,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112666526",
@@ -15199,8 +18979,7 @@
   "tags": [
    "off",
    "packaged",
-   "poultry",
-   "vegetable"
+   "poultry"
   ],
   "category": "poultry",
   "common_servings": [
@@ -15212,7 +18991,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8684207695621",
@@ -15231,20 +19015,33 @@
   "barcode": "8684207695621",
   "tags": [
    "off",
-   "other",
-   "packaged"
+   "packaged",
+   "snack"
   ],
-  "category": "other",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 100
+    "grams": 30
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 paket",
+    "grams": 50
    }
-  ]
+  ],
+  "allergens": [
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "milk",
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8680181052801",
@@ -15275,7 +19072,16 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504084587",
@@ -15307,7 +19113,22 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "sesame"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "nuts",
+   "sesame"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118059462",
@@ -15339,7 +19160,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077033772",
@@ -15371,7 +19197,17 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "celery",
+   "milk",
+   "mustard"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691066504230",
@@ -15402,7 +19238,23 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "peanuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118008293",
@@ -15434,7 +19286,22 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "nuts",
+   "sesame"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696368200118",
@@ -15462,7 +19329,21 @@
     "name": "1 orta boy",
     "grams": 120
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118041320",
@@ -15494,7 +19375,15 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077089984",
@@ -15526,7 +19415,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683508112035",
@@ -15553,7 +19443,12 @@
     "name": "1 kase",
     "grams": 150
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8694962011079",
@@ -15584,7 +19479,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691375603341",
@@ -15616,7 +19516,19 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691381000721",
@@ -15647,7 +19559,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 475
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118073536",
@@ -15679,7 +19598,19 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971425412",
@@ -15711,7 +19642,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681324009652",
@@ -15742,7 +19678,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077152336",
@@ -15767,14 +19708,19 @@
   "category": "dairy",
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "1 porsiyon",
-    "grams": 60
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504082408",
@@ -15806,7 +19752,21 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8694962012496",
@@ -15837,7 +19797,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683923382679",
@@ -15856,8 +19821,7 @@
   "tags": [
    "beverage",
    "off",
-   "packaged",
-   "sweet"
+   "packaged"
   ],
   "category": "beverage",
   "common_servings": [
@@ -15873,7 +19837,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624203998",
@@ -15901,7 +19872,13 @@
     "name": "1 paket",
     "grams": 35
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690559022381",
@@ -15932,7 +19909,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526671284",
@@ -15950,22 +19932,25 @@
   },
   "barcode": "8690526671284",
   "tags": [
-   "meat",
    "nut_seed",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 30
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526043425",
@@ -15983,22 +19968,26 @@
   },
   "barcode": "8690526043425",
   "tags": [
-   "meat",
    "off",
    "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077134561",
@@ -16030,7 +20019,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682588740947",
@@ -16062,7 +20055,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683181332775",
@@ -16082,16 +20076,16 @@
   "tags": [
    "off",
    "other",
-   "packaged",
-   "snack"
+   "packaged"
   ],
-  "category": "snack",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 paket",
     "grams": 35
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077112583",
@@ -16123,7 +20117,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683789552513",
@@ -16158,7 +20157,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118041283",
@@ -16189,7 +20195,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077152077",
@@ -16219,7 +20230,14 @@
     "name": "1 kutu (250 ml)",
     "grams": 258
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077056672",
@@ -16250,7 +20268,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690612315047",
@@ -16281,7 +20300,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077003553",
@@ -16313,7 +20337,11 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077001016",
@@ -16345,7 +20373,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8697471541068",
@@ -16376,7 +20405,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8697447043527",
@@ -16396,7 +20430,6 @@
   "tags": [
    "beverage",
    "off",
-   "other",
    "packaged"
   ],
   "category": "beverage",
@@ -16406,10 +20439,17 @@
     "grams": 100
    },
    {
-    "name": "1 bardak (200 ml)",
+    "name": "1 kupa (200 ml)",
     "grams": 200
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683476142270",
@@ -16441,7 +20481,17 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690635301140",
@@ -16472,7 +20522,13 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "mustard"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077163981",
@@ -16489,11 +20545,11 @@
   },
   "barcode": "8695077163981",
   "tags": [
-   "meat",
+   "fruit",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "fruit",
   "common_servings": [
    {
     "name": "5 adet",
@@ -16503,7 +20559,12 @@
     "name": "10 adet",
     "grams": 40
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_7622202312434",
@@ -16535,7 +20596,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8684458000045",
@@ -16560,14 +20626,21 @@
   "category": "beverage",
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
+    "name": "1 çay bardağı (100 ml)",
     "grams": 105
    },
    {
     "name": "1 bardak (200 ml)",
     "grams": 210
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8694962011185",
@@ -16598,7 +20671,18 @@
     "name": "1 kutu (250 ml)",
     "grams": 258
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681630417974",
@@ -16623,14 +20707,19 @@
   "category": "dairy",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 100
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696027015114",
@@ -16662,7 +20751,17 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681267006275",
@@ -16694,7 +20793,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_5000112664799",
@@ -16722,7 +20825,12 @@
     "name": "1 orta boy",
     "grams": 180
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526954127",
@@ -16740,22 +20848,25 @@
   },
   "barcode": "8690526954127",
   "tags": [
-   "meat",
    "nut_seed",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 30
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696368005768",
@@ -16786,7 +20897,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8697584118447",
@@ -16811,14 +20927,28 @@
   "category": "sweet",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "nuts",
+   "peanuts",
+   "sesame"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8684055740689",
@@ -16846,7 +20976,11 @@
     "name": "1 kase",
     "grams": 150
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681506020963",
@@ -16874,7 +21008,15 @@
     "name": "1 paket",
     "grams": 35
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699270019250",
@@ -16893,7 +21035,6 @@
   "barcode": "8699270019250",
   "tags": [
    "beverage",
-   "dairy",
    "off",
    "packaged"
   ],
@@ -16907,7 +21048,14 @@
     "name": "1 kutu (1 L)",
     "grams": 1030
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690766157777",
@@ -16939,7 +21087,21 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "gluten",
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565026489",
@@ -16970,7 +21132,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 500
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8445291594852",
@@ -17002,7 +21171,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8684802317102",
@@ -17034,7 +21207,22 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "milk",
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683717470513",
@@ -17063,7 +21251,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077037077",
@@ -17094,7 +21286,12 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683851540370",
@@ -17121,7 +21318,11 @@
     "name": "1 orta boy",
     "grams": 180
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8684802317119",
@@ -17153,7 +21354,18 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergen_traces": [
+   "milk",
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683130095553",
@@ -17178,14 +21390,19 @@
   "category": "prepared",
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 kase",
     "grams": 250
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 kepçe",
+    "grams": 120
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682530000204",
@@ -17217,7 +21434,23 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504011606",
@@ -17249,7 +21482,19 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "nuts",
+   "sesame",
+   "soybeans"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565019412",
@@ -17277,7 +21522,16 @@
     "name": "1 kase",
     "grams": 150
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504020639",
@@ -17309,7 +21563,24 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk",
+   "nuts",
+   "peanuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690766149949",
@@ -17341,7 +21612,14 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632048680",
@@ -17373,7 +21651,25 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690574000821",
@@ -17398,14 +21694,21 @@
   "category": "beverage",
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
+    "name": "1 çay bardağı (100 ml)",
     "grams": 100
    },
    {
     "name": "1 bardak (200 ml)",
     "grams": 200
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8719200750609",
@@ -17433,7 +21736,12 @@
     "name": "1 tatlı kaşığı",
     "grams": 10
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_69054709",
@@ -17465,7 +21773,24 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten",
+   "nuts",
+   "peanuts",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681324003827",
@@ -17490,7 +21815,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 10
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526061092",
@@ -17522,7 +21848,20 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "milk",
+   "sesame"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8680908020083",
@@ -17552,7 +21891,19 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "sesame",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118033523",
@@ -17580,7 +21931,12 @@
     "name": "1 paket",
     "grams": 35
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624101874",
@@ -17612,7 +21968,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681413871115",
@@ -17636,14 +21993,22 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624104639",
@@ -17675,7 +22040,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632762869",
@@ -17706,7 +22076,16 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504082651",
@@ -17738,7 +22117,17 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "peanuts"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624103571",
@@ -17769,7 +22158,12 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526047508",
@@ -17800,7 +22194,11 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632704630",
@@ -17827,7 +22225,11 @@
     "name": "1 tatlı kaşığı",
     "grams": 15
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971429359",
@@ -17857,7 +22259,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682530221197",
@@ -17889,7 +22296,18 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8696362500405",
@@ -17919,7 +22337,17 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "milk",
+   "mustard"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "milk"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504180906",
@@ -17951,7 +22379,16 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8693407002788",
@@ -17982,7 +22419,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077701145",
@@ -18007,14 +22449,23 @@
   "category": "dairy",
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "1 porsiyon",
-    "grams": 60
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504027010",
@@ -18046,7 +22497,16 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690698511661",
@@ -18078,7 +22538,21 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_9684017000140",
@@ -18110,7 +22584,16 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690635030910",
@@ -18141,7 +22624,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_86920131",
@@ -18173,7 +22661,20 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "milk",
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526035444",
@@ -18191,22 +22692,29 @@
   },
   "barcode": "8690526035444",
   "tags": [
-   "meat",
    "off",
    "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "milk",
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971433554",
@@ -18238,7 +22746,16 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624103069",
@@ -18265,7 +22782,12 @@
     "name": "1 paket",
     "grams": 35
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077004437",
@@ -18296,7 +22818,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8680908020113",
@@ -18327,7 +22854,21 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten",
+   "sesame",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8697403891674",
@@ -18358,7 +22899,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504074380",
@@ -18389,7 +22935,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526794099",
@@ -18407,21 +22954,27 @@
   },
   "barcode": "8690526794099",
   "tags": [
-   "meat",
+   "grain",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "grain",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971429410",
@@ -18451,7 +23004,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504116189",
@@ -18483,7 +23041,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504142713",
@@ -18514,7 +23073,11 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767716034",
@@ -18545,7 +23108,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077016072",
@@ -18577,7 +23145,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632760179",
@@ -18606,7 +23179,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077082008",
@@ -18637,7 +23211,8 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8694587138496",
@@ -18669,7 +23244,18 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ]
+  ],
+  "allergens": [
+   "celery",
+   "eggs",
+   "gluten",
+   "milk",
+   "nuts",
+   "soybeans",
+   "sulphites"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504090106",
@@ -18700,7 +23286,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692971433561",
@@ -18731,7 +23318,12 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681349030761",
@@ -18762,7 +23354,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 475
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681185086151",
@@ -18794,7 +23393,15 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8698313580641",
@@ -18824,7 +23431,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077111791",
@@ -18850,7 +23461,13 @@
     "name": "1 porsiyon (pişmiş)",
     "grams": 180
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767670923",
@@ -18880,7 +23497,12 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565812129",
@@ -18912,7 +23534,16 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632248967",
@@ -18941,10 +23572,17 @@
     "grams": 100
    },
    {
-    "name": "1 bardak (200 ml)",
+    "name": "1 kupa (200 ml)",
     "grams": 200
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682214710986",
@@ -18976,7 +23614,18 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504130697",
@@ -19008,7 +23657,17 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504011507",
@@ -19039,7 +23698,11 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077302038",
@@ -19057,7 +23720,6 @@
   },
   "barcode": "8695077302038",
   "tags": [
-   "beverage",
    "off",
    "packaged",
    "vegetable"
@@ -19072,7 +23734,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632049601",
@@ -19103,7 +23770,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690558020357",
@@ -19135,7 +23807,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077001955",
@@ -19166,7 +23843,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690579024938",
@@ -19194,7 +23875,20 @@
     "name": "1 porsiyon (pişmiş)",
     "grams": 180
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "soybeans"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526078403",
@@ -19212,22 +23906,25 @@
   },
   "barcode": "8690526078403",
   "tags": [
-   "meat",
    "nut_seed",
    "off",
    "packaged"
   ],
-  "category": "meat",
+  "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 30
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690105000382",
@@ -19258,7 +23955,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690629252106",
@@ -19290,7 +23992,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690629229665",
@@ -19322,7 +24028,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504156819",
@@ -19354,7 +24065,21 @@
     "name": "1 bar",
     "grams": 40
    }
-  ]
+  ],
+  "allergens": [
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "eggs",
+   "gluten",
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8691707095936",
@@ -19385,7 +24110,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690526029733",
@@ -19402,18 +24128,25 @@
   },
   "barcode": "8690526029733",
   "tags": [
-   "grain",
-   "meat",
    "off",
+   "other",
    "packaged"
   ],
-  "category": "meat",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon (pişmiş)",
     "grams": 180
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "gluten"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_86920292",
@@ -19441,7 +24174,15 @@
     "name": "1 kase",
     "grams": 150
    }
-  ]
+  ],
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077081131",
@@ -19476,7 +24217,14 @@
     "name": "1 şişe (500 ml)",
     "grams": 520
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767674952",
@@ -19507,7 +24255,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504116257",
@@ -19539,7 +24292,12 @@
     "name": "1 paket",
     "grams": 80
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504152071",
@@ -19571,7 +24329,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_86903103",
@@ -19602,7 +24361,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8680751007835",
@@ -19627,14 +24391,18 @@
   "category": "sweet",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699118005896",
@@ -19666,7 +24434,16 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565021149",
@@ -19697,7 +24474,16 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690565018569",
@@ -19728,7 +24514,16 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690767670060",
@@ -19760,7 +24555,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8680908021066",
@@ -19791,7 +24587,12 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504103349",
@@ -19820,7 +24621,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8699952501059",
@@ -19852,7 +24657,14 @@
     "name": "1 kutu (250 ml)",
     "grams": 258
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690632762166",
@@ -19881,7 +24693,8 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690624304152",
@@ -19913,7 +24726,12 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8692095344583",
@@ -19944,7 +24762,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681324005883",
@@ -19976,7 +24799,12 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8681185086090",
@@ -20008,7 +24836,20 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "allergen_traces": [
+   "nuts",
+   "peanuts"
+  ],
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690504039723",
@@ -20040,7 +24881,14 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergens": [
+   "eggs",
+   "gluten",
+   "soybeans"
+  ],
+  "allergen_source": "declared",
+  "prep_time_min": 0
  },
  {
   "id": "off_8690843095480",
@@ -20072,7 +24920,12 @@
     "name": "1 porsiyon",
     "grams": 60
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077022332",
@@ -20103,7 +24956,12 @@
     "name": "1 dilim",
     "grams": 30
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8695077029454",
@@ -20134,7 +24992,16 @@
     "name": "1 yemek kaşığı",
     "grams": 25
    }
-  ]
+  ],
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "declared",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8682615108467",
@@ -20166,7 +25033,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8683476142195",
@@ -20191,14 +25062,19 @@
   "category": "fruit",
   "common_servings": [
    {
-    "name": "1 orta boy",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 40
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "off_8690787281048",
@@ -20223,13 +25099,21 @@
   "category": "fruit",
   "common_servings": [
    {
-    "name": "1 orta boy",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 40
    },
    {
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "allergen_traces": [
+   "nuts"
+  ],
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  }
 ]
