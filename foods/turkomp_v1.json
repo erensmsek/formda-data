@@ -25,7 +25,18 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_750",
@@ -53,7 +64,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_5",
@@ -82,7 +102,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat"
+  "category": "oil_fat",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_7",
@@ -111,7 +135,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_8",
@@ -140,7 +173,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_9",
@@ -169,7 +211,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_11",
@@ -198,7 +249,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_12",
@@ -227,7 +287,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_13",
@@ -256,7 +325,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_14",
@@ -285,7 +363,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_24",
@@ -314,7 +401,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat"
+  "category": "oil_fat",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_17",
@@ -342,7 +433,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_18",
@@ -371,7 +471,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat"
+  "category": "oil_fat",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_20",
@@ -400,7 +504,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat"
+  "category": "oil_fat",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_19",
@@ -429,7 +537,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat"
+  "category": "oil_fat",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_693",
@@ -458,7 +570,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_21",
@@ -486,7 +607,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_22",
@@ -514,7 +644,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_23",
@@ -542,7 +681,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_16",
@@ -571,7 +719,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat"
+  "category": "oil_fat",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_1",
@@ -599,7 +751,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_25",
@@ -623,7 +783,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat"
+  "category": "oil_fat",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_749",
@@ -652,7 +816,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_4",
@@ -680,7 +853,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat"
+  "category": "oil_fat",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_3",
@@ -709,7 +886,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat"
+  "category": "oil_fat",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_2",
@@ -738,7 +919,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_6",
@@ -766,7 +956,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_33",
@@ -794,7 +993,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "egg"
+  "category": "egg",
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_29",
@@ -822,7 +1029,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "egg"
+  "category": "egg",
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_30",
@@ -850,7 +1065,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "egg"
+  "category": "egg",
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_34",
@@ -878,7 +1101,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "egg"
+  "category": "egg",
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_28",
@@ -906,7 +1137,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "egg"
+  "category": "egg",
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_27",
@@ -934,7 +1173,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "egg"
+  "category": "egg",
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_26",
@@ -962,7 +1209,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "egg"
+  "category": "egg",
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_518",
@@ -991,7 +1246,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_67",
@@ -1019,7 +1278,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_41",
@@ -1047,7 +1310,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_45",
@@ -1075,7 +1342,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_44",
@@ -1103,7 +1374,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_42",
@@ -1131,7 +1406,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_43",
@@ -1159,7 +1438,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_59",
@@ -1187,7 +1470,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_58",
@@ -1215,7 +1502,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_77",
@@ -1243,7 +1534,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_78",
@@ -1271,7 +1566,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_765",
@@ -1300,7 +1599,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_742",
@@ -1329,7 +1632,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_740",
@@ -1358,7 +1665,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_697",
@@ -1387,7 +1698,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_745",
@@ -1416,7 +1731,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_743",
@@ -1445,7 +1764,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_63",
@@ -1473,7 +1796,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_62",
@@ -1501,7 +1828,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_741",
@@ -1530,7 +1861,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_744",
@@ -1559,7 +1894,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_764",
@@ -1588,7 +1927,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_762",
@@ -1613,7 +1956,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_763",
@@ -1638,7 +1985,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_746",
@@ -1667,7 +2018,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_474",
@@ -1696,7 +2055,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_521",
@@ -1725,7 +2088,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_61",
@@ -1753,7 +2120,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_60",
@@ -1781,7 +2152,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_542",
@@ -1809,7 +2184,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_55",
@@ -1837,7 +2216,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_54",
@@ -1865,7 +2248,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_56",
@@ -1893,7 +2280,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_48",
@@ -1921,7 +2312,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_47",
@@ -1949,7 +2344,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_46",
@@ -1977,7 +2376,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_49",
@@ -2005,7 +2408,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_80",
@@ -2061,7 +2468,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_51",
@@ -2089,7 +2500,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_50",
@@ -2117,7 +2532,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_53",
@@ -2145,7 +2564,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_65",
@@ -2173,7 +2596,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_64",
@@ -2201,7 +2628,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_66",
@@ -2229,7 +2660,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "poultry",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_36",
@@ -2257,7 +2692,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_40",
@@ -2285,7 +2724,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_39",
@@ -2313,7 +2756,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_37",
@@ -2341,7 +2788,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_38",
@@ -2369,7 +2820,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_479",
@@ -2398,7 +2853,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_57",
@@ -2426,7 +2885,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_71",
@@ -2454,7 +2917,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_76",
@@ -2482,7 +2949,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_69",
@@ -2510,7 +2981,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_74",
@@ -2538,7 +3013,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_73",
@@ -2566,7 +3045,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_70",
@@ -2594,7 +3077,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_72",
@@ -2622,7 +3109,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_75",
@@ -2650,7 +3141,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_543",
@@ -2678,7 +3173,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_513",
@@ -2702,7 +3201,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_91",
@@ -2730,7 +3237,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_89",
@@ -2758,7 +3273,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_511",
@@ -2786,7 +3305,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_81",
@@ -2814,7 +3341,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_512",
@@ -2842,7 +3377,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat"
+  "category": "oil_fat",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_83",
@@ -2870,7 +3409,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_96",
@@ -2898,7 +3445,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_94",
@@ -2922,12 +3477,19 @@
    }
   ],
   "tags": [
-   "beverage",
    "fish_seafood",
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "crustaceans"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_93",
@@ -2955,7 +3517,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_92",
@@ -2983,7 +3553,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_85",
@@ -3011,7 +3589,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_88",
@@ -3039,7 +3625,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_90",
@@ -3067,7 +3661,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_95",
@@ -3095,7 +3697,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "molluscs"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_84",
@@ -3123,7 +3733,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_100",
@@ -3151,7 +3769,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat"
+  "category": "oil_fat",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_98",
@@ -3179,7 +3801,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "fish_seafood",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_99",
@@ -3203,7 +3829,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat"
+  "category": "oil_fat",
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_97",
@@ -3231,7 +3861,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_101",
@@ -3287,7 +3922,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat"
+  "category": "oil_fat",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_107",
@@ -3354,8 +3993,12 @@
   },
   "common_servings": [
    {
+    "name": "1 yemek kaşığı",
+    "grams": 16
+   },
+   {
     "name": "1 tatlı kaşığı",
-    "grams": 10
+    "grams": 6
    }
   ],
   "tags": [
@@ -3528,7 +4171,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_112",
@@ -3557,7 +4210,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_111",
@@ -3586,7 +4249,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_114",
@@ -3615,7 +4288,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_115",
@@ -3644,7 +4325,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_753",
@@ -3673,7 +4362,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_752",
@@ -3702,7 +4401,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_120",
@@ -3731,7 +4440,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_121",
@@ -3760,7 +4479,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_122",
@@ -3789,7 +4518,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_755",
@@ -3818,7 +4557,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_118",
@@ -3847,7 +4596,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_119",
@@ -3872,7 +4631,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_731",
@@ -3901,7 +4670,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_129",
@@ -3930,7 +4709,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_130",
@@ -3959,7 +4748,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_131",
@@ -3988,7 +4787,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_460",
@@ -4013,7 +4822,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_123",
@@ -4042,7 +4861,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_125",
@@ -4071,7 +4900,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_126",
@@ -4100,7 +4939,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_124",
@@ -4129,7 +4978,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_127",
@@ -4158,7 +5017,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_139",
@@ -4187,7 +5056,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_128",
@@ -4216,7 +5095,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_150",
@@ -4245,7 +5134,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_665",
@@ -4274,7 +5173,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_606",
@@ -4303,7 +5212,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_679",
@@ -4332,7 +5251,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_754",
@@ -4361,7 +5290,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_154",
@@ -4390,7 +5327,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_117",
@@ -4419,7 +5362,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_132",
@@ -4444,7 +5397,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "egg"
+  "category": "egg",
+  "allergens": [
+   "eggs",
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_516",
@@ -4473,7 +5435,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_751",
@@ -4502,7 +5474,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_133",
@@ -4531,7 +5513,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_143",
@@ -4559,7 +5547,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_141",
@@ -4587,7 +5581,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_142",
@@ -4616,7 +5616,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_135",
@@ -4645,7 +5651,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_137",
@@ -4674,7 +5686,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_138",
@@ -4703,7 +5721,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_136",
@@ -4732,7 +5754,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_146",
@@ -4757,7 +5785,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_144",
@@ -4782,7 +5816,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_581",
@@ -4811,7 +5851,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_484",
@@ -4840,7 +5886,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_515",
@@ -4869,7 +5925,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_514",
@@ -4898,7 +5964,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_155",
@@ -4927,7 +6003,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_690",
@@ -4956,7 +6038,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_680",
@@ -4985,7 +6077,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_151",
@@ -5013,7 +6115,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_152",
@@ -5042,7 +6154,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_148",
@@ -5071,7 +6193,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_149",
@@ -5100,7 +6232,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_167",
@@ -5157,7 +6299,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_162",
@@ -5186,7 +6337,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_165",
@@ -5215,7 +6370,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_164",
@@ -5244,7 +6403,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_156",
@@ -5273,7 +6436,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_157",
@@ -5302,7 +6470,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_158",
@@ -5331,7 +6504,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_163",
@@ -5360,7 +6538,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "sesame"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_161",
@@ -5389,7 +6575,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "peanuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_204",
@@ -5418,7 +6612,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_723",
@@ -5434,20 +6633,25 @@
   },
   "common_servings": [
    {
-    "name": "1 yemek kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 150
    },
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 5
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
-   "sauce_condiment",
    "turkish",
-   "turkomp"
+   "turkomp",
+   "vegetable"
   ],
-  "category": "sauce_condiment"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_708",
@@ -5476,7 +6680,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_216",
@@ -5505,7 +6714,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_217",
@@ -5534,7 +6748,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_221",
@@ -5563,7 +6782,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_224",
@@ -5592,7 +6816,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_222",
@@ -5621,7 +6850,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_223",
@@ -5650,7 +6884,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_510",
@@ -5675,11 +6914,16 @@
    }
   ],
   "tags": [
-   "fish_seafood",
+   "legume",
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_211",
@@ -5704,11 +6948,16 @@
    }
   ],
   "tags": [
-   "fish_seafood",
+   "legume",
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_212",
@@ -5737,7 +6986,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_213",
@@ -5766,7 +7020,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_214",
@@ -5795,7 +7054,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_215",
@@ -5824,7 +7088,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_181",
@@ -5853,7 +7122,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_176",
@@ -5882,7 +7156,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_175",
@@ -5911,7 +7190,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_184",
@@ -5938,7 +7222,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_177",
@@ -5967,7 +7256,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_185",
@@ -5996,7 +7290,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_183",
@@ -6023,7 +7322,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_182",
@@ -6052,7 +7356,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_178",
@@ -6081,7 +7390,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_174",
@@ -6110,7 +7424,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_179",
@@ -6139,7 +7458,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_218",
@@ -6168,7 +7492,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_220",
@@ -6197,7 +7526,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_219",
@@ -6226,7 +7560,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_249",
@@ -6255,7 +7594,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_729",
@@ -6313,7 +7657,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_706",
@@ -6341,7 +7690,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_707",
@@ -6370,7 +7724,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_730",
@@ -6428,7 +7787,16 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "allergens": [
+   "celery"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_714",
@@ -6457,7 +7825,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_710",
@@ -6486,7 +7859,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_255",
@@ -6515,7 +7893,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_722",
@@ -6544,7 +7927,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_720",
@@ -6573,7 +7961,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_170",
@@ -6602,7 +7995,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_172",
@@ -6631,7 +8029,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_171",
@@ -6660,7 +8065,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_173",
@@ -6689,7 +8099,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_168",
@@ -6718,7 +8133,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_169",
@@ -6747,7 +8167,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_279",
@@ -6776,7 +8201,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_713",
@@ -6803,7 +8233,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_241",
@@ -6832,7 +8267,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_243",
@@ -6861,7 +8301,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_242",
@@ -6890,7 +8335,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_702",
@@ -6919,7 +8369,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_206",
@@ -6948,7 +8403,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_210",
@@ -6977,7 +8437,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_207",
@@ -7006,7 +8471,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_208",
@@ -7035,7 +8505,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_259",
@@ -7064,7 +8539,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_258",
@@ -7093,7 +8573,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_718",
@@ -7121,7 +8606,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_719",
@@ -7146,11 +8636,16 @@
    }
   ],
   "tags": [
-   "poultry",
    "turkish",
-   "turkomp"
+   "turkomp",
+   "vegetable"
   ],
-  "category": "poultry"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_278",
@@ -7179,7 +8674,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_268",
@@ -7208,7 +8708,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_270",
@@ -7237,7 +8742,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_202",
@@ -7266,7 +8776,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_200",
@@ -7291,7 +8805,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_201",
@@ -7320,7 +8839,16 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_199",
@@ -7349,7 +8877,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_198",
@@ -7378,7 +8911,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_705",
@@ -7407,7 +8944,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_716",
@@ -7436,7 +8978,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_248",
@@ -7465,7 +9012,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_190",
@@ -7490,7 +9042,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_192",
@@ -7515,7 +9071,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_191",
@@ -7540,7 +9100,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_196",
@@ -7565,7 +9129,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_195",
@@ -7590,7 +9159,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_711",
@@ -7619,7 +9193,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_703",
@@ -7648,7 +9227,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_712",
@@ -7677,7 +9261,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_727",
@@ -7706,7 +9294,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_265",
@@ -7735,7 +9328,16 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "allergens": [
+   "celery"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_266",
@@ -7764,7 +9366,16 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "allergens": [
+   "celery"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_704",
@@ -7793,7 +9404,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_236",
@@ -7822,7 +9438,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_237",
@@ -7851,7 +9472,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_726",
@@ -7880,7 +9506,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_724",
@@ -7909,7 +9540,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_244",
@@ -7938,7 +9574,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_250",
@@ -7967,7 +9608,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_246",
@@ -7996,7 +9642,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_245",
@@ -8025,7 +9676,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_725",
@@ -8054,7 +9710,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_276",
@@ -8083,7 +9744,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_277",
@@ -8112,7 +9778,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_240",
@@ -8141,7 +9812,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_239",
@@ -8170,7 +9846,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_238",
@@ -8199,7 +9880,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_263",
@@ -8228,7 +9914,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_264",
@@ -8257,7 +9948,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_225",
@@ -8286,7 +9982,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_227",
@@ -8315,7 +10015,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_140",
@@ -8344,7 +10048,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_274",
@@ -8373,7 +10081,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_275",
@@ -8402,7 +10115,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_756",
@@ -8431,7 +10149,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_272",
@@ -8460,7 +10183,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_537",
@@ -8489,7 +10217,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_280",
@@ -8518,7 +10251,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_283",
@@ -8547,7 +10284,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_285",
@@ -8575,7 +10318,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_281",
@@ -8604,7 +10352,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_282",
@@ -8633,7 +10385,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_188",
@@ -8662,7 +10424,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_189",
@@ -8691,7 +10458,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_186",
@@ -8720,7 +10492,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_187",
@@ -8749,7 +10526,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_271",
@@ -8778,7 +10560,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_235",
@@ -8807,7 +10594,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_267",
@@ -8836,7 +10628,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_256",
@@ -8865,7 +10662,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_203",
@@ -8894,7 +10696,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_254",
@@ -8923,7 +10730,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_232",
@@ -8952,7 +10766,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_233",
@@ -8981,7 +10800,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_234",
@@ -9009,7 +10833,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_228",
@@ -9038,7 +10867,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_695",
@@ -9067,7 +10901,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_231",
@@ -9096,7 +10935,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_230",
@@ -9125,7 +10969,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_229",
@@ -9154,7 +11003,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_715",
@@ -9179,12 +11033,16 @@
    }
   ],
   "tags": [
-   "beverage",
    "turkish",
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_717",
@@ -9209,7 +11067,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_721",
@@ -9238,7 +11101,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_257",
@@ -9267,7 +11135,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_252",
@@ -9296,7 +11169,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_251",
@@ -9325,7 +11206,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_253",
@@ -9354,7 +11240,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_205",
@@ -9412,7 +11303,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_209",
@@ -9441,7 +11337,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_262",
@@ -9470,7 +11371,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_197",
@@ -9527,7 +11433,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_273",
@@ -9556,7 +11467,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_381",
@@ -9585,7 +11501,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_383",
@@ -9614,7 +11535,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_403",
@@ -9643,7 +11569,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_405",
@@ -9672,7 +11603,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_688",
@@ -9701,7 +11640,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_357",
@@ -9730,7 +11677,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_358",
@@ -9759,7 +11711,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_331",
@@ -9784,11 +11741,16 @@
    }
   ],
   "tags": [
-   "meat",
    "turkish",
-   "turkomp"
+   "turkomp",
+   "vegetable"
   ],
-  "category": "meat"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_733",
@@ -9828,8 +11790,12 @@
   },
   "common_servings": [
    {
-    "name": "1 adet",
+    "name": "1 orta boy",
     "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -9837,7 +11803,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_336",
@@ -9866,7 +11837,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_387",
@@ -9895,7 +11871,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_386",
@@ -9924,7 +11908,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_315",
@@ -9953,7 +11945,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_384",
@@ -9982,7 +11979,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_400",
@@ -10011,7 +12013,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_402",
@@ -10040,7 +12050,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_377",
@@ -10065,7 +12083,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_378",
@@ -10094,7 +12117,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_380",
@@ -10119,7 +12149,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_373",
@@ -10148,7 +12183,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_371",
@@ -10177,7 +12217,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_334",
@@ -10193,8 +12238,12 @@
   },
   "common_servings": [
    {
-    "name": "1 bardak",
-    "grams": 200
+    "name": "1 bardak (200 ml)",
+    "grams": 210
+   },
+   {
+    "name": "1 şişe (500 ml)",
+    "grams": 525
    }
   ],
   "tags": [
@@ -10202,7 +12251,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_333",
@@ -10227,7 +12283,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_335",
@@ -10252,7 +12313,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_332",
@@ -10277,7 +12343,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_343",
@@ -10306,7 +12377,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_341",
@@ -10335,7 +12411,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_340",
@@ -10364,7 +12445,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_409",
@@ -10380,12 +12466,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
   ],
   "tags": [
@@ -10393,7 +12479,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_407",
@@ -10422,7 +12516,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_607",
@@ -10438,12 +12540,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 100
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
   ],
   "tags": [
@@ -10451,7 +12553,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_685",
@@ -10480,7 +12592,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_506",
@@ -10509,7 +12629,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_313",
@@ -10538,7 +12663,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_312",
@@ -10567,7 +12697,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_320",
@@ -10595,7 +12730,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_408",
@@ -10653,7 +12793,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_509",
@@ -10681,7 +12826,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_734",
@@ -10739,7 +12891,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_404",
@@ -10768,7 +12925,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_345",
@@ -10797,7 +12958,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_344",
@@ -10826,7 +12994,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_347",
@@ -10842,8 +13015,8 @@
   },
   "common_servings": [
    {
-    "name": "1 orta boy",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 40
    },
    {
     "name": "100 g",
@@ -10855,7 +13028,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_348",
@@ -10871,8 +13049,8 @@
   },
   "common_servings": [
    {
-    "name": "1 orta boy",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 40
    },
    {
     "name": "100 g",
@@ -10884,7 +13062,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_349",
@@ -10913,7 +13096,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_728",
@@ -10942,7 +13130,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_376",
@@ -11000,7 +13193,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "other"
+  "category": "other",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_339",
@@ -11029,7 +13226,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_338",
@@ -11058,7 +13260,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_321",
@@ -11087,7 +13294,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_392",
@@ -11116,7 +13328,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_757",
@@ -11132,8 +13349,8 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 100
+    "name": "1 avuç",
+    "grams": 40
    },
    {
     "name": "100 g",
@@ -11174,7 +13391,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_310",
@@ -11203,7 +13425,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_311",
@@ -11232,7 +13459,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_307",
@@ -11248,7 +13480,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 orta boy",
     "grams": 150
    },
    {
@@ -11257,11 +13489,16 @@
    }
   ],
   "tags": [
-   "meat",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_308",
@@ -11277,7 +13514,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 orta boy",
     "grams": 150
    },
    {
@@ -11286,11 +13523,16 @@
    }
   ],
   "tags": [
-   "meat",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_306",
@@ -11306,7 +13548,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 orta boy",
     "grams": 150
    },
    {
@@ -11315,11 +13557,16 @@
    }
   ],
   "tags": [
-   "meat",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_305",
@@ -11335,7 +13582,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 orta boy",
     "grams": 150
    },
    {
@@ -11344,11 +13591,16 @@
    }
   ],
   "tags": [
-   "meat",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_393",
@@ -11377,7 +13629,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_399",
@@ -11406,7 +13662,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_395",
@@ -11431,7 +13691,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_396",
@@ -11456,7 +13721,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_370",
@@ -11485,7 +13755,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_369",
@@ -11514,7 +13791,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_356",
@@ -11539,12 +13821,16 @@
    }
   ],
   "tags": [
-   "beverage",
    "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_303",
@@ -11560,8 +13846,12 @@
   },
   "common_servings": [
    {
-    "name": "1 bardak",
-    "grams": 200
+    "name": "1 bardak (200 ml)",
+    "grams": 210
+   },
+   {
+    "name": "1 şişe (500 ml)",
+    "grams": 525
    }
   ],
   "tags": [
@@ -11569,7 +13859,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_302",
@@ -11598,7 +13895,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_500",
@@ -11623,7 +13927,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_301",
@@ -11648,7 +13957,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_300",
@@ -11673,7 +13987,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_382",
@@ -11698,7 +14017,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_337",
@@ -11723,7 +14046,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_385",
@@ -11748,7 +14075,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_379",
@@ -11773,7 +14104,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_368",
@@ -11798,7 +14133,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_346",
@@ -11823,7 +14162,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_304",
@@ -11848,7 +14191,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_354",
@@ -11873,7 +14220,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_362",
@@ -11898,7 +14249,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_353",
@@ -11927,7 +14282,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_352",
@@ -11956,7 +14318,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_505",
@@ -11985,7 +14352,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_355",
@@ -12013,7 +14385,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_318",
@@ -12029,20 +14406,25 @@
   },
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
-    "grams": 100
+    "name": "1 orta boy",
+    "grams": 150
    },
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
-   "beverage",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_319",
@@ -12058,7 +14440,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 orta boy",
     "grams": 150
    },
    {
@@ -12067,11 +14449,16 @@
    }
   ],
   "tags": [
-   "meat",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_330",
@@ -12100,7 +14487,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_503",
@@ -12125,7 +14519,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_322",
@@ -12154,7 +14555,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_328",
@@ -12183,7 +14589,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_324",
@@ -12212,7 +14623,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_504",
@@ -12237,7 +14653,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_323",
@@ -12266,7 +14689,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_329",
@@ -12295,7 +14723,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_325",
@@ -12324,7 +14757,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_327",
@@ -12341,7 +14779,7 @@
   "common_servings": [
    {
     "name": "1 avuç",
-    "grams": 30
+    "grams": 40
    },
    {
     "name": "100 g",
@@ -12353,7 +14791,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_326",
@@ -12370,7 +14812,7 @@
   "common_servings": [
    {
     "name": "1 avuç",
-    "grams": 30
+    "grams": 40
    },
    {
     "name": "100 g",
@@ -12382,7 +14824,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_361",
@@ -12411,7 +14857,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_364",
@@ -12440,7 +14893,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_363",
@@ -12469,7 +14927,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_360",
@@ -12498,7 +14961,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_394",
@@ -12527,7 +14995,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_401",
@@ -12556,7 +15029,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_758",
@@ -12572,12 +15050,12 @@
   },
   "common_servings": [
    {
-    "name": "5 adet",
-    "grams": 20
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "10 adet",
-    "grams": 40
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
   ],
   "tags": [
@@ -12585,7 +15063,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_388",
@@ -12610,11 +15093,16 @@
    }
   ],
   "tags": [
-   "meat",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_389",
@@ -12643,7 +15131,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_390",
@@ -12672,7 +15165,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_391",
@@ -12697,11 +15195,16 @@
    }
   ],
   "tags": [
-   "meat",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_732",
@@ -12754,7 +15257,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_288",
@@ -12778,7 +15285,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_291",
@@ -12806,7 +15317,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_292",
@@ -12834,7 +15349,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_293",
@@ -12862,7 +15381,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_760",
@@ -12891,7 +15418,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_296",
@@ -12919,7 +15455,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_295",
@@ -12948,7 +15493,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_298",
@@ -12976,7 +15530,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_289",
@@ -13005,7 +15563,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_290",
@@ -13034,7 +15596,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_299",
@@ -13062,7 +15628,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_761",
@@ -13091,7 +15661,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_410",
@@ -13120,7 +15698,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_412",
@@ -13149,7 +15734,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_422",
@@ -13177,7 +15769,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_398",
@@ -13193,7 +15792,7 @@
   },
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
+    "name": "1 çay bardağı (100 ml)",
     "grams": 100
    },
    {
@@ -13206,7 +15805,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_411",
@@ -13222,7 +15828,7 @@
   },
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
+    "name": "1 çay bardağı (100 ml)",
     "grams": 100
    },
    {
@@ -13235,7 +15841,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_759",
@@ -13262,7 +15875,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_413",
@@ -13282,7 +15902,7 @@
     "grams": 100
    },
    {
-    "name": "1 bardak (200 ml)",
+    "name": "1 kupa (200 ml)",
     "grams": 200
    }
   ],
@@ -13291,7 +15911,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_415",
@@ -13308,11 +15935,15 @@
   "common_servings": [
    {
     "name": "1 kutu (330 ml)",
-    "grams": 330
+    "grams": 343
    },
    {
-    "name": "1 bardak",
-    "grams": 200
+    "name": "1 bardak (200 ml)",
+    "grams": 208
+   },
+   {
+    "name": "1 şişe (500 ml)",
+    "grams": 520
    }
   ],
   "tags": [
@@ -13320,7 +15951,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_423",
@@ -13344,7 +15982,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_417",
@@ -13360,8 +16005,12 @@
   },
   "common_servings": [
    {
-    "name": "1 bardak",
+    "name": "1 bardak (200 ml)",
     "grams": 200
+   },
+   {
+    "name": "1 şişe (500 ml)",
+    "grams": 500
    }
   ],
   "tags": [
@@ -13369,7 +16018,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_424",
@@ -13393,7 +16049,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_426",
@@ -13417,7 +16080,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_425",
@@ -13441,7 +16111,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_414",
@@ -13466,12 +16143,16 @@
    }
   ],
   "tags": [
-   "beverage",
    "turkish",
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_420",
@@ -13500,7 +16181,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_421",
@@ -13528,7 +16214,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_436",
@@ -13556,7 +16247,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sauce_condiment"
+  "category": "sauce_condiment",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_668",
@@ -13580,7 +16275,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_669",
@@ -13605,7 +16306,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_444",
@@ -13633,7 +16339,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_433",
@@ -13661,7 +16373,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_672",
@@ -13689,7 +16408,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sauce_condiment"
+  "category": "sauce_condiment",
+  "allergens": [
+   "mustard"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_441",
@@ -13704,8 +16427,8 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -13713,11 +16436,15 @@
    }
   ],
   "tags": [
-   "poultry",
+   "nut_seed",
    "turkish",
    "turkomp"
   ],
-  "category": "poultry"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_698",
@@ -13773,7 +16500,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_429",
@@ -13821,7 +16553,7 @@
     "grams": 100
    },
    {
-    "name": "1 bardak (200 ml)",
+    "name": "1 kupa (200 ml)",
     "grams": 200
    }
   ],
@@ -13830,7 +16562,18 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_675",
@@ -13886,7 +16629,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_435",
@@ -13986,12 +16734,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 kase",
     "grams": 250
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 kepçe",
+    "grams": 120
    }
   ],
   "tags": [
@@ -13999,7 +16747,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "prepared"
+  "category": "prepared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_748",
@@ -14015,12 +16768,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 kase",
+    "grams": 250
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 kepçe",
+    "grams": 120
    }
   ],
   "tags": [
@@ -14028,7 +16781,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "legume"
+  "category": "legume",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  },
  {
   "id": "turkomp_438",
@@ -14055,7 +16813,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_427",
@@ -14084,7 +16847,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_428",
@@ -14113,7 +16882,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_670",
@@ -14141,7 +16916,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sauce_condiment"
+  "category": "sauce_condiment",
+  "allergens": [
+   "eggs"
+  ],
+  "allergen_source": "derived"
  },
  {
   "id": "turkomp_739",
@@ -14164,7 +16943,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_439",
@@ -14193,7 +16977,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_442",
@@ -14221,7 +17010,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "allergens": [
+   "soybeans"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_434",
@@ -14249,7 +17046,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_443",
@@ -14274,11 +17078,11 @@
    }
   ],
   "tags": [
-   "meat",
+   "sauce_condiment",
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "sauce_condiment"
  },
  {
   "id": "turkomp_430",
@@ -14364,7 +17168,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_586",
@@ -14393,7 +17201,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "gluten",
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_452",
@@ -14536,7 +17354,18 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_577",
@@ -14564,7 +17393,19 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "allergens": [
+   "milk",
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_595",
@@ -14592,7 +17433,18 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_553",
@@ -14620,7 +17472,18 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_492",
@@ -14636,12 +17499,12 @@
   },
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
   ],
   "tags": [
@@ -14649,7 +17512,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_613",
@@ -14665,12 +17536,12 @@
   },
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
   ],
   "tags": [
@@ -14678,7 +17549,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_682",
@@ -14707,7 +17586,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "gluten",
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_463",
@@ -14736,7 +17624,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "gluten",
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_465",
@@ -14765,7 +17663,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_601",
@@ -14794,7 +17699,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_523",
@@ -14819,7 +17732,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_552",
@@ -14847,7 +17770,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_456",
@@ -14875,7 +17807,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_499",
@@ -14904,7 +17845,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_574",
@@ -14933,7 +17878,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_583",
@@ -14962,7 +17912,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_580",
@@ -14989,7 +17943,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_604",
@@ -15017,7 +17979,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_615",
@@ -15045,7 +18011,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_563",
@@ -15073,7 +18043,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_547",
@@ -15101,7 +18080,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_544",
@@ -15129,7 +18117,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_591",
@@ -15157,7 +18154,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_468",
@@ -15215,7 +18221,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_602",
@@ -15230,20 +18241,27 @@
   },
   "common_servings": [
    {
-    "name": "1 yemek kaşığı",
-    "grams": 15
+    "name": "1 bardak (200 ml)",
+    "grams": 200
    },
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 5
+    "name": "1 şişe (500 ml)",
+    "grams": 500
    }
   ],
   "tags": [
-   "sauce_condiment",
+   "beverage",
    "turkish",
    "turkomp"
   ],
-  "category": "sauce_condiment"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_530",
@@ -15272,7 +18290,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_461",
@@ -15301,7 +18324,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_529",
@@ -15330,7 +18358,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_582",
@@ -15359,7 +18392,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_496",
@@ -15387,7 +18425,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_565",
@@ -15416,7 +18458,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_616",
@@ -15444,7 +18490,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_617",
@@ -15472,7 +18522,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_618",
@@ -15500,7 +18554,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_636",
@@ -15529,7 +18587,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_635",
@@ -15558,7 +18624,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_637",
@@ -15587,7 +18661,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_464",
@@ -15615,7 +18697,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_621",
@@ -15643,7 +18734,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_634",
@@ -15672,7 +18772,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_632",
@@ -15701,7 +18809,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_633",
@@ -15730,7 +18846,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_600",
@@ -15759,7 +18883,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_519",
@@ -15788,7 +18920,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_644",
@@ -15817,7 +18957,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_471",
@@ -15846,7 +18990,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "nuts",
+   "peanuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_472",
@@ -15862,6 +19015,10 @@
   },
   "common_servings": [
    {
+    "name": "1 tabak",
+    "grams": 300
+   },
+   {
     "name": "1 porsiyon",
     "grams": 250
    },
@@ -15875,7 +19032,18 @@
    "turkish",
    "turkomp"
   ],
-  "category": "prepared"
+  "category": "prepared",
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_622",
@@ -15891,6 +19059,10 @@
   },
   "common_servings": [
    {
+    "name": "1 tabak",
+    "grams": 300
+   },
+   {
     "name": "1 porsiyon",
     "grams": 250
    },
@@ -15904,7 +19076,18 @@
    "turkish",
    "turkomp"
   ],
-  "category": "prepared"
+  "category": "prepared",
+  "allergens": [
+   "eggs",
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_587",
@@ -15931,7 +19114,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_578",
@@ -15960,7 +19151,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_631",
@@ -15989,7 +19188,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_629",
@@ -16018,7 +19225,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_534",
@@ -16047,7 +19262,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_532",
@@ -16076,7 +19296,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_473",
@@ -16105,7 +19330,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_612",
@@ -16133,7 +19363,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_579",
@@ -16162,7 +19396,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_603",
@@ -16191,7 +19429,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_495",
@@ -16220,7 +19462,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_567",
@@ -16249,7 +19495,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_560",
@@ -16278,7 +19528,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_469",
@@ -16307,7 +19561,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_451",
@@ -16336,7 +19594,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_528",
@@ -16365,7 +19627,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_540",
@@ -16394,7 +19660,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_527",
@@ -16423,7 +19693,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_525",
@@ -16452,7 +19726,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_564",
@@ -16481,7 +19759,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_561",
@@ -16510,7 +19793,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_536",
@@ -16539,7 +19827,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_526",
@@ -16568,7 +19861,12 @@
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "fruit",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_454",
@@ -16596,7 +19894,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_566",
@@ -16624,7 +19931,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_554",
@@ -16652,7 +19968,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_459",
@@ -16677,7 +20002,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_588",
@@ -16701,7 +20030,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_477",
@@ -16728,7 +20061,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_623",
@@ -16757,7 +20097,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_627",
@@ -16786,7 +20136,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_569",
@@ -16815,7 +20173,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_628",
@@ -16844,7 +20210,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_598",
@@ -16860,12 +20234,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
   ],
   "tags": [
@@ -16873,7 +20247,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "sesame"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_640",
@@ -16889,12 +20271,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
   ],
   "tags": [
@@ -16902,7 +20284,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "sesame"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_597",
@@ -16918,12 +20308,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
   ],
   "tags": [
@@ -16931,7 +20321,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "sesame"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_440",
@@ -16947,12 +20345,12 @@
   },
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
   ],
   "tags": [
@@ -16960,7 +20358,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "sesame"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_638",
@@ -16976,12 +20382,12 @@
   },
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 yemek kaşığı",
+    "grams": 16
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 6
    }
   ],
   "tags": [
@@ -16989,7 +20395,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed"
+  "category": "nut_seed",
+  "allergens": [
+   "sesame"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_481",
@@ -17017,7 +20431,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_584",
@@ -17033,8 +20454,8 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 avuç",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -17042,11 +20463,15 @@
    }
   ],
   "tags": [
-   "meat",
+   "nut_seed",
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "nut_seed",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_641",
@@ -17075,7 +20500,18 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten",
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_545",
@@ -17104,7 +20540,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_546",
@@ -17133,7 +20579,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_548",
@@ -17162,7 +20618,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_487",
@@ -17182,7 +20648,7 @@
     "grams": 100
    },
    {
-    "name": "1 bardak (200 ml)",
+    "name": "1 kupa (200 ml)",
     "grams": 200
    }
   ],
@@ -17191,7 +20657,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_599",
@@ -17220,7 +20693,12 @@
    "turkomp",
    "vegetable"
   ],
-  "category": "vegetable"
+  "category": "vegetable",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 10
  },
  {
   "id": "turkomp_684",
@@ -17249,7 +20727,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "meat"
+  "category": "meat",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "turkomp_575",
@@ -17274,11 +20756,16 @@
    }
   ],
   "tags": [
-   "fruit",
+   "prepared",
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "prepared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_571",
@@ -17303,11 +20790,16 @@
    }
   ],
   "tags": [
-   "fruit",
+   "prepared",
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "prepared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_572",
@@ -17332,11 +20824,16 @@
    }
   ],
   "tags": [
-   "fruit",
+   "prepared",
    "turkish",
    "turkomp"
   ],
-  "category": "fruit"
+  "category": "prepared",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_619",
@@ -17365,7 +20862,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_620",
@@ -17394,7 +20899,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_590",
@@ -17423,7 +20936,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "nuts"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_489",
@@ -17451,7 +20972,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_592",
@@ -17479,7 +21009,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_559",
@@ -17507,7 +21046,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_642",
@@ -17535,7 +21083,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_558",
@@ -17563,7 +21120,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_488",
@@ -17592,7 +21158,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_661",
@@ -17621,7 +21191,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_655",
@@ -17649,7 +21227,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_651",
@@ -17678,7 +21264,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_645",
@@ -17706,7 +21300,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_646",
@@ -17734,7 +21336,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_660",
@@ -17763,7 +21373,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_649",
@@ -17792,7 +21412,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_653",
@@ -17820,7 +21450,14 @@
    "turkish",
    "turkomp"
   ],
-  "category": "beverage"
+  "category": "beverage",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_663",
@@ -17845,7 +21482,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_648",
@@ -17870,7 +21517,17 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_652",
@@ -17899,7 +21556,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_647",
@@ -17923,7 +21586,11 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sweet"
+  "category": "sweet",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_654",
@@ -17952,7 +21619,16 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "turkomp_681",
@@ -18038,7 +21714,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_650",
@@ -18067,7 +21749,13 @@
    "turkish",
    "turkomp"
   ],
-  "category": "grain"
+  "category": "grain",
+  "meal_type_tags": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 15
  },
  {
   "id": "turkomp_659",
@@ -18096,6 +21784,15 @@
    "turkish",
    "turkomp"
   ],
-  "category": "dairy"
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  }
 ]
