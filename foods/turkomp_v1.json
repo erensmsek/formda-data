@@ -89,20 +89,20 @@
   },
   "common_servings": [
    {
-    "name": "1 yemek kaşığı",
-    "grams": 14
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 5
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "tags": [
-   "oil_fat",
+   "dairy",
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat",
+  "category": "dairy",
   "allergens": [
    "milk"
   ],
@@ -388,20 +388,20 @@
   },
   "common_servings": [
    {
-    "name": "1 yemek kaşığı",
-    "grams": 14
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 5
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "tags": [
-   "oil_fat",
+   "dairy",
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat",
+  "category": "dairy",
   "allergens": [
    "milk"
   ],
@@ -458,20 +458,20 @@
   },
   "common_servings": [
    {
-    "name": "1 yemek kaşığı",
-    "grams": 14
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 5
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "tags": [
-   "oil_fat",
+   "dairy",
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat",
+  "category": "dairy",
   "allergens": [
    "milk"
   ],
@@ -491,20 +491,20 @@
   },
   "common_servings": [
    {
-    "name": "1 yemek kaşığı",
-    "grams": 14
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 5
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "tags": [
-   "oil_fat",
+   "dairy",
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat",
+  "category": "dairy",
   "allergens": [
    "milk"
   ],
@@ -524,20 +524,20 @@
   },
   "common_servings": [
    {
-    "name": "1 yemek kaşığı",
-    "grams": 14
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 5
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "tags": [
-   "oil_fat",
+   "dairy",
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat",
+  "category": "dairy",
   "allergens": [
    "milk"
   ],
@@ -706,20 +706,20 @@
   },
   "common_servings": [
    {
-    "name": "1 yemek kaşığı",
-    "grams": 14
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 5
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "tags": [
-   "oil_fat",
+   "dairy",
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat",
+  "category": "dairy",
   "allergens": [
    "milk"
   ],
@@ -849,11 +849,11 @@
    }
   ],
   "tags": [
-   "oil_fat",
+   "dairy",
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat",
+  "category": "dairy",
   "allergens": [
    "milk"
   ],
@@ -882,11 +882,11 @@
    }
   ],
   "tags": [
-   "oil_fat",
+   "dairy",
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat",
+  "category": "dairy",
   "allergens": [
    "milk"
   ],
@@ -1521,8 +1521,12 @@
   },
   "common_servings": [
    {
+    "name": "1 tabak",
+    "grams": 300
+   },
+   {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 250
    },
    {
     "name": "100 g",
@@ -1530,11 +1534,11 @@
    }
   ],
   "tags": [
-   "meat",
+   "prepared",
    "turkish",
    "turkomp"
   ],
-  "category": "meat",
+  "category": "prepared",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -1553,8 +1557,12 @@
   },
   "common_servings": [
    {
+    "name": "1 tabak",
+    "grams": 300
+   },
+   {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 250
    },
    {
     "name": "100 g",
@@ -1562,11 +1570,11 @@
    }
   ],
   "tags": [
-   "poultry",
+   "prepared",
    "turkish",
    "turkomp"
   ],
-  "category": "poultry",
+  "category": "prepared",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -1628,11 +1636,11 @@
    }
   ],
   "tags": [
-   "poultry",
+   "meat",
    "turkish",
    "turkomp"
   ],
-  "category": "poultry",
+  "category": "meat",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -1661,11 +1669,11 @@
    }
   ],
   "tags": [
-   "poultry",
+   "meat",
    "turkish",
    "turkomp"
   ],
-  "category": "poultry",
+  "category": "meat",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -1727,11 +1735,11 @@
    }
   ],
   "tags": [
-   "poultry",
+   "meat",
    "turkish",
    "turkomp"
   ],
-  "category": "poultry",
+  "category": "meat",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -1760,11 +1768,11 @@
    }
   ],
   "tags": [
-   "poultry",
+   "meat",
    "turkish",
    "turkomp"
   ],
-  "category": "poultry",
+  "category": "meat",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -1890,11 +1898,11 @@
    }
   ],
   "tags": [
-   "poultry",
+   "meat",
    "turkish",
    "turkomp"
   ],
-  "category": "poultry",
+  "category": "meat",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -1923,11 +1931,11 @@
    }
   ],
   "tags": [
-   "poultry",
+   "meat",
    "turkish",
    "turkomp"
   ],
-  "category": "poultry",
+  "category": "meat",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -1947,8 +1955,12 @@
   },
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
+    "name": "1 dilim",
     "grams": 15
+   },
+   {
+    "name": "1 porsiyon",
+    "grams": 50
    }
   ],
   "tags": [
@@ -1976,16 +1988,20 @@
   },
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
+    "name": "1 dilim",
     "grams": 15
+   },
+   {
+    "name": "1 porsiyon",
+    "grams": 50
    }
   ],
   "tags": [
-   "poultry",
+   "meat",
    "turkish",
    "turkomp"
   ],
-  "category": "poultry",
+  "category": "meat",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -2005,8 +2021,12 @@
   },
   "common_servings": [
    {
+    "name": "1 tabak",
+    "grams": 300
+   },
+   {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 250
    },
    {
     "name": "100 g",
@@ -2014,11 +2034,11 @@
    }
   ],
   "tags": [
-   "meat",
+   "prepared",
    "turkish",
    "turkomp"
   ],
-  "category": "meat",
+  "category": "prepared",
   "allergens": [
    "gluten"
   ],
@@ -3192,8 +3212,12 @@
   },
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -3233,11 +3257,11 @@
    }
   ],
   "tags": [
-   "fish_seafood",
+   "legume",
    "turkish",
    "turkomp"
   ],
-  "category": "fish_seafood",
+  "category": "legume",
   "allergens": [
    "fish"
   ],
@@ -3364,20 +3388,20 @@
   },
   "common_servings": [
    {
-    "name": "1 yemek kaşığı",
-    "grams": 14
+    "name": "1 porsiyon",
+    "grams": 150
    },
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 5
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
-   "oil_fat",
+   "fish_seafood",
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat",
+  "category": "fish_seafood",
   "allergens": [
    "fish"
   ],
@@ -3756,20 +3780,20 @@
   },
   "common_servings": [
    {
-    "name": "1 yemek kaşığı",
-    "grams": 14
+    "name": "1 porsiyon",
+    "grams": 150
    },
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 5
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
-   "oil_fat",
+   "fish_seafood",
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat",
+  "category": "fish_seafood",
   "allergens": [
    "fish"
   ],
@@ -3820,16 +3844,20 @@
   },
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
-   "oil_fat",
+   "fish_seafood",
    "turkish",
    "turkomp"
   ],
-  "category": "oil_fat",
+  "category": "fish_seafood",
   "allergens": [
    "fish"
   ],
@@ -4388,20 +4416,20 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 porsiyon",
-    "grams": 60
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "tags": [
-   "dairy",
+   "grain",
    "turkish",
    "turkomp"
   ],
-  "category": "dairy",
+  "category": "grain",
   "allergens": [
    "gluten",
    "milk"
@@ -5393,11 +5421,11 @@
    }
   ],
   "tags": [
-   "egg",
+   "grain",
    "turkish",
    "turkomp"
   ],
-  "category": "egg",
+  "category": "grain",
   "allergens": [
    "eggs",
    "gluten"
@@ -5709,19 +5737,19 @@
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 50
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "tags": [
-   "sweet",
+   "grain",
    "turkish",
    "turkomp"
   ],
-  "category": "sweet",
+  "category": "grain",
   "meal_type_tags": [
    "snack"
   ],
@@ -7109,20 +7137,20 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "tags": [
+   "sauce_condiment",
    "turkish",
-   "turkomp",
-   "vegetable"
+   "turkomp"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -7982,20 +8010,20 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "tags": [
+   "sauce_condiment",
    "turkish",
-   "turkomp",
-   "vegetable"
+   "turkomp"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -8154,7 +8182,7 @@
   },
   "common_servings": [
    {
-    "name": "1 orta boy",
+    "name": "1 porsiyon",
     "grams": 150
    },
    {
@@ -8163,11 +8191,11 @@
    }
   ],
   "tags": [
-   "fruit",
    "turkish",
-   "turkomp"
+   "turkomp",
+   "vegetable"
   ],
-  "category": "fruit",
+  "category": "vegetable",
   "meal_type_tags": [
    "breakfast",
    "snack"
@@ -8796,8 +8824,12 @@
   },
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -8899,7 +8931,7 @@
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 50
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -8907,11 +8939,11 @@
    }
   ],
   "tags": [
-   "sweet",
    "turkish",
-   "turkomp"
+   "turkomp",
+   "vegetable"
   ],
-  "category": "sweet",
+  "category": "vegetable",
   "meal_type_tags": [
    "snack"
   ],
@@ -9038,11 +9070,11 @@
    }
   ],
   "tags": [
-   "nut_seed",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed",
+  "category": "fruit",
   "meal_type_tags": [
    "snack"
   ],
@@ -9067,11 +9099,11 @@
    }
   ],
   "tags": [
-   "nut_seed",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed",
+  "category": "fruit",
   "meal_type_tags": [
    "snack"
   ],
@@ -9096,11 +9128,11 @@
    }
   ],
   "tags": [
-   "nut_seed",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed",
+  "category": "fruit",
   "meal_type_tags": [
    "snack"
   ],
@@ -9970,19 +10002,19 @@
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 50
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "tags": [
-   "sweet",
+   "grain",
    "turkish",
    "turkomp"
   ],
-  "category": "sweet",
+  "category": "grain",
   "meal_type_tags": [
    "snack"
   ],
@@ -10003,19 +10035,19 @@
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 50
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "tags": [
-   "sweet",
+   "grain",
    "turkish",
    "turkomp"
   ],
-  "category": "sweet",
+  "category": "grain",
   "meal_type_tags": [
    "snack"
   ],
@@ -10036,19 +10068,19 @@
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 50
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "tags": [
-   "sweet",
+   "grain",
    "turkish",
    "turkomp"
   ],
-  "category": "sweet",
+  "category": "grain",
   "meal_type_tags": [
    "snack"
   ],
@@ -10239,7 +10271,7 @@
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 50
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -10247,11 +10279,11 @@
    }
   ],
   "tags": [
-   "sweet",
    "turkish",
-   "turkomp"
+   "turkomp",
+   "vegetable"
   ],
-  "category": "sweet",
+  "category": "vegetable",
   "meal_type_tags": [
    "snack"
   ],
@@ -10348,11 +10380,11 @@
    }
   ],
   "tags": [
-   "meat",
    "turkish",
-   "turkomp"
+   "turkomp",
+   "vegetable"
   ],
-  "category": "meat",
+  "category": "vegetable",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -10373,19 +10405,19 @@
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 100
+    "grams": 150
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
-   "grain",
    "turkish",
-   "turkomp"
+   "turkomp",
+   "vegetable"
   ],
-  "category": "grain",
+  "category": "vegetable",
   "allergens": [
    "gluten"
   ],
@@ -11058,8 +11090,12 @@
   },
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -11156,8 +11192,8 @@
   },
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -11165,11 +11201,11 @@
    }
   ],
   "tags": [
-   "nut_seed",
    "turkish",
-   "turkomp"
+   "turkomp",
+   "vegetable"
   ],
-  "category": "nut_seed",
+  "category": "vegetable",
   "allergens": [
    "nuts"
   ],
@@ -11290,20 +11326,20 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "tags": [
+   "sauce_condiment",
    "turkish",
-   "turkomp",
-   "vegetable"
+   "turkomp"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -11324,20 +11360,20 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "tags": [
-   "legume",
+   "sauce_condiment",
    "turkish",
    "turkomp"
   ],
-  "category": "legume",
+  "category": "sauce_condiment",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -11358,20 +11394,20 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "tags": [
+   "sauce_condiment",
    "turkish",
-   "turkomp",
-   "vegetable"
+   "turkomp"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -11420,20 +11456,20 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "tags": [
+   "sauce_condiment",
    "turkish",
-   "turkomp",
-   "vegetable"
+   "turkomp"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -11454,20 +11490,20 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "tags": [
+   "sauce_condiment",
    "turkish",
-   "turkomp",
-   "vegetable"
+   "turkomp"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -11732,12 +11768,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 150
    },
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -11895,8 +11931,8 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 avuç",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -11904,11 +11940,11 @@
    }
   ],
   "tags": [
-   "sweet",
+   "nut_seed",
    "turkish",
    "turkomp"
   ],
-  "category": "sweet",
+  "category": "nut_seed",
   "allergens": [
    "nuts"
   ],
@@ -12475,11 +12511,11 @@
    }
   ],
   "tags": [
-   "sweet",
+   "nut_seed",
    "turkish",
    "turkomp"
   ],
-  "category": "sweet",
+  "category": "nut_seed",
   "allergens": [
    "nuts"
   ],
@@ -14095,8 +14131,8 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 150
+    "name": "1 tatlı kaşığı",
+    "grams": 15
    }
   ],
   "tags": [
@@ -14510,16 +14546,20 @@
   },
   "common_servings": [
    {
-    "name": "1 kadeh (150 ml)",
-    "grams": 148
+    "name": "1 orta boy",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
-   "beverage",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "beverage",
+  "category": "fruit",
   "meal_type_tags": [
    "breakfast",
    "lunch",
@@ -14644,16 +14684,20 @@
   },
   "common_servings": [
    {
-    "name": "1 kadeh (150 ml)",
-    "grams": 148
+    "name": "1 orta boy",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
-   "beverage",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "beverage",
+  "category": "fruit",
   "meal_type_tags": [
    "breakfast",
    "lunch",
@@ -14787,11 +14831,11 @@
    }
   ],
   "tags": [
-   "nut_seed",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed",
+  "category": "fruit",
   "meal_type_tags": [
    "snack"
   ],
@@ -14820,11 +14864,11 @@
    }
   ],
   "tags": [
-   "nut_seed",
+   "fruit",
    "turkish",
    "turkomp"
   ],
-  "category": "nut_seed",
+  "category": "fruit",
   "meal_type_tags": [
    "snack"
   ],
@@ -15792,12 +15836,16 @@
   },
   "common_servings": [
    {
-    "name": "1 çay bardağı (100 ml)",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -15828,12 +15876,16 @@
   },
   "common_servings": [
    {
-    "name": "1 çay bardağı (100 ml)",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -15898,12 +15950,16 @@
   },
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 kupa (200 ml)",
-    "grams": 200
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -16271,11 +16327,11 @@
    }
   ],
   "tags": [
-   "grain",
+   "snack",
    "turkish",
    "turkomp"
   ],
-  "category": "grain",
+  "category": "snack",
   "meal_type_tags": [
    "breakfast",
    "lunch",
@@ -16302,11 +16358,11 @@
    }
   ],
   "tags": [
+   "snack",
    "turkish",
-   "turkomp",
-   "vegetable"
+   "turkomp"
   ],
-  "category": "vegetable",
+  "category": "snack",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -16360,12 +16416,16 @@
   },
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 210
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 525
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -16549,12 +16609,16 @@
   },
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 kupa (200 ml)",
-    "grams": 200
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -16734,12 +16798,16 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 250
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 kepçe",
-    "grams": 120
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -16768,20 +16836,24 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 250
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 kepçe",
-    "grams": 120
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
-   "legume",
+   "prepared",
    "turkish",
    "turkomp"
   ],
-  "category": "legume",
+  "category": "prepared",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -16939,11 +17011,11 @@
    }
   ],
   "tags": [
-   "fruit",
+   "sauce_condiment",
    "turkish",
    "turkomp"
   ],
-  "category": "fruit",
+  "category": "sauce_condiment",
   "meal_type_tags": [
    "breakfast",
    "snack"
@@ -16964,20 +17036,20 @@
   },
   "common_servings": [
    {
-    "name": "1 orta boy",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "tags": [
-   "fruit",
+   "sauce_condiment",
    "turkish",
    "turkomp"
   ],
-  "category": "fruit",
+  "category": "sauce_condiment",
   "meal_type_tags": [
    "breakfast",
    "snack"
@@ -17033,12 +17105,16 @@
   },
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 210
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 525
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -17069,12 +17145,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim",
+    "name": "1 yemek kaşığı",
     "grams": 15
    },
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "tags": [
@@ -17865,20 +17941,20 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "tags": [
+   "sauce_condiment",
    "turkish",
-   "turkomp",
-   "vegetable"
+   "turkomp"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -17966,8 +18042,12 @@
   },
   "common_servings": [
    {
+    "name": "1 tabak",
+    "grams": 300
+   },
+   {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 250
    },
    {
     "name": "100 g",
@@ -17975,11 +18055,11 @@
    }
   ],
   "tags": [
-   "meat",
+   "prepared",
    "turkish",
    "turkomp"
   ],
-  "category": "meat",
+  "category": "prepared",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -17998,8 +18078,12 @@
   },
   "common_servings": [
    {
+    "name": "1 tabak",
+    "grams": 300
+   },
+   {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 250
    },
    {
     "name": "100 g",
@@ -18007,11 +18091,11 @@
    }
   ],
   "tags": [
-   "meat",
+   "prepared",
    "turkish",
    "turkomp"
   ],
-  "category": "meat",
+  "category": "prepared",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -18379,20 +18463,20 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "tags": [
+   "sauce_condiment",
    "turkish",
-   "turkomp",
-   "vegetable"
+   "turkomp"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -19350,8 +19434,12 @@
   },
   "common_servings": [
    {
+    "name": "1 tabak",
+    "grams": 300
+   },
+   {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 250
    },
    {
     "name": "100 g",
@@ -19359,11 +19447,11 @@
    }
   ],
   "tags": [
-   "meat",
+   "prepared",
    "turkish",
    "turkomp"
   ],
-  "category": "meat",
+  "category": "prepared",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -20048,12 +20136,16 @@
   },
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 206
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 515
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -20644,12 +20736,16 @@
   },
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 kupa (200 ml)",
-    "grams": 200
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -20680,20 +20776,20 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "tags": [
+   "sauce_condiment",
    "turkish",
-   "turkomp",
-   "vegetable"
+   "turkomp"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -20714,8 +20810,12 @@
   },
   "common_servings": [
    {
+    "name": "1 tabak",
+    "grams": 300
+   },
+   {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 250
    },
    {
     "name": "100 g",
@@ -20723,11 +20823,11 @@
    }
   ],
   "tags": [
-   "meat",
+   "prepared",
    "turkish",
    "turkomp"
   ],
-  "category": "meat",
+  "category": "prepared",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -20747,12 +20847,16 @@
   },
   "common_servings": [
    {
-    "name": "5 adet",
-    "grams": 20
+    "name": "1 tabak",
+    "grams": 300
    },
    {
-    "name": "10 adet",
-    "grams": 40
+    "name": "1 porsiyon",
+    "grams": 250
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -20781,12 +20885,16 @@
   },
   "common_servings": [
    {
-    "name": "5 adet",
-    "grams": 20
+    "name": "1 tabak",
+    "grams": 300
    },
    {
-    "name": "10 adet",
-    "grams": 40
+    "name": "1 porsiyon",
+    "grams": 250
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [
@@ -20815,12 +20923,16 @@
   },
   "common_servings": [
    {
-    "name": "5 adet",
-    "grams": 20
+    "name": "1 tabak",
+    "grams": 300
    },
    {
-    "name": "10 adet",
-    "grams": 40
+    "name": "1 porsiyon",
+    "grams": 250
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "tags": [

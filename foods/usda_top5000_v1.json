@@ -1714,7 +1714,7 @@
   "id": "usda_168773",
   "name_tr": "Egg custards, dry mix, prepared with whole milk",
   "name_en": "Egg custards, dry mix, prepared with whole milk",
-  "category": "dairy",
+  "category": "egg",
   "source": "usda",
   "per_100g": {
    "fiber_g": 0.0,
@@ -1726,17 +1726,17 @@
    "calories_kcal": 122.0
   },
   "tags": [
-   "dairy",
+   "egg",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 100
+    "name": "1 adet",
+    "grams": 55
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "2 adet",
+    "grams": 110
    }
   ],
   "allergens": [
@@ -1754,7 +1754,7 @@
   "id": "usda_168787",
   "name_tr": "Egg custards, dry mix, prepared with 2% milk",
   "name_en": "Egg custards, dry mix, prepared with 2% milk",
-  "category": "dairy",
+  "category": "egg",
   "source": "usda",
   "per_100g": {
    "fiber_g": 0.0,
@@ -1766,17 +1766,17 @@
    "calories_kcal": 112.0
   },
   "tags": [
-   "dairy",
+   "egg",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 100
+    "name": "1 adet",
+    "grams": 55
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "2 adet",
+    "grams": 110
    }
   ],
   "allergens": [
@@ -2595,7 +2595,7 @@
   "id": "usda_2261420",
   "name_tr": "Flour, almond",
   "name_en": "Flour, almond",
-  "category": "nut_seed",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "sodium_mg": 0.894,
@@ -2606,17 +2606,17 @@
    "calories_kcal": 622.0
   },
   "tags": [
-   "nut_seed",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -2945,7 +2945,7 @@
   "id": "usda_174980",
   "name_tr": "Crackers, milk",
   "name_en": "Crackers, milk",
-  "category": "dairy",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "sodium_mg": 687.0,
@@ -2957,7 +2957,7 @@
    "calories_kcal": 446.0
   },
   "tags": [
-   "dairy",
+   "grain",
    "usda"
   ],
   "common_servings": [
@@ -2985,7 +2985,7 @@
   "id": "usda_172741",
   "name_tr": "Crackers, matzo, egg",
   "name_en": "Crackers, matzo, egg",
-  "category": "egg",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fiber_g": 2.8,
@@ -2996,7 +2996,7 @@
    "calories_kcal": 391.0
   },
   "tags": [
-   "egg",
+   "grain",
    "usda"
   ],
   "common_servings": [
@@ -3303,7 +3303,7 @@
   "id": "usda_172673",
   "name_tr": "Bread, egg",
   "name_en": "Bread, egg",
-  "category": "egg",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "sugar_g": 1.78,
@@ -3315,7 +3315,7 @@
    "calories_kcal": 287.0
   },
   "tags": [
-   "egg",
+   "grain",
    "usda"
   ],
   "common_servings": [
@@ -3542,7 +3542,7 @@
   "id": "usda_172674",
   "name_tr": "Bread, egg, toasted",
   "name_en": "Bread, egg, toasted",
-  "category": "egg",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fiber_g": 2.5,
@@ -3554,7 +3554,7 @@
    "calories_kcal": 315.0
   },
   "tags": [
-   "egg",
+   "grain",
    "usda"
   ],
   "common_servings": [
@@ -3926,7 +3926,7 @@
    "sodium_mg": 48.1,
    "fat_g": 4.78,
    "protein_g": 21.4,
-   "carbs_g": -0.428,
+   "carbs_g": 0.0,
    "calories_kcal": 127.0
   },
   "tags": [
@@ -4090,7 +4090,7 @@
    "sodium_mg": 84.1,
    "fat_g": 10.6,
    "protein_g": 18.4,
-   "carbs_g": -0.459,
+   "carbs_g": 0.0,
    "calories_kcal": 168.0
   },
   "tags": [
@@ -4156,7 +4156,7 @@
    "sodium_mg": 63.6,
    "fat_g": 13.4,
    "protein_g": 17.1,
-   "carbs_g": -0.173,
+   "carbs_g": 0.0,
    "calories_kcal": 188.0
   },
   "tags": [
@@ -4221,7 +4221,7 @@
    "sodium_mg": 91.0,
    "fat_g": 5.94,
    "protein_g": 18.4,
-   "carbs_g": -0.475,
+   "carbs_g": 0.0,
    "calories_kcal": 125.0
   },
   "tags": [
@@ -4365,8 +4365,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ]
  },
@@ -4951,16 +4955,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 kutu (330 ml)",
-    "grams": 343
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 208
+    "name": "1 yemek kaşığı",
+    "grams": 12
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 520
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -5258,12 +5262,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 çay bardağı (100 ml)",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -5365,12 +5373,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 kupa (200 ml)",
-    "grams": 200
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -5513,16 +5525,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 kutu (330 ml)",
-    "grams": 422
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 256
+    "name": "1 yemek kaşığı",
+    "grams": 12
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 640
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -5669,12 +5681,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 500
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -5779,12 +5795,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 500
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -5816,12 +5836,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 500
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -6522,12 +6546,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 200
+    "name": "1 porsiyon",
+    "grams": 50
    },
    {
-    "name": "1 yemek kaşığı",
-    "grams": 25
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -6581,7 +6605,7 @@
   "id": "usda_169637",
   "name_tr": "Candies, milk chocolate coated coffee beans",
   "name_en": "Candies, milk chocolate coated coffee beans",
-  "category": "beverage",
+  "category": "sweet",
   "source": "usda",
   "per_100g": {
    "protein_g": 7.41,
@@ -6593,21 +6617,17 @@
    "calories_kcal": 549.0
   },
   "tags": [
-   "beverage",
+   "sweet",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 kutu (330 ml)",
-    "grams": 343
+    "name": "1 kare",
+    "grams": 8
    },
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 208
-   },
-   {
-    "name": "1 şişe (500 ml)",
-    "grams": 520
+    "name": "1 bar",
+    "grams": 40
    }
   ],
   "allergens": [
@@ -7068,7 +7088,7 @@
   "id": "usda_171677",
   "name_tr": "Cereals, whole wheat hot natural cereal, cooked with water",
   "name_en": "Cereals, whole wheat hot natural cereal, cooked with water",
-  "category": "beverage",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fat_g": 0.4,
@@ -7080,17 +7100,17 @@
    "calories_kcal": 62.0
   },
   "tags": [
-   "beverage",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 500
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -7180,7 +7200,7 @@
   "id": "usda_173900",
   "name_tr": "Cereals, CREAM OF RICE, dry",
   "name_en": "Cereals, CREAM OF RICE, dry",
-  "category": "dairy",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "sugar_g": 0.3,
@@ -7192,7 +7212,7 @@
    "calories_kcal": 370.0
   },
   "tags": [
-   "dairy",
+   "grain",
    "usda"
   ],
   "common_servings": [
@@ -7215,7 +7235,7 @@
   "id": "usda_171660",
   "name_tr": "Cereals, CREAM OF WHEAT, instant",
   "name_en": "Cereals, CREAM OF WHEAT, instant",
-  "category": "dairy",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "sugar_g": 0.4,
@@ -7227,7 +7247,7 @@
    "calories_kcal": 366.0
   },
   "tags": [
-   "dairy",
+   "grain",
    "usda"
   ],
   "common_servings": [
@@ -7255,7 +7275,7 @@
   "id": "usda_173901",
   "name_tr": "Cereals, CREAM OF WHEAT, regular",
   "name_en": "Cereals, CREAM OF WHEAT, regular",
-  "category": "dairy",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "sugar_g": 0.2,
@@ -7267,7 +7287,7 @@
    "calories_kcal": 370.0
   },
   "tags": [
-   "dairy",
+   "grain",
    "usda"
   ],
   "common_servings": [
@@ -7295,7 +7315,7 @@
   "id": "usda_173914",
   "name_tr": "Cereals, CREAM OF RICE, cooked with water",
   "name_en": "Cereals, CREAM OF RICE, cooked with water",
-  "category": "beverage",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fiber_g": 0.1,
@@ -7307,17 +7327,13 @@
    "calories_kcal": 52.0
   },
   "tags": [
-   "beverage",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
-   },
-   {
-    "name": "1 şişe (500 ml)",
-    "grams": 500
+    "name": "1 porsiyon (pişmiş)",
+    "grams": 180
    }
   ],
   "allergens": [
@@ -7336,7 +7352,7 @@
   "id": "usda_173012",
   "name_tr": "Cereals, CREAM OF WHEAT, 1 minute cook time",
   "name_en": "Cereals, CREAM OF WHEAT, 1 minute cook time",
-  "category": "dairy",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fat_g": 0.37,
@@ -7348,7 +7364,7 @@
    "calories_kcal": 55.0
   },
   "tags": [
-   "dairy",
+   "grain",
    "usda"
   ],
   "common_servings": [
@@ -7376,7 +7392,7 @@
   "id": "usda_173915",
   "name_tr": "Cereals, CREAM OF WHEAT, regular (10 minute)",
   "name_en": "Cereals, CREAM OF WHEAT, regular (10 minute)",
-  "category": "dairy",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "protein_g": 1.46,
@@ -7388,7 +7404,7 @@
    "calories_kcal": 50.0
   },
   "tags": [
-   "dairy",
+   "grain",
    "usda"
   ],
   "common_servings": [
@@ -7456,7 +7472,7 @@
   "id": "usda_173009",
   "name_tr": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time",
   "name_en": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time",
-  "category": "dairy",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "protein_g": 1.88,
@@ -7468,7 +7484,7 @@
    "calories_kcal": 52.0
   },
   "tags": [
-   "dairy",
+   "grain",
    "usda"
   ],
   "common_servings": [
@@ -7496,7 +7512,7 @@
   "id": "usda_171659",
   "name_tr": "Cereals, farina, assorted brands including CREAM OF WHEAT",
   "name_en": "Cereals, farina, assorted brands including CREAM OF WHEAT",
-  "category": "dairy",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "protein_g": 1.82,
@@ -7508,7 +7524,7 @@
    "calories_kcal": 55.0
   },
   "tags": [
-   "dairy",
+   "grain",
    "usda"
   ],
   "common_servings": [
@@ -7536,7 +7552,7 @@
   "id": "usda_172999",
   "name_tr": "Cereals, MALT-O-MEAL, Maple & Brown Sugar Hot Wheat Cereal",
   "name_en": "Cereals, MALT-O-MEAL, Maple & Brown Sugar Hot Wheat Cereal",
-  "category": "sweet",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fat_g": 0.47,
@@ -7548,17 +7564,17 @@
    "calories_kcal": 368.0
   },
   "tags": [
-   "sweet",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 50
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -8122,7 +8138,7 @@
   "id": "usda_173894",
   "name_tr": "Cereals ready-to-eat, POST, Honey Nut Shredded Wheat",
   "name_en": "Cereals ready-to-eat, POST, Honey Nut Shredded Wheat",
-  "category": "sweet",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fiber_g": 10.7,
@@ -8134,13 +8150,17 @@
    "calories_kcal": 373.0
   },
   "tags": [
-   "sweet",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -8312,7 +8332,7 @@
   "id": "usda_169039",
   "name_tr": "Cereals ready-to-eat, frosted oat cereal with marshmallows",
   "name_en": "Cereals ready-to-eat, frosted oat cereal with marshmallows",
-  "category": "sweet",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fiber_g": 4.3,
@@ -8324,17 +8344,17 @@
    "calories_kcal": 400.0
   },
   "tags": [
-   "sweet",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 50
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "meal_type_tags": [
@@ -8346,7 +8366,7 @@
   "id": "usda_174901",
   "name_tr": "Bagels, egg",
   "name_en": "Bagels, egg",
-  "category": "egg",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fiber_g": 2.3,
@@ -8357,17 +8377,17 @@
    "calories_kcal": 278.0
   },
   "tags": [
-   "egg",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 adet",
-    "grams": 55
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "2 adet",
-    "grams": 110
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -9063,7 +9083,7 @@
    "sodium_mg": 55.7,
    "fat_g": 8.88,
    "protein_g": 19.9,
-   "carbs_g": -0.15,
+   "carbs_g": 0.0,
    "calories_kcal": 159.0
   },
   "tags": [
@@ -11568,8 +11588,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 150
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -11761,7 +11785,7 @@
   "id": "usda_173450",
   "name_tr": "Milk, chocolate, fluid",
   "name_en": "Milk, chocolate, fluid",
-  "category": "sweet",
+  "category": "dairy",
   "source": "usda",
   "per_100g": {
    "sodium_mg": 66.0,
@@ -11773,17 +11797,17 @@
    "calories_kcal": 78.0
   },
   "tags": [
-   "sweet",
+   "dairy",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 kare",
-    "grams": 8
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 bar",
-    "grams": 40
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -11842,7 +11866,7 @@
    "sugar_g": 5.36,
    "protein_g": 3.31,
    "fiber_g": 0.0,
-   "carbs_g": 4.79,
+   "carbs_g": 5.36,
    "calories_kcal": 40.0
   },
   "tags": [
@@ -11869,7 +11893,7 @@
   "id": "usda_171303",
   "name_tr": "Milk, chocolate, fat free",
   "name_en": "Milk, chocolate, fat free",
-  "category": "sweet",
+  "category": "dairy",
   "source": "usda",
   "per_100g": {
    "fat_g": 0.0,
@@ -11881,17 +11905,17 @@
    "calories_kcal": 67.0
   },
   "tags": [
-   "sweet",
+   "dairy",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 kare",
-    "grams": 8
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 bar",
-    "grams": 40
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -11907,7 +11931,7 @@
   "id": "usda_171277",
   "name_tr": "Milk, chocolate beverage, hot cocoa",
   "name_en": "Milk, chocolate beverage, hot cocoa",
-  "category": "beverage",
+  "category": "dairy",
   "source": "usda",
   "per_100g": {
    "fiber_g": 1.0,
@@ -11919,21 +11943,17 @@
    "calories_kcal": 77.0
   },
   "tags": [
-   "beverage",
+   "dairy",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 kutu (330 ml)",
-    "grams": 343
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 208
-   },
-   {
-    "name": "1 şişe (500 ml)",
-    "grams": 520
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -12355,7 +12375,7 @@
   "id": "usda_170883",
   "name_tr": "Milk shakes, thick chocolate",
   "name_en": "Milk shakes, thick chocolate",
-  "category": "sweet",
+  "category": "dairy",
   "source": "usda",
   "per_100g": {
    "sugar_g": 20.8,
@@ -12367,17 +12387,17 @@
    "calories_kcal": 119.0
   },
   "tags": [
-   "sweet",
+   "dairy",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 kare",
-    "grams": 8
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 bar",
-    "grams": 40
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -13860,8 +13880,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 kadeh (150 ml)",
-    "grams": 148
+    "name": "1 tatlı kaşığı",
+    "grams": 5
+   },
+   {
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -13893,12 +13921,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 500
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -14233,12 +14265,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1/4 somun",
-    "grams": 90
+    "name": "100 g",
+    "grams": 100
    }
   ]
  },
@@ -14451,7 +14483,7 @@
   "id": "usda_168103",
   "name_tr": "Frozen yogurts, chocolate, nonfat milk",
   "name_en": "Frozen yogurts, chocolate, nonfat milk",
-  "category": "sweet",
+  "category": "dairy",
   "source": "usda",
   "per_100g": {
    "fat_g": 0.8,
@@ -14463,7 +14495,7 @@
    "calories_kcal": 107.0
   },
   "tags": [
-   "sweet",
+   "dairy",
    "usda"
   ],
   "common_servings": [
@@ -14489,7 +14521,7 @@
   "id": "usda_168104",
   "name_tr": "Frozen yogurts, chocolate",
   "name_en": "Frozen yogurts, chocolate",
-  "category": "sweet",
+  "category": "dairy",
   "source": "usda",
   "per_100g": {
    "protein_g": 3.0,
@@ -14501,7 +14533,7 @@
    "calories_kcal": 131.0
   },
   "tags": [
-   "sweet",
+   "dairy",
    "usda"
   ],
   "common_servings": [
@@ -14566,7 +14598,7 @@
   "id": "usda_168848",
   "name_tr": "Frozen yogurts, chocolate, soft-serve",
   "name_en": "Frozen yogurts, chocolate, soft-serve",
-  "category": "sweet",
+  "category": "dairy",
   "source": "usda",
   "per_100g": {
    "fiber_g": 2.2,
@@ -14577,7 +14609,7 @@
    "calories_kcal": 160.0
   },
   "tags": [
-   "sweet",
+   "dairy",
    "usda"
   ],
   "common_servings": [
@@ -14603,7 +14635,7 @@
   "id": "usda_168105",
   "name_tr": "Frozen yogurts, flavors other than chocolate",
   "name_en": "Frozen yogurts, flavors other than chocolate",
-  "category": "sweet",
+  "category": "dairy",
   "source": "usda",
   "per_100g": {
    "fat_g": 3.6,
@@ -14615,7 +14647,7 @@
    "calories_kcal": 127.0
   },
   "tags": [
-   "sweet",
+   "dairy",
    "usda"
   ],
   "common_servings": [
@@ -15088,7 +15120,7 @@
   "id": "usda_168095",
   "name_tr": "Granola bar, soft, milk chocolate coated",
   "name_en": "Granola bar, soft, milk chocolate coated",
-  "category": "sweet",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "sugar_g": 23.6,
@@ -15100,17 +15132,17 @@
    "calories_kcal": 536.0
   },
   "tags": [
-   "sweet",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 kare",
-    "grams": 8
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 bar",
-    "grams": 40
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -15144,12 +15176,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 150
    },
    {
-    "name": "1/4 somun",
-    "grams": 90
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -15178,12 +15210,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 150
    },
    {
-    "name": "1/4 somun",
-    "grams": 90
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -15378,7 +15410,7 @@
   "id": "usda_171264",
   "name_tr": "Milk substitutes, fluid, with lauric acid oil",
   "name_en": "Milk substitutes, fluid, with lauric acid oil",
-  "category": "oil_fat",
+  "category": "dairy",
   "source": "usda",
   "per_100g": {
    "protein_g": 1.75,
@@ -15389,17 +15421,17 @@
    "calories_kcal": 61.0
   },
   "tags": [
-   "oil_fat",
+   "dairy",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 yemek kaşığı",
-    "grams": 14
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 5
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -15458,12 +15490,8 @@
   ],
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 200
-   },
-   {
-    "name": "1 yemek kaşığı",
-    "grams": 25
+    "name": "1 tatlı kaşığı",
+    "grams": 10
    }
   ],
   "allergens": [
@@ -15492,12 +15520,8 @@
   ],
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 200
-   },
-   {
-    "name": "1 yemek kaşığı",
-    "grams": 25
+    "name": "1 tatlı kaşığı",
+    "grams": 10
    }
   ],
   "allergens": [
@@ -15643,8 +15667,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 tabak",
+    "grams": 300
+   },
+   {
+    "name": "1 porsiyon",
+    "grams": 250
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -15897,7 +15929,7 @@
   "id": "usda_173139",
   "name_tr": "Formulated bar, SLIM-FAST OPTIMA meal bar, milk chocolate peanut",
   "name_en": "Formulated bar, SLIM-FAST OPTIMA meal bar, milk chocolate peanut",
-  "category": "sweet",
+  "category": "snack",
   "source": "usda",
   "per_100g": {
    "sugar_g": 25.0,
@@ -15909,7 +15941,7 @@
    "calories_kcal": 386.0
   },
   "tags": [
-   "sweet",
+   "snack",
    "usda"
   ],
   "common_servings": [
@@ -15936,7 +15968,7 @@
   "id": "usda_173134",
   "name_tr": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Honey Nut Oat Bar",
   "name_en": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Honey Nut Oat Bar",
-  "category": "sweet",
+  "category": "snack",
   "source": "usda",
   "per_100g": {
    "protein_g": 22.5,
@@ -15948,13 +15980,17 @@
    "calories_kcal": 381.0
   },
   "tags": [
-   "sweet",
+   "snack",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 30
+   },
+   {
+    "name": "1 paket",
+    "grams": 50
    }
   ],
   "meal_type_tags": [
@@ -16000,7 +16036,7 @@
   "id": "usda_173137",
   "name_tr": "Formulated bar, POWER BAR, chocolate",
   "name_en": "Formulated bar, POWER BAR, chocolate",
-  "category": "sweet",
+  "category": "snack",
   "source": "usda",
   "per_100g": {
    "carbs_g": 69.6,
@@ -16012,7 +16048,7 @@
    "calories_kcal": 363.0
   },
   "tags": [
-   "sweet",
+   "snack",
    "usda"
   ],
   "common_servings": [
@@ -16102,7 +16138,7 @@
   "id": "usda_174787",
   "name_tr": "Formulated bar, LUNA BAR, NUTZ OVER CHOCOLATE",
   "name_en": "Formulated bar, LUNA BAR, NUTZ OVER CHOCOLATE",
-  "category": "sweet",
+  "category": "snack",
   "source": "usda",
   "per_100g": {
    "fat_g": 12.2,
@@ -16114,7 +16150,7 @@
    "calories_kcal": 403.0
   },
   "tags": [
-   "sweet",
+   "snack",
    "usda"
   ],
   "common_servings": [
@@ -16272,7 +16308,7 @@
   "id": "usda_173132",
   "name_tr": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Double Chocolate Nut Bar",
   "name_en": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Double Chocolate Nut Bar",
-  "category": "sweet",
+  "category": "snack",
   "source": "usda",
   "per_100g": {
    "fiber_g": 10.5,
@@ -16284,7 +16320,7 @@
    "calories_kcal": 377.0
   },
   "tags": [
-   "sweet",
+   "snack",
    "usda"
   ],
   "common_servings": [
@@ -16595,7 +16631,7 @@
   "id": "usda_173341",
   "name_tr": "Macaroni and cheese, dry mix, prepared with 2% milk and 80% stick margarine from dry mix",
   "name_en": "Macaroni and cheese, dry mix, prepared with 2% milk and 80% stick margarine from dry mix",
-  "category": "oil_fat",
+  "category": "dairy",
   "source": "usda",
   "per_100g": {
    "fat_g": 8.28,
@@ -16607,7 +16643,7 @@
    "calories_kcal": 190.0
   },
   "tags": [
-   "oil_fat",
+   "dairy",
    "usda"
   ],
   "common_servings": [
@@ -19959,7 +19995,7 @@
   "id": "usda_173937",
   "name_tr": "Apricots, canned, juice pack",
   "name_en": "Apricots, canned, juice pack",
-  "category": "beverage",
+  "category": "fruit",
   "source": "usda",
   "per_100g": {
    "sugar_g": 10.7,
@@ -19971,17 +20007,17 @@
    "calories_kcal": 48.0
   },
   "tags": [
-   "beverage",
+   "fruit",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 210
+    "name": "1 orta boy",
+    "grams": 150
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 525
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -19996,7 +20032,7 @@
   "id": "usda_171698",
   "name_tr": "Apricots, canned, water pack",
   "name_en": "Apricots, canned, water pack",
-  "category": "beverage",
+  "category": "fruit",
   "source": "usda",
   "per_100g": {
    "sugar_g": 4.79,
@@ -20008,17 +20044,17 @@
    "calories_kcal": 27.0
   },
   "tags": [
-   "beverage",
+   "fruit",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
+    "name": "1 orta boy",
+    "grams": 150
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 500
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -20033,7 +20069,7 @@
   "id": "usda_167768",
   "name_tr": "Apricots, canned, heavy syrup",
   "name_en": "Apricots, canned, heavy syrup",
-  "category": "sweet",
+  "category": "fruit",
   "source": "usda",
   "per_100g": {
    "protein_g": 0.64,
@@ -20045,13 +20081,13 @@
    "calories_kcal": 83.0
   },
   "tags": [
-   "sweet",
+   "fruit",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 orta boy",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -20067,7 +20103,7 @@
   "id": "usda_171699",
   "name_tr": "Apricots, canned, heavy syrup pack",
   "name_en": "Apricots, canned, heavy syrup pack",
-  "category": "sweet",
+  "category": "fruit",
   "source": "usda",
   "per_100g": {
    "sugar_g": 19.9,
@@ -20079,13 +20115,13 @@
    "calories_kcal": 83.0
   },
   "tags": [
-   "sweet",
+   "fruit",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 orta boy",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -20101,7 +20137,7 @@
   "id": "usda_173939",
   "name_tr": "Apricots, canned, light syrup pack",
   "name_en": "Apricots, canned, light syrup pack",
-  "category": "sweet",
+  "category": "fruit",
   "source": "usda",
   "per_100g": {
    "sugar_g": 14.9,
@@ -20113,13 +20149,13 @@
    "calories_kcal": 63.0
   },
   "tags": [
-   "sweet",
+   "fruit",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 orta boy",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -20135,7 +20171,7 @@
   "id": "usda_171701",
   "name_tr": "Apricots, canned, extra heavy syrup pack",
   "name_en": "Apricots, canned, extra heavy syrup pack",
-  "category": "sweet",
+  "category": "fruit",
   "source": "usda",
   "per_100g": {
    "fiber_g": 1.6,
@@ -20146,13 +20182,13 @@
    "calories_kcal": 96.0
   },
   "tags": [
-   "sweet",
+   "fruit",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 orta boy",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -20168,7 +20204,7 @@
   "id": "usda_173938",
   "name_tr": "Apricots, canned, extra light syrup pack",
   "name_en": "Apricots, canned, extra light syrup pack",
-  "category": "sweet",
+  "category": "fruit",
   "source": "usda",
   "per_100g": {
    "fiber_g": 1.6,
@@ -20179,13 +20215,13 @@
    "calories_kcal": 49.0
   },
   "tags": [
-   "sweet",
+   "fruit",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 50
+    "name": "1 orta boy",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -21515,12 +21551,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 orta boy",
+    "grams": 150
    },
    {
-    "name": "1/4 somun",
-    "grams": 90
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -21626,7 +21662,7 @@
   "id": "usda_173572",
   "name_tr": "Fat, goose",
   "name_en": "Fat, goose",
-  "category": "poultry",
+  "category": "oil_fat",
   "source": "usda",
   "per_100g": {
    "fat_g": 99.8,
@@ -21637,17 +21673,17 @@
    "calories_kcal": 900.0
   },
   "tags": [
-   "poultry",
+   "oil_fat",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 14
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "meal_type_tags": [
@@ -21659,7 +21695,7 @@
   "id": "usda_173571",
   "name_tr": "Fat, turkey",
   "name_en": "Fat, turkey",
-  "category": "poultry",
+  "category": "oil_fat",
   "source": "usda",
   "per_100g": {
    "sugar_g": 0.0,
@@ -21671,17 +21707,17 @@
    "calories_kcal": 900.0
   },
   "tags": [
-   "poultry",
+   "oil_fat",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 14
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "meal_type_tags": [
@@ -21693,7 +21729,7 @@
   "id": "usda_173564",
   "name_tr": "Fat, chicken",
   "name_en": "Fat, chicken",
-  "category": "poultry",
+  "category": "oil_fat",
   "source": "usda",
   "per_100g": {
    "sugar_g": 0.0,
@@ -21705,17 +21741,17 @@
    "calories_kcal": 900.0
   },
   "tags": [
-   "poultry",
+   "oil_fat",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 14
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "meal_type_tags": [
@@ -21727,7 +21763,7 @@
   "id": "usda_171400",
   "name_tr": "Fat, beef tallow",
   "name_en": "Fat, beef tallow",
-  "category": "meat",
+  "category": "oil_fat",
   "source": "usda",
   "per_100g": {
    "sugar_g": 0.0,
@@ -21739,17 +21775,17 @@
    "calories_kcal": 902.0
   },
   "tags": [
-   "meat",
+   "oil_fat",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 14
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "meal_type_tags": [
@@ -23201,7 +23237,7 @@
   "id": "usda_174686",
   "name_tr": "Guava sauce",
   "name_en": "Guava sauce",
-  "category": "fruit",
+  "category": "sauce_condiment",
   "source": "usda",
   "per_100g": {
    "sugar_g": 5.88,
@@ -23213,17 +23249,17 @@
    "calories_kcal": 36.0
   },
   "tags": [
-   "fruit",
+   "sauce_condiment",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 orta boy",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "meal_type_tags": [
@@ -23270,7 +23306,7 @@
   "id": "usda_168092",
   "name_tr": "Ham, turkey, sliced",
   "name_en": "Ham, turkey, sliced",
-  "category": "poultry",
+  "category": "meat",
   "source": "usda",
   "per_100g": {
    "protein_g": 19.6,
@@ -23282,7 +23318,7 @@
    "calories_kcal": 134.0
   },
   "tags": [
-   "poultry",
+   "meat",
    "usda"
   ],
   "common_servings": [
@@ -23438,7 +23474,7 @@
   "id": "usda_174611",
   "name_tr": "Ham, honey, smoked",
   "name_en": "Ham, honey, smoked",
-  "category": "sweet",
+  "category": "meat",
   "source": "usda",
   "per_100g": {
    "protein_g": 17.9,
@@ -23450,13 +23486,17 @@
    "calories_kcal": 122.0
   },
   "tags": [
-   "sweet",
+   "meat",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -23507,7 +23547,7 @@
   "per_100g": {
    "protein_g": 16.5,
    "fat_g": 16.7,
-   "carbs_g": 0.0,
+   "carbs_g": 5.0,
    "sugar_g": 5.0,
    "sodium_mg": 1190.0,
    "fiber_g": 0.0,
@@ -24268,7 +24308,7 @@
   "id": "usda_170857",
   "name_tr": "Cream, fluid, light (coffee cream or table cream)",
   "name_en": "Cream, fluid, light (coffee cream or table cream)",
-  "category": "beverage",
+  "category": "dairy",
   "source": "usda",
   "per_100g": {
    "protein_g": 2.96,
@@ -24280,17 +24320,17 @@
    "calories_kcal": 195.0
   },
   "tags": [
-   "beverage",
+   "dairy",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
+    "name": "1 porsiyon",
     "grams": 100
    },
    {
-    "name": "1 kupa (200 ml)",
-    "grams": 200
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -24551,7 +24591,7 @@
   "id": "usda_171640",
   "name_tr": "Bacon, turkey",
   "name_en": "Bacon, turkey",
-  "category": "poultry",
+  "category": "meat",
   "source": "usda",
   "per_100g": {
    "fat_g": 20.0,
@@ -24563,7 +24603,7 @@
    "calories_kcal": 253.0
   },
   "tags": [
-   "poultry",
+   "meat",
    "usda"
   ],
   "common_servings": [
@@ -24585,7 +24625,7 @@
   "id": "usda_171639",
   "name_tr": "Bacon, turkey, microwaved",
   "name_en": "Bacon, turkey, microwaved",
-  "category": "poultry",
+  "category": "meat",
   "source": "usda",
   "per_100g": {
    "fat_g": 25.9,
@@ -24597,7 +24637,7 @@
    "calories_kcal": 368.0
   },
   "tags": [
-   "poultry",
+   "meat",
    "usda"
   ],
   "common_servings": [
@@ -27964,12 +28004,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 150
    },
    {
-    "name": "1 porsiyon",
-    "grams": 60
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -29983,7 +30023,7 @@
   "id": "usda_170302",
   "name_tr": "Fast food, biscuit",
   "name_en": "Fast food, biscuit",
-  "category": "sweet",
+  "category": "prepared",
   "source": "usda",
   "per_100g": {
    "fat_g": 18.9,
@@ -29995,17 +30035,21 @@
    "calories_kcal": 370.0
   },
   "tags": [
-   "sweet",
+   "prepared",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 adet",
-    "grams": 10
+    "name": "1 tabak",
+    "grams": 300
    },
    {
-    "name": "1 paket",
-    "grams": 80
+    "name": "1 porsiyon",
+    "grams": 250
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -30274,8 +30318,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ]
  },
@@ -30300,8 +30348,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 orta boy",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -30575,12 +30627,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 50
    },
    {
-    "name": "1 porsiyon",
-    "grams": 60
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -30652,12 +30704,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 50
    },
    {
-    "name": "1/4 somun",
-    "grams": 90
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -31240,8 +31292,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 150
+    "name": "1 porsiyon",
+    "grams": 50
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -33071,8 +33127,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 orta boy",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -34167,7 +34227,7 @@
   "id": "usda_172345",
   "name_tr": "Animal fat, bacon grease",
   "name_en": "Animal fat, bacon grease",
-  "category": "meat",
+  "category": "oil_fat",
   "source": "usda",
   "per_100g": {
    "sugar_g": 0.0,
@@ -34179,17 +34239,17 @@
    "calories_kcal": 897.0
   },
   "tags": [
-   "meat",
+   "oil_fat",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 14
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "meal_type_tags": [
@@ -34302,7 +34362,7 @@
   "id": "usda_168803",
   "name_tr": "Frostings, white, fluffy",
   "name_en": "Frostings, white, fluffy",
-  "category": "other",
+  "category": "sweet",
   "source": "usda",
   "per_100g": {
    "fiber_g": 0.0,
@@ -34313,13 +34373,13 @@
    "calories_kcal": 371.0
   },
   "tags": [
-   "other",
+   "sweet",
    "usda"
   ],
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 100
+    "grams": 50
    },
    {
     "name": "100 g",
@@ -34431,7 +34491,7 @@
   "id": "usda_169618",
   "name_tr": "Frostings, coconut-nut, ready-to-eat",
   "name_en": "Frostings, coconut-nut, ready-to-eat",
-  "category": "other",
+  "category": "sweet",
   "source": "usda",
   "per_100g": {
    "fiber_g": 2.5,
@@ -34443,13 +34503,13 @@
    "calories_kcal": 433.0
   },
   "tags": [
-   "other",
+   "sweet",
    "usda"
   ],
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 100
+    "grams": 50
    },
    {
     "name": "100 g",
@@ -34461,7 +34521,7 @@
   "id": "usda_169668",
   "name_tr": "Frostings, glaze, prepared-from-recipe",
   "name_en": "Frostings, glaze, prepared-from-recipe",
-  "category": "other",
+  "category": "sweet",
   "source": "usda",
   "per_100g": {
    "protein_g": 0.44,
@@ -34473,13 +34533,13 @@
    "calories_kcal": 341.0
   },
   "tags": [
-   "other",
+   "sweet",
    "usda"
   ],
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 100
+    "grams": 50
    },
    {
     "name": "100 g",
@@ -34491,7 +34551,7 @@
   "id": "usda_169619",
   "name_tr": "Frostings, cream cheese-flavor, ready-to-eat",
   "name_en": "Frostings, cream cheese-flavor, ready-to-eat",
-  "category": "dairy",
+  "category": "sweet",
   "source": "usda",
   "per_100g": {
    "fat_g": 17.3,
@@ -34503,17 +34563,17 @@
    "calories_kcal": 415.0
   },
   "tags": [
-   "dairy",
+   "sweet",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 50
    },
    {
-    "name": "1 porsiyon",
-    "grams": 60
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -34891,7 +34951,7 @@
   "id": "usda_169596",
   "name_tr": "Gelatin desserts, dry mix, prepared with water",
   "name_en": "Gelatin desserts, dry mix, prepared with water",
-  "category": "beverage",
+  "category": "sweet",
   "source": "usda",
   "per_100g": {
    "protein_g": 1.22,
@@ -34903,17 +34963,17 @@
    "calories_kcal": 60.0
   },
   "tags": [
-   "beverage",
+   "sweet",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
+    "name": "1 porsiyon",
+    "grams": 50
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 500
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -35364,7 +35424,7 @@
   "id": "usda_171262",
   "name_tr": "Cream substitute, liquid, with lauric acid oil and sodium caseinate",
   "name_en": "Cream substitute, liquid, with lauric acid oil and sodium caseinate",
-  "category": "oil_fat",
+  "category": "dairy",
   "source": "usda",
   "per_100g": {
    "fat_g": 9.97,
@@ -35375,17 +35435,17 @@
    "calories_kcal": 136.0
   },
   "tags": [
-   "oil_fat",
+   "dairy",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 yemek kaşığı",
-    "grams": 14
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 5
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -35397,7 +35457,7 @@
   "id": "usda_171261",
   "name_tr": "Cream substitute, liquid, with hydrogenated vegetable oil and soy protein",
   "name_en": "Cream substitute, liquid, with hydrogenated vegetable oil and soy protein",
-  "category": "oil_fat",
+  "category": "dairy",
   "source": "usda",
   "per_100g": {
    "sugar_g": 11.4,
@@ -35409,17 +35469,17 @@
    "calories_kcal": 136.0
   },
   "tags": [
-   "oil_fat",
+   "dairy",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 yemek kaşığı",
-    "grams": 14
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 5
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -35722,8 +35782,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ]
  },
@@ -35748,8 +35812,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ]
  },
@@ -36073,7 +36141,7 @@
   "id": "usda_167695",
   "name_tr": "Mayonnaise, made with tofu",
   "name_en": "Mayonnaise, made with tofu",
-  "category": "legume",
+  "category": "sauce_condiment",
   "source": "usda",
   "per_100g": {
    "sugar_g": 0.85,
@@ -36085,17 +36153,17 @@
    "calories_kcal": 322.0
   },
   "tags": [
-   "legume",
+   "sauce_condiment",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "allergens": [
@@ -36147,7 +36215,7 @@
   "id": "usda_171443",
   "name_tr": "Mayonnaise, reduced fat, with olive oil",
   "name_en": "Mayonnaise, reduced fat, with olive oil",
-  "category": "oil_fat",
+  "category": "sauce_condiment",
   "source": "usda",
   "per_100g": {
    "fat_g": 40.0,
@@ -36159,17 +36227,17 @@
    "calories_kcal": 361.0
   },
   "tags": [
-   "oil_fat",
+   "sauce_condiment",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "5 adet",
-    "grams": 20
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "10 adet",
-    "grams": 40
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "allergens": [
@@ -36471,7 +36539,7 @@
   "per_100g": {
    "sodium_mg": 108.0,
    "fat_g": 0.592,
-   "carbs_g": -0.0602,
+   "carbs_g": 0.0,
    "protein_g": 19.1,
    "calories_kcal": 81.3
   },
@@ -38144,8 +38212,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 orta boy",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -38173,8 +38245,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 orta boy",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -38204,8 +38280,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 orta boy",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -38235,8 +38315,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 orta boy",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -38381,12 +38465,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 150
    },
    {
-    "name": "1/4 somun",
-    "grams": 90
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -38415,8 +38499,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ]
  },
@@ -38441,8 +38529,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -38601,8 +38693,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon (pişmiş)",
-    "grams": 180
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -38711,12 +38807,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 210
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 525
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -38805,7 +38905,7 @@
   "id": "usda_171046",
   "name_tr": "Dressing, honey mustard, fat-free",
   "name_en": "Dressing, honey mustard, fat-free",
-  "category": "sweet",
+  "category": "sauce_condiment",
   "source": "usda",
   "per_100g": {
    "protein_g": 1.07,
@@ -38817,13 +38917,17 @@
    "calories_kcal": 169.0
   },
   "tags": [
-   "sweet",
+   "sauce_condiment",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
+    "name": "1 yemek kaşığı",
     "grams": 15
+   },
+   {
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "allergens": [
@@ -39090,12 +39194,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 500
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -39127,12 +39235,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 200
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 500
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -39680,7 +39792,7 @@
   "id": "usda_171836",
   "name_tr": "Cookie, with peanut butter filling, chocolate-coated",
   "name_en": "Cookie, with peanut butter filling, chocolate-coated",
-  "category": "oil_fat",
+  "category": "sweet",
   "source": "usda",
   "per_100g": {
    "fiber_g": 3.5,
@@ -39692,7 +39804,7 @@
    "calories_kcal": 562.0
   },
   "tags": [
-   "oil_fat",
+   "sweet",
    "usda"
   ],
   "common_servings": [
@@ -39712,7 +39824,7 @@
   "id": "usda_174079",
   "name_tr": "Cookie, butter or sugar, with chocolate icing or filling",
   "name_en": "Cookie, butter or sugar, with chocolate icing or filling",
-  "category": "oil_fat",
+  "category": "sweet",
   "source": "usda",
   "per_100g": {
    "fat_g": 23.5,
@@ -39724,7 +39836,7 @@
    "calories_kcal": 503.0
   },
   "tags": [
-   "oil_fat",
+   "sweet",
    "usda"
   ],
   "common_servings": [
@@ -40271,7 +40383,7 @@
   "id": "usda_167734",
   "name_tr": "Breakfast bar, corn flake crust with fruit",
   "name_en": "Breakfast bar, corn flake crust with fruit",
-  "category": "grain",
+  "category": "snack",
   "source": "usda",
   "per_100g": {
    "protein_g": 4.4,
@@ -40283,17 +40395,17 @@
    "calories_kcal": 376.0
   },
   "tags": [
-   "grain",
+   "snack",
    "usda"
   ],
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 100
+    "grams": 30
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 paket",
+    "grams": 50
    }
   ],
   "meal_type_tags": [
@@ -40627,7 +40739,7 @@
   "common_servings": [
    {
     "name": "1 tatlı kaşığı",
-    "grams": 15
+    "grams": 10
    }
   ]
  },
@@ -40679,7 +40791,7 @@
   "common_servings": [
    {
     "name": "1 tatlı kaşığı",
-    "grams": 15
+    "grams": 10
    }
   ]
  },
@@ -40705,7 +40817,7 @@
   "common_servings": [
    {
     "name": "1 tatlı kaşığı",
-    "grams": 15
+    "grams": 10
    }
   ],
   "allergens": [
@@ -40856,7 +40968,7 @@
   "id": "usda_170362",
   "name_tr": "DIGIORNO Pizza, cheese topping, rising crust",
   "name_en": "DIGIORNO Pizza, cheese topping, rising crust",
-  "category": "dairy",
+  "category": "prepared",
   "source": "usda",
   "per_100g": {
    "fat_g": 8.6,
@@ -40868,17 +40980,21 @@
    "calories_kcal": 256.0
   },
   "tags": [
-   "dairy",
+   "prepared",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 tabak",
+    "grams": 300
    },
    {
     "name": "1 porsiyon",
-    "grams": 60
+    "grams": 250
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -40984,7 +41100,7 @@
   "id": "usda_170758",
   "name_tr": "DIGIORNO Pizza, cheese topping, thin crispy crust",
   "name_en": "DIGIORNO Pizza, cheese topping, thin crispy crust",
-  "category": "dairy",
+  "category": "prepared",
   "source": "usda",
   "per_100g": {
    "protein_g": 13.0,
@@ -40995,17 +41111,21 @@
    "calories_kcal": 247.0
   },
   "tags": [
-   "dairy",
+   "prepared",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 tabak",
+    "grams": 300
    },
    {
     "name": "1 porsiyon",
-    "grams": 60
+    "grams": 250
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -41066,7 +41186,7 @@
   "id": "usda_170361",
   "name_tr": "DIGIORNO Pizza, cheese topping, cheese stuffed crust",
   "name_en": "DIGIORNO Pizza, cheese topping, cheese stuffed crust",
-  "category": "dairy",
+  "category": "prepared",
   "source": "usda",
   "per_100g": {
    "protein_g": 13.5,
@@ -41077,17 +41197,21 @@
    "calories_kcal": 279.0
   },
   "tags": [
-   "dairy",
+   "prepared",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 tabak",
+    "grams": 300
    },
    {
     "name": "1 porsiyon",
-    "grams": 60
+    "grams": 250
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -41148,7 +41272,7 @@
   "id": "usda_170759",
   "name_tr": "DIGIORNO Pizza, pepperoni topping, cheese stuffed crust",
   "name_en": "DIGIORNO Pizza, pepperoni topping, cheese stuffed crust",
-  "category": "dairy",
+  "category": "prepared",
   "source": "usda",
   "per_100g": {
    "fat_g": 11.7,
@@ -41159,17 +41283,21 @@
    "calories_kcal": 279.0
   },
   "tags": [
-   "dairy",
+   "prepared",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 tabak",
+    "grams": 300
    },
    {
     "name": "1 porsiyon",
-    "grams": 60
+    "grams": 250
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -41332,16 +41460,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 kutu (330 ml)",
-    "grams": 343
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 208
+    "name": "1 yemek kaşığı",
+    "grams": 12
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 520
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -42812,7 +42940,7 @@
   "id": "usda_167764",
   "name_tr": "Fruit salad, (pineapple and papaya and banana and guava), tropical",
   "name_en": "Fruit salad, (pineapple and papaya and banana and guava), tropical",
-  "category": "fruit",
+  "category": "vegetable",
   "source": "usda",
   "per_100g": {
    "fat_g": 0.1,
@@ -42823,8 +42951,8 @@
    "calories_kcal": 86.0
   },
   "tags": [
-   "fruit",
-   "usda"
+   "usda",
+   "vegetable"
   ],
   "common_servings": [
    {
@@ -42842,7 +42970,7 @@
   "id": "usda_174672",
   "name_tr": "Fruit salad, (peach and pear and apricot and pineapple and cherry), canned",
   "name_en": "Fruit salad, (peach and pear and apricot and pineapple and cherry), canned",
-  "category": "fruit",
+  "category": "vegetable",
   "source": "usda",
   "per_100g": {
    "fiber_g": 1.0,
@@ -42853,8 +42981,8 @@
    "calories_kcal": 88.0
   },
   "tags": [
-   "fruit",
-   "usda"
+   "usda",
+   "vegetable"
   ],
   "common_servings": [
    {
@@ -42940,7 +43068,7 @@
   "id": "usda_167684",
   "name_tr": "Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie",
   "name_en": "Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie",
-  "category": "oil_fat",
+  "category": "sauce_condiment",
   "source": "usda",
   "per_100g": {
    "sugar_g": 5.65,
@@ -42952,7 +43080,7 @@
    "calories_kcal": 160.0
   },
   "tags": [
-   "oil_fat",
+   "sauce_condiment",
    "usda"
   ],
   "common_servings": [

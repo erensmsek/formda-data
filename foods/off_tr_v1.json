@@ -65,10 +65,10 @@
   "barcode": "8690504011521",
   "tags": [
    "off",
-   "other",
-   "packaged"
+   "packaged",
+   "snack"
   ],
-  "category": "other",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 paket",
@@ -151,19 +151,19 @@
   },
   "barcode": "8690766009205",
   "tags": [
-   "dairy",
+   "grain",
    "off",
    "packaged"
   ],
-  "category": "dairy",
+  "category": "grain",
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 adet",
+    "grams": 10
    },
    {
-    "name": "1 porsiyon",
-    "grams": 60
+    "name": "1 paket",
+    "grams": 80
    }
   ],
   "allergens": [
@@ -404,17 +404,17 @@
   "tags": [
    "off",
    "packaged",
-   "vegetable"
+   "sauce_condiment"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "meal_type_tags": [
@@ -1286,12 +1286,16 @@
   "category": "beverage",
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 kupa (200 ml)",
-    "grams": 200
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -2324,8 +2328,12 @@
   "category": "sauce_condiment",
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
+    "name": "1 yemek kaşığı",
     "grams": 15
+   },
+   {
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "allergens": [
@@ -2390,17 +2398,17 @@
   "tags": [
    "off",
    "packaged",
-   "vegetable"
+   "sauce_condiment"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "meal_type_tags": [
@@ -2425,19 +2433,19 @@
   },
   "barcode": "8681630107011",
   "tags": [
-   "nut_seed",
    "off",
-   "packaged"
+   "packaged",
+   "snack"
   ],
-  "category": "nut_seed",
+  "category": "snack",
   "common_servings": [
    {
-    "name": "1 avuç",
+    "name": "1 porsiyon",
     "grams": 30
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 paket",
+    "grams": 50
    }
   ],
   "allergens": [
@@ -2737,9 +2745,9 @@
   "tags": [
    "off",
    "packaged",
-   "vegetable"
+   "snack"
   ],
-  "category": "vegetable",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 paket",
@@ -2992,12 +3000,12 @@
   "category": "sweet",
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 50
    },
    {
-    "name": "1/4 somun",
-    "grams": 90
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -3571,8 +3579,12 @@
   "category": "other",
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -4371,8 +4383,12 @@
   "category": "fish_seafood",
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -4958,8 +4974,12 @@
   "category": "legume",
   "common_servings": [
    {
-    "name": "1 paket",
-    "grams": 35
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -4995,8 +5015,12 @@
   "category": "sweet",
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 150
+    "name": "1 kare",
+    "grams": 8
+   },
+   {
+    "name": "1 bar",
+    "grams": 40
    }
   ],
   "allergens": [
@@ -5599,8 +5623,12 @@
   "category": "fish_seafood",
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -5747,9 +5775,9 @@
   "tags": [
    "off",
    "packaged",
-   "sweet"
+   "snack"
   ],
-  "category": "sweet",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 kare",
@@ -6179,11 +6207,11 @@
   },
   "barcode": "8691641080036",
   "tags": [
+   "nut_seed",
    "off",
-   "packaged",
-   "sweet"
+   "packaged"
   ],
-  "category": "sweet",
+  "category": "nut_seed",
   "common_servings": [
    {
     "name": "1 yemek kaşığı",
@@ -6535,19 +6563,19 @@
   },
   "barcode": "8690787541012",
   "tags": [
-   "nut_seed",
    "off",
-   "packaged"
+   "packaged",
+   "snack"
   ],
-  "category": "nut_seed",
+  "category": "snack",
   "common_servings": [
    {
-    "name": "1 avuç",
+    "name": "1 porsiyon",
     "grams": 30
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 paket",
+    "grams": 50
    }
   ],
   "allergens": [
@@ -6623,17 +6651,17 @@
   "tags": [
    "off",
    "packaged",
-   "poultry"
+   "snack"
   ],
-  "category": "poultry",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 30
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 paket",
+    "grams": 50
    }
   ],
   "allergens": [
@@ -6669,19 +6697,19 @@
   },
   "barcode": "8690787511015",
   "tags": [
-   "nut_seed",
    "off",
-   "packaged"
+   "packaged",
+   "snack"
   ],
-  "category": "nut_seed",
+  "category": "snack",
   "common_servings": [
    {
-    "name": "1 avuç",
+    "name": "1 porsiyon",
     "grams": 30
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 paket",
+    "grams": 50
    }
   ],
   "allergens": [
@@ -6795,19 +6823,19 @@
   },
   "barcode": "8690504077268",
   "tags": [
-   "dairy",
+   "grain",
    "off",
    "packaged"
   ],
-  "category": "dairy",
+  "category": "grain",
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 adet",
+    "grams": 10
    },
    {
-    "name": "1 porsiyon",
-    "grams": 60
+    "name": "1 paket",
+    "grams": 80
    }
   ],
   "allergens": [
@@ -6932,9 +6960,9 @@
   "tags": [
    "off",
    "packaged",
-   "vegetable"
+   "snack"
   ],
-  "category": "vegetable",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 paket",
@@ -6965,17 +6993,17 @@
   "tags": [
    "off",
    "packaged",
-   "sweet"
+   "sauce_condiment"
   ],
-  "category": "sweet",
+  "category": "sauce_condiment",
   "common_servings": [
    {
-    "name": "1 kare",
-    "grams": 8
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "1 bar",
-    "grams": 40
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "allergens": [
@@ -7209,11 +7237,11 @@
   },
   "barcode": "8690504024538",
   "tags": [
-   "nut_seed",
+   "grain",
    "off",
    "packaged"
   ],
-  "category": "nut_seed",
+  "category": "grain",
   "common_servings": [
    {
     "name": "1 adet",
@@ -7746,23 +7774,19 @@
   },
   "barcode": "8699270017638",
   "tags": [
-   "beverage",
    "off",
-   "packaged"
+   "packaged",
+   "sweet"
   ],
-  "category": "beverage",
+  "category": "sweet",
   "common_servings": [
    {
-    "name": "1 kutu (330 ml)",
-    "grams": 343
+    "name": "1 kare",
+    "grams": 8
    },
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 208
-   },
-   {
-    "name": "1 şişe (500 ml)",
-    "grams": 520
+    "name": "1 bar",
+    "grams": 40
    }
   ],
   "allergens": [
@@ -7883,11 +7907,11 @@
   },
   "barcode": "8690504108115",
   "tags": [
-   "dairy",
+   "grain",
    "off",
    "packaged"
   ],
-  "category": "dairy",
+  "category": "grain",
   "common_servings": [
    {
     "name": "1 adet",
@@ -8558,48 +8582,6 @@
   "allergen_source": "declared",
   "allergen_traces": [
    "peanuts"
-  ],
-  "prep_time_min": 0
- },
- {
-  "id": "off_8682615106098",
-  "name_tr": "TÜRKİYE TARIM KREDİ KOOPERATİFLERİ FINDIK PARÇACIKLI KAKAOLU KREMA",
-  "brand": "TÜRKİYE TARIM KREDİ KOOPERATİFLERİ",
-  "source": "off",
-  "per_100g": {
-   "calories_kcal": 601.0,
-   "protein_g": 9.8,
-   "carbs_g": 57.1,
-   "fat_g": 42.8,
-   "fiber_g": 4.4,
-   "sugar_g": 40.0,
-   "sodium_mg": 0.0
-  },
-  "barcode": "8682615106098",
-  "tags": [
-   "dairy",
-   "off",
-   "packaged"
-  ],
-  "category": "dairy",
-  "common_servings": [
-   {
-    "name": "1 porsiyon",
-    "grams": 100
-   },
-   {
-    "name": "1 dilim",
-    "grams": 30
-   }
-  ],
-  "allergens": [
-   "milk",
-   "nuts"
-  ],
-  "allergen_source": "declared",
-  "meal_type_tags": [
-   "breakfast",
-   "snack"
   ],
   "prep_time_min": 0
  },
@@ -9661,8 +9643,12 @@
   "category": "legume",
   "common_servings": [
    {
-    "name": "1 paket",
-    "grams": 35
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergen_traces": [
@@ -9725,17 +9711,17 @@
   "tags": [
    "off",
    "packaged",
-   "vegetable"
+   "sauce_condiment"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "meal_type_tags": [
@@ -9880,23 +9866,19 @@
   },
   "barcode": "8699270017874",
   "tags": [
-   "beverage",
    "off",
-   "packaged"
+   "packaged",
+   "sweet"
   ],
-  "category": "beverage",
+  "category": "sweet",
   "common_servings": [
    {
-    "name": "1 kutu (330 ml)",
-    "grams": 343
+    "name": "1 kare",
+    "grams": 8
    },
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 208
-   },
-   {
-    "name": "1 şişe (500 ml)",
-    "grams": 520
+    "name": "1 bar",
+    "grams": 40
    }
   ],
   "meal_type_tags": [
@@ -10051,17 +10033,17 @@
   "tags": [
    "off",
    "packaged",
-   "vegetable"
+   "sauce_condiment"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "allergens": [
@@ -10407,19 +10389,19 @@
   },
   "barcode": "8690526024608",
   "tags": [
-   "nut_seed",
+   "grain",
    "off",
    "packaged"
   ],
-  "category": "nut_seed",
+  "category": "grain",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -10585,7 +10567,6 @@
    "carbs_g": 69.0,
    "fat_g": 14.0,
    "fiber_g": 2.5,
-   "sugar_g": 360.98,
    "sodium_mg": 392.0
   },
   "barcode": "8690533003177",
@@ -11746,19 +11727,19 @@
   },
   "barcode": "8690526023021",
   "tags": [
-   "nut_seed",
+   "grain",
    "off",
    "packaged"
   ],
-  "category": "nut_seed",
+  "category": "grain",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -12237,19 +12218,19 @@
   },
   "barcode": "8682214726888",
   "tags": [
-   "nut_seed",
    "off",
-   "packaged"
+   "packaged",
+   "snack"
   ],
-  "category": "nut_seed",
+  "category": "snack",
   "common_servings": [
    {
-    "name": "1 avuç",
+    "name": "1 porsiyon",
     "grams": 30
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 paket",
+    "grams": 50
    }
   ],
   "allergens": [
@@ -12315,19 +12296,19 @@
   },
   "barcode": "8681630410197",
   "tags": [
-   "dairy",
+   "legume",
    "off",
    "packaged"
   ],
-  "category": "dairy",
+  "category": "legume",
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 200
+    "name": "1 porsiyon",
+    "grams": 150
    },
    {
-    "name": "1 yemek kaşığı",
-    "grams": 25
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -12447,8 +12428,12 @@
   "category": "grain",
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -12709,19 +12694,19 @@
   },
   "barcode": "8684207695713",
   "tags": [
-   "nut_seed",
    "off",
-   "packaged"
+   "packaged",
+   "snack"
   ],
-  "category": "nut_seed",
+  "category": "snack",
   "common_servings": [
    {
-    "name": "1 avuç",
+    "name": "1 porsiyon",
     "grams": 30
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 paket",
+    "grams": 50
    }
   ],
   "allergens": [
@@ -12793,8 +12778,12 @@
   "category": "legume",
   "common_servings": [
    {
-    "name": "1 paket",
-    "grams": 35
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -13863,17 +13852,17 @@
   "tags": [
    "off",
    "packaged",
-   "poultry"
+   "snack"
   ],
-  "category": "poultry",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 30
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 paket",
+    "grams": 50
    }
   ],
   "allergens": [
@@ -14289,8 +14278,12 @@
   "category": "fish_seafood",
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -15500,8 +15493,12 @@
   "category": "dairy",
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 150
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -15969,19 +15966,19 @@
   },
   "barcode": "8695077128225",
   "tags": [
+   "dairy",
    "off",
-   "packaged",
-   "sweet"
+   "packaged"
   ],
-  "category": "sweet",
+  "category": "dairy",
   "common_servings": [
    {
-    "name": "1 kare",
-    "grams": 8
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "1 bar",
-    "grams": 40
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "meal_type_tags": [
@@ -16477,16 +16474,16 @@
   "category": "beverage",
   "common_servings": [
    {
-    "name": "1 kutu (330 ml)",
-    "grams": 343
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 208
+    "name": "1 yemek kaşığı",
+    "grams": 12
    },
    {
-    "name": "1 şişe (500 ml)",
-    "grams": 520
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -17289,8 +17286,12 @@
   "category": "dairy",
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 150
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "meal_type_tags": [
@@ -17432,8 +17433,12 @@
   "category": "dairy",
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 150
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "meal_type_tags": [
@@ -17993,19 +17998,19 @@
   },
   "barcode": "8681630170015",
   "tags": [
-   "dairy",
    "off",
-   "packaged"
+   "packaged",
+   "snack"
   ],
-  "category": "dairy",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 100
+    "grams": 30
    },
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 paket",
+    "grams": 50
    }
   ],
   "allergens": [
@@ -18077,12 +18082,12 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 adet",
-    "grams": 10
+    "name": "1 avuç",
+    "grams": 30
    },
    {
-    "name": "1 paket",
-    "grams": 80
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -19509,12 +19514,12 @@
   "category": "sweet",
   "common_servings": [
    {
-    "name": "1 dilim",
-    "grams": 30
+    "name": "1 kare",
+    "grams": 8
    },
    {
-    "name": "1 porsiyon",
-    "grams": 60
+    "name": "1 bar",
+    "grams": 40
    }
   ],
   "allergens": [
@@ -19584,19 +19589,19 @@
   },
   "barcode": "8699118073536",
   "tags": [
-   "dairy",
+   "grain",
    "off",
    "packaged"
   ],
-  "category": "dairy",
+  "category": "grain",
   "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 100
+   },
    {
     "name": "1 dilim",
     "grams": 30
-   },
-   {
-    "name": "1 porsiyon",
-    "grams": 60
    }
   ],
   "allergens": [
@@ -19819,23 +19824,19 @@
   },
   "barcode": "8683923382679",
   "tags": [
-   "beverage",
    "off",
-   "packaged"
+   "packaged",
+   "sweet"
   ],
-  "category": "beverage",
+  "category": "sweet",
   "common_servings": [
    {
-    "name": "1 kutu (330 ml)",
-    "grams": 343
+    "name": "1 avuç",
+    "grams": 40
    },
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 208
-   },
-   {
-    "name": "1 şişe (500 ml)",
-    "grams": 520
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -19869,8 +19870,12 @@
   "category": "grain",
   "common_servings": [
    {
-    "name": "1 paket",
-    "grams": 35
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "meal_type_tags": [
@@ -20325,17 +20330,17 @@
   "tags": [
    "off",
    "packaged",
-   "sweet"
+   "sauce_condiment"
   ],
-  "category": "sweet",
+  "category": "sauce_condiment",
   "common_servings": [
    {
-    "name": "1 kare",
-    "grams": 8
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "1 bar",
-    "grams": 40
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "meal_type_tags": [
@@ -20435,12 +20440,16 @@
   "category": "beverage",
   "common_servings": [
    {
-    "name": "1 fincan (100 ml)",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 kupa (200 ml)",
-    "grams": 200
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -20779,19 +20788,19 @@
   },
   "barcode": "8681267006275",
   "tags": [
-   "nut_seed",
+   "grain",
    "off",
    "packaged"
   ],
-  "category": "nut_seed",
+  "category": "grain",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "meal_type_tags": [
@@ -20968,13 +20977,17 @@
   "tags": [
    "off",
    "packaged",
-   "sweet"
+   "snack"
   ],
-  "category": "sweet",
+  "category": "snack",
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 150
+    "name": "1 kare",
+    "grams": 8
+   },
+   {
+    "name": "1 bar",
+    "grams": 40
    }
   ],
   "meal_type_tags": [
@@ -21041,12 +21054,16 @@
   "category": "beverage",
   "common_servings": [
    {
-    "name": "1 bardak (200 ml)",
-    "grams": 206
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 kutu (1 L)",
-    "grams": 1030
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -21157,19 +21174,19 @@
   },
   "barcode": "8445291594852",
   "tags": [
-   "nut_seed",
+   "grain",
    "off",
    "packaged"
   ],
-  "category": "nut_seed",
+  "category": "grain",
   "common_servings": [
    {
-    "name": "1 avuç",
-    "grams": 30
+    "name": "1 porsiyon",
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "meal_type_tags": [
@@ -21310,9 +21327,9 @@
   "tags": [
    "off",
    "packaged",
-   "sweet"
+   "snack"
   ],
-  "category": "sweet",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 orta boy",
@@ -21390,12 +21407,16 @@
   "category": "prepared",
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 250
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    },
    {
-    "name": "1 kepçe",
-    "grams": 120
+    "name": "1 yemek kaşığı",
+    "grams": 12
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -21923,9 +21944,9 @@
   "tags": [
    "off",
    "packaged",
-   "vegetable"
+   "snack"
   ],
-  "category": "vegetable",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 paket",
@@ -22026,19 +22047,15 @@
   },
   "barcode": "8690624104639",
   "tags": [
-   "dairy",
    "off",
-   "packaged"
+   "packaged",
+   "snack"
   ],
-  "category": "dairy",
+  "category": "snack",
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 200
-   },
-   {
-    "name": "1 yemek kaşığı",
-    "grams": 25
+    "name": "1 paket",
+    "grams": 35
    }
   ],
   "meal_type_tags": [
@@ -22222,8 +22239,12 @@
   "category": "nut_seed",
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı",
-    "grams": 15
+    "name": "1 avuç",
+    "grams": 30
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -22612,17 +22633,17 @@
   "tags": [
    "off",
    "packaged",
-   "vegetable"
+   "sauce_condiment"
   ],
-  "category": "vegetable",
+  "category": "sauce_condiment",
   "common_servings": [
    {
-    "name": "1 porsiyon",
-    "grams": 150
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "meal_type_tags": [
@@ -22774,9 +22795,9 @@
   "tags": [
    "off",
    "packaged",
-   "vegetable"
+   "snack"
   ],
-  "category": "vegetable",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 paket",
@@ -22840,19 +22861,19 @@
   },
   "barcode": "8680908020113",
   "tags": [
-   "legume",
+   "grain",
    "off",
    "packaged"
   ],
-  "category": "legume",
+  "category": "grain",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim",
+    "grams": 30
    }
   ],
   "allergens": [
@@ -23522,17 +23543,17 @@
   "tags": [
    "off",
    "packaged",
-   "sweet"
+   "sauce_condiment"
   ],
-  "category": "sweet",
+  "category": "sauce_condiment",
   "common_servings": [
    {
-    "name": "1 kare",
-    "grams": 8
+    "name": "1 yemek kaşığı",
+    "grams": 15
    },
    {
-    "name": "1 bar",
-    "grams": 40
+    "name": "1 tatlı kaşığı",
+    "grams": 5
    }
   ],
   "allergens": [
@@ -24135,8 +24156,12 @@
   "category": "other",
   "common_servings": [
    {
-    "name": "1 porsiyon (pişmiş)",
-    "grams": 180
+    "name": "1 porsiyon",
+    "grams": 100
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -24171,8 +24196,12 @@
   "category": "sweet",
   "common_servings": [
    {
-    "name": "1 kase",
-    "grams": 150
+    "name": "1 adet",
+    "grams": 10
+   },
+   {
+    "name": "1 paket",
+    "grams": 80
    }
   ],
   "allergens": [
@@ -24278,11 +24307,11 @@
   },
   "barcode": "8690504116257",
   "tags": [
-   "dairy",
+   "grain",
    "off",
    "packaged"
   ],
-  "category": "dairy",
+  "category": "grain",
   "common_servings": [
    {
     "name": "1 adet",
@@ -24824,17 +24853,17 @@
   "tags": [
    "off",
    "packaged",
-   "poultry"
+   "snack"
   ],
-  "category": "poultry",
+  "category": "snack",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 30
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 paket",
+    "grams": 50
    }
   ],
   "allergens": [
