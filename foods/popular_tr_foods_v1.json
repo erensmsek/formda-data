@@ -3886,7 +3886,7 @@
     "grams_raw": 8
    }
   ],
-  "cooked_g": 95
+  "cooked_g": 100
  },
  {
   "id": "curated_sutlac",
@@ -12973,7 +12973,7 @@
   "ingredients": [
    {
     "slug": "ton_konserve",
-    "name": "ton balığı (konserve)",
+    "name": "ton balığı (yağda konserve)",
     "grams_raw": 80
    },
    {
@@ -19748,5 +19748,740 @@
    }
   ],
   "cooked_g": 100
+ },
+ {
+  "id": "curated_tavuk_gogus_haslanmis",
+  "name_tr": "Tavuk Göğsü (haşlanmış)",
+  "name_en": "Chicken Breast, boiled",
+  "category": "main_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 171.4,
+   "protein_g": 32.9,
+   "carbs_g": 0.0,
+   "fat_g": 3.7
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 120
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   },
+   {
+    "name": "1 fileto",
+    "grams": 150
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic",
+   "high_protein"
+  ],
+  "ingredients": [
+   {
+    "slug": "tavuk_gogus",
+    "name": "tavuk göğsü",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 70,
+  "allergens": [],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
+ },
+ {
+  "id": "curated_tavuk_but_haslanmis",
+  "name_tr": "Tavuk But (haşlanmış)",
+  "name_en": "Chicken Thigh, boiled",
+  "category": "main_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 201.4,
+   "protein_g": 25.0,
+   "carbs_g": 0.0,
+   "fat_g": 11.1
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 120
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic"
+  ],
+  "ingredients": [
+   {
+    "slug": "tavuk_but",
+    "name": "tavuk but",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 72,
+  "allergens": [],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
+ },
+ {
+  "id": "curated_hindi_gogus_haslanmis",
+  "name_tr": "Hindi Göğsü (haşlanmış)",
+  "name_en": "Turkey Breast, boiled",
+  "category": "main_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 135.3,
+   "protein_g": 28.9,
+   "carbs_g": 0.0,
+   "fat_g": 2.0
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 120
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic",
+   "high_protein"
+  ],
+  "ingredients": [
+   {
+    "slug": "hindi_gogus_cig",
+    "name": "hindi göğsü (çiğ)",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 85,
+  "allergens": [],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
+ },
+ {
+  "id": "curated_dana_biftek",
+  "name_tr": "Dana Biftek (ızgara)",
+  "name_en": "Beef Steak, grilled",
+  "category": "main_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 206.9,
+   "protein_g": 28.9,
+   "carbs_g": 0.0,
+   "fat_g": 10.1
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic"
+  ],
+  "ingredients": [
+   {
+    "slug": "dana_bonfile_c",
+    "name": "dana bonfile",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 72,
+  "allergens": [],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
+ },
+ {
+  "id": "curated_kuzu_pirzola_izgara",
+  "name_tr": "Kuzu Pirzola (ızgara)",
+  "name_en": "Lamb Chops, grilled",
+  "category": "main_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 194.3,
+   "protein_g": 25.3,
+   "carbs_g": 0.0,
+   "fat_g": 10.4
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "2 adet",
+    "grams": 120
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic"
+  ],
+  "ingredients": [
+   {
+    "slug": "kuzu_pirzola",
+    "name": "kuzu pirzola",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 70,
+  "allergens": [],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
+ },
+ {
+  "id": "curated_kuzu_but_firin",
+  "name_tr": "Kuzu But (fırın)",
+  "name_en": "Roast Lamb Leg",
+  "category": "main_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 174.3,
+   "protein_g": 27.6,
+   "carbs_g": 0.0,
+   "fat_g": 7.1
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic"
+  ],
+  "ingredients": [
+   {
+    "slug": "kuzu_but",
+    "name": "kuzu but",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 70,
+  "allergens": [],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
+ },
+ {
+  "id": "curated_makarna_haslanmis",
+  "name_tr": "Makarna (haşlanmış, sade)",
+  "name_en": "Pasta, boiled",
+  "category": "side_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 158.2,
+   "protein_g": 3.7,
+   "carbs_g": 33.1,
+   "fat_g": 0.8
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 180
+   },
+   {
+    "name": "1 tabak",
+    "grams": 250
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic"
+  ],
+  "ingredients": [
+   {
+    "slug": "makarna_kuru",
+    "name": "kuru makarna",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 225,
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
+ },
+ {
+  "id": "curated_pirinc_haslanmis",
+  "name_tr": "Pirinç (haşlanmış, sade)",
+  "name_en": "Rice, boiled",
+  "category": "side_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 121.8,
+   "protein_g": 2.4,
+   "carbs_g": 27.0,
+   "fat_g": 0.2
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic"
+  ],
+  "ingredients": [
+   {
+    "slug": "pirinc",
+    "name": "pirinç",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 280,
+  "allergens": [],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
+ },
+ {
+  "id": "curated_bulgur_haslanmis",
+  "name_tr": "Bulgur (haşlanmış, sade)",
+  "name_en": "Bulgur, boiled",
+  "category": "side_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 140.0,
+   "protein_g": 3.6,
+   "carbs_g": 28.0,
+   "fat_g": 0.8
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic"
+  ],
+  "ingredients": [
+   {
+    "slug": "bulgur",
+    "name": "bulgur",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 250,
+  "allergens": [
+   "gluten"
+  ],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
+ },
+ {
+  "id": "curated_esmer_pirinc_haslanmis",
+  "name_tr": "Esmer Pirinç (haşlanmış)",
+  "name_en": "Brown Rice, boiled",
+  "category": "side_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 137.0,
+   "protein_g": 2.9,
+   "carbs_g": 28.6,
+   "fat_g": 1.1
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "basic"
+  ],
+  "ingredients": [
+   {
+    "slug": "esmer_pirinc",
+    "name": "esmer pirinç",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 270,
+  "allergens": [],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
+ },
+ {
+  "id": "curated_patates_haslanmis",
+  "name_tr": "Patates (haşlanmış)",
+  "name_en": "Potato, boiled",
+  "category": "side_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 71.6,
+   "protein_g": 1.6,
+   "carbs_g": 15.2,
+   "fat_g": 0.2
+  },
+  "common_servings": [
+   {
+    "name": "1 orta boy",
+    "grams": 150
+   },
+   {
+    "name": "1 porsiyon",
+    "grams": 200
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic"
+  ],
+  "ingredients": [
+   {
+    "slug": "patates",
+    "name": "patates",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 95,
+  "allergens": [],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
+ },
+ {
+  "id": "curated_patates_firin_sade",
+  "name_tr": "Patates (fırında, sade)",
+  "name_en": "Baked Potato",
+  "category": "side_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 85.0,
+   "protein_g": 1.9,
+   "carbs_g": 18.0,
+   "fat_g": 0.2
+  },
+  "common_servings": [
+   {
+    "name": "1 orta boy",
+    "grams": 130
+   },
+   {
+    "name": "1 porsiyon",
+    "grams": 180
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic"
+  ],
+  "ingredients": [
+   {
+    "slug": "patates",
+    "name": "patates",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 80,
+  "allergens": [],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
+ },
+ {
+  "id": "curated_nohut_haslanmis",
+  "name_tr": "Nohut (haşlanmış, sade)",
+  "name_en": "Chickpeas, boiled",
+  "category": "side_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 139.2,
+   "protein_g": 7.8,
+   "carbs_g": 17.2,
+   "fat_g": 2.2
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic"
+  ],
+  "ingredients": [
+   {
+    "slug": "nohut",
+    "name": "nohut",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 240,
+  "allergens": [],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
+ },
+ {
+  "id": "curated_mercimek_haslanmis",
+  "name_tr": "Mercimek (haşlanmış, sade)",
+  "name_en": "Lentils, boiled",
+  "category": "side_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 134.2,
+   "protein_g": 10.8,
+   "carbs_g": 17.5,
+   "fat_g": 0.7
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic"
+  ],
+  "ingredients": [
+   {
+    "slug": "mercimek_k",
+    "name": "kırmızı mercimek",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 240,
+  "allergens": [],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
+ },
+ {
+  "id": "curated_fasulye_haslanmis",
+  "name_tr": "Kuru Fasulye (haşlanmış, sade)",
+  "name_en": "White Beans, boiled",
+  "category": "side_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 133.2,
+   "protein_g": 8.4,
+   "carbs_g": 24.0,
+   "fat_g": 0.6
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "turkish",
+   "basic"
+  ],
+  "ingredients": [
+   {
+    "slug": "fasulye_kuru",
+    "name": "kuru fasulye",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 250,
+  "allergens": [],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 20
+ },
+ {
+  "id": "curated_somon_haslanmis",
+  "name_tr": "Somon (fırın/haşlanmış, sade)",
+  "name_en": "Salmon, baked",
+  "category": "main_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 218.9,
+   "protein_g": 21.5,
+   "carbs_g": 0.0,
+   "fat_g": 14.1
+  },
+  "common_servings": [
+   {
+    "name": "1 porsiyon",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "basic",
+   "high_protein"
+  ],
+  "ingredients": [
+   {
+    "slug": "somon",
+    "name": "somon",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 95,
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
+ },
+ {
+  "id": "curated_ton_salamura",
+  "name_tr": "Ton Balığı (suda, süzülmüş)",
+  "name_en": "Tuna, canned in water, drained",
+  "category": "main_dish",
+  "source": "curated",
+  "per_100g": {
+   "calories_kcal": 116.0,
+   "protein_g": 25.5,
+   "carbs_g": 0.0,
+   "fat_g": 0.8
+  },
+  "common_servings": [
+   {
+    "name": "1 kutu",
+    "grams": 80
+   },
+   {
+    "name": "100 g",
+    "grams": 100
+   }
+  ],
+  "tags": [
+   "basic",
+   "high_protein"
+  ],
+  "ingredients": [
+   {
+    "slug": "ton_suda",
+    "name": "ton balığı (suda konserve)",
+    "grams_raw": 100
+   }
+  ],
+  "cooked_g": 100,
+  "allergens": [
+   "fish"
+  ],
+  "allergen_source": "curated",
+  "meal_type_tags": [
+   "lunch",
+   "dinner"
+  ],
+  "prep_time_min": 30
  }
 ]

@@ -1745,10 +1745,9 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "breakfast",
-   "snack"
+   "breakfast"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 10
  },
  {
   "id": "usda_168787",
@@ -1785,10 +1784,9 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "breakfast",
-   "snack"
+   "breakfast"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 10
  },
  {
   "id": "usda_168772",
@@ -2624,9 +2622,11 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "snack"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_2512376",
@@ -2977,9 +2977,10 @@
   "allergen_source": "derived",
   "meal_type_tags": [
    "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_172741",
@@ -3015,9 +3016,11 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "breakfast"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 10
+  "prep_time_min": 15
  },
  {
   "id": "usda_174077",
@@ -3334,9 +3337,11 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "breakfast"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 10
+  "prep_time_min": 15
  },
  {
   "id": "usda_172686",
@@ -3573,9 +3578,11 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "breakfast"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 10
+  "prep_time_min": 15
  },
  {
   "id": "usda_172672",
@@ -5750,7 +5757,8 @@
    "fiber_g": 0.0,
    "sodium_mg": 4.0,
    "carbs_g": 5.92,
-   "calories_kcal": 56.0
+   "calories_kcal": 56.0,
+   "alcohol_g": 4.6
   },
   "tags": [
    "beverage",
@@ -6635,9 +6643,6 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "breakfast",
-   "lunch",
-   "dinner",
    "snack"
   ],
   "prep_time_min": 0
@@ -7120,10 +7125,9 @@
   "meal_type_tags": [
    "breakfast",
    "lunch",
-   "dinner",
-   "snack"
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_172978",
@@ -7227,9 +7231,10 @@
   "allergen_source": "derived",
   "meal_type_tags": [
    "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_171660",
@@ -7267,9 +7272,10 @@
   "allergen_source": "derived",
   "meal_type_tags": [
    "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_173901",
@@ -7307,9 +7313,10 @@
   "allergen_source": "derived",
   "meal_type_tags": [
    "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_173914",
@@ -7343,10 +7350,9 @@
   "meal_type_tags": [
    "breakfast",
    "lunch",
-   "dinner",
-   "snack"
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_173012",
@@ -7384,9 +7390,10 @@
   "allergen_source": "derived",
   "meal_type_tags": [
    "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_173915",
@@ -7424,9 +7431,10 @@
   "allergen_source": "derived",
   "meal_type_tags": [
    "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_172998",
@@ -7504,9 +7512,10 @@
   "allergen_source": "derived",
   "meal_type_tags": [
    "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_171659",
@@ -7544,9 +7553,10 @@
   "allergen_source": "derived",
   "meal_type_tags": [
    "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_172999",
@@ -7582,9 +7592,11 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "snack"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_170890",
@@ -8168,9 +8180,11 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "snack"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_173927",
@@ -8358,9 +8372,11 @@
    }
   ],
   "meal_type_tags": [
-   "snack"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_174901",
@@ -8396,9 +8412,11 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "breakfast"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 10
+  "prep_time_min": 15
  },
  {
   "id": "usda_167533",
@@ -11815,6 +11833,7 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
+   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -11923,6 +11942,7 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
+   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -11962,8 +11982,6 @@
   "allergen_source": "derived",
   "meal_type_tags": [
    "breakfast",
-   "lunch",
-   "dinner",
    "snack"
   ],
   "prep_time_min": 0
@@ -12405,6 +12423,7 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
+   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -13630,7 +13649,8 @@
    "fiber_g": 0.0,
    "sodium_mg": 2.0,
    "protein_g": 0.5,
-   "calories_kcal": 134.0
+   "calories_kcal": 134.0,
+   "alcohol_g": 16.0
   },
   "tags": [
    "beverage",
@@ -13667,7 +13687,8 @@
    "fat_g": 0.0,
    "carbs_g": 1.64,
    "protein_g": 0.24,
-   "calories_kcal": 29.0
+   "calories_kcal": 29.0,
+   "alcohol_g": 3.1
   },
   "tags": [
    "beverage",
@@ -13704,7 +13725,8 @@
    "fat_g": 0.0,
    "fiber_g": 0.0,
    "sodium_mg": 7.0,
-   "calories_kcal": 49.0
+   "calories_kcal": 49.0,
+   "alcohol_g": 6.3
   },
   "tags": [
    "beverage",
@@ -13737,7 +13759,8 @@
    "fat_g": 0.0,
    "carbs_g": 2.72,
    "protein_g": 0.07,
-   "calories_kcal": 83.0
+   "calories_kcal": 83.0,
+   "alcohol_g": 10.3
   },
   "tags": [
    "beverage",
@@ -13769,7 +13792,8 @@
    "sodium_mg": 20.0,
    "fat_g": 0.03,
    "carbs_g": 13.2,
-   "calories_kcal": 149.0
+   "calories_kcal": 149.0,
+   "alcohol_g": 13.7
   },
   "tags": [
    "beverage",
@@ -13802,7 +13826,8 @@
    "sodium_mg": 4.0,
    "fat_g": 0.0,
    "sugar_g": 0.0,
-   "calories_kcal": 43.0
+   "calories_kcal": 43.0,
+   "alcohol_g": 3.9
   },
   "tags": [
    "beverage",
@@ -13839,7 +13864,8 @@
    "fiber_g": 0.0,
    "protein_g": 0.5,
    "fat_g": 0.0,
-   "calories_kcal": 50.0
+   "calories_kcal": 50.0,
+   "alcohol_g": 3.3
   },
   "tags": [
    "beverage",
@@ -13872,7 +13898,8 @@
    "fat_g": 0.0,
    "carbs_g": 11.7,
    "sugar_g": 1.09,
-   "calories_kcal": 152.0
+   "calories_kcal": 152.0,
+   "alcohol_g": 14.9
   },
   "tags": [
    "beverage",
@@ -13913,7 +13940,8 @@
    "fat_g": 0.0,
    "carbs_g": 0.0,
    "sugar_g": 0.0,
-   "calories_kcal": 231.0
+   "calories_kcal": 231.0,
+   "alcohol_g": 33.0
   },
   "tags": [
    "beverage",
@@ -13954,7 +13982,8 @@
    "sugar_g": 38.3,
    "fiber_g": 0.0,
    "carbs_g": 46.8,
-   "calories_kcal": 336.0
+   "calories_kcal": 336.0,
+   "alcohol_g": 20.8
   },
   "tags": [
    "beverage",
@@ -14513,6 +14542,7 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
+   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -14551,6 +14581,7 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
+   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -14627,6 +14658,7 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
+   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -14665,6 +14697,7 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
+   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -15151,9 +15184,11 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "snack"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_171515",
@@ -15437,7 +15472,12 @@
   "allergens": [
    "milk"
   ],
-  "allergen_source": "derived"
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "usda_169782",
@@ -16659,7 +16699,12 @@
   "allergens": [
    "milk"
   ],
-  "allergen_source": "derived"
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "usda_173342",
@@ -20022,8 +20067,6 @@
   ],
   "meal_type_tags": [
    "breakfast",
-   "lunch",
-   "dinner",
    "snack"
   ],
   "prep_time_min": 0
@@ -20059,8 +20102,6 @@
   ],
   "meal_type_tags": [
    "breakfast",
-   "lunch",
-   "dinner",
    "snack"
   ],
   "prep_time_min": 0
@@ -20095,6 +20136,7 @@
    }
   ],
   "meal_type_tags": [
+   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -20129,6 +20171,7 @@
    }
   ],
   "meal_type_tags": [
+   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -20163,6 +20206,7 @@
    }
   ],
   "meal_type_tags": [
+   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -20196,6 +20240,7 @@
    }
   ],
   "meal_type_tags": [
+   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -20229,6 +20274,7 @@
    }
   ],
   "meal_type_tags": [
+   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -21685,10 +21731,6 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ],
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
   ]
  },
  {
@@ -21719,10 +21761,6 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ],
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
   ]
  },
  {
@@ -21753,10 +21791,6 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ],
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
   ]
  },
  {
@@ -21787,10 +21821,6 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ],
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
   ]
  },
  {
@@ -23261,12 +23291,7 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ],
-  "meal_type_tags": [
-   "breakfast",
-   "snack"
-  ],
-  "prep_time_min": 0
+  ]
  },
  {
   "id": "usda_173865",
@@ -23500,9 +23525,9 @@
    }
   ],
   "meal_type_tags": [
-   "snack"
-  ],
-  "prep_time_min": 0
+   "lunch",
+   "dinner"
+  ]
  },
  {
   "id": "usda_171626",
@@ -24339,8 +24364,6 @@
   "allergen_source": "derived",
   "meal_type_tags": [
    "breakfast",
-   "lunch",
-   "dinner",
    "snack"
   ],
   "prep_time_min": 0
@@ -26034,40 +26057,6 @@
    "dinner"
   ],
   "prep_time_min": 10
- },
- {
-  "id": "usda_173858",
-  "name_tr": "Chicken spread",
-  "name_en": "Chicken spread",
-  "category": "poultry",
-  "source": "usda",
-  "per_100g": {
-   "fat_g": 17.6,
-   "fiber_g": 0.3,
-   "sodium_mg": 722.0,
-   "protein_g": 18.0,
-   "sugar_g": 0.47,
-   "carbs_g": 4.05,
-   "calories_kcal": 158.0
-  },
-  "tags": [
-   "poultry",
-   "usda"
-  ],
-  "common_servings": [
-   {
-    "name": "1 porsiyon",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
-   }
-  ],
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
-  ]
  },
  {
   "id": "usda_169992",
@@ -30057,9 +30046,10 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_173292",
@@ -34251,10 +34241,6 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ],
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
   ]
  },
  {
@@ -34385,7 +34371,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "usda_168802",
@@ -34515,7 +34505,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "usda_169668",
@@ -34545,7 +34539,11 @@
     "name": "100 g",
     "grams": 100
    }
-  ]
+  ],
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "usda_169619",
@@ -34581,7 +34579,6 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -34977,9 +34974,6 @@
    }
   ],
   "meal_type_tags": [
-   "breakfast",
-   "lunch",
-   "dinner",
    "snack"
   ],
   "prep_time_min": 0
@@ -35451,7 +35445,12 @@
   "allergens": [
    "milk"
   ],
-  "allergen_source": "derived"
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "usda_171261",
@@ -35486,7 +35485,12 @@
    "milk",
    "soybeans"
   ],
-  "allergen_source": "derived"
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "breakfast",
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "usda_173034",
@@ -36170,12 +36174,7 @@
    "eggs",
    "soybeans"
   ],
-  "allergen_source": "derived",
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
-  ],
-  "prep_time_min": 30
+  "allergen_source": "derived"
  },
  {
   "id": "usda_168115",
@@ -37746,7 +37745,8 @@
    "fat_g": 0.0,
    "sugar_g": 3.8,
    "carbs_g": 3.8,
-   "calories_kcal": 83.0
+   "calories_kcal": 83.0,
+   "alcohol_g": 9.5
   },
   "tags": [
    "beverage",
@@ -37779,7 +37779,8 @@
    "fat_g": 0.0,
    "sugar_g": 0.0,
    "carbs_g": 0.27,
-   "calories_kcal": 58.0
+   "calories_kcal": 58.0,
+   "alcohol_g": 7.6
   },
   "tags": [
    "beverage",
@@ -38933,11 +38934,7 @@
   "allergens": [
    "mustard"
   ],
-  "allergen_source": "derived",
-  "meal_type_tags": [
-   "snack"
-  ],
-  "prep_time_min": 0
+  "allergen_source": "derived"
  },
  {
   "id": "usda_169599",
@@ -39818,7 +39815,11 @@
    "milk",
    "peanuts"
   ],
-  "allergen_source": "derived"
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "usda_174079",
@@ -39849,7 +39850,11 @@
    "gluten",
    "milk"
   ],
-  "allergen_source": "derived"
+  "allergen_source": "derived",
+  "meal_type_tags": [
+   "snack"
+  ],
+  "prep_time_min": 0
  },
  {
   "id": "usda_167590",
@@ -40409,11 +40414,9 @@
    }
   ],
   "meal_type_tags": [
-   "breakfast",
-   "lunch",
-   "dinner"
+   "snack"
   ],
-  "prep_time_min": 15
+  "prep_time_min": 0
  },
  {
   "id": "usda_168860",
@@ -41003,10 +41006,10 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_170363",
@@ -41134,10 +41137,10 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_170364",
@@ -41220,10 +41223,10 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_170761",
@@ -41306,10 +41309,10 @@
   ],
   "allergen_source": "derived",
   "meal_type_tags": [
-   "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 15
  },
  {
   "id": "usda_172228",
@@ -42961,10 +42964,10 @@
    }
   ],
   "meal_type_tags": [
-   "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 10
  },
  {
   "id": "usda_174672",
@@ -42991,10 +42994,10 @@
    }
   ],
   "meal_type_tags": [
-   "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 10
  },
  {
   "id": "usda_173599",

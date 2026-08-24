@@ -86,7 +86,10 @@
    "peanuts",
    "soybeans"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "meal_type_tags": [
+   "snack"
+  ]
  },
  {
   "id": "off_8690526095417",
@@ -177,7 +180,8 @@
   ],
   "meal_type_tags": [
    "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -416,10 +420,6 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ],
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -1074,14 +1074,14 @@
   "barcode": "8690574114528",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -1329,14 +1329,14 @@
   "barcode": "8690574114795",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -1442,14 +1442,14 @@
   "barcode": "90454752",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -2016,7 +2016,7 @@
  },
  {
   "id": "off_8695077000873",
-  "name_tr": "Юрдум Юрдум Юрдум salcayurdum yurdum salca",
+  "name_tr": "Юрдум Юрдум Юрдум Юрдум Юрдум salcayurdum yurdum salca",
   "brand": "Юрдум",
   "source": "off",
   "per_100g": {
@@ -2411,10 +2411,6 @@
     "grams": 5
    }
   ],
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
-  ],
   "prep_time_min": 0
  },
  {
@@ -2673,14 +2669,14 @@
   "barcode": "4000177407608",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -2755,8 +2751,7 @@
    }
   ],
   "meal_type_tags": [
-   "lunch",
-   "dinner"
+   "snack"
   ],
   "prep_time_min": 0
  },
@@ -3798,14 +3793,14 @@
   "barcode": "5000112664980",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -4439,43 +4434,6 @@
     "grams": 5
    }
   ],
-  "prep_time_min": 0
- },
- {
-  "id": "off_8690632049168",
-  "name_tr": "Nestlé .",
-  "brand": "Nestlé",
-  "source": "off",
-  "per_100g": {
-   "calories_kcal": 513.0,
-   "protein_g": 7.2,
-   "carbs_g": 63.0,
-   "fat_g": 26.0,
-   "sugar_g": 45.0,
-   "sodium_mg": 152.0
-  },
-  "barcode": "8690632049168",
-  "tags": [
-   "off",
-   "other",
-   "packaged"
-  ],
-  "category": "other",
-  "common_servings": [
-   {
-    "name": "1 porsiyon",
-    "grams": 100
-   },
-   {
-    "name": "100 g",
-    "grams": 100
-   }
-  ],
-  "allergens": [
-   "gluten",
-   "milk"
-  ],
-  "allergen_source": "declared",
   "prep_time_min": 0
  },
  {
@@ -5126,14 +5084,14 @@
   "barcode": "8681324006149",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -5388,41 +5346,6 @@
   "meal_type_tags": [
    "breakfast",
    "snack"
-  ],
-  "prep_time_min": 0
- },
- {
-  "id": "off_8690574114726",
-  "name_tr": "lipton",
-  "brand": "Lipton",
-  "source": "off",
-  "per_100g": {
-   "calories_kcal": 63.0,
-   "protein_g": 0.0,
-   "carbs_g": 15.0,
-   "fat_g": 0.0,
-   "sugar_g": 15.0
-  },
-  "barcode": "8690574114726",
-  "tags": [
-   "off",
-   "packaged",
-   "vegetable"
-  ],
-  "category": "vegetable",
-  "common_servings": [
-   {
-    "name": "1 porsiyon",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
-   }
-  ],
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -6677,8 +6600,7 @@
    "peanuts"
   ],
   "meal_type_tags": [
-   "lunch",
-   "dinner"
+   "snack"
   ],
   "prep_time_min": 0
  },
@@ -6787,14 +6709,14 @@
   "barcode": "8696368041674",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -6853,7 +6775,8 @@
   ],
   "meal_type_tags": [
    "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -6970,8 +6893,7 @@
    }
   ],
   "meal_type_tags": [
-   "lunch",
-   "dinner"
+   "snack"
   ],
   "prep_time_min": 0
  },
@@ -7014,9 +6936,6 @@
    "soybeans"
   ],
   "allergen_source": "declared",
-  "meal_type_tags": [
-   "snack"
-  ],
   "prep_time_min": 0
  },
  {
@@ -7257,7 +7176,9 @@
   ],
   "allergen_source": "declared",
   "meal_type_tags": [
-   "snack"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -7802,9 +7723,6 @@
    "soybeans"
   ],
   "meal_type_tags": [
-   "breakfast",
-   "lunch",
-   "dinner",
    "snack"
   ],
   "prep_time_min": 0
@@ -7924,7 +7842,8 @@
   ],
   "meal_type_tags": [
    "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -9674,14 +9593,14 @@
   "barcode": "5000112664614",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -9723,10 +9642,6 @@
     "name": "1 tatlı kaşığı",
     "grams": 5
    }
-  ],
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -9882,9 +9797,6 @@
    }
   ],
   "meal_type_tags": [
-   "breakfast",
-   "lunch",
-   "dinner",
    "snack"
   ],
   "prep_time_min": 0
@@ -10050,10 +9962,6 @@
    "mustard"
   ],
   "allergen_source": "declared",
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
-  ],
   "prep_time_min": 0
  },
  {
@@ -10117,14 +10025,14 @@
   "barcode": "8690105000436",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -10298,41 +10206,6 @@
   "prep_time_min": 0
  },
  {
-  "id": "off_8690632018812",
-  "name_tr": "Nescafé",
-  "brand": "Nescafé",
-  "source": "off",
-  "per_100g": {
-   "calories_kcal": 36.0,
-   "protein_g": 0.100000001490116,
-   "carbs_g": 5.19999980926514,
-   "fat_g": 1.0,
-   "fiber_g": 0.400000005960464
-  },
-  "barcode": "8690632018812",
-  "tags": [
-   "off",
-   "packaged",
-   "vegetable"
-  ],
-  "category": "vegetable",
-  "common_servings": [
-   {
-    "name": "1 porsiyon",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
-   }
-  ],
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
-  ],
-  "prep_time_min": 0
- },
- {
   "id": "off_8692095344354",
   "name_tr": "sek Quark Yaban Mersini",
   "brand": "sek",
@@ -10409,7 +10282,9 @@
   ],
   "allergen_source": "declared",
   "meal_type_tags": [
-   "snack"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -11525,14 +11400,14 @@
   "barcode": "5449000046048",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -11753,7 +11628,9 @@
    "eggs"
   ],
   "meal_type_tags": [
-   "snack"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -12316,8 +12193,8 @@
   ],
   "allergen_source": "declared",
   "meal_type_tags": [
-   "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -13870,8 +13747,7 @@
   ],
   "allergen_source": "declared",
   "meal_type_tags": [
-   "lunch",
-   "dinner"
+   "snack"
   ],
   "prep_time_min": 0
  },
@@ -14312,14 +14188,14 @@
   "barcode": "8690565017531",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -15217,14 +15093,14 @@
   "barcode": "8696368944524",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -15982,6 +15858,7 @@
    }
   ],
   "meal_type_tags": [
+   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -16161,14 +16038,14 @@
   "barcode": "5061013944465",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -16391,14 +16268,14 @@
   "barcode": "86900188",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -16768,15 +16645,15 @@
   },
   "barcode": "8690629442293",
   "tags": [
-   "legume",
    "off",
+   "other",
    "packaged"
   ],
-  "category": "legume",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -18019,7 +17896,6 @@
   ],
   "allergen_source": "declared",
   "meal_type_tags": [
-   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -19613,7 +19489,8 @@
   ],
   "meal_type_tags": [
    "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -19670,14 +19547,14 @@
   "barcode": "8681324009652",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -19840,9 +19717,6 @@
    }
   ],
   "meal_type_tags": [
-   "breakfast",
-   "lunch",
-   "dinner",
    "snack"
   ],
   "prep_time_min": 0
@@ -20343,9 +20217,6 @@
     "grams": 5
    }
   ],
-  "meal_type_tags": [
-   "snack"
-  ],
   "prep_time_min": 0
  },
  {
@@ -20804,7 +20675,9 @@
    }
   ],
   "meal_type_tags": [
-   "snack"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -21190,7 +21063,9 @@
    }
   ],
   "meal_type_tags": [
-   "snack"
+   "breakfast",
+   "lunch",
+   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -21954,8 +21829,7 @@
    }
   ],
   "meal_type_tags": [
-   "lunch",
-   "dinner"
+   "snack"
   ],
   "prep_time_min": 0
  },
@@ -22059,7 +21933,6 @@
    }
   ],
   "meal_type_tags": [
-   "breakfast",
    "snack"
   ],
   "prep_time_min": 0
@@ -22080,14 +21953,14 @@
   "barcode": "8690632762869",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -22180,41 +22053,6 @@
    "gluten"
   ],
   "allergen_source": "declared",
-  "prep_time_min": 0
- },
- {
-  "id": "off_8690526047508",
-  "name_tr": "Eti Sütlü Çikolata",
-  "brand": "Eti",
-  "source": "off",
-  "per_100g": {
-   "calories_kcal": 554.0,
-   "protein_g": 8.19999980926514,
-   "carbs_g": 51.0,
-   "fat_g": 22.0,
-   "fiber_g": 3.79999995231628,
-   "sugar_g": 46.0
-  },
-  "barcode": "8690526047508",
-  "tags": [
-   "off",
-   "packaged",
-   "sweet"
-  ],
-  "category": "sweet",
-  "common_servings": [
-   {
-    "name": "1 kare",
-    "grams": 8
-   },
-   {
-    "name": "1 bar",
-    "grams": 40
-   }
-  ],
-  "meal_type_tags": [
-   "snack"
-  ],
   "prep_time_min": 0
  },
  {
@@ -22646,10 +22484,6 @@
     "grams": 5
    }
   ],
-  "meal_type_tags": [
-   "lunch",
-   "dinner"
-  ],
   "prep_time_min": 0
  },
  {
@@ -22805,8 +22639,7 @@
    }
   ],
   "meal_type_tags": [
-   "lunch",
-   "dinner"
+   "snack"
   ],
   "prep_time_min": 0
  },
@@ -22886,6 +22719,7 @@
    "gluten"
   ],
   "meal_type_tags": [
+   "breakfast",
    "lunch",
    "dinner"
   ],
@@ -23170,36 +23004,6 @@
   "meal_type_tags": [
    "breakfast",
    "snack"
-  ],
-  "prep_time_min": 0
- },
- {
-  "id": "off_8690632760179",
-  "name_tr": "nestle",
-  "brand": "Nestlé",
-  "source": "off",
-  "per_100g": {
-   "calories_kcal": 372.0,
-   "protein_g": 9.3,
-   "carbs_g": 74.0,
-   "fat_g": 2.6
-  },
-  "barcode": "8690632760179",
-  "tags": [
-   "off",
-   "other",
-   "packaged"
-  ],
-  "category": "other",
-  "common_servings": [
-   {
-    "name": "1 porsiyon",
-    "grams": 100
-   },
-   {
-    "name": "100 g",
-    "grams": 100
-   }
   ],
   "prep_time_min": 0
  },
@@ -23561,9 +23365,6 @@
    "soybeans"
   ],
   "allergen_source": "declared",
-  "meal_type_tags": [
-   "snack"
-  ],
   "prep_time_min": 0
  },
  {
@@ -23742,14 +23543,14 @@
   "barcode": "8695077302038",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -23815,14 +23616,14 @@
   "barcode": "8690558020357",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -23963,14 +23764,14 @@
   "barcode": "8690105000382",
   "tags": [
    "off",
-   "packaged",
-   "vegetable"
+   "other",
+   "packaged"
   ],
-  "category": "vegetable",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -24035,15 +23836,15 @@
   },
   "barcode": "8690629229665",
   "tags": [
-   "legume",
    "off",
+   "other",
    "packaged"
   ],
-  "category": "legume",
+  "category": "other",
   "common_servings": [
    {
     "name": "1 porsiyon",
-    "grams": 150
+    "grams": 100
    },
    {
     "name": "100 g",
@@ -24324,7 +24125,8 @@
   ],
   "meal_type_tags": [
    "breakfast",
-   "snack"
+   "lunch",
+   "dinner"
   ],
   "prep_time_min": 0
  },
@@ -24875,8 +24677,7 @@
    "peanuts"
   ],
   "meal_type_tags": [
-   "lunch",
-   "dinner"
+   "snack"
   ],
   "prep_time_min": 0
  },
