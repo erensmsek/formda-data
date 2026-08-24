@@ -39,6 +39,13 @@ zorluk, TR talimatlar ve 2 kare görsel URL'i içerir.
 - **Open Food Facts** (openfoodfacts.org) — veri **ODbL** (Open Database
   License) altındadır; **atıf zorunludur** ve uygulamanın "Hakkında" ekranında
   belirtilir. Ürün içerikleri Database Contents License kapsamındadır.
+- **Türkiye Beslenme Rehberi (TÜBER) 2022** — T.C. Sağlık Bakanlığı Halk
+  Sağlığı Genel Müdürlüğü, Yayın No: 1031. Kamu kurumu yayını, kamuya açık.
+  Veri seti TÜBER'den **değer kopyalamaz**; Ek 2.1.1-2.1.9'daki standart
+  porsiyon ölçüleri porsiyon gramajlarının **doğrulanmasında** referans
+  olarak kullanıldı (`scripts/check_tuber_portions.py`). Uygulamanın
+  "Hakkında" ekranında kaynak olarak belirtilir.
+
 - **Free Exercise DB** (github.com/yuhonas/free-exercise-db) — **Unlicense**
   (kamu malı), ticari kullanım serbest. Egzersiz görselleri de aynı repodan
   raw URL ile referanslanır. Türkçe çeviriler Gemini ile üretilip elle

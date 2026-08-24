@@ -438,16 +438,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 206
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 yemek kaşığı (25 g)",
-    "grams": 25
+    "name": "1 kupa (240 ml)",
+    "grams": 247
    }
   ],
   "tags": [
@@ -480,16 +476,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 206
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 yemek kaşığı (25 g)",
-    "grams": 25
+    "name": "1 kupa (240 ml)",
+    "grams": 247
    }
   ],
   "tags": [
@@ -522,16 +514,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 206
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 yemek kaşığı (25 g)",
-    "grams": 25
+    "name": "1 kupa (240 ml)",
+    "grams": 247
    }
   ],
   "tags": [
@@ -564,16 +552,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 206
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 yemek kaşığı (25 g)",
-    "grams": 25
+    "name": "1 kupa (240 ml)",
+    "grams": 247
    }
   ],
   "tags": [
@@ -606,16 +590,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 206
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 yemek kaşığı (25 g)",
-    "grams": 25
+    "name": "1 kupa (240 ml)",
+    "grams": 247
    }
   ],
   "tags": [
@@ -647,16 +627,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 206
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 yemek kaşığı (25 g)",
-    "grams": 25
+    "name": "1 kupa (240 ml)",
+    "grams": 247
    }
   ],
   "tags": [
@@ -688,16 +664,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 206
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 yemek kaşığı (25 g)",
-    "grams": 25
+    "name": "1 kupa (240 ml)",
+    "grams": 247
    }
   ],
   "tags": [
@@ -729,16 +701,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 206
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 yemek kaşığı (25 g)",
-    "grams": 25
+    "name": "1 kupa (240 ml)",
+    "grams": 247
    }
   ],
   "tags": [
@@ -771,16 +739,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 206
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 yemek kaşığı (25 g)",
-    "grams": 25
+    "name": "1 kupa (240 ml)",
+    "grams": 247
    }
   ],
   "tags": [
@@ -5044,8 +5008,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 dilim (25 g)",
+    "grams": 25
+   },
+   {
+    "name": "2 dilim (50 g)",
+    "grams": 50
    },
    {
     "name": "1/4 somun (90 g)",
@@ -5161,8 +5129,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 dilim (25 g)",
+    "grams": 25
+   },
+   {
+    "name": "2 dilim (50 g)",
+    "grams": 50
    },
    {
     "name": "1/4 somun (90 g)",
@@ -5200,8 +5172,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 dilim (25 g)",
+    "grams": 25
+   },
+   {
+    "name": "2 dilim (50 g)",
+    "grams": 50
    },
    {
     "name": "1/4 somun (90 g)",
@@ -5239,8 +5215,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 dilim (25 g)",
+    "grams": 25
+   },
+   {
+    "name": "2 dilim (50 g)",
+    "grams": 50
    },
    {
     "name": "1/4 somun (90 g)",
@@ -5399,8 +5379,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 dilim (25 g)",
+    "grams": 25
+   },
+   {
+    "name": "2 dilim (50 g)",
+    "grams": 50
    },
    {
     "name": "1/4 somun (90 g)",
@@ -5438,8 +5422,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 dilim (25 g)",
+    "grams": 25
+   },
+   {
+    "name": "2 dilim (50 g)",
+    "grams": 50
    },
    {
     "name": "1/4 somun (90 g)",
@@ -5477,8 +5465,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 dilim (25 g)",
+    "grams": 25
+   },
+   {
+    "name": "2 dilim (50 g)",
+    "grams": 50
    },
    {
     "name": "1/4 somun (90 g)",
@@ -5516,8 +5508,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 dilim (25 g)",
+    "grams": 25
+   },
+   {
+    "name": "2 dilim (50 g)",
+    "grams": 50
    },
    {
     "name": "1/4 somun (90 g)",
@@ -5555,8 +5551,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 dilim (25 g)",
+    "grams": 25
+   },
+   {
+    "name": "2 dilim (50 g)",
+    "grams": 50
    },
    {
     "name": "1/4 somun (90 g)",
@@ -5594,8 +5594,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 dilim (25 g)",
+    "grams": 25
+   },
+   {
+    "name": "2 dilim (50 g)",
+    "grams": 50
    },
    {
     "name": "1/4 somun (90 g)",
@@ -5633,16 +5637,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
-   },
-   {
-    "name": "1 dilim (30 g)",
+    "name": "1 porsiyon (30 g)",
     "grams": 30
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 yemek kaşığı (12 g)",
+    "grams": 12
    }
   ],
   "tags": [
@@ -6041,12 +6041,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 porsiyon (30 g)",
+    "grams": 30
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 yemek kaşığı (12 g)",
+    "grams": 12
    },
    {
     "name": "100 g",
@@ -8410,7 +8410,8 @@
    "fat_g": 0.46,
    "carbs_g": 4.06,
    "fiber_g": 2.75,
-   "sodium_mg": 1.0
+   "sodium_mg": 1.0,
+   "protein_g": 0.0
   },
   "common_servings": [
    {
@@ -8436,7 +8437,10 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 10
+  "prep_time_min": 10,
+  "nutrient_gaps": [
+   "protein_g"
+  ]
  },
  {
   "id": "turkomp_707",
@@ -9000,7 +9004,8 @@
    "calories_kcal": 29.0,
    "fat_g": 0.48,
    "carbs_g": 4.52,
-   "fiber_g": 3.42
+   "fiber_g": 3.42,
+   "protein_g": 0.0
   },
   "common_servings": [
    {
@@ -9026,7 +9031,10 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 10
+  "prep_time_min": 10,
+  "nutrient_gaps": [
+   "protein_g"
+  ]
  },
  {
   "id": "turkomp_241",
@@ -9417,7 +9425,8 @@
    "fat_g": 0.83,
    "carbs_g": 5.41,
    "fiber_g": 4.7,
-   "sodium_mg": 5.0
+   "sodium_mg": 5.0,
+   "protein_g": 0.0
   },
   "common_servings": [
    {
@@ -9443,7 +9452,10 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 10
+  "prep_time_min": 10,
+  "nutrient_gaps": [
+   "protein_g"
+  ]
  },
  {
   "id": "turkomp_719",
@@ -12908,7 +12920,8 @@
    "fat_g": 3.26,
    "carbs_g": 14.49,
    "fiber_g": 10.63,
-   "sodium_mg": 1.0
+   "sodium_mg": 1.0,
+   "protein_g": 0.0
   },
   "common_servings": [
    {
@@ -12921,7 +12934,10 @@
    "turkish",
    "turkomp"
   ],
-  "category": "other"
+  "category": "other",
+  "nutrient_gaps": [
+   "protein_g"
+  ]
  },
  {
   "id": "turkomp_317",
@@ -17900,7 +17916,8 @@
    "protein_g": 6.38,
    "carbs_g": 14.14,
    "fiber_g": 62.1,
-   "sodium_mg": 3.0
+   "sodium_mg": 3.0,
+   "fat_g": 0.0
   },
   "common_servings": [
    {
@@ -17917,7 +17934,10 @@
    "turkish",
    "turkomp"
   ],
-  "category": "other"
+  "category": "other",
+  "nutrient_gaps": [
+   "fat_g"
+  ]
  },
  {
   "id": "turkomp_673",
@@ -20253,16 +20273,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 206
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 yemek kaşığı (25 g)",
-    "grams": 25
+    "name": "1 kupa (240 ml)",
+    "grams": 247
    }
   ],
   "tags": [
@@ -20294,16 +20310,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 206
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 yemek kaşığı (25 g)",
-    "grams": 25
+    "name": "1 kupa (240 ml)",
+    "grams": 247
    }
   ],
   "tags": [
@@ -21734,7 +21746,8 @@
    "calories_kcal": 234.0,
    "protein_g": 5.31,
    "carbs_g": 23.67,
-   "fiber_g": 58.8
+   "fiber_g": 58.8,
+   "fat_g": 0.0
   },
   "common_servings": [
    {
@@ -21762,7 +21775,10 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "nutrient_gaps": [
+   "fat_g"
+  ]
  },
  {
   "id": "turkomp_623",
@@ -23122,8 +23138,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 dilim (25 g)",
+    "grams": 25
+   },
+   {
+    "name": "2 dilim (50 g)",
+    "grams": 50
    },
    {
     "name": "1/4 somun (90 g)",
@@ -23161,8 +23181,12 @@
   },
   "common_servings": [
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 dilim (25 g)",
+    "grams": 25
+   },
+   {
+    "name": "2 dilim (50 g)",
+    "grams": 50
    },
    {
     "name": "1/4 somun (90 g)",
@@ -23305,12 +23329,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 porsiyon (30 g)",
+    "grams": 30
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
+    "name": "1 yemek kaşığı (12 g)",
+    "grams": 12
    },
    {
     "name": "100 g",
@@ -23372,16 +23396,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 206
    },
    {
-    "name": "1 dilim (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 yemek kaşığı (25 g)",
-    "grams": 25
+    "name": "1 kupa (240 ml)",
+    "grams": 247
    }
   ],
   "tags": [
@@ -23414,8 +23434,12 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 porsiyon (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "1 yemek kaşığı (12 g)",
+    "grams": 12
    },
    {
     "name": "100 g",

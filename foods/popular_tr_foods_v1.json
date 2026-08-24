@@ -1807,10 +1807,6 @@
    {
     "name": "1 porsiyon (300 g)",
     "grams": 300
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -1871,10 +1867,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -1935,10 +1927,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -2000,10 +1988,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -2059,10 +2043,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -2123,10 +2103,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -2182,10 +2158,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -3946,10 +3918,6 @@
    {
     "name": "1 porsiyon (100 g)",
     "grams": 100
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
    }
   ],
   "tags": [
@@ -4187,10 +4155,10 @@
   "category": "dessert",
   "source": "curated",
   "per_100g": {
-   "calories_kcal": 523.0,
-   "protein_g": 7.7,
-   "carbs_g": 67.2,
-   "fat_g": 25.7
+   "calories_kcal": 496.9,
+   "protein_g": 7.3,
+   "carbs_g": 63.8,
+   "fat_g": 24.4
   },
   "common_servings": [
    {
@@ -6370,10 +6338,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -6438,10 +6402,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -6507,10 +6467,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -6571,10 +6527,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -6641,10 +6593,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -6700,10 +6648,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -6764,10 +6708,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -6833,10 +6773,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -6896,10 +6832,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -6960,10 +6892,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 kepçe (120 g)",
-    "grams": 120
    }
   ],
   "tags": [
@@ -11087,12 +11015,16 @@
     "grams": 55
    },
    {
-    "name": "1 porsiyon (150 g)",
-    "grams": 150
+    "name": "2 tane (110 g)",
+    "grams": 110
    },
    {
-    "name": "1 tabak (200 g)",
-    "grams": 200
+    "name": "3 tane (165 g)",
+    "grams": 165
+   },
+   {
+    "name": "1 porsiyon (150 g)",
+    "grams": 150
    }
   ],
   "tags": [
@@ -11535,10 +11467,6 @@
    {
     "name": "1 porsiyon (80 g)",
     "grams": 80
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
    }
   ],
   "tags": [
@@ -11950,10 +11878,6 @@
    {
     "name": "1 dilim (40 g)",
     "grams": 40
-   },
-   {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
    }
   ],
   "tags": [
@@ -13072,14 +12996,6 @@
    {
     "name": "1 orta boy (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -13117,14 +13033,6 @@
    {
     "name": "1 orta boy (120 g)",
     "grams": 120
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -13162,14 +13070,6 @@
    {
     "name": "1 orta boy (180 g)",
     "grams": 180
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -13395,18 +13295,6 @@
    {
     "name": "1 dilim (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -13444,18 +13332,6 @@
    {
     "name": "1 dilim (200 g)",
     "grams": 200
-   },
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -13542,18 +13418,6 @@
    {
     "name": "1 tane (8 g)",
     "grams": 8
-   },
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -13593,18 +13457,6 @@
    {
     "name": "1 avuç (30 g)",
     "grams": 30
-   },
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -13941,14 +13793,6 @@
    {
     "name": "1 kase (250 g)",
     "grams": 250
-   },
-   {
-    "name": "1 porsiyon (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 tabak (200 g)",
-    "grams": 200
    }
   ],
   "tags": [
@@ -14534,14 +14378,6 @@
    {
     "name": "1 dilim (30 g)",
     "grams": 30
-   },
-   {
-    "name": "1 porsiyon (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -14581,14 +14417,6 @@
    {
     "name": "1 dilim (30 g)",
     "grams": 30
-   },
-   {
-    "name": "1 porsiyon (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -14628,14 +14456,6 @@
    {
     "name": "1 dilim (30 g)",
     "grams": 30
-   },
-   {
-    "name": "1 porsiyon (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -14722,14 +14542,6 @@
    {
     "name": "1/4 pide (90 g)",
     "grams": 90
-   },
-   {
-    "name": "1 porsiyon (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -16623,14 +16435,6 @@
   "common_servings": [
    {
     "name": "1 kase (200 g)",
-    "grams": 200
-   },
-   {
-    "name": "1 porsiyon (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 tabak (200 g)",
     "grams": 200
    }
   ],
@@ -20836,14 +20640,6 @@
    {
     "name": "1 tane (40 g)",
     "grams": 40
-   },
-   {
-    "name": "1 avuç (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 paket (50 g)",
-    "grams": 50
    }
   ],
   "tags": [
@@ -21581,10 +21377,6 @@
    {
     "name": "1 paket (35 g)",
     "grams": 35
-   },
-   {
-    "name": "1 avuç (30 g)",
-    "grams": 30
    }
   ],
   "tags": [
@@ -21621,14 +21413,6 @@
    {
     "name": "1 porsiyon (40 g)",
     "grams": 40
-   },
-   {
-    "name": "1 avuç (30 g)",
-    "grams": 30
-   },
-   {
-    "name": "1 paket (50 g)",
-    "grams": 50
    }
   ],
   "tags": [
