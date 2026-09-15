@@ -14094,8 +14094,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
-    "grams": 150
+    "name": "1 dilim (60 g)",
+    "grams": 60
+   },
+   {
+    "name": "1 porsiyon (50 g)",
+    "grams": 50
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -15267,7 +15275,7 @@
   "id": "usda_172828",
   "name_tr": "English muffins, plain, with calcium propionate (includes sourdough)",
   "name_en": "English muffins, plain, with calcium propionate (includes sourdough)",
-  "category": "other",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "protein_g": 7.7,
@@ -15278,13 +15286,17 @@
    "calories_kcal": 235.0
   },
   "tags": [
-   "other",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
     "name": "1 porsiyon (100 g)",
     "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -15296,7 +15308,7 @@
   "id": "usda_175063",
   "name_tr": "English muffins, plain, without calcium propionate(includes sourdough)",
   "name_en": "English muffins, plain, without calcium propionate(includes sourdough)",
-  "category": "other",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fiber_g": 2.7,
@@ -15307,13 +15319,17 @@
    "calories_kcal": 235.0
   },
   "tags": [
-   "other",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
     "name": "1 porsiyon (100 g)",
     "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -15409,8 +15425,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
+    "name": "1 tane (10 g)",
     "grams": 10
+   },
+   {
+    "name": "1 paket (80 g)",
+    "grams": 80
    }
   ],
   "allergens": [
@@ -15443,8 +15463,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
+    "name": "1 tane (10 g)",
     "grams": 10
+   },
+   {
+    "name": "1 paket (80 g)",
+    "grams": 80
    }
   ],
   "allergens": [
@@ -15477,8 +15501,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
+    "name": "1 tane (10 g)",
     "grams": 10
+   },
+   {
+    "name": "1 paket (80 g)",
+    "grams": 80
    }
   ],
   "allergens": [
@@ -15511,8 +15539,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
+    "name": "1 tane (10 g)",
     "grams": 10
+   },
+   {
+    "name": "1 paket (80 g)",
+    "grams": 80
    }
   ],
   "allergens": [
@@ -16003,16 +16035,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 dilim (60 g)",
-    "grams": 60
+    "name": "1 yemek kaşığı (20 g)",
+    "grams": 20
    },
    {
-    "name": "1 porsiyon (50 g)",
-    "grams": 50
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı (7 g)",
+    "grams": 7
    }
   ],
   "allergens": [
@@ -19623,16 +19651,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 orta boy (200 g)",
+    "grams": 200
    },
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -19780,6 +19804,10 @@
    {
     "name": "1 orta boy (120 g)",
     "grams": 120
+   },
+   {
+    "name": "1 kase (150 g)",
+    "grams": 150
    }
   ],
   "meal_type_tags": [
@@ -19809,6 +19837,10 @@
    {
     "name": "1 orta boy (120 g)",
     "grams": 120
+   },
+   {
+    "name": "1 kase (150 g)",
+    "grams": 150
    }
   ],
   "meal_type_tags": [
@@ -19839,6 +19871,10 @@
    {
     "name": "1 orta boy (120 g)",
     "grams": 120
+   },
+   {
+    "name": "1 kase (150 g)",
+    "grams": 150
    }
   ],
   "meal_type_tags": [
@@ -19868,8 +19904,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (120 g)",
-    "grams": 120
+    "name": "1 avuç (40 g)",
+    "grams": 40
+   },
+   {
+    "name": "1 yemek kaşığı (12 g)",
+    "grams": 12
    }
   ],
   "meal_type_tags": [
@@ -21358,16 +21398,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 tane (35 g)",
+    "grams": 35
+   },
+   {
+    "name": "3 tane (105 g)",
+    "grams": 105
    },
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -21396,16 +21436,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 tane (8 g)",
+    "grams": 8
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "5 tane (40 g)",
+    "grams": 40
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 avuç (40 g)",
+    "grams": 40
    }
   ],
   "meal_type_tags": [
@@ -21433,10 +21473,6 @@
    "usda"
   ],
   "common_servings": [
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
    {
     "name": "1 kase (150 g)",
     "grams": 150
@@ -21473,10 +21509,6 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
@@ -21511,10 +21543,6 @@
    "usda"
   ],
   "common_servings": [
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
    {
     "name": "1 kase (150 g)",
     "grams": 150
@@ -21551,10 +21579,6 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
@@ -21589,10 +21613,6 @@
    "usda"
   ],
   "common_servings": [
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
    {
     "name": "1 kase (150 g)",
     "grams": 150
@@ -21629,10 +21649,6 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
@@ -21666,10 +21682,6 @@
    "usda"
   ],
   "common_servings": [
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
    {
     "name": "1 kase (150 g)",
     "grams": 150
@@ -21705,10 +21717,6 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
@@ -21742,16 +21750,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 tane (8 g)",
+    "grams": 8
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "5 tane (40 g)",
+    "grams": 40
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 avuç (40 g)",
+    "grams": 40
    }
   ],
   "meal_type_tags": [
@@ -23177,10 +23185,6 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
@@ -23278,8 +23282,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
+   },
+   {
+    "name": "1 tane (orta boy, 120 g)",
+    "grams": 120
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -23470,16 +23482,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 yemek kaşığı (6 g)",
+    "grams": 6
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    }
   ],
   "meal_type_tags": [
@@ -26284,16 +26292,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 avuç (40 g)",
+    "grams": 40
    }
   ],
   "meal_type_tags": [
@@ -26322,10 +26326,6 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
@@ -26344,7 +26344,7 @@
   "id": "usda_168575",
   "name_tr": "Grape leaves",
   "name_en": "Grape leaves",
-  "category": "fruit",
+  "category": "vegetable",
   "source": "usda",
   "per_100g": {
    "protein_g": 5.6,
@@ -26356,17 +26356,13 @@
    "calories_kcal": 93.0
   },
   "tags": [
-   "fruit",
-   "usda"
+   "usda",
+   "vegetable"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "10 tane (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -26383,7 +26379,7 @@
   "id": "usda_169393",
   "name_tr": "Grape leaves, canned",
   "name_en": "Grape leaves, canned",
-  "category": "fruit",
+  "category": "vegetable",
   "source": "usda",
   "per_100g": {
    "carbs_g": 11.7,
@@ -26394,17 +26390,13 @@
    "calories_kcal": 69.0
   },
   "tags": [
-   "fruit",
-   "usda"
+   "usda",
+   "vegetable"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "10 tane (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -28110,16 +28102,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 tane (24 g)",
+    "grams": 24
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "5 tane (120 g)",
+    "grams": 120
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 avuç (40 g)",
+    "grams": 40
    }
   ],
   "meal_type_tags": [
@@ -28149,16 +28141,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 tane (8 g)",
+    "grams": 8
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "5 tane (40 g)",
+    "grams": 40
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 avuç (40 g)",
+    "grams": 40
    }
   ],
   "meal_type_tags": [
@@ -28218,16 +28210,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 orta boy (55 g)",
+    "grams": 55
    },
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -28255,6 +28243,10 @@
    "usda"
   ],
   "common_servings": [
+   {
+    "name": "1 orta boy (55 g)",
+    "grams": 55
+   },
    {
     "name": "1 kase (150 g)",
     "grams": 150
@@ -28357,6 +28349,10 @@
    {
     "name": "1 dilim (200 g)",
     "grams": 200
+   },
+   {
+    "name": "1 kase (150 g)",
+    "grams": 150
    }
   ],
   "meal_type_tags": [
@@ -28386,6 +28382,10 @@
    {
     "name": "1 dilim (200 g)",
     "grams": 200
+   },
+   {
+    "name": "1 kase (150 g)",
+    "grams": 150
    }
   ],
   "meal_type_tags": [
@@ -28416,6 +28416,10 @@
    {
     "name": "1 dilim (200 g)",
     "grams": 200
+   },
+   {
+    "name": "1 kase (150 g)",
+    "grams": 150
    }
   ],
   "meal_type_tags": [
@@ -30271,10 +30275,6 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
@@ -30614,8 +30614,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
-    "grams": 10
+    "name": "1 kase (150 g)",
+    "grams": 150
+   },
+   {
+    "name": "1 tane (orta boy, 120 g)",
+    "grams": 120
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -30645,16 +30653,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "yarım tane (70 g)",
+    "grams": 70
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tane (140 g)",
+    "grams": 140
    }
   ],
   "meal_type_tags": [
@@ -30684,16 +30688,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "yarım tane (70 g)",
+    "grams": 70
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tane (140 g)",
+    "grams": 140
    }
   ],
   "meal_type_tags": [
@@ -30723,16 +30723,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "yarım tane (70 g)",
+    "grams": 70
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tane (140 g)",
+    "grams": 140
    }
   ],
   "meal_type_tags": [
@@ -30878,8 +30874,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
-    "grams": 10
+    "name": "1 kase (150 g)",
+    "grams": 150
+   },
+   {
+    "name": "1 tane (orta boy, 120 g)",
+    "grams": 120
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -30907,8 +30911,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
-    "grams": 10
+    "name": "1 kase (150 g)",
+    "grams": 150
+   },
+   {
+    "name": "1 tane (orta boy, 120 g)",
+    "grams": 120
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -30936,8 +30948,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
-    "grams": 10
+    "name": "1 kase (150 g)",
+    "grams": 150
+   },
+   {
+    "name": "1 tane (orta boy, 120 g)",
+    "grams": 120
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -31068,7 +31088,7 @@
   "id": "usda_174988",
   "name_tr": "Croissants, apple",
   "name_en": "Croissants, apple",
-  "category": "fruit",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fat_g": 8.7,
@@ -31079,13 +31099,21 @@
    "calories_kcal": 254.0
   },
   "tags": [
-   "fruit",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
-    "grams": 150
+    "name": "1 porsiyon (100 g)",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -31098,7 +31126,7 @@
   "id": "usda_174987",
   "name_tr": "Croissants, butter",
   "name_en": "Croissants, butter",
-  "category": "oil_fat",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fiber_g": 2.6,
@@ -31110,13 +31138,21 @@
    "calories_kcal": 406.0
   },
   "tags": [
-   "oil_fat",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
-    "grams": 10
+    "name": "1 porsiyon (100 g)",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -31128,7 +31164,7 @@
   "id": "usda_174989",
   "name_tr": "Croissants, cheese",
   "name_en": "Croissants, cheese",
-  "category": "dairy",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fiber_g": 2.6,
@@ -31140,17 +31176,21 @@
    "calories_kcal": 414.0
   },
   "tags": [
-   "dairy",
+   "grain",
    "usda"
   ],
   "common_servings": [
+   {
+    "name": "1 porsiyon (100 g)",
+    "grams": 100
+   },
    {
     "name": "1 dilim (30 g)",
     "grams": 30
    },
    {
-    "name": "1 porsiyon (60 g)",
-    "grams": 60
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -31222,16 +31262,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 tane (5 g)",
+    "grams": 5
+   },
+   {
+    "name": "10 tane (50 g)",
+    "grams": 50
    },
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -31259,16 +31299,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 tane (5 g)",
+    "grams": 5
+   },
+   {
+    "name": "10 tane (50 g)",
+    "grams": 50
    },
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -31296,16 +31336,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 tane (5 g)",
+    "grams": 5
+   },
+   {
+    "name": "10 tane (50 g)",
+    "grams": 50
    },
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -31335,16 +31375,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 tane (5 g)",
+    "grams": 5
+   },
+   {
+    "name": "10 tane (50 g)",
+    "grams": 50
    },
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -31374,16 +31414,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 tane (5 g)",
+    "grams": 5
+   },
+   {
+    "name": "10 tane (50 g)",
+    "grams": 50
    },
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -31412,10 +31452,6 @@
    "usda"
   ],
   "common_servings": [
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
    {
     "name": "1 kase (150 g)",
     "grams": 150
@@ -31510,7 +31546,7 @@
   "id": "usda_168819",
   "name_tr": "Marmalade, orange",
   "name_en": "Marmalade, orange",
-  "category": "fruit",
+  "category": "sweet",
   "source": "usda",
   "per_100g": {
    "protein_g": 0.3,
@@ -31522,13 +31558,13 @@
    "calories_kcal": 246.0
   },
   "tags": [
-   "fruit",
+   "sweet",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (180 g)",
-    "grams": 180
+    "name": "1 tatlı kaşığı (15 g)",
+    "grams": 15
    }
   ],
   "meal_type_tags": [
@@ -31557,16 +31593,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 tane (35 g)",
+    "grams": 35
+   },
+   {
+    "name": "3 tane (105 g)",
+    "grams": 105
    },
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -32679,7 +32715,7 @@
   "id": "usda_169641",
   "name_tr": "Jams and preserves",
   "name_en": "Jams and preserves",
-  "category": "other",
+  "category": "sweet",
   "source": "usda",
   "per_100g": {
    "sodium_mg": 32.0,
@@ -32691,17 +32727,13 @@
    "calories_kcal": 278.0
   },
   "tags": [
-   "other",
+   "sweet",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı (15 g)",
+    "grams": 15
    }
   ]
  },
@@ -32709,7 +32741,7 @@
   "id": "usda_170645",
   "name_tr": "Jams and preserves, apricot",
   "name_en": "Jams and preserves, apricot",
-  "category": "fruit",
+  "category": "sweet",
   "source": "usda",
   "per_100g": {
    "fiber_g": 0.3,
@@ -32721,21 +32753,13 @@
    "calories_kcal": 242.0
   },
   "tags": [
-   "fruit",
+   "sweet",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı (15 g)",
+    "grams": 15
    }
   ],
   "meal_type_tags": [
@@ -32793,8 +32817,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
-    "grams": 10
+    "name": "1 kase (150 g)",
+    "grams": 150
+   },
+   {
+    "name": "1 tane (orta boy, 120 g)",
+    "grams": 120
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -34106,8 +34138,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 dilim (200 g)",
-    "grams": 200
+    "name": "1 kase (150 g)",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -34139,6 +34175,10 @@
    {
     "name": "1 orta boy (150 g)",
     "grams": 150
+   },
+   {
+    "name": "1 kase (150 g)",
+    "grams": 150
    }
   ],
   "meal_type_tags": [
@@ -34167,8 +34207,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
-    "grams": 150
+    "name": "1 avuç (40 g)",
+    "grams": 40
+   },
+   {
+    "name": "1 yemek kaşığı (12 g)",
+    "grams": 12
    }
   ],
   "meal_type_tags": [
@@ -34199,6 +34243,10 @@
   "common_servings": [
    {
     "name": "1 orta boy (150 g)",
+    "grams": 150
+   },
+   {
+    "name": "1 kase (150 g)",
     "grams": 150
    }
   ],
@@ -34231,6 +34279,10 @@
    {
     "name": "1 orta boy (150 g)",
     "grams": 150
+   },
+   {
+    "name": "1 kase (150 g)",
+    "grams": 150
    }
   ],
   "meal_type_tags": [
@@ -34259,8 +34311,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -34291,6 +34347,10 @@
   "common_servings": [
    {
     "name": "1 orta boy (150 g)",
+    "grams": 150
+   },
+   {
+    "name": "1 kase (150 g)",
     "grams": 150
    }
   ],
@@ -34323,6 +34383,10 @@
    {
     "name": "1 orta boy (150 g)",
     "grams": 150
+   },
+   {
+    "name": "1 kase (150 g)",
+    "grams": 150
    }
   ],
   "meal_type_tags": [
@@ -34353,6 +34417,10 @@
   "common_servings": [
    {
     "name": "1 orta boy (150 g)",
+    "grams": 150
+   },
+   {
+    "name": "1 kase (150 g)",
     "grams": 150
    }
   ],
@@ -34385,6 +34453,10 @@
    {
     "name": "1 orta boy (150 g)",
     "grams": 150
+   },
+   {
+    "name": "1 kase (150 g)",
+    "grams": 150
    }
   ],
   "meal_type_tags": [
@@ -34415,6 +34487,10 @@
   "common_servings": [
    {
     "name": "1 orta boy (150 g)",
+    "grams": 150
+   },
+   {
+    "name": "1 kase (150 g)",
     "grams": 150
    }
   ],
@@ -34447,6 +34523,10 @@
    {
     "name": "1 orta boy (150 g)",
     "grams": 150
+   },
+   {
+    "name": "1 kase (150 g)",
+    "grams": 150
    }
   ],
   "meal_type_tags": [
@@ -34477,6 +34557,10 @@
   "common_servings": [
    {
     "name": "1 orta boy (150 g)",
+    "grams": 150
+   },
+   {
+    "name": "1 kase (150 g)",
     "grams": 150
    }
   ],
@@ -34572,7 +34656,7 @@
   "id": "usda_172827",
   "name_tr": "Danish pastry, lemon",
   "name_en": "Danish pastry, lemon",
-  "category": "fruit",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fat_g": 18.5,
@@ -34583,17 +34667,17 @@
    "calories_kcal": 371.0
   },
   "tags": [
-   "fruit",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 porsiyon (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 dilim (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -34610,7 +34694,7 @@
   "id": "usda_172754",
   "name_tr": "Danish pastry, cheese",
   "name_en": "Danish pastry, cheese",
-  "category": "dairy",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "sugar_g": 6.95,
@@ -34622,17 +34706,21 @@
    "calories_kcal": 374.0
   },
   "tags": [
-   "dairy",
+   "grain",
    "usda"
   ],
   "common_servings": [
+   {
+    "name": "1 porsiyon (100 g)",
+    "grams": 100
+   },
    {
     "name": "1 dilim (30 g)",
     "grams": 30
    },
    {
-    "name": "1 porsiyon (60 g)",
-    "grams": 60
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -34649,7 +34737,7 @@
   "id": "usda_172753",
   "name_tr": "Danish pastry, cinnamon",
   "name_en": "Danish pastry, cinnamon",
-  "category": "other",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fiber_g": 1.3,
@@ -34661,13 +34749,17 @@
    "calories_kcal": 403.0
   },
   "tags": [
-   "other",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
     "name": "1 porsiyon (100 g)",
     "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -34679,7 +34771,7 @@
   "id": "usda_175061",
   "name_tr": "Danish pastry, raspberry",
   "name_en": "Danish pastry, raspberry",
-  "category": "fruit",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fat_g": 18.5,
@@ -34690,17 +34782,17 @@
    "calories_kcal": 371.0
   },
   "tags": [
-   "fruit",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 porsiyon (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 dilim (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -34717,7 +34809,7 @@
   "id": "usda_172755",
   "name_tr": "Danish pastry, fruit, enriched (includes apple",
   "name_en": "Danish pastry, fruit, enriched (includes apple",
-  "category": "fruit",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "sugar_g": 27.5,
@@ -34729,13 +34821,21 @@
    "calories_kcal": 371.0
   },
   "tags": [
-   "fruit",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
-    "grams": 150
+    "name": "1 porsiyon (100 g)",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -34748,7 +34848,7 @@
   "id": "usda_172825",
   "name_tr": "Danish pastry, fruit, unenriched (includes apple",
   "name_en": "Danish pastry, fruit, unenriched (includes apple",
-  "category": "fruit",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fat_g": 18.5,
@@ -34759,13 +34859,21 @@
    "calories_kcal": 371.0
   },
   "tags": [
-   "fruit",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
-    "grams": 150
+    "name": "1 porsiyon (100 g)",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -34861,8 +34969,8 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (10 g)",
+    "grams": 10
    }
   ],
   "allergens": [
@@ -35013,16 +35121,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 orta boy (80 g)",
+    "grams": 80
    },
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -35172,8 +35276,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -35231,16 +35339,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 avuç (40 g)",
+    "grams": 40
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 yemek kaşığı (12 g)",
+    "grams": 12
    }
   ],
   "meal_type_tags": [
@@ -35373,10 +35477,6 @@
    "usda"
   ],
   "common_servings": [
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
    {
     "name": "1 kase (150 g)",
     "grams": 150
@@ -35630,8 +35730,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 dilim (200 g)",
-    "grams": 200
+    "name": "1 kase (150 g)",
+    "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -35700,10 +35804,6 @@
    "usda"
   ],
   "common_servings": [
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
    {
     "name": "1 kase (150 g)",
     "grams": 150
@@ -36515,10 +36615,6 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
@@ -36554,16 +36650,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 avuç (40 g)",
+    "grams": 40
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 yemek kaşığı (12 g)",
+    "grams": 12
    }
   ],
   "meal_type_tags": [
@@ -36591,10 +36683,6 @@
    "usda"
   ],
   "common_servings": [
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
    {
     "name": "1 kase (150 g)",
     "grams": 150
@@ -37309,7 +37397,7 @@
   "id": "usda_168573",
   "name_tr": "Lemon grass (citronella)",
   "name_en": "Lemon grass (citronella)",
-  "category": "fruit",
+  "category": "vegetable",
   "source": "usda",
   "per_100g": {
    "carbs_g": 25.3,
@@ -37319,17 +37407,17 @@
    "calories_kcal": 99.0
   },
   "tags": [
-   "fruit",
-   "usda"
+   "usda",
+   "vegetable"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tane (orta boy, 120 g)",
+    "grams": 120
    },
    {
     "name": "100 g",
@@ -38271,16 +38359,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "yarım tane (125 g)",
+    "grams": 125
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tane (250 g)",
+    "grams": 250
    }
   ],
   "meal_type_tags": [
@@ -38310,16 +38394,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "yarım tane (125 g)",
+    "grams": 125
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tane (250 g)",
+    "grams": 250
    }
   ],
   "meal_type_tags": [
@@ -38347,16 +38427,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "yarım tane (125 g)",
+    "grams": 125
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tane (250 g)",
+    "grams": 250
    }
   ],
   "meal_type_tags": [
@@ -38385,16 +38461,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "yarım tane (125 g)",
+    "grams": 125
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tane (250 g)",
+    "grams": 250
    }
   ],
   "meal_type_tags": [
@@ -38424,16 +38496,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "yarım tane (125 g)",
+    "grams": 125
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tane (250 g)",
+    "grams": 250
    }
   ],
   "meal_type_tags": [
@@ -38463,16 +38531,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "yarım tane (125 g)",
+    "grams": 125
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tane (250 g)",
+    "grams": 250
    }
   ],
   "meal_type_tags": [
@@ -38500,16 +38564,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "yarım tane (125 g)",
+    "grams": 125
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tane (250 g)",
+    "grams": 250
    }
   ],
   "meal_type_tags": [
@@ -38539,10 +38599,6 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
@@ -38561,7 +38617,7 @@
   "id": "usda_167706",
   "name_tr": "Jams, preserves, marmalade",
   "name_en": "Jams, preserves, marmalade",
-  "category": "other",
+  "category": "sweet",
   "source": "usda",
   "per_100g": {
    "sugar_g": 29.4,
@@ -38573,17 +38629,13 @@
    "calories_kcal": 151.0
   },
   "tags": [
-   "other",
+   "sweet",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı (15 g)",
+    "grams": 15
    }
   ]
  },
@@ -38591,7 +38643,7 @@
   "id": "usda_170280",
   "name_tr": "Jams, preserves, marmalades",
   "name_en": "Jams, preserves, marmalades",
-  "category": "other",
+  "category": "sweet",
   "source": "usda",
   "per_100g": {
    "fiber_g": 0.9,
@@ -38603,17 +38655,13 @@
    "calories_kcal": 212.0
   },
   "tags": [
-   "other",
+   "sweet",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 tatlı kaşığı (15 g)",
+    "grams": 15
    }
   ]
  },
@@ -38942,10 +38990,6 @@
    "usda"
   ],
   "common_servings": [
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
    {
     "name": "1 kase (150 g)",
     "grams": 150
@@ -39723,16 +39767,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 avuç (40 g)",
+    "grams": 40
    }
   ],
   "meal_type_tags": [
@@ -41153,7 +41193,7 @@
   "id": "usda_168393",
   "name_tr": "Balsam-pear (bitter gourd), pods",
   "name_en": "Balsam-pear (bitter gourd), pods",
-  "category": "fruit",
+  "category": "vegetable",
   "source": "usda",
   "per_100g": {
    "carbs_g": 3.7,
@@ -41164,17 +41204,17 @@
    "calories_kcal": 17.0
   },
   "tags": [
-   "fruit",
-   "usda"
+   "usda",
+   "vegetable"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tane (orta boy, 120 g)",
+    "grams": 120
    },
    {
     "name": "100 g",
@@ -41191,7 +41231,7 @@
   "id": "usda_168391",
   "name_tr": "Balsam-pear (bitter gourd), leafy tips",
   "name_en": "Balsam-pear (bitter gourd), leafy tips",
-  "category": "fruit",
+  "category": "vegetable",
   "source": "usda",
   "per_100g": {
    "protein_g": 5.3,
@@ -41201,17 +41241,17 @@
    "calories_kcal": 30.0
   },
   "tags": [
-   "fruit",
-   "usda"
+   "usda",
+   "vegetable"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tane (orta boy, 120 g)",
+    "grams": 120
    },
    {
     "name": "100 g",
@@ -41228,7 +41268,7 @@
   "id": "usda_168496",
   "name_tr": "Balsam-pear (bitter gourd), pods, boiled",
   "name_en": "Balsam-pear (bitter gourd), pods, boiled",
-  "category": "fruit",
+  "category": "vegetable",
   "source": "usda",
   "per_100g": {
    "sugar_g": 1.95,
@@ -41240,17 +41280,17 @@
    "calories_kcal": 19.0
   },
   "tags": [
-   "fruit",
-   "usda"
+   "usda",
+   "vegetable"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tane (orta boy, 120 g)",
+    "grams": 120
    },
    {
     "name": "100 g",
@@ -41267,7 +41307,7 @@
   "id": "usda_168495",
   "name_tr": "Balsam-pear (bitter gourd), leafy tips, boiled",
   "name_en": "Balsam-pear (bitter gourd), leafy tips, boiled",
-  "category": "fruit",
+  "category": "vegetable",
   "source": "usda",
   "per_100g": {
    "sugar_g": 1.04,
@@ -41279,17 +41319,17 @@
    "calories_kcal": 32.0
   },
   "tags": [
-   "fruit",
-   "usda"
+   "usda",
+   "vegetable"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tane (orta boy, 120 g)",
+    "grams": 120
    },
    {
     "name": "100 g",
@@ -42408,7 +42448,7 @@
   "id": "usda_175078",
   "name_tr": "Artificial Blueberry Muffin Mix, dry",
   "name_en": "Artificial Blueberry Muffin Mix, dry",
-  "category": "fruit",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "fat_g": 8.7,
@@ -42418,17 +42458,17 @@
    "calories_kcal": 407.0
   },
   "tags": [
-   "fruit",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 porsiyon (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 dilim (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -42838,8 +42878,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
-    "grams": 10
+    "name": "1 kare (8 g)",
+    "grams": 8
+   },
+   {
+    "name": "1 bar (40 g)",
+    "grams": 40
    }
   ],
   "allergens": [
@@ -42874,8 +42918,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
-    "grams": 10
+    "name": "1 kare (8 g)",
+    "grams": 8
+   },
+   {
+    "name": "1 bar (40 g)",
+    "grams": 40
    }
   ],
   "allergens": [
@@ -42965,7 +43013,7 @@
   "id": "usda_167936",
   "name_tr": "Keikitos (muffins), Latino bakery item",
   "name_en": "Keikitos (muffins), Latino bakery item",
-  "category": "other",
+  "category": "grain",
   "source": "usda",
   "per_100g": {
    "protein_g": 6.81,
@@ -42977,13 +43025,17 @@
    "calories_kcal": 467.0
   },
   "tags": [
-   "other",
+   "grain",
    "usda"
   ],
   "common_servings": [
    {
     "name": "1 porsiyon (100 g)",
     "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -43681,16 +43733,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 avuç (40 g)",
+    "grams": 40
    }
   ],
   "meal_type_tags": [
@@ -44439,8 +44487,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -44469,8 +44521,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -44500,8 +44556,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -45912,8 +45972,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
+    "name": "1 tane (10 g)",
     "grams": 10
+   },
+   {
+    "name": "1 paket (80 g)",
+    "grams": 80
    }
   ],
   "allergens": [
@@ -46043,8 +46107,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (120 g)",
+    "name": "1 kase (150 g)",
+    "grams": 150
+   },
+   {
+    "name": "1 tane (orta boy, 120 g)",
     "grams": 120
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -46073,8 +46145,16 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
+   },
+   {
+    "name": "1 tane (orta boy, 120 g)",
+    "grams": 120
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -46176,8 +46256,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 tatlı kaşığı (10 g)",
-    "grams": 10
+    "name": "1 yemek kaşığı (15 g)",
+    "grams": 15
+   },
+   {
+    "name": "1 tatlı kaşığı (5 g)",
+    "grams": 5
    }
   ],
   "allergens": [
@@ -46584,7 +46668,7 @@
   "id": "usda_167785",
   "name_tr": "Mango nectar, canned",
   "name_en": "Mango nectar, canned",
-  "category": "fruit",
+  "category": "beverage",
   "source": "usda",
   "per_100g": {
    "carbs_g": 13.1,
@@ -46596,21 +46680,17 @@
    "calories_kcal": 51.0
   },
   "tags": [
-   "fruit",
+   "beverage",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 bardak (200 ml)",
+    "grams": 210
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 525
    }
   ],
   "meal_type_tags": [
@@ -46775,7 +46855,7 @@
   "id": "usda_168196",
   "name_tr": "Guanabana nectar, canned",
   "name_en": "Guanabana nectar, canned",
-  "category": "vegetable",
+  "category": "beverage",
   "source": "usda",
   "per_100g": {
    "carbs_g": 14.9,
@@ -46787,21 +46867,17 @@
    "calories_kcal": 59.0
   },
   "tags": [
-   "usda",
-   "vegetable"
+   "beverage",
+   "usda"
   ],
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 bardak (200 ml)",
+    "grams": 210
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 525
    }
   ],
   "meal_type_tags": [
@@ -47066,7 +47142,7 @@
   "id": "usda_173962",
   "name_tr": "Cranberry-orange relish, canned",
   "name_en": "Cranberry-orange relish, canned",
-  "category": "fruit",
+  "category": "sauce_condiment",
   "source": "usda",
   "per_100g": {
    "fat_g": 0.1,
@@ -47077,13 +47153,17 @@
    "calories_kcal": 178.0
   },
   "tags": [
-   "fruit",
+   "sauce_condiment",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (180 g)",
-    "grams": 180
+    "name": "1 yemek kaşığı (15 g)",
+    "grams": 15
+   },
+   {
+    "name": "1 tatlı kaşığı (5 g)",
+    "grams": 5
    }
   ],
   "meal_type_tags": [
@@ -47149,8 +47229,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -47221,8 +47305,12 @@
   ],
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
+    "name": "1 kase (150 g)",
     "grams": 150
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -47235,7 +47323,7 @@
   "id": "usda_168210",
   "name_tr": "Guava nectar, with sucralose, canned",
   "name_en": "Guava nectar, with sucralose, canned",
-  "category": "fruit",
+  "category": "beverage",
   "source": "usda",
   "per_100g": {
    "fat_g": 0.07,
@@ -47247,21 +47335,17 @@
    "calories_kcal": 48.0
   },
   "tags": [
-   "fruit",
+   "beverage",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 bardak (200 ml)",
+    "grams": 210
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 525
    }
   ],
   "meal_type_tags": [
@@ -47274,7 +47358,7 @@
   "id": "usda_167784",
   "name_tr": "Guava nectar, canned, with added ascorbic acid",
   "name_en": "Guava nectar, canned, with added ascorbic acid",
-  "category": "fruit",
+  "category": "beverage",
   "source": "usda",
   "per_100g": {
    "carbs_g": 16.2,
@@ -47286,21 +47370,17 @@
    "calories_kcal": 63.0
   },
   "tags": [
-   "fruit",
+   "beverage",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 bardak (200 ml)",
+    "grams": 210
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 525
    }
   ],
   "meal_type_tags": [
@@ -47428,7 +47508,7 @@
   "id": "usda_171704",
   "name_tr": "Apricot nectar, canned, with added ascorbic acid",
   "name_en": "Apricot nectar, canned, with added ascorbic acid",
-  "category": "fruit",
+  "category": "beverage",
   "source": "usda",
   "per_100g": {
    "sugar_g": 12.8,
@@ -47440,21 +47520,17 @@
    "calories_kcal": 56.0
   },
   "tags": [
-   "fruit",
+   "beverage",
    "usda"
   ],
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 bardak (200 ml)",
+    "grams": 210
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 525
    }
   ],
   "meal_type_tags": [

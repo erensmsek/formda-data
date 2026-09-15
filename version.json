@@ -2,28 +2,28 @@
   "schema_version": 1,
   "foods": {
     "turkomp": {
-      "version": "1.6.0",
+      "version": "1.7.0",
       "count": 639,
       "updated_at": "2026-09-16",
-      "checksum": "sha256:4aab4822d161f01b64fd84507aa0ec5fa4a335cbde478ba7c42cafe490a14586"
+      "checksum": "sha256:107e9a85c6e772ae5f4d3aa3b0cec0460bd312c0cba9db8d04f64c70367883cd"
     },
     "usda_top5000": {
-      "version": "1.4.0",
+      "version": "1.5.0",
       "count": 1266,
-      "updated_at": "2026-08-24",
-      "checksum": "sha256:dfac4c1ab4e51f876bd5a678ceeea07bb014d89eb47f2ffed72f268621c275e9"
+      "updated_at": "2026-09-16",
+      "checksum": "sha256:64b37874a72f8e106167fb40cefeb16d6dd975da41b093258a66e30a2ef16242"
     },
     "off_tr": {
-      "version": "1.4.0",
+      "version": "1.5.0",
       "count": 639,
-      "updated_at": "2026-08-24",
-      "checksum": "sha256:c99a0de5b36d527e1563dcdfce7f370b8db6e469aff370fc4f7f97f6cdd1a2bb"
+      "updated_at": "2026-09-16",
+      "checksum": "sha256:d0025a73ba8f63546430ec77d29e7879c7c6b6cd03afbe46fd444b45a50fcc49"
     },
     "popular_tr": {
-      "version": "1.5.0",
+      "version": "1.6.0",
       "count": 435,
       "updated_at": "2026-09-16",
-      "checksum": "sha256:f98ad65088fa96d1e0c4d9c99ed2bf8a930d312f565457ed8d69e6402e820f28"
+      "checksum": "sha256:53225e7bd9acaa496051091aecb41fa359d2c9af2afed38ca60112eec5c62f3f"
     },
     "community_tr": {
       "version": "1.0.1",
