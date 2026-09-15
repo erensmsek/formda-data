@@ -16893,10 +16893,6 @@
     "grams": 35
    },
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
@@ -16957,10 +16953,6 @@
    {
     "name": "1 tane (60 g)",
     "grams": 60
-   },
-   {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
    },
    {
     "name": "1 kase (150 g)",
@@ -17194,10 +17186,6 @@
     "grams": 50
    },
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
     "name": "1 kase (150 g)",
     "grams": 150
    },
@@ -17370,16 +17358,12 @@
     "grams": 10
    },
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
     "name": "100 g",
     "grams": 100
+   },
+   {
+    "name": "1 avuç (40 g)",
+    "grams": 40
    }
   ],
   "tags": [
@@ -28913,7 +28897,7 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (250 g)",
     "grams": 250
    }
   ],
@@ -28998,7 +28982,7 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (250 g)",
     "grams": 250
    }
   ],
@@ -29077,7 +29061,7 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (250 g)",
     "grams": 250
    }
   ],
@@ -29156,7 +29140,7 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (250 g)",
     "grams": 250
    }
   ],
@@ -29241,7 +29225,7 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (250 g)",
     "grams": 250
    }
   ],
@@ -29320,7 +29304,7 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (250 g)",
     "grams": 250
    }
   ],
@@ -29399,7 +29383,7 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (250 g)",
     "grams": 250
    }
   ],
@@ -29489,7 +29473,7 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (250 g)",
     "grams": 250
    }
   ],
@@ -29564,7 +29548,7 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (250 g)",
     "grams": 250
    }
   ],
@@ -29660,7 +29644,7 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (250 g)",
     "grams": 250
    }
   ],
@@ -29740,7 +29724,7 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (250 g)",
     "grams": 250
    }
   ],
@@ -29821,11 +29805,11 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (300 g)",
     "grams": 300
    },
    {
-    "name": "1 kepçe",
+    "name": "1 kepçe (120 g)",
     "grams": 120
    }
   ],
@@ -29905,7 +29889,7 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (250 g)",
     "grams": 250
    }
   ],
@@ -29986,7 +29970,7 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (250 g)",
     "grams": 250
    }
   ],
@@ -30061,7 +30045,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (180 g)",
     "grams": 180
    },
    {
@@ -30130,7 +30114,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (180 g)",
     "grams": 180
    },
    {
@@ -30213,7 +30197,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (180 g)",
     "grams": 180
    },
    {
@@ -30287,7 +30271,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (180 g)",
     "grams": 180
    },
    {
@@ -30360,7 +30344,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (180 g)",
     "grams": 180
    },
    {
@@ -30433,7 +30417,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (180 g)",
     "grams": 180
    },
    {
@@ -30497,7 +30481,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (150 g)",
     "grams": 150
    }
   ],
@@ -30554,7 +30538,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (175 g)",
     "grams": 175
    },
    {
@@ -30625,7 +30609,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (170 g)",
     "grams": 170
    },
    {
@@ -30701,7 +30685,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (110 g)",
     "grams": 110
    },
    {
@@ -30769,7 +30753,7 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (150 g)",
     "grams": 150
    },
    {
@@ -30850,11 +30834,11 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (130 g)",
     "grams": 130
    },
    {
-    "name": "1 kase",
+    "name": "1 kase (150 g)",
     "grams": 150
    }
   ],
@@ -30921,11 +30905,11 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (120 g)",
     "grams": 120
    },
    {
-    "name": "1 kase",
+    "name": "1 kase (150 g)",
     "grams": 150
    }
   ],
@@ -30993,11 +30977,11 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (80 g)",
     "grams": 80
    },
    {
-    "name": "1 kase",
+    "name": "1 kase (150 g)",
     "grams": 150
    }
   ],
@@ -31065,11 +31049,11 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (100 g)",
     "grams": 100
    },
    {
-    "name": "1 kase",
+    "name": "1 kase (150 g)",
     "grams": 150
    }
   ],
@@ -31138,15 +31122,15 @@
   },
   "common_servings": [
    {
-    "name": "1 tabak",
+    "name": "1 tabak (160 g)",
     "grams": 160
    },
    {
-    "name": "1 kase",
+    "name": "1 kase (150 g)",
     "grams": 150
    },
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (150 g)",
     "grams": 150
    }
   ],
@@ -31209,15 +31193,15 @@
   },
   "common_servings": [
    {
-    "name": "1 kase",
+    "name": "1 kase (150 g)",
     "grams": 150
    },
    {
-    "name": "1 yemek kaşığı",
+    "name": "1 yemek kaşığı (20 g)",
     "grams": 20
    },
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (150 g)",
     "grams": 150
    }
   ],
@@ -31277,11 +31261,11 @@
   },
   "common_servings": [
    {
-    "name": "1 porsiyon",
+    "name": "1 porsiyon (60 g)",
     "grams": 60
    },
    {
-    "name": "1 kase",
+    "name": "1 kase (150 g)",
     "grams": 150
    }
   ],
@@ -31348,7 +31332,7 @@
   },
   "common_servings": [
    {
-    "name": "2 yemek kaşığı",
+    "name": "2 yemek kaşığı (30 g)",
     "grams": 30
    }
   ],
@@ -31409,11 +31393,11 @@
   },
   "common_servings": [
    {
-    "name": "1 avuç",
+    "name": "1 avuç (30 g)",
     "grams": 30
    },
    {
-    "name": "1 paket",
+    "name": "1 paket (50 g)",
     "grams": 50
    }
   ],

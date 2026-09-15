@@ -208,12 +208,16 @@
   "category": "fruit",
   "common_servings": [
    {
-    "name": "1 avuç (40 g)",
-    "grams": 40
+    "name": "1 tane (20 g)",
+    "grams": 20
    },
    {
-    "name": "100 g",
+    "name": "5 tane (100 g)",
     "grams": 100
+   },
+   {
+    "name": "1 avuç (40 g)",
+    "grams": 40
    }
   ],
   "allergens": [
@@ -1885,23 +1889,19 @@
   },
   "barcode": "5000112666076",
   "tags": [
-   "fruit",
+   "beverage",
    "off",
    "packaged"
   ],
-  "category": "fruit",
+  "category": "beverage",
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
+    "name": "1 çay bardağı (100 ml)",
     "grams": 100
+   },
+   {
+    "name": "1 bardak (200 ml)",
+    "grams": 200
    }
   ],
   "meal_type_tags": [
@@ -3471,8 +3471,16 @@
   "category": "sweet",
   "common_servings": [
    {
-    "name": "1 orta boy (120 g)",
-    "grams": 120
+    "name": "1 dilim (60 g)",
+    "grams": 60
+   },
+   {
+    "name": "1 porsiyon (50 g)",
+    "grams": 50
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "allergens": [
@@ -3896,19 +3904,19 @@
   },
   "barcode": "5000112664980",
   "tags": [
+   "beverage",
    "off",
-   "other",
    "packaged"
   ],
-  "category": "other",
+  "category": "beverage",
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 200
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 500
    }
   ],
   "meal_type_tags": [
@@ -5357,14 +5365,18 @@
   "barcode": "8690504079323",
   "tags": [
    "off",
-   "other",
-   "packaged"
+   "packaged",
+   "sweet"
   ],
-  "category": "other",
+  "category": "sweet",
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 dilim (60 g)",
+    "grams": 60
+   },
+   {
+    "name": "1 porsiyon (50 g)",
+    "grams": 50
    },
    {
     "name": "100 g",
@@ -5907,23 +5919,19 @@
   },
   "barcode": "8681349030754",
   "tags": [
-   "fruit",
+   "beverage",
    "off",
    "packaged"
   ],
-  "category": "fruit",
+  "category": "beverage",
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 bardak (200 ml)",
+    "grams": 200
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 500
    }
   ],
   "meal_type_tags": [
@@ -6896,19 +6904,23 @@
   },
   "barcode": "8696368041674",
   "tags": [
+   "dairy",
    "off",
-   "other",
    "packaged"
   ],
-  "category": "other",
+  "category": "dairy",
   "common_servings": [
    {
     "name": "1 porsiyon (100 g)",
     "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "1 yemek kaşığı (25 g)",
+    "grams": 25
    }
   ],
   "meal_type_tags": [
@@ -9111,19 +9123,19 @@
   },
   "barcode": "8690526083704",
   "tags": [
-   "fruit",
    "off",
-   "packaged"
+   "packaged",
+   "sweet"
   ],
-  "category": "fruit",
+  "category": "sweet",
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 dilim (60 g)",
+    "grams": 60
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 porsiyon (50 g)",
+    "grams": 50
    },
    {
     "name": "100 g",
@@ -9323,23 +9335,19 @@
   },
   "barcode": "8695077085429",
   "tags": [
-   "fruit",
+   "beverage",
    "off",
    "packaged"
   ],
-  "category": "fruit",
+  "category": "beverage",
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 bardak (200 ml)",
+    "grams": 200
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 500
    }
   ],
   "meal_type_tags": [
@@ -9529,19 +9537,23 @@
   },
   "barcode": "8690526011714",
   "tags": [
-   "fruit",
    "off",
-   "packaged"
+   "packaged",
+   "sweet"
   ],
-  "category": "fruit",
+  "category": "sweet",
   "common_servings": [
    {
-    "name": "5 tane (20 g)",
-    "grams": 20
+    "name": "1 dilim (60 g)",
+    "grams": 60
    },
    {
-    "name": "10 tane (40 g)",
-    "grams": 40
+    "name": "1 porsiyon (50 g)",
+    "grams": 50
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -10513,23 +10525,23 @@
   },
   "barcode": "8692095344354",
   "tags": [
-   "fruit",
+   "dairy",
    "off",
    "packaged"
   ],
-  "category": "fruit",
+  "category": "dairy",
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
+    "name": "1 porsiyon (100 g)",
     "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "1 yemek kaşığı (25 g)",
+    "grams": 25
    }
   ],
   "allergens": [
@@ -10646,19 +10658,23 @@
   },
   "barcode": "16920958",
   "tags": [
+   "dairy",
    "off",
-   "other",
    "packaged"
   ],
-  "category": "other",
+  "category": "dairy",
   "common_servings": [
    {
     "name": "1 porsiyon (100 g)",
     "grams": 100
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 dilim (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "1 yemek kaşığı (25 g)",
+    "grams": 25
    }
   ],
   "prep_time_min": 0
@@ -11294,15 +11310,19 @@
   },
   "barcode": "8695077141231",
   "tags": [
-   "fruit",
    "off",
-   "packaged"
+   "packaged",
+   "sweet"
   ],
-  "category": "fruit",
+  "category": "sweet",
   "common_servings": [
    {
-    "name": "1 orta boy (150 g)",
-    "grams": 150
+    "name": "1 dilim (25 g)",
+    "grams": 25
+   },
+   {
+    "name": "1 parça (10 g)",
+    "grams": 10
    }
   ],
   "meal_type_tags": [
@@ -11407,23 +11427,19 @@
   },
   "barcode": "8690558040041",
   "tags": [
-   "fruit",
+   "beverage",
    "off",
    "packaged"
   ],
-  "category": "fruit",
+  "category": "beverage",
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 bardak (200 ml)",
+    "grams": 200
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 500
    }
   ],
   "meal_type_tags": [
@@ -12319,15 +12335,23 @@
   },
   "barcode": "86900478",
   "tags": [
-   "fruit",
    "off",
-   "packaged"
+   "packaged",
+   "sweet"
   ],
-  "category": "fruit",
+  "category": "sweet",
   "common_servings": [
    {
-    "name": "1 orta boy (180 g)",
-    "grams": 180
+    "name": "1 dilim (60 g)",
+    "grams": 60
+   },
+   {
+    "name": "1 porsiyon (50 g)",
+    "grams": 50
+   },
+   {
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "meal_type_tags": [
@@ -13085,19 +13109,19 @@
   },
   "barcode": "8690526563053",
   "tags": [
-   "fruit",
    "off",
-   "packaged"
+   "packaged",
+   "sweet"
   ],
-  "category": "fruit",
+  "category": "sweet",
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 dilim (60 g)",
+    "grams": 60
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 porsiyon (50 g)",
+    "grams": 50
    },
    {
     "name": "100 g",
@@ -13772,23 +13796,23 @@
   },
   "barcode": "8696368041698",
   "tags": [
-   "fruit",
+   "dairy",
    "off",
    "packaged"
   ],
-  "category": "fruit",
+  "category": "dairy",
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
+    "name": "1 porsiyon (100 g)",
     "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "1 yemek kaşığı (25 g)",
+    "grams": 25
    }
   ],
   "allergens": [
@@ -14367,8 +14391,16 @@
   "category": "dairy",
   "common_servings": [
    {
-    "name": "1 orta boy (120 g)",
-    "grams": 120
+    "name": "1 porsiyon (100 g)",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "1 yemek kaşığı (25 g)",
+    "grams": 25
    }
   ],
   "allergens": [
@@ -16168,23 +16200,23 @@
   },
   "barcode": "8696368011493",
   "tags": [
-   "fruit",
+   "dairy",
    "off",
    "packaged"
   ],
-  "category": "fruit",
+  "category": "dairy",
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
+    "name": "1 porsiyon (100 g)",
     "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "1 yemek kaşığı (25 g)",
+    "grams": 25
    }
   ],
   "meal_type_tags": [
@@ -16209,23 +16241,19 @@
   },
   "barcode": "5000112664706",
   "tags": [
-   "fruit",
+   "beverage",
    "off",
    "packaged"
   ],
-  "category": "fruit",
+  "category": "beverage",
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
-   },
-   {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
+    "name": "1 çay bardağı (100 ml)",
     "grams": 100
+   },
+   {
+    "name": "1 bardak (200 ml)",
+    "grams": 200
    }
   ],
   "meal_type_tags": [
@@ -16659,15 +16687,23 @@
   },
   "barcode": "8692095344330",
   "tags": [
-   "fruit",
+   "dairy",
    "off",
    "packaged"
   ],
-  "category": "fruit",
+  "category": "dairy",
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 porsiyon (100 g)",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "1 yemek kaşığı (25 g)",
+    "grams": 25
    }
   ],
   "allergens": [
@@ -17166,23 +17202,19 @@
   },
   "barcode": "90495489",
   "tags": [
-   "fruit",
+   "beverage",
    "off",
    "packaged"
   ],
-  "category": "fruit",
+  "category": "beverage",
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 bardak (200 ml)",
+    "grams": 210
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 525
    }
   ],
   "meal_type_tags": [
@@ -17671,23 +17703,19 @@
   },
   "barcode": "8692813005635",
   "tags": [
-   "fruit",
+   "beverage",
    "off",
    "packaged"
   ],
-  "category": "fruit",
+  "category": "beverage",
   "common_servings": [
    {
-    "name": "1 tane (orta boy, 150 g)",
-    "grams": 150
+    "name": "1 bardak (200 ml)",
+    "grams": 200
    },
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
-   },
-   {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 500
    }
   ],
   "meal_type_tags": [
@@ -19023,12 +19051,16 @@
   "category": "fruit",
   "common_servings": [
    {
-    "name": "1 avuç (40 g)",
-    "grams": 40
+    "name": "1 tane (20 g)",
+    "grams": 20
    },
    {
-    "name": "100 g",
+    "name": "5 tane (100 g)",
     "grams": 100
+   },
+   {
+    "name": "1 avuç (40 g)",
+    "grams": 40
    }
   ],
   "meal_type_tags": [
@@ -19880,15 +19912,23 @@
   },
   "barcode": "8696368200118",
   "tags": [
-   "nut_seed",
+   "dairy",
    "off",
    "packaged"
   ],
-  "category": "nut_seed",
+  "category": "dairy",
   "common_servings": [
    {
-    "name": "1 orta boy (120 g)",
-    "grams": 120
+    "name": "1 porsiyon (100 g)",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "1 yemek kaşığı (25 g)",
+    "grams": 25
    }
   ],
   "allergens": [
@@ -19998,15 +20038,19 @@
   },
   "barcode": "8683508112035",
   "tags": [
-   "fruit",
    "off",
-   "packaged"
+   "packaged",
+   "snack"
   ],
-  "category": "fruit",
+  "category": "snack",
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 avuç (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "1 paket (50 g)",
+    "grams": 50
    }
   ],
   "meal_type_tags": [
@@ -21437,15 +21481,19 @@
   },
   "barcode": "5000112664799",
   "tags": [
-   "fruit",
+   "beverage",
    "off",
    "packaged"
   ],
-  "category": "fruit",
+  "category": "beverage",
   "common_servings": [
    {
-    "name": "1 orta boy (180 g)",
-    "grams": 180
+    "name": "1 bardak (200 ml)",
+    "grams": 200
+   },
+   {
+    "name": "1 şişe (500 ml)",
+    "grams": 500
    }
   ],
   "meal_type_tags": [
@@ -21963,8 +22011,12 @@
   "category": "snack",
   "common_servings": [
    {
-    "name": "1 orta boy (180 g)",
-    "grams": 180
+    "name": "1 kare (8 g)",
+    "grams": 8
+   },
+   {
+    "name": "1 bar (40 g)",
+    "grams": 40
    }
   ],
   "meal_type_tags": [
@@ -22168,15 +22220,23 @@
   },
   "barcode": "8690565019412",
   "tags": [
-   "fruit",
+   "dairy",
    "off",
    "packaged"
   ],
-  "category": "fruit",
+  "category": "dairy",
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 porsiyon (100 g)",
+    "grams": 100
+   },
+   {
+    "name": "1 dilim (30 g)",
+    "grams": 30
+   },
+   {
+    "name": "1 yemek kaşığı (25 g)",
+    "grams": 25
    }
   ],
   "allergens": [
@@ -23837,12 +23897,12 @@
   "category": "sauce_condiment",
   "common_servings": [
    {
-    "name": "1 yemek kaşığı (15 g)",
-    "grams": 15
+    "name": "1 porsiyon (60 g)",
+    "grams": 60
    },
    {
-    "name": "1 tatlı kaşığı (5 g)",
-    "grams": 5
+    "name": "100 g",
+    "grams": 100
    }
   ],
   "prep_time_min": 0
@@ -24362,19 +24422,19 @@
   },
   "barcode": "8695077302038",
   "tags": [
+   "beverage",
    "off",
-   "other",
    "packaged"
   ],
-  "category": "other",
+  "category": "beverage",
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 210
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 525
    }
   ],
   "meal_type_tags": [
@@ -25752,12 +25812,16 @@
   "category": "fruit",
   "common_servings": [
    {
-    "name": "1 avuç (40 g)",
-    "grams": 40
+    "name": "1 tane (20 g)",
+    "grams": 20
    },
    {
-    "name": "100 g",
+    "name": "5 tane (100 g)",
     "grams": 100
+   },
+   {
+    "name": "1 avuç (40 g)",
+    "grams": 40
    }
   ],
   "meal_type_tags": [
@@ -25793,8 +25857,8 @@
     "grams": 40
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 yemek kaşığı (12 g)",
+    "grams": 12
    }
   ],
   "allergen_traces": [
