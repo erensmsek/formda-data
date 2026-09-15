@@ -2214,7 +2214,19 @@
   "meal_type_tags": [
    "lunch",
    "dinner"
-  ]
+  ],
+  "composition": {
+   "roles": [
+    "breakfast_side"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": "processed_meat",
+   "diet": "omnivore"
+  }
  },
  {
   "id": "turkomp_521",
@@ -3701,7 +3713,22 @@
   "meal_type_tags": [
    "lunch",
    "dinner"
-  ]
+  ],
+  "composition": {
+   "roles": [
+    "main"
+   ],
+   "needs": "side",
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [
+    "curated_yesil_salata",
+    "curated_ekmek_beyaz"
+   ],
+   "starch_base": null,
+   "protein_source": "fish",
+   "diet": "pescatarian"
+  }
  },
  {
   "id": "turkomp_83",
@@ -4141,7 +4168,22 @@
   "meal_type_tags": [
    "lunch",
    "dinner"
-  ]
+  ],
+  "composition": {
+   "roles": [
+    "main"
+   ],
+   "needs": "side",
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [
+    "curated_yesil_salata",
+    "curated_ekmek_beyaz"
+   ],
+   "starch_base": null,
+   "protein_source": "fish",
+   "diet": "pescatarian"
+  }
  },
  {
   "id": "turkomp_98",
@@ -4217,7 +4259,23 @@
   "meal_type_tags": [
    "lunch",
    "dinner"
-  ]
+  ],
+  "composition": {
+   "roles": [
+    "main"
+   ],
+   "needs": "side",
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [
+    "curated_pirinc_haslanmis",
+    "curated_yesil_salata",
+    "curated_sogan_salatasi"
+   ],
+   "starch_base": null,
+   "protein_source": "fish",
+   "diet": "pescatarian"
+  }
  },
  {
   "id": "turkomp_97",
@@ -5492,7 +5550,19 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 15
+  "prep_time_min": 15,
+  "composition": {
+   "roles": [
+    "bread"
+   ],
+   "needs": null,
+   "temperature": "any",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": "bread",
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_139",
@@ -5535,7 +5605,19 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 15
+  "prep_time_min": 15,
+  "composition": {
+   "roles": [
+    "bread"
+   ],
+   "needs": null,
+   "temperature": "any",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": "bread",
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_128",
@@ -8142,7 +8224,19 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 10
+  "prep_time_min": 10,
+  "composition": {
+   "roles": [
+    "breakfast_side"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_179",
@@ -8918,7 +9012,19 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 10
+  "prep_time_min": 10,
+  "composition": {
+   "roles": [
+    "breakfast_side"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_169",
@@ -11788,7 +11894,20 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 10
+  "prep_time_min": 10,
+  "composition": {
+   "roles": [
+    "breakfast_side",
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_254",
@@ -12553,7 +12672,9 @@
    "fat_g": 0.22,
    "carbs_g": 1.47,
    "fiber_g": 2.35,
-   "sodium_mg": 1292.0
+   "sodium_mg": 1292.0,
+   "sugar_g": 1.78,
+   "sat_fat_g": 0.03
   },
   "common_servings": [
    {
@@ -12570,7 +12691,19 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sauce_condiment"
+  "category": "sauce_condiment",
+  "composition": {
+   "roles": [
+    "meze"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_273",
@@ -12687,7 +12820,9 @@
    "fat_g": 0.39,
    "carbs_g": 9.37,
    "fiber_g": 3.15,
-   "sodium_mg": 4.0
+   "sodium_mg": 4.0,
+   "sugar_g": 9.85,
+   "sat_fat_g": 0.01
   },
   "common_servings": [
    {
@@ -12713,7 +12848,20 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "fruit",
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "global",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_405",
@@ -13283,7 +13431,20 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "fruit",
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_378",
@@ -13399,7 +13560,9 @@
    "fat_g": 0.49,
    "carbs_g": 12.99,
    "fiber_g": 2.16,
-   "sodium_mg": 2.0
+   "sodium_mg": 2.0,
+   "sugar_g": 8.1,
+   "sat_fat_g": 0.03
   },
   "common_servings": [
    {
@@ -13425,7 +13588,20 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "fruit",
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_334",
@@ -13873,7 +14049,9 @@
    "fat_g": 0.18,
    "carbs_g": 8.01,
    "fiber_g": 1.59,
-   "sodium_mg": 3.0
+   "sodium_mg": 3.0,
+   "sugar_g": 6.89,
+   "sat_fat_g": 0.02
   },
   "common_servings": [
    {
@@ -13899,7 +14077,20 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "fruit",
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_312",
@@ -14510,7 +14701,9 @@
    "fat_g": 0.29,
    "carbs_g": 13.36,
    "fiber_g": 1.7,
-   "sodium_mg": 2.0
+   "sodium_mg": 2.0,
+   "sugar_g": 12.82,
+   "sat_fat_g": 0.04
   },
   "common_servings": [
    {
@@ -14536,7 +14729,20 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "fruit",
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_321",
@@ -14548,7 +14754,9 @@
    "fat_g": 0.18,
    "carbs_g": 13.62,
    "fiber_g": 2.73,
-   "sodium_mg": 4.0
+   "sodium_mg": 4.0,
+   "sugar_g": 8.99,
+   "sat_fat_g": 0.03
   },
   "common_servings": [
    {
@@ -14574,7 +14782,20 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "fruit",
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_392",
@@ -14881,7 +15102,9 @@
    "fat_g": 0.24,
    "carbs_g": 8.27,
    "fiber_g": 1.54,
-   "sodium_mg": 4.0
+   "sodium_mg": 4.0,
+   "sugar_g": 10.58,
+   "sat_fat_g": 0.04
   },
   "common_servings": [
    {
@@ -14907,7 +15130,20 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "fruit",
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_393",
@@ -15089,7 +15325,9 @@
    "fat_g": 0.21,
    "carbs_g": 9.29,
    "fiber_g": 10.21,
-   "sodium_mg": 6.0
+   "sodium_mg": 6.0,
+   "sugar_g": 13.67,
+   "sat_fat_g": 0.12
   },
   "common_servings": [
    {
@@ -15115,7 +15353,20 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "fruit",
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_356",
@@ -15165,7 +15416,9 @@
    "fat_g": 0.0,
    "carbs_g": 14.64,
    "fiber_g": 0.11,
-   "sodium_mg": 6.0
+   "sodium_mg": 6.0,
+   "sugar_g": 8.4,
+   "sat_fat_g": 0.02
   },
   "common_servings": [
    {
@@ -15189,7 +15442,19 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "drink"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_302",
@@ -15775,7 +16040,9 @@
    "fat_g": 0.08,
    "carbs_g": 15.3,
    "fiber_g": 3.34,
-   "sodium_mg": 2.0
+   "sodium_mg": 2.0,
+   "sugar_g": 12.53,
+   "sat_fat_g": 0.02
   },
   "common_servings": [
    {
@@ -15801,7 +16068,20 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "fruit",
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_330",
@@ -15963,7 +16243,9 @@
    "fat_g": 0.53,
    "carbs_g": 14.77,
    "fiber_g": 1.7,
-   "sodium_mg": 5.0
+   "sodium_mg": 5.0,
+   "sugar_g": 15.48,
+   "sat_fat_g": 0.05
   },
   "common_servings": [
    {
@@ -15989,7 +16271,20 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "fruit",
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_504",
@@ -16333,7 +16628,9 @@
    "fat_g": 0.45,
    "carbs_g": 12.02,
    "fiber_g": 3.16,
-   "sodium_mg": 2.0
+   "sodium_mg": 2.0,
+   "sugar_g": 8.49,
+   "sat_fat_g": 0.07
   },
   "common_servings": [
    {
@@ -16359,7 +16656,20 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "fruit",
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_394",
@@ -19419,7 +19729,9 @@
    "fat_g": 8.26,
    "carbs_g": 55.2,
    "fiber_g": 10.48,
-   "sodium_mg": 3.0
+   "sodium_mg": 3.0,
+   "sugar_g": 10.7,
+   "sat_fat_g": 0.6
   },
   "common_servings": [
    {
@@ -19444,7 +19756,19 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "any",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": "legume",
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_580",
@@ -19899,7 +20223,9 @@
    "fat_g": 0.6,
    "carbs_g": 65.2,
    "fiber_g": 9.42,
-   "sodium_mg": 59.0
+   "sodium_mg": 59.0,
+   "sugar_g": 47.92,
+   "sat_fat_g": 0.14
   },
   "common_servings": [
    {
@@ -19925,7 +20251,20 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "fruit",
+    "snack"
+   ],
+   "needs": null,
+   "temperature": "any",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_582",
@@ -21416,7 +21755,19 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0
+  "prep_time_min": 0,
+  "composition": {
+   "roles": [
+    "breakfast_side"
+   ],
+   "needs": null,
+   "temperature": "any",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_564",
@@ -22426,7 +22777,9 @@
    "fat_g": 0.46,
    "carbs_g": 0.64,
    "fiber_g": 1.8,
-   "sodium_mg": 1733.0
+   "sodium_mg": 1733.0,
+   "sugar_g": 1.06,
+   "sat_fat_g": 0.05
   },
   "common_servings": [
    {
@@ -22443,7 +22796,19 @@
    "turkish",
    "turkomp"
   ],
-  "category": "sauce_condiment"
+  "category": "sauce_condiment",
+  "composition": {
+   "roles": [
+    "meze"
+   ],
+   "needs": null,
+   "temperature": "cold",
+   "cuisine": "turkish",
+   "pairs_with": [],
+   "starch_base": null,
+   "protein_source": null,
+   "diet": "vegan"
+  }
  },
  {
   "id": "turkomp_684",
