@@ -4672,10 +4672,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -7235,19 +7231,19 @@
   },
   "barcode": "8690558037751",
   "tags": [
+   "beverage",
    "off",
-   "other",
    "packaged"
   ],
-  "category": "other",
+  "category": "beverage",
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 bardak (200 ml)",
+    "grams": 200
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 500
    }
   ],
   "allergen_traces": [
@@ -20006,19 +20002,23 @@
   },
   "barcode": "8695077089984",
   "tags": [
+   "egg",
    "off",
-   "other",
    "packaged"
   ],
-  "category": "other",
+  "category": "egg",
   "common_servings": [
    {
-    "name": "1 porsiyon (100 g)",
-    "grams": 100
+    "name": "1 tane (55 g)",
+    "grams": 55
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "2 tane (110 g)",
+    "grams": 110
+   },
+   {
+    "name": "3 tane (165 g)",
+    "grams": 165
    }
   ],
   "prep_time_min": 0
@@ -23511,10 +23511,6 @@
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
    },
    {
     "name": "100 g",

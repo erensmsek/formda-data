@@ -2,22 +2,22 @@
   "schema_version": 1,
   "foods": {
     "turkomp": {
-      "version": "1.7.0",
+      "version": "1.8.0",
       "count": 639,
       "updated_at": "2026-09-16",
-      "checksum": "sha256:107e9a85c6e772ae5f4d3aa3b0cec0460bd312c0cba9db8d04f64c70367883cd"
+      "checksum": "sha256:51c9fb9b7510af93048ef61ac93aa78ebaedb2d5f33101456e7652aabda5919d"
     },
     "usda_top5000": {
-      "version": "1.5.0",
+      "version": "1.6.0",
       "count": 1266,
       "updated_at": "2026-09-16",
-      "checksum": "sha256:64b37874a72f8e106167fb40cefeb16d6dd975da41b093258a66e30a2ef16242"
+      "checksum": "sha256:91698d58d1b28cfdc914f2f0b537434ea71f3d8c42b6f1c865eb5daf35373877"
     },
     "off_tr": {
-      "version": "1.5.0",
+      "version": "1.6.0",
       "count": 639,
       "updated_at": "2026-09-16",
-      "checksum": "sha256:d0025a73ba8f63546430ec77d29e7879c7c6b6cd03afbe46fd444b45a50fcc49"
+      "checksum": "sha256:eb55b86b52a2be10e7d72a8cdcde82dfd346d8a68bb42b947ab543b24ba17f89"
     },
     "popular_tr": {
       "version": "1.6.0",
