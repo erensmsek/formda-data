@@ -7299,12 +7299,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
+    "name": "1 orta boy (150 g)",
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -7337,12 +7337,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -7377,10 +7377,6 @@
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
    },
    {
     "name": "100 g",
@@ -7489,16 +7485,16 @@
   },
   "common_servings": [
    {
+    "name": "1 tane (10 g)",
+    "grams": 10
+   },
+   {
+    "name": "10 tane (100 g)",
+    "grams": 100
+   },
+   {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -7529,10 +7525,6 @@
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
    },
    {
     "name": "100 g",
@@ -7569,10 +7561,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -7603,12 +7591,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 yemek kaşığı (8 g)",
+    "grams": 8
    },
    {
     "name": "100 g",
@@ -7898,12 +7886,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (60 g)",
+    "grams": 60
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -7936,12 +7924,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (60 g)",
+    "grams": 60
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -7973,12 +7961,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 yemek kaşığı (8 g)",
+    "grams": 8
    },
    {
     "name": "100 g",
@@ -8012,12 +8000,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (60 g)",
+    "grams": 60
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -8050,12 +8038,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 yemek kaşığı (8 g)",
+    "grams": 8
    },
    {
     "name": "100 g",
@@ -8087,12 +8075,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 yemek kaşığı (8 g)",
+    "grams": 8
    },
    {
     "name": "100 g",
@@ -8130,10 +8118,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -8164,12 +8148,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (60 g)",
+    "grams": 60
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -8202,12 +8186,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (60 g)",
+    "grams": 60
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -8252,12 +8236,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (60 g)",
+    "grams": 60
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -8404,12 +8388,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 dilim (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -8475,10 +8459,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -8511,10 +8491,6 @@
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
    },
    {
     "name": "100 g",
@@ -8550,12 +8526,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -8621,10 +8597,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -8661,10 +8633,6 @@
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
    },
    {
     "name": "100 g",
@@ -8735,12 +8703,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 yemek kaşığı (6 g)",
+    "grams": 6
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "yarım demet (25 g)",
+    "grams": 25
    },
    {
     "name": "100 g",
@@ -8777,10 +8745,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -8813,10 +8777,6 @@
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
    },
    {
     "name": "100 g",
@@ -8918,10 +8878,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -8952,12 +8908,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 yemek kaşığı (8 g)",
+    "grams": 8
    },
    {
     "name": "100 g",
@@ -8990,12 +8946,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (120 g)",
+    "grams": 120
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -9040,12 +8996,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (120 g)",
+    "grams": 120
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -9078,12 +9034,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -9119,10 +9075,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -9156,12 +9108,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (120 g)",
+    "grams": 120
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -9198,10 +9150,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -9236,10 +9184,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -9272,10 +9216,6 @@
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
    },
    {
     "name": "100 g",
@@ -9460,12 +9400,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (80 g)",
+    "grams": 80
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -9498,12 +9438,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (80 g)",
+    "grams": 80
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -9540,10 +9480,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -9577,12 +9513,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -9615,12 +9551,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -9653,12 +9589,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -9693,10 +9629,6 @@
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
    },
    {
     "name": "100 g",
@@ -9766,12 +9698,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 dilim (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -9804,12 +9736,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 dilim (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -9846,12 +9778,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (200 g)",
+    "grams": 200
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -9884,12 +9816,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (200 g)",
+    "grams": 200
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -9922,12 +9854,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -9964,10 +9896,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -9998,12 +9926,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 dilim (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -10210,10 +10138,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -10246,10 +10170,6 @@
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
    },
    {
     "name": "100 g",
@@ -10319,12 +10239,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -10357,12 +10277,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (300 g)",
+    "grams": 300
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -10399,12 +10319,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (300 g)",
+    "grams": 300
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -10445,10 +10365,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -10479,16 +10395,16 @@
   },
   "common_servings": [
    {
+    "name": "1 tane (20 g)",
+    "grams": 20
+   },
+   {
+    "name": "10 tane (200 g)",
+    "grams": 200
+   },
+   {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -10519,10 +10435,6 @@
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
    },
    {
     "name": "100 g",
@@ -10559,10 +10471,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -10593,12 +10501,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -10631,12 +10539,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 dilim (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -10669,12 +10577,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 dilim (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -10707,12 +10615,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 dilim (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -10745,12 +10653,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 dilim (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -10783,12 +10691,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -10821,16 +10729,16 @@
   },
   "common_servings": [
    {
+    "name": "1 tane (20 g)",
+    "grams": 20
+   },
+   {
+    "name": "10 tane (200 g)",
+    "grams": 200
+   },
+   {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -10863,10 +10771,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -10897,12 +10801,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -10935,12 +10839,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -10973,12 +10877,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -11011,12 +10915,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 yemek kaşığı (6 g)",
+    "grams": 6
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "yarım demet (25 g)",
+    "grams": 25
    },
    {
     "name": "100 g",
@@ -11049,12 +10953,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 yemek kaşığı (8 g)",
+    "grams": 8
    },
    {
     "name": "100 g",
@@ -11204,12 +11108,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 yemek kaşığı (6 g)",
+    "grams": 6
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "yarım demet (25 g)",
+    "grams": 25
    },
    {
     "name": "100 g",
@@ -11242,12 +11146,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 yemek kaşığı (8 g)",
+    "grams": 8
    },
    {
     "name": "100 g",
@@ -11318,12 +11222,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (120 g)",
+    "grams": 120
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -11356,12 +11260,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (120 g)",
+    "grams": 120
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -11394,12 +11298,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (120 g)",
+    "grams": 120
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -11474,10 +11378,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -11508,12 +11408,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
+    "name": "1 orta boy (150 g)",
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -11546,12 +11446,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
+    "name": "1 orta boy (150 g)",
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -11592,10 +11492,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -11626,12 +11522,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 yemek kaşığı (8 g)",
+    "grams": 8
    },
    {
     "name": "100 g",
@@ -11664,12 +11560,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (250 g)",
+    "grams": 250
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -11702,12 +11598,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (250 g)",
+    "grams": 250
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -11740,12 +11636,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -11778,12 +11674,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (200 g)",
+    "grams": 200
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -11820,10 +11716,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -11854,12 +11746,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -11892,12 +11784,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
+    "name": "1 orta boy (150 g)",
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -11979,16 +11871,16 @@
   },
   "common_servings": [
    {
+    "name": "1 tane (4 g)",
+    "grams": 4
+   },
+   {
+    "name": "10 tane (40 g)",
+    "grams": 40
+   },
+   {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -12017,12 +11909,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 yemek kaşığı (8 g)",
+    "grams": 8
    },
    {
     "name": "100 g",
@@ -12054,12 +11946,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 yemek kaşığı (8 g)",
+    "grams": 8
    },
    {
     "name": "100 g",
@@ -12092,12 +11984,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -12130,12 +12022,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -12168,12 +12060,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 yemek kaşığı (8 g)",
+    "grams": 8
    },
    {
     "name": "100 g",
@@ -12206,12 +12098,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 yemek kaşığı (8 g)",
+    "grams": 8
    },
    {
     "name": "100 g",
@@ -12244,12 +12136,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 orta boy (110 g)",
+    "grams": 110
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 kase (150 g)",
+    "grams": 150
    },
    {
     "name": "100 g",
@@ -12282,12 +12174,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -12324,10 +12216,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -12362,10 +12250,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -12396,12 +12280,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 kase (100 g)",
+    "grams": 100
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 avuç (30 g)",
+    "grams": 30
    },
    {
     "name": "100 g",
@@ -12434,16 +12318,16 @@
   },
   "common_servings": [
    {
+    "name": "1 tane (20 g)",
+    "grams": 20
+   },
+   {
+    "name": "10 tane (200 g)",
+    "grams": 200
+   },
+   {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -12476,16 +12360,16 @@
   },
   "common_servings": [
    {
+    "name": "1 tane (20 g)",
+    "grams": 20
+   },
+   {
+    "name": "10 tane (200 g)",
+    "grams": 200
+   },
+   {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -12514,16 +12398,16 @@
   },
   "common_servings": [
    {
+    "name": "1 tane (20 g)",
+    "grams": 20
+   },
+   {
+    "name": "10 tane (200 g)",
+    "grams": 200
+   },
+   {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
-    "name": "100 g",
-    "grams": 100
    }
   ],
   "tags": [
@@ -13253,10 +13137,6 @@
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
    },
    {
     "name": "100 g",
@@ -14023,10 +13903,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -14312,10 +14188,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -14571,10 +14443,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -14809,10 +14677,6 @@
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
    },
    {
     "name": "100 g",
@@ -16659,10 +16523,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -17820,10 +17680,6 @@
     "grams": 150
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
-   },
-   {
     "name": "100 g",
     "grams": 100
    }
@@ -17856,10 +17712,6 @@
    {
     "name": "1 kase (150 g)",
     "grams": 150
-   },
-   {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
    },
    {
     "name": "100 g",
@@ -18194,12 +18046,12 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 tatlı kaşığı (3 g)",
+    "grams": 3
    },
    {
-    "name": "1 tane (orta boy, 120 g)",
-    "grams": 120
+    "name": "1 yemek kaşığı (8 g)",
+    "grams": 8
    },
    {
     "name": "100 g",
