@@ -62,6 +62,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -152,6 +164,18 @@
    "starch_base": "dough",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -222,6 +246,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -311,6 +347,18 @@
    "starch_base": "dough",
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -397,6 +445,18 @@
    "starch_base": "dough",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -479,6 +539,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -549,6 +621,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -615,6 +699,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -695,6 +791,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -764,6 +872,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -833,6 +953,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -915,6 +1047,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -997,6 +1141,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -1092,6 +1248,18 @@
    "starch_base": "bread",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -1181,6 +1349,18 @@
    "starch_base": "dough",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -1264,6 +1444,18 @@
    "starch_base": "bulgur",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -1346,6 +1538,18 @@
    "starch_base": "bread",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -1439,6 +1643,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -1524,6 +1740,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -1607,6 +1835,18 @@
    "starch_base": null,
    "protein_source": "legume",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -1690,6 +1930,18 @@
    "starch_base": null,
    "protein_source": "legume",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -1778,6 +2030,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -1872,6 +2136,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -1960,6 +2236,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -2046,6 +2334,18 @@
    "starch_base": "rice",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -2129,6 +2429,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -2211,6 +2523,18 @@
    "starch_base": "rice",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -2290,6 +2614,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -2369,6 +2705,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -2444,6 +2792,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -2520,6 +2880,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -2590,6 +2962,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -2665,6 +3049,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -2735,6 +3131,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -2811,6 +3219,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -2884,6 +3304,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -2957,6 +3389,18 @@
    "starch_base": "bulgur",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3025,6 +3469,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3099,6 +3555,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3168,6 +3636,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3247,6 +3727,18 @@
    "starch_base": "pasta",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3333,6 +3825,18 @@
    "starch_base": "pasta",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3408,6 +3912,18 @@
    "starch_base": null,
    "protein_source": "egg",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3473,6 +3989,18 @@
    "starch_base": null,
    "protein_source": "egg",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3544,6 +4072,18 @@
    "starch_base": null,
    "protein_source": "egg",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3615,6 +4155,18 @@
    "starch_base": null,
    "protein_source": "egg",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3687,6 +4239,18 @@
    "starch_base": "bread",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3759,6 +4323,18 @@
    "starch_base": "bread",
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3835,6 +4411,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3908,6 +4496,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -3981,6 +4581,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -4065,6 +4677,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -4147,6 +4771,18 @@
    "starch_base": "dough",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -4225,6 +4861,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -4309,6 +4957,18 @@
    "starch_base": "dough",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -4380,6 +5040,18 @@
    "starch_base": "dough",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -4458,6 +5130,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -4535,6 +5219,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -4612,6 +5308,18 @@
    "starch_base": "dough",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -4706,6 +5414,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -4783,6 +5503,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -4855,6 +5587,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -4935,6 +5679,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -5010,6 +5766,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -5083,6 +5851,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -5157,6 +5937,18 @@
    "starch_base": null,
    "protein_source": "legume",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -5237,6 +6029,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -5318,6 +6122,18 @@
    "starch_base": "bulgur",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -5401,6 +6217,18 @@
    "starch_base": null,
    "protein_source": "nut_seed",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -5477,6 +6305,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -5554,6 +6394,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -5631,6 +6483,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -5713,6 +6577,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -5799,6 +6675,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -5866,6 +6754,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -5953,6 +6853,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -6024,6 +6936,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -6101,6 +7025,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -6182,6 +7118,18 @@
    "starch_base": "bread",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -6248,6 +7196,18 @@
    "starch_base": "potato",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -6335,6 +7295,18 @@
    "starch_base": "dough",
    "protein_source": "dairy",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -6410,6 +7382,18 @@
    "starch_base": "potato",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -6495,6 +7479,18 @@
    "starch_base": "bulgur",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -6558,6 +7554,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -6619,6 +7627,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -6696,6 +7716,18 @@
    "starch_base": "bread",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -6782,6 +7814,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -6846,6 +7890,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -6931,6 +7987,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7005,6 +8073,18 @@
    "starch_base": "rice",
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7083,6 +8163,18 @@
    "starch_base": "bread",
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7155,6 +8247,18 @@
    "starch_base": null,
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7234,6 +8338,18 @@
    "starch_base": "rice",
    "protein_source": "seafood",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7307,6 +8423,18 @@
    "starch_base": "dough",
    "protein_source": "seafood",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7373,6 +8501,18 @@
    "starch_base": null,
    "protein_source": "egg",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7443,6 +8583,18 @@
    "starch_base": null,
    "protein_source": "egg",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7510,6 +8662,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7597,6 +8761,18 @@
    "starch_base": "bulgur",
    "protein_source": "legume",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7675,6 +8851,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7753,6 +8941,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7824,6 +9024,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7913,6 +9125,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -7996,6 +9220,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -8072,6 +9308,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -8151,6 +9399,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -8231,6 +9491,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -8306,6 +9578,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -8387,6 +9671,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -8457,6 +9753,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -8532,6 +9840,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -8612,6 +9932,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -8686,6 +10018,18 @@
    "starch_base": "bulgur",
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -8761,6 +10105,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -8841,6 +10197,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -8923,6 +10291,18 @@
    "starch_base": "dough",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -8992,6 +10372,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -9070,6 +10462,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -9128,6 +10532,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -9202,6 +10618,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -9290,6 +10718,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -9380,6 +10820,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -9458,6 +10910,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -9545,6 +11009,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -9629,6 +11105,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -9695,6 +11183,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -9766,6 +11266,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -9833,6 +11345,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -9907,6 +11431,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -9993,6 +11529,18 @@
    "starch_base": "bulgur",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -10075,6 +11623,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -10151,6 +11711,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -10222,6 +11794,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -10312,6 +11896,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -10395,6 +11991,18 @@
    "starch_base": "potato",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -10477,6 +12085,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -10541,6 +12161,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -10618,6 +12250,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -10690,6 +12334,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -10754,6 +12410,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -10832,6 +12500,18 @@
    "starch_base": "pasta",
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -10911,6 +12591,18 @@
    "starch_base": "rice",
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -10981,6 +12673,18 @@
    "starch_base": null,
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -11048,6 +12752,18 @@
    "starch_base": null,
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -11114,6 +12830,18 @@
    "starch_base": null,
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -11186,6 +12914,18 @@
    "starch_base": null,
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -11262,6 +13002,18 @@
    "starch_base": null,
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -11335,6 +13087,18 @@
    "starch_base": null,
    "protein_source": "seafood",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -11421,6 +13185,18 @@
    "starch_base": null,
    "protein_source": "seafood",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -11487,6 +13263,18 @@
    "starch_base": null,
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -11570,6 +13358,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -11648,6 +13448,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -11733,6 +13545,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -11806,6 +13630,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -11898,6 +13734,18 @@
    "starch_base": null,
    "protein_source": "legume",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -11968,6 +13816,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -12051,6 +13911,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -12134,6 +14006,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -12218,6 +14102,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -12297,6 +14193,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -12358,6 +14266,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -12450,6 +14370,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -12532,6 +14464,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -12615,6 +14559,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -12683,6 +14639,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -12751,6 +14719,18 @@
    "starch_base": "couscous",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -12820,6 +14800,18 @@
    "starch_base": "pasta",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -12888,6 +14880,18 @@
    "starch_base": "potato",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -12949,6 +14953,18 @@
    "starch_base": "potato",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13027,6 +15043,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13105,6 +15133,18 @@
    "starch_base": "bulgur",
    "protein_source": "legume",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13174,6 +15214,18 @@
    "starch_base": "pasta",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13235,6 +15287,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13292,6 +15356,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13345,6 +15421,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13402,6 +15490,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13463,6 +15563,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13514,6 +15626,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13570,6 +15694,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13630,6 +15766,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13684,6 +15832,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13744,6 +15904,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13804,6 +15976,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13862,6 +16046,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -13938,6 +16134,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14011,6 +16219,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14083,6 +16303,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14134,6 +16366,18 @@
    "starch_base": null,
    "protein_source": "processed_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14202,6 +16446,18 @@
    "starch_base": null,
    "protein_source": "egg",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14308,6 +16564,18 @@
    "starch_base": "bread",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14384,6 +16652,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14466,6 +16746,18 @@
    "starch_base": null,
    "protein_source": "legume",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14549,6 +16841,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14621,6 +16925,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14699,6 +17015,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14769,6 +17097,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14837,6 +17177,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14918,6 +17270,18 @@
    "starch_base": null,
    "protein_source": "legume",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -14984,6 +17348,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -15055,6 +17431,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -15137,6 +17525,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -15214,6 +17614,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -15265,6 +17677,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -15328,6 +17752,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -15413,6 +17849,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -15489,6 +17937,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -15565,6 +18025,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -15633,6 +18105,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -15709,6 +18193,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -15786,6 +18282,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -15862,6 +18370,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -15936,6 +18456,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16018,6 +18550,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16099,6 +18643,18 @@
    "starch_base": "dough",
    "protein_source": "nut_seed",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16167,6 +18723,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16242,6 +18810,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16296,6 +18876,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16356,6 +18948,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16408,6 +19012,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16462,6 +19078,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16524,6 +19152,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16591,6 +19231,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16645,6 +19297,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16699,6 +19363,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16753,6 +19429,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16807,6 +19495,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16869,6 +19569,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16931,6 +19643,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -16993,6 +19717,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17055,6 +19791,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17109,6 +19857,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17162,6 +19922,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17224,6 +19996,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17280,6 +20064,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17334,6 +20130,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17396,6 +20204,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17454,6 +20274,18 @@
    "starch_base": null,
    "protein_source": "nut_seed",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17513,6 +20345,18 @@
    "starch_base": null,
    "protein_source": "nut_seed",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17571,6 +20415,18 @@
    "starch_base": null,
    "protein_source": "nut_seed",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17629,6 +20485,18 @@
    "starch_base": null,
    "protein_source": "nut_seed",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17687,6 +20555,18 @@
    "starch_base": null,
    "protein_source": "nut_seed",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17743,6 +20623,18 @@
    "starch_base": null,
    "protein_source": "nut_seed",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17802,6 +20694,18 @@
    "starch_base": "oat",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17854,6 +20758,18 @@
    "starch_base": "oat",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17910,6 +20826,18 @@
    "starch_base": "oat",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -17972,6 +20900,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18028,6 +20968,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18101,6 +21053,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18173,6 +21137,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18241,6 +21217,18 @@
    "starch_base": "bread",
    "protein_source": "egg",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18320,6 +21308,18 @@
    "starch_base": null,
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18397,6 +21397,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18457,6 +21469,18 @@
    "starch_base": null,
    "protein_source": "processed_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18516,6 +21540,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18571,6 +21607,18 @@
    "starch_base": "bread",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18626,6 +21674,18 @@
    "starch_base": "bread",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18681,6 +21741,18 @@
    "starch_base": "bread",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18743,6 +21815,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18808,6 +21892,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18884,6 +21980,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -18963,6 +22071,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -19038,6 +22158,18 @@
    "starch_base": "dough",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -19115,6 +22247,18 @@
    "starch_base": "dough",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -19191,6 +22335,18 @@
    "starch_base": "dough",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -19266,6 +22422,18 @@
    "starch_base": "dough",
    "protein_source": "processed_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -19347,6 +22515,18 @@
    "starch_base": "dough",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -19425,6 +22605,18 @@
    "starch_base": "bulgur",
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -19511,6 +22703,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -19583,6 +22787,18 @@
    "starch_base": null,
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -19649,6 +22865,18 @@
    "starch_base": null,
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -19711,6 +22939,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -19773,6 +23013,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -19858,6 +23110,18 @@
    "starch_base": "bread",
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -19934,6 +23198,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20006,6 +23282,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20089,6 +23377,18 @@
    "starch_base": "dough",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20167,6 +23467,18 @@
    "starch_base": "bread",
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20246,6 +23558,18 @@
    "starch_base": "bread",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20306,6 +23630,18 @@
    "starch_base": "corn",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20364,6 +23700,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20453,6 +23801,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20506,6 +23866,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20561,6 +23933,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20628,6 +24012,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20704,6 +24100,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20781,6 +24189,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20859,6 +24279,18 @@
    "starch_base": "dough",
    "protein_source": "egg",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -20945,6 +24377,18 @@
    "starch_base": "dough",
    "protein_source": "egg",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21030,6 +24474,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21113,6 +24569,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21180,6 +24648,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21239,6 +24719,18 @@
    "starch_base": "corn",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21296,6 +24788,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21360,6 +24864,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21417,6 +24933,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21484,6 +25012,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21560,6 +25100,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21628,6 +25180,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21704,6 +25268,18 @@
    "starch_base": "potato",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21785,6 +25361,18 @@
    "starch_base": null,
    "protein_source": "legume",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21872,6 +25460,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -21950,6 +25550,18 @@
    "starch_base": "pasta",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22030,6 +25642,18 @@
    "starch_base": null,
    "protein_source": "egg",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22118,6 +25742,18 @@
    "starch_base": null,
    "protein_source": "legume",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22192,6 +25828,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22259,6 +25907,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22326,6 +25986,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22402,6 +26074,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22484,6 +26168,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22562,6 +26258,18 @@
    "starch_base": "dough",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22645,6 +26353,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22707,6 +26427,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22766,6 +26498,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22826,6 +26570,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22887,6 +26643,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -22948,6 +26716,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23020,6 +26800,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23080,6 +26872,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23137,6 +26941,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23192,6 +27008,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23249,6 +27077,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23301,6 +27141,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23378,6 +27230,18 @@
    "starch_base": "rice",
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23457,6 +27321,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23541,6 +27417,18 @@
    "starch_base": "bread",
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23627,6 +27515,18 @@
    "starch_base": "bread",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23696,6 +27596,18 @@
    "starch_base": "bread",
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23760,6 +27672,18 @@
    "starch_base": "corn",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23850,6 +27774,18 @@
    "starch_base": "pasta",
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -23939,6 +27875,18 @@
    "starch_base": "pasta",
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -24022,6 +27970,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -24104,6 +28064,18 @@
    "starch_base": "rice",
    "protein_source": "seafood",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -24199,6 +28171,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -24292,6 +28276,18 @@
    "starch_base": "rice",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -24352,6 +28348,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -24436,6 +28444,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -24515,6 +28535,18 @@
    "starch_base": null,
    "protein_source": "legume",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -24596,6 +28628,18 @@
    "starch_base": "bread",
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -24680,6 +28724,18 @@
    "starch_base": "pasta",
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -24762,6 +28818,18 @@
    "starch_base": "rice",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -24841,6 +28909,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -24928,6 +29008,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -25008,6 +29100,18 @@
    "starch_base": "pasta",
    "protein_source": "processed_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -25088,6 +29192,18 @@
    "starch_base": "pasta",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -25171,6 +29287,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -25256,6 +29384,18 @@
    "starch_base": "bread",
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -25332,6 +29472,18 @@
    "starch_base": "bread",
    "protein_source": "processed_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -25419,6 +29571,18 @@
    "starch_base": "bread",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -25501,6 +29665,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -25579,6 +29755,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -25650,6 +29838,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -25731,6 +29931,18 @@
    "starch_base": null,
    "protein_source": "soy",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -25794,6 +30006,18 @@
    "starch_base": null,
    "protein_source": "soy",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -25875,6 +30099,18 @@
    "starch_base": "quinoa",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -25945,6 +30181,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26028,6 +30276,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26111,6 +30371,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26183,6 +30455,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26267,6 +30551,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26355,6 +30651,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26438,6 +30746,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26514,6 +30834,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26583,6 +30915,18 @@
    "starch_base": "oat",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26661,6 +31005,18 @@
    "starch_base": "oat",
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26725,6 +31081,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26779,6 +31147,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26837,6 +31217,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26895,6 +31287,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -26953,6 +31357,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27007,6 +31423,18 @@
    "starch_base": null,
    "protein_source": "nut_seed",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27063,6 +31491,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27122,6 +31562,18 @@
    "starch_base": null,
    "protein_source": "processed_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27177,6 +31629,18 @@
    "starch_base": null,
    "protein_source": "processed_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27229,6 +31693,18 @@
    "starch_base": null,
    "protein_source": "processed_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27289,6 +31765,18 @@
    "starch_base": null,
    "protein_source": "processed_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27340,6 +31828,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27388,6 +31888,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27438,6 +31950,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27489,6 +32013,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27537,6 +32073,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27587,6 +32135,18 @@
    "starch_base": "potato",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27637,6 +32197,18 @@
    "starch_base": "corn",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27697,6 +32269,18 @@
    "starch_base": "quinoa",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27763,6 +32347,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27828,6 +32424,18 @@
    "starch_base": null,
    "protein_source": "soy",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27898,6 +32506,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -27958,6 +32578,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28024,6 +32656,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28085,6 +32729,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28153,6 +32809,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28217,6 +32885,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28280,6 +32960,18 @@
    "starch_base": "pasta",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28337,6 +33029,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28396,6 +33100,18 @@
    "starch_base": "bulgur",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28452,6 +33168,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28513,6 +33241,18 @@
    "starch_base": "potato",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28574,6 +33314,18 @@
    "starch_base": "potato",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28631,6 +33383,18 @@
    "starch_base": null,
    "protein_source": "legume",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28688,6 +33452,18 @@
    "starch_base": null,
    "protein_source": "legume",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28745,6 +33521,18 @@
    "starch_base": null,
    "protein_source": "legume",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28807,6 +33595,18 @@
    "starch_base": null,
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28878,6 +33678,18 @@
    "starch_base": null,
    "protein_source": "fish",
    "diet": "pescatarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -28963,6 +33775,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -29042,6 +33866,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -29121,6 +33957,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -29206,6 +34054,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -29285,6 +34145,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -29364,6 +34236,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -29454,6 +34338,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -29529,6 +34425,18 @@
    "starch_base": null,
    "protein_source": "poultry",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -29625,6 +34533,18 @@
    "starch_base": null,
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -29705,6 +34625,18 @@
    "starch_base": "pasta",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -29786,6 +34718,18 @@
    "starch_base": "dough",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -29870,6 +34814,18 @@
    "starch_base": "rice",
    "protein_source": "red_meat",
    "diet": "omnivore"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -29951,6 +34907,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30026,6 +34994,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30095,6 +35075,18 @@
    "starch_base": "bulgur",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30178,6 +35170,18 @@
    "starch_base": "bulgur",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30252,6 +35256,18 @@
    "starch_base": "bulgur",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30325,6 +35341,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30398,6 +35426,18 @@
    "starch_base": "rice",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30462,6 +35502,18 @@
    "starch_base": "pasta",
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30519,6 +35571,18 @@
    "starch_base": "potato",
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30590,6 +35654,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30666,6 +35742,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30734,6 +35822,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30815,6 +35915,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30886,6 +35998,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -30958,6 +36082,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -31030,6 +36166,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -31103,6 +36251,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -31174,6 +36334,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -31242,6 +36414,18 @@
    "starch_base": null,
    "protein_source": "dairy",
    "diet": "vegetarian"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -31313,6 +36497,18 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -31373,6 +36569,18 @@
    "starch_base": null,
    "protein_source": "nut_seed",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  },
  {
@@ -31429,6 +36637,18 @@
    "starch_base": null,
    "protein_source": "nut_seed",
    "diet": "vegan"
+  },
+  "verification": {
+   "status": "verified",
+   "source": "recipe_recompute",
+   "checked_at": "2026-09-16",
+   "checked_fields": [
+    "calories_kcal",
+    "carbs_g",
+    "fat_g",
+    "protein_g"
+   ],
+   "conflicts": []
   }
  }
 ]
