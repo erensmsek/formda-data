@@ -2990,7 +2990,8 @@
    "fat_g": 11.97,
    "carbs_g": 6.55,
    "fiber_g": 2.05,
-   "sodium_mg": 2480.0
+   "sodium_mg": 2480.0,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -3022,7 +3023,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": "processed_meat",
-   "diet": "omnivore"
+   "diet": "omnivore",
+   "quality": "moderate"
   },
   "verification": {
    "status": "verified",
@@ -5017,7 +5019,8 @@
    "protein_g": 18.88,
    "fat_g": 9.74,
    "carbs_g": 0.0,
-   "sodium_mg": 735.0
+   "sodium_mg": 735.0,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -5060,7 +5063,8 @@
    ],
    "starch_base": null,
    "protein_source": "fish",
-   "diet": "pescatarian"
+   "diet": "pescatarian",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -5615,7 +5619,8 @@
    "protein_g": 20.69,
    "fat_g": 10.22,
    "carbs_g": 0.0,
-   "sodium_mg": 589.0
+   "sodium_mg": 589.0,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -5658,7 +5663,8 @@
    ],
    "starch_base": null,
    "protein_source": "fish",
-   "diet": "pescatarian"
+   "diet": "pescatarian",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -5732,7 +5738,8 @@
    "protein_g": 20.81,
    "fat_g": 10.02,
    "carbs_g": 0.0,
-   "sodium_mg": 336.0
+   "sodium_mg": 336.0,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -5776,7 +5783,8 @@
    ],
    "starch_base": null,
    "protein_source": "fish",
-   "diet": "pescatarian"
+   "diet": "pescatarian",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -7485,7 +7493,8 @@
    "fat_g": 3.4,
    "carbs_g": 38.61,
    "fiber_g": 9.32,
-   "sodium_mg": 445.0
+   "sodium_mg": 445.0,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -7527,7 +7536,8 @@
    "pairs_with": [],
    "starch_base": "bread",
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -7554,7 +7564,8 @@
    "fat_g": 1.58,
    "carbs_g": 51.38,
    "fiber_g": 4.91,
-   "sodium_mg": 301.0
+   "sodium_mg": 301.0,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -7596,7 +7607,8 @@
    "pairs_with": [],
    "starch_base": "bread",
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -11092,7 +11104,8 @@
    "fat_g": 0.13,
    "carbs_g": 4.85,
    "fiber_g": 1.93,
-   "sodium_mg": 2.0
+   "sodium_mg": 2.0,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -11129,7 +11142,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -12145,7 +12159,8 @@
    "fat_g": 0.2,
    "carbs_g": 2.86,
    "fiber_g": 1.1,
-   "sodium_mg": 4.0
+   "sodium_mg": 4.0,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -12182,7 +12197,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -16043,7 +16059,8 @@
    "fat_g": 0.32,
    "carbs_g": 2.75,
    "fiber_g": 0.52,
-   "sodium_mg": 3.0
+   "sodium_mg": 3.0,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -16081,7 +16098,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -17147,7 +17165,8 @@
    "fiber_g": 2.35,
    "sodium_mg": 1292.0,
    "sugar_g": 1.78,
-   "sat_fat_g": 0.03
+   "sat_fat_g": 0.03,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -17175,7 +17194,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -17343,7 +17363,8 @@
    "fiber_g": 3.15,
    "sodium_mg": 4.0,
    "sugar_g": 9.85,
-   "sat_fat_g": 0.01
+   "sat_fat_g": 0.01,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -17377,7 +17398,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -18115,7 +18137,8 @@
    "fat_g": 0.54,
    "carbs_g": 4.88,
    "fiber_g": 1.98,
-   "sodium_mg": 1.0
+   "sodium_mg": 1.0,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -18153,7 +18176,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -18328,7 +18352,8 @@
    "fiber_g": 2.16,
    "sodium_mg": 2.0,
    "sugar_g": 8.1,
-   "sat_fat_g": 0.03
+   "sat_fat_g": 0.03,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -18362,7 +18387,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -19003,7 +19029,8 @@
    "fiber_g": 1.59,
    "sodium_mg": 3.0,
    "sugar_g": 6.89,
-   "sat_fat_g": 0.02
+   "sat_fat_g": 0.02,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -19037,7 +19064,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -19893,7 +19921,8 @@
    "fiber_g": 1.7,
    "sodium_mg": 2.0,
    "sugar_g": 12.82,
-   "sat_fat_g": 0.04
+   "sat_fat_g": 0.04,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -19931,7 +19960,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -19960,7 +19990,8 @@
    "fiber_g": 2.73,
    "sodium_mg": 4.0,
    "sugar_g": 8.99,
-   "sat_fat_g": 0.03
+   "sat_fat_g": 0.03,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -19994,7 +20025,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -20402,7 +20434,8 @@
    "fiber_g": 1.54,
    "sodium_mg": 4.0,
    "sugar_g": 10.58,
-   "sat_fat_g": 0.04
+   "sat_fat_g": 0.04,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -20436,7 +20469,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -20697,7 +20731,8 @@
    "fiber_g": 10.21,
    "sodium_mg": 6.0,
    "sugar_g": 13.67,
-   "sat_fat_g": 0.12
+   "sat_fat_g": 0.12,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -20731,7 +20766,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -20808,7 +20844,8 @@
    "fiber_g": 0.11,
    "sodium_mg": 6.0,
    "sugar_g": 8.4,
-   "sat_fat_g": 0.02
+   "sat_fat_g": 0.02,
+   "free_sugar_g": 8.4
   },
   "common_servings": [
    {
@@ -20843,7 +20880,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "moderate"
   },
   "verification": {
    "status": "verified",
@@ -21693,7 +21731,8 @@
    "fiber_g": 3.34,
    "sodium_mg": 2.0,
    "sugar_g": 12.53,
-   "sat_fat_g": 0.02
+   "sat_fat_g": 0.02,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -21727,7 +21766,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -21962,7 +22002,8 @@
    "fiber_g": 1.7,
    "sodium_mg": 5.0,
    "sugar_g": 15.48,
-   "sat_fat_g": 0.05
+   "sat_fat_g": 0.05,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -22000,7 +22041,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -22479,7 +22521,8 @@
    "fiber_g": 3.16,
    "sodium_mg": 2.0,
    "sugar_g": 8.49,
-   "sat_fat_g": 0.07
+   "sat_fat_g": 0.07,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -22517,7 +22560,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -26751,7 +26795,8 @@
    "fiber_g": 10.48,
    "sodium_mg": 3.0,
    "sugar_g": 10.7,
-   "sat_fat_g": 0.6
+   "sat_fat_g": 0.6,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -26787,7 +26832,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": "legume",
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -27414,7 +27460,8 @@
    "fiber_g": 9.42,
    "sodium_mg": 59.0,
    "sugar_g": 47.92,
-   "sat_fat_g": 0.14
+   "sat_fat_g": 0.14,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -27452,7 +27499,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
@@ -29408,7 +29456,8 @@
    "fat_g": 0.0,
    "carbs_g": 58.7,
    "fiber_g": 0.47,
-   "sodium_mg": 9.0
+   "sodium_mg": 9.0,
+   "free_sugar_g": 74.72
   },
   "common_servings": [
    {
@@ -29440,7 +29489,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "treat"
   },
   "verification": {
    "status": "verified",
@@ -30808,7 +30858,8 @@
    "fiber_g": 1.8,
    "sodium_mg": 1733.0,
    "sugar_g": 1.06,
-   "sat_fat_g": 0.05
+   "sat_fat_g": 0.05,
+   "free_sugar_g": 0.0
   },
   "common_servings": [
    {
@@ -30836,7 +30887,8 @@
    "pairs_with": [],
    "starch_base": null,
    "protein_source": null,
-   "diet": "vegan"
+   "diet": "vegan",
+   "quality": "everyday"
   },
   "verification": {
    "status": "verified",
