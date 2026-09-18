@@ -20,10 +20,10 @@
       "checksum": "sha256:13d1bc26659dac132102bc5d47ed67a6cd270498d41e50f7460305d42af4284f"
     },
     "popular_tr": {
-      "version": "1.7.0",
-      "count": 470,
-      "updated_at": "2026-09-16",
-      "checksum": "sha256:f7371a6353560eafad6b92e2f296c4aa3117082e4f1139973492dc3c5f4e853b"
+      "version": "1.8.0",
+      "count": 484,
+      "updated_at": "2026-09-18",
+      "checksum": "sha256:3b53799f14d17a4c4543d26192d88ca26c577f4d859ecdf9fbfc7446c2cb1aff"
     },
     "community_tr": {
       "version": "1.0.1",
@@ -34,16 +34,16 @@
   },
   "exercises": {
     "main": {
-      "version": "1.1.0",
+      "version": "1.2.0",
       "count": 872,
-      "updated_at": "2026-08-13",
-      "checksum": "sha256:7e6a68ce662c8b6ad593e6269fcc8692ace7f3694c8e2b57e0ee309574378416"
+      "updated_at": "2026-09-18",
+      "checksum": "sha256:1264f941b2a7b259f1d366e6b7841f38a8c5a4e0ce0a7ec0f6a829f238a67d19"
     },
     "activities": {
-      "version": "1.1.0",
-      "count": 816,
-      "updated_at": "2026-08-13",
-      "checksum": "sha256:474c2cb93b6d04e2a25ea6604899455ee4f33d7edb855ca3bf664039f15b8209"
+      "version": "1.2.0",
+      "count": 818,
+      "updated_at": "2026-09-18",
+      "checksum": "sha256:8542c275b8d72cef7ac35548eb63570ba5e678984521d688a0a960ff7940d876"
     },
     "community": {
       "version": "1.0.2",
