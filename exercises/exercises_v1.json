@@ -45,7 +45,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "90_90_Hamstring",
@@ -92,7 +93,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Ab_Crunch_Machine",
@@ -139,7 +141,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Ab_Roller",
@@ -189,7 +192,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Adductor",
@@ -233,7 +237,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Adductor_Groin",
@@ -278,7 +283,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Advanced_Kettlebell_Windmill",
@@ -331,7 +337,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Air_Bike",
@@ -380,7 +387,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "All_Fours_Quad_Stretch",
@@ -426,7 +434,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Alternate_Hammer_Curl",
@@ -478,7 +487,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Alternate_Heel_Touchers",
@@ -526,7 +536,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Alternate_Incline_Dumbbell_Curl",
@@ -577,7 +588,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Alternate_Leg_Diagonal_Bound",
@@ -637,7 +651,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Alternating_Cable_Shoulder_Press",
@@ -688,7 +703,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Alternating_Deltoid_Raise",
@@ -736,7 +752,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Alternating_Floor_Press",
@@ -791,7 +808,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Alternating_Hang_Clean",
@@ -851,7 +869,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Alternating_Kettlebell_Press",
@@ -901,7 +920,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Alternating_Kettlebell_Row",
@@ -953,7 +973,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Alternating_Renegade_Row",
@@ -1011,7 +1032,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Ankle_Circles",
@@ -1054,7 +1076,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Ankle_On_The_Knee",
@@ -1098,7 +1121,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Anterior_Tibialis-SMR",
@@ -1141,7 +1165,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Anti-Gravity_Press",
@@ -1196,7 +1221,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Arm_Circles",
@@ -1243,7 +1269,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Arnold_Dumbbell_Press",
@@ -1295,7 +1322,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Around_The_Worlds",
@@ -1344,7 +1372,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Atlas_Stone_Trainer",
@@ -1403,7 +1432,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Atlas_Stones",
@@ -1472,7 +1502,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Axle_Deadlift",
@@ -1533,7 +1564,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Back_Flyes_-_With_Bands",
@@ -1587,7 +1619,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Backward_Drag",
@@ -1645,7 +1678,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Backward_Medicine_Ball_Throw",
@@ -1694,7 +1728,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Balance_Board",
@@ -1744,7 +1779,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Ball_Leg_Curl",
@@ -1797,7 +1833,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Band_Assisted_Pull-Up",
@@ -1852,7 +1889,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "pullup_bar"
+  ]
  },
  {
   "id": "Band_Good_Morning",
@@ -1904,7 +1944,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Band_Good_Morning_Pull_Through",
@@ -1956,7 +1997,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Band_Hip_Adductions",
@@ -2005,7 +2047,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Band_Pull_Apart",
@@ -2057,7 +2100,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Band_Skull_Crusher",
@@ -2103,7 +2147,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Barbell_Ab_Rollout",
@@ -2156,7 +2203,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Barbell_Ab_Rollout_-_On_Knees",
@@ -2208,7 +2256,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Barbell_Bench_Press_-_Medium_Grip",
@@ -2262,7 +2311,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Barbell_Curl",
@@ -2313,7 +2365,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Barbell_Curls_Lying_Against_An_Incline",
@@ -2361,7 +2414,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Barbell_Deadlift",
@@ -2427,7 +2483,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Barbell_Full_Squat",
@@ -2487,7 +2544,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Barbell_Glute_Bridge",
@@ -2539,7 +2597,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Barbell_Guillotine_Bench_Press",
@@ -2593,7 +2652,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Barbell_Hack_Squat",
@@ -2649,7 +2711,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Barbell_Hip_Thrust",
@@ -2701,7 +2764,10 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Barbell_Incline_Bench_Press_-_Medium_Grip",
@@ -2755,7 +2821,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Barbell_Incline_Shoulder_Raise",
@@ -2805,7 +2874,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Barbell_Lunge",
@@ -2863,7 +2935,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Barbell_Rear_Delt_Row",
@@ -2919,7 +2992,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Barbell_Rollout_from_Bench",
@@ -2974,7 +3048,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Barbell_Seated_Calf_Raise",
@@ -3023,7 +3100,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Barbell_Shoulder_Press",
@@ -3077,7 +3155,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Barbell_Shrug",
@@ -3124,7 +3203,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Barbell_Shrug_Behind_The_Back",
@@ -3176,7 +3256,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Barbell_Side_Bend",
@@ -3226,7 +3307,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Barbell_Side_Split_Squat",
@@ -3283,7 +3365,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Barbell_Squat",
@@ -3343,7 +3426,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Barbell_Squat_To_A_Bench",
@@ -3404,7 +3488,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Barbell_Step_Ups",
@@ -3462,7 +3547,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Barbell_Walking_Lunge",
@@ -3519,7 +3605,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Battling_Ropes",
@@ -3572,7 +3659,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Bear_Crawl_Sled_Drags",
@@ -3626,7 +3714,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Behind_Head_Chest_Stretch",
@@ -3674,7 +3763,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Bench_Dips",
@@ -3727,7 +3817,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Bench_Jump",
@@ -3784,7 +3875,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Bench_Press_-_Powerlifting",
@@ -3841,7 +3935,10 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Bench_Press_-_With_Bands",
@@ -3897,7 +3994,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Bench_Press_with_Chains",
@@ -3952,7 +4052,10 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Bench_Sprint",
@@ -4008,7 +4111,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Bent-Arm_Barbell_Pullover",
@@ -4065,7 +4171,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Bent-Arm_Dumbbell_Pullover",
@@ -4122,7 +4231,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Bent-Knee_Hip_Raise",
@@ -4170,7 +4282,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Bent_Over_Barbell_Row",
@@ -4225,7 +4338,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
@@ -4273,7 +4387,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Bent_Over_Low-Pulley_Side_Lateral",
@@ -4328,7 +4445,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Bent_Over_One-Arm_Long_Bar_Row",
@@ -4387,7 +4505,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Bent_Over_Two-Arm_Long_Bar_Row",
@@ -4442,7 +4561,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Bent_Over_Two-Dumbbell_Row",
@@ -4497,7 +4617,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Bent_Over_Two-Dumbbell_Row_With_Palms_In",
@@ -4550,7 +4671,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Bent_Press",
@@ -4609,7 +4731,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Bicycling",
@@ -4655,7 +4778,8 @@
   "joint_stress": [],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "01014"
+  "compendium_code": "01014",
+  "requires": []
  },
  {
   "id": "Bicycling_Stationary",
@@ -4705,7 +4829,8 @@
   "joint_stress": [],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "01200"
+  "compendium_code": "01200",
+  "requires": []
  },
  {
   "id": "Board_Press",
@@ -4762,7 +4887,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Body-Up",
@@ -4814,7 +4940,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Body_Tricep_Press",
@@ -4862,7 +4989,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Bodyweight_Flyes",
@@ -4917,7 +5045,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Bodyweight_Mid_Row",
@@ -4969,7 +5100,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Bodyweight_Squat",
@@ -5021,7 +5153,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Bodyweight_Walking_Lunge",
@@ -5077,7 +5210,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Bosu_Ball_Cable_Crunch_With_Side_Bends",
@@ -5130,7 +5264,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Bottoms-Up_Clean_From_The_Hang_Position",
@@ -5181,7 +5316,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Bottoms_Up",
@@ -5227,7 +5363,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Box_Jump_Multiple_Response",
@@ -5286,7 +5423,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Box_Skip",
@@ -5346,7 +5484,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Box_Squat",
@@ -5407,7 +5546,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Box_Squat_with_Bands",
@@ -5470,7 +5610,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Box_Squat_with_Chains",
@@ -5534,7 +5675,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Brachialis-SMR",
@@ -5577,7 +5719,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Bradford_Rocky_Presses",
@@ -5630,7 +5773,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Butt-Ups",
@@ -5678,7 +5822,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Butt_Lift_Bridge",
@@ -5727,7 +5872,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Butterfly",
@@ -5775,7 +5921,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Chest_Press",
@@ -5828,7 +5975,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Crossover",
@@ -5880,7 +6028,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Crunch",
@@ -5929,7 +6078,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Deadlifts",
@@ -5986,7 +6136,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Cable_Hammer_Curls_-_Rope_Attachment",
@@ -6037,7 +6188,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Hip_Adduction",
@@ -6087,7 +6239,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Incline_Pushdown",
@@ -6135,7 +6288,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Incline_Triceps_Extension",
@@ -6184,7 +6338,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Internal_Rotation",
@@ -6232,7 +6387,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Iron_Cross",
@@ -6280,7 +6436,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Judo_Flip",
@@ -6328,7 +6485,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Lying_Triceps_Extension",
@@ -6376,7 +6534,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_One_Arm_Tricep_Extension",
@@ -6425,7 +6584,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Preacher_Curl",
@@ -6478,7 +6638,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Rear_Delt_Fly",
@@ -6525,7 +6686,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Reverse_Crunch",
@@ -6574,7 +6736,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Rope_Overhead_Triceps_Extension",
@@ -6622,7 +6785,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Rope_Rear-Delt_Rows",
@@ -6677,7 +6841,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Russian_Twists",
@@ -6727,7 +6892,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Seated_Crunch",
@@ -6775,7 +6941,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Seated_Lateral_Raise",
@@ -6830,7 +6997,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Shoulder_Press",
@@ -6881,7 +7049,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Shrugs",
@@ -6929,7 +7098,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cable_Wrist_Curl",
@@ -6978,7 +7148,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Calf-Machine_Shoulder_Shrug",
@@ -7025,7 +7196,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Calf_Press",
@@ -7072,7 +7244,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Calf_Press_On_The_Leg_Press_Machine",
@@ -7120,7 +7293,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Calf_Raise_On_A_Dumbbell",
@@ -7168,7 +7342,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Calf_Raises_-_With_Bands",
@@ -7216,7 +7391,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Calf_Stretch_Elbows_Against_Wall",
@@ -7260,7 +7436,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Calf_Stretch_Hands_Against_Wall",
@@ -7304,7 +7481,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Calves-SMR",
@@ -7347,7 +7525,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Car_Deadlift",
@@ -7406,7 +7585,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Car_Drivers",
@@ -7456,7 +7636,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Carioca_Quick_Step",
@@ -7517,7 +7698,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Cat_Stretch",
@@ -7566,7 +7748,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Catch_and_Overhead_Throw",
@@ -7620,7 +7803,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Chain_Handle_Extension",
@@ -7666,7 +7850,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Chain_Press",
@@ -7718,7 +7903,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Chair_Leg_Extended_Stretch",
@@ -7766,7 +7952,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Chair_Lower_Back_Stretch",
@@ -7813,7 +8000,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Chair_Squat",
@@ -7870,7 +8058,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Chair_Upper_Body_Stretch",
@@ -7918,7 +8107,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Chest_And_Front_Of_Shoulder_Stretch",
@@ -7965,7 +8155,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Chest_Push_from_3_point_stance",
@@ -8019,7 +8210,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Chest_Push_multiple_response",
@@ -8074,7 +8266,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Chest_Push_single_response",
@@ -8128,7 +8321,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Chest_Push_with_Run_Release",
@@ -8182,7 +8376,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Chest_Stretch_on_Stability_Ball",
@@ -8226,7 +8421,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Childs_Pose",
@@ -8275,7 +8471,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Chin-Up",
@@ -8331,7 +8528,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "pullup_bar"
+  ]
  },
  {
   "id": "Chin_To_Chest_Stretch",
@@ -8377,7 +8577,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Circus_Bell",
@@ -8435,7 +8636,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Clean",
@@ -8499,7 +8701,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Clean_Deadlift",
@@ -8559,7 +8762,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Clean_Pull",
@@ -8616,7 +8820,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Clean_Shrug",
@@ -8666,7 +8871,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Clean_and_Jerk",
@@ -8733,7 +8939,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Clean_and_Press",
@@ -8803,7 +9010,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Clean_from_Blocks",
@@ -8861,7 +9069,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Clock_Push-Up",
@@ -8915,7 +9124,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Close-Grip_Barbell_Bench_Press",
@@ -8969,7 +9179,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Close-Grip_Dumbbell_Press",
@@ -9022,7 +9235,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Close-Grip_EZ-Bar_Curl_with_Band",
@@ -9072,7 +9286,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Close-Grip_EZ-Bar_Press",
@@ -9125,7 +9340,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Close-Grip_EZ_Bar_Curl",
@@ -9176,7 +9392,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Close-Grip_Front_Lat_Pulldown",
@@ -9233,7 +9450,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Close-Grip_Push-Up_off_of_a_Dumbbell",
@@ -9287,7 +9505,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Close-Grip_Standing_Barbell_Curl",
@@ -9337,7 +9556,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cocoons",
@@ -9382,7 +9602,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Conans_Wheel",
@@ -9441,7 +9662,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Concentration_Curls",
@@ -9492,7 +9714,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cross-Body_Crunch",
@@ -9540,7 +9763,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Cross_Body_Hammer_Curl",
@@ -9590,7 +9814,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Cross_Over_-_With_Bands",
@@ -9644,7 +9869,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Crossover_Reverse_Lunge",
@@ -9698,7 +9924,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Crucifix",
@@ -9743,7 +9970,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Crunch_-_Hands_Overhead",
@@ -9791,7 +10019,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Crunch_-_Legs_On_Exercise_Ball",
@@ -9841,7 +10070,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Crunches",
@@ -9890,7 +10120,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Cuban_Press",
@@ -9942,7 +10173,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dancers_Stretch",
@@ -9992,7 +10224,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Dead_Bug",
@@ -10042,7 +10275,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Deadlift_with_Bands",
@@ -10101,7 +10335,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Deadlift_with_Chains",
@@ -10161,7 +10396,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Decline_Barbell_Bench_Press",
@@ -10216,7 +10452,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Decline_Close-Grip_Bench_To_Skull_Crusher",
@@ -10272,7 +10511,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Decline_Crunch",
@@ -10321,7 +10563,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Decline_Dumbbell_Bench_Press",
@@ -10376,7 +10621,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Decline_Dumbbell_Flyes",
@@ -10424,7 +10672,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Decline_Dumbbell_Triceps_Extension",
@@ -10472,7 +10723,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Decline_EZ_Bar_Triceps_Extension",
@@ -10520,7 +10774,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Decline_Oblique_Crunch",
@@ -10569,7 +10826,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Decline_Push-Up",
@@ -10622,7 +10882,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Decline_Reverse_Crunch",
@@ -10670,7 +10931,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Decline_Smith_Press",
@@ -10724,7 +10988,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Deficit_Deadlift",
@@ -10784,7 +11049,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Depth_Jump_Leap",
@@ -10844,7 +11110,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Dip_Machine",
@@ -10898,7 +11165,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dips_-_Chest_Version",
@@ -10951,7 +11219,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "dip_station"
+  ]
  },
  {
   "id": "Dips_-_Triceps_Version",
@@ -11004,7 +11275,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "dip_station"
+  ]
  },
  {
   "id": "Donkey_Calf_Raises",
@@ -11052,7 +11326,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Double_Kettlebell_Alternating_Hang_Clean",
@@ -11114,7 +11389,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Double_Kettlebell_Jerk",
@@ -11172,7 +11448,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Double_Kettlebell_Push_Press",
@@ -11226,7 +11503,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Double_Kettlebell_Snatch",
@@ -11280,7 +11558,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Double_Kettlebell_Windmill",
@@ -11336,7 +11615,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Double_Leg_Butt_Kick",
@@ -11396,7 +11676,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Downward_Facing_Balance",
@@ -11446,7 +11727,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Drag_Curl",
@@ -11496,7 +11778,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Drop_Push",
@@ -11548,7 +11831,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Dumbbell_Alternate_Bicep_Curl",
@@ -11599,7 +11883,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_Bench_Press",
@@ -11653,7 +11938,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Dumbbell_Bench_Press_with_Neutral_Grip",
@@ -11706,7 +11994,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Dumbbell_Bicep_Curl",
@@ -11756,7 +12047,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_Clean",
@@ -11820,7 +12112,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_Floor_Press",
@@ -11872,7 +12165,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Dumbbell_Flyes",
@@ -11920,7 +12214,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Dumbbell_Incline_Row",
@@ -11977,7 +12274,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Dumbbell_Incline_Shoulder_Raise",
@@ -12028,7 +12328,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Dumbbell_Lunges",
@@ -12084,7 +12387,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise",
@@ -12135,7 +12439,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Dumbbell_Lying_Pronation",
@@ -12184,7 +12491,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Dumbbell_Lying_Rear_Lateral_Raise",
@@ -12232,7 +12542,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Dumbbell_Lying_Supination",
@@ -12281,7 +12594,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Dumbbell_One-Arm_Shoulder_Press",
@@ -12334,7 +12650,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_One-Arm_Triceps_Extension",
@@ -12383,7 +12700,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_One-Arm_Upright_Row",
@@ -12436,7 +12754,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_Prone_Incline_Curl",
@@ -12485,7 +12804,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Dumbbell_Raise",
@@ -12535,7 +12857,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_Rear_Lunge",
@@ -12592,7 +12915,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_Scaption",
@@ -12641,7 +12965,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_Seated_Box_Jump",
@@ -12697,7 +13022,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Dumbbell_Seated_One-Leg_Calf_Raise",
@@ -12746,7 +13072,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_Shoulder_Press",
@@ -12799,7 +13126,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_Shrug",
@@ -12846,7 +13174,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_Side_Bend",
@@ -12893,7 +13222,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_Squat",
@@ -12951,7 +13281,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Dumbbell_Squat_To_A_Bench",
@@ -13009,7 +13340,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Dumbbell_Step_Ups",
@@ -13065,7 +13397,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dumbbell_Tricep_Extension_-Pronated_Grip",
@@ -13112,7 +13445,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Dynamic_Back_Stretch",
@@ -13155,7 +13489,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Dynamic_Chest_Stretch",
@@ -13201,7 +13536,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "EZ-Bar_Curl",
@@ -13249,7 +13585,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "EZ-Bar_Skullcrusher",
@@ -13299,7 +13636,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Elbow_Circles",
@@ -13346,7 +13686,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Elbow_to_Knee",
@@ -13392,7 +13733,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Elbows_Back",
@@ -13439,7 +13781,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Elevated_Back_Lunge",
@@ -13494,7 +13837,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Elevated_Cable_Rows",
@@ -13550,7 +13894,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Elliptical_Trainer",
@@ -13600,7 +13945,8 @@
   "joint_stress": [],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02048"
+  "compendium_code": "02048",
+  "requires": []
  },
  {
   "id": "Exercise_Ball_Crunch",
@@ -13648,7 +13994,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Exercise_Ball_Pull-In",
@@ -13696,7 +14043,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Extended_Range_One-Arm_Kettlebell_Floor_Press",
@@ -13743,7 +14091,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "External_Rotation",
@@ -13792,7 +14141,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "External_Rotation_with_Band",
@@ -13840,7 +14190,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "External_Rotation_with_Cable",
@@ -13887,7 +14238,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Face_Pull",
@@ -13934,7 +14286,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Farmers_Walk",
@@ -13995,7 +14348,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Fast_Skipping",
@@ -14054,7 +14408,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Finger_Curls",
@@ -14101,7 +14456,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Flat_Bench_Cable_Flyes",
@@ -14151,7 +14507,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Flat_Bench_Leg_Pull-In",
@@ -14199,7 +14556,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Flat_Bench_Lying_Leg_Raise",
@@ -14246,7 +14606,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Flexor_Incline_Dumbbell_Curls",
@@ -14295,7 +14658,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Floor_Glute-Ham_Raise",
@@ -14347,7 +14713,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Floor_Press",
@@ -14399,7 +14766,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Floor_Press_with_Chains",
@@ -14452,7 +14820,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Flutter_Kicks",
@@ -14503,7 +14872,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Foot-SMR",
@@ -14546,7 +14916,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Forward_Drag_with_Press",
@@ -14606,7 +14977,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Frankenstein_Squat",
@@ -14663,7 +15035,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Freehand_Jump_Squat",
@@ -14720,7 +15093,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Frog_Hops",
@@ -14769,7 +15143,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Frog_Sit-Ups",
@@ -14818,7 +15193,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Front_Barbell_Squat",
@@ -14876,7 +15252,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Front_Barbell_Squat_To_A_Bench",
@@ -14934,7 +15311,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Front_Box_Jump",
@@ -14994,7 +15372,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Front_Cable_Raise",
@@ -15042,7 +15421,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Front_Cone_Hops_or_hurdle_hops",
@@ -15103,7 +15483,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Front_Dumbbell_Raise",
@@ -15150,7 +15531,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Front_Incline_Dumbbell_Raise",
@@ -15197,7 +15579,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Front_Leg_Raises",
@@ -15239,7 +15624,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Front_Plate_Raise",
@@ -15285,7 +15671,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Front_Raise_And_Pullover",
@@ -15340,7 +15727,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Front_Squat_Clean_Grip",
@@ -15396,7 +15786,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Front_Squats_With_Two_Kettlebells",
@@ -15448,7 +15839,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Front_Two-Dumbbell_Raise",
@@ -15494,7 +15886,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Full_Range-Of-Motion_Lat_Pulldown",
@@ -15547,7 +15940,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Gironda_Sternum_Chins",
@@ -15602,7 +15996,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Glute_Ham_Raise",
@@ -15654,7 +16049,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Glute_Kickback",
@@ -15704,7 +16100,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Goblet_Squat",
@@ -15757,7 +16154,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Good_Morning",
@@ -15811,7 +16209,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Good_Morning_off_Pins",
@@ -15863,7 +16262,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Gorilla_Chin_Crunch",
@@ -15916,7 +16316,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Groin_and_Back_Stretch",
@@ -15959,7 +16360,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Groiners",
@@ -16002,7 +16404,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Hack_Squat",
@@ -16059,7 +16462,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Hammer_Curls",
@@ -16107,7 +16511,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Hammer_Grip_Incline_DB_Bench_Press",
@@ -16162,7 +16567,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Hamstring-SMR",
@@ -16205,7 +16613,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Hamstring_Stretch",
@@ -16248,7 +16657,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Handstand_Push-Ups",
@@ -16299,7 +16709,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Hang_Clean",
@@ -16361,7 +16772,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Hang_Clean_-_Below_the_Knees",
@@ -16423,7 +16835,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Hang_Snatch",
@@ -16488,7 +16901,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Hang_Snatch_-_Below_Knees",
@@ -16552,7 +16966,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Hanging_Bar_Good_Morning",
@@ -16606,7 +17021,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Hanging_Leg_Raise",
@@ -16653,7 +17069,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "pullup_bar"
+  ]
  },
  {
   "id": "Hanging_Pike",
@@ -16700,7 +17119,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "pullup_bar"
+  ]
  },
  {
   "id": "Heaving_Snatch_Balance",
@@ -16754,7 +17176,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Heavy_Bag_Thrust",
@@ -16807,7 +17230,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "High_Cable_Curls",
@@ -16854,7 +17278,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Hip_Circles_prone",
@@ -16901,7 +17326,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Hip_Extension_with_Bands",
@@ -16951,7 +17377,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Hip_Flexion_with_Band",
@@ -16998,7 +17425,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Hip_Lift_with_Band",
@@ -17051,7 +17479,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Hug_A_Ball",
@@ -17099,7 +17528,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Hug_Knees_To_Chest",
@@ -17146,7 +17576,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Hurdle_Hops",
@@ -17204,7 +17635,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Hyperextensions_Back_Extensions",
@@ -17258,7 +17690,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Hyperextensions_With_No_Hyperextension_Bench",
@@ -17312,7 +17745,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "IT_Band_and_Glute_Stretch",
@@ -17354,7 +17788,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Iliotibial_Tract-SMR",
@@ -17398,7 +17833,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Inchworm",
@@ -17443,7 +17879,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Incline_Barbell_Triceps_Extension",
@@ -17495,7 +17932,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Incline_Bench_Pull",
@@ -17550,7 +17990,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Incline_Cable_Chest_Press",
@@ -17602,7 +18045,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Incline_Cable_Flye",
@@ -17654,7 +18098,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Incline_Dumbbell_Bench_With_Palms_Facing_In",
@@ -17710,7 +18155,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Incline_Dumbbell_Curl",
@@ -17757,7 +18205,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Incline_Dumbbell_Flyes",
@@ -17809,7 +18260,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Incline_Dumbbell_Flyes_-_With_A_Twist",
@@ -17861,7 +18315,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Incline_Dumbbell_Press",
@@ -17917,7 +18374,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Incline_Hammer_Curls",
@@ -17963,7 +18423,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Incline_Inner_Biceps_Curl",
@@ -18011,7 +18474,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Incline_Push-Up",
@@ -18063,7 +18529,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Incline_Push-Up_Close-Grip",
@@ -18117,7 +18584,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Incline_Push-Up_Depth_Jump",
@@ -18170,7 +18638,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Incline_Push-Up_Medium",
@@ -18226,7 +18697,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Incline_Push-Up_Reverse_Grip",
@@ -18282,7 +18754,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Incline_Push-Up_Wide",
@@ -18338,7 +18811,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Intermediate_Groin_Stretch",
@@ -18381,7 +18855,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Intermediate_Hip_Flexor_and_Quad_Stretch",
@@ -18424,7 +18899,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Internal_Rotation_with_Band",
@@ -18472,7 +18948,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Inverted_Row",
@@ -18524,7 +19001,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Inverted_Row_with_Straps",
@@ -18577,7 +19055,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Iron_Cross",
@@ -18632,7 +19111,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Iron_Crosses_stretch",
@@ -18676,7 +19156,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Isometric_Chest_Squeezes",
@@ -18730,7 +19211,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Isometric_Neck_Exercise_-_Front_And_Back",
@@ -18778,7 +19260,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Isometric_Neck_Exercise_-_Sides",
@@ -18826,7 +19309,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Isometric_Wipers",
@@ -18881,7 +19365,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "JM_Press",
@@ -18935,7 +19420,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Jackknife_Sit-Up",
@@ -18982,7 +19468,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Janda_Sit-Up",
@@ -19029,7 +19516,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Jefferson_Squats",
@@ -19093,7 +19581,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Jerk_Balance",
@@ -19149,7 +19638,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Jerk_Dip_Squat",
@@ -19201,7 +19691,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Jogging_Treadmill",
@@ -19249,7 +19740,8 @@
   "joint_stress": [],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "12020"
+  "compendium_code": "12020",
+  "requires": []
  },
  {
   "id": "Keg_Load",
@@ -19318,7 +19810,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Kettlebell_Arnold_Press",
@@ -19368,7 +19861,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kettlebell_Dead_Clean",
@@ -19426,7 +19920,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kettlebell_Figure_8",
@@ -19476,7 +19971,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kettlebell_Hang_Clean",
@@ -19534,7 +20030,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kettlebell_One-Legged_Deadlift",
@@ -19586,7 +20083,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Kettlebell_Pass_Between_The_Legs",
@@ -19638,7 +20136,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kettlebell_Pirate_Ships",
@@ -19688,7 +20187,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kettlebell_Pistol_Squat",
@@ -19745,7 +20245,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Kettlebell_Seated_Press",
@@ -19795,7 +20296,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kettlebell_Seesaw_Press",
@@ -19844,7 +20346,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kettlebell_Sumo_High_Pull",
@@ -19900,7 +20403,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kettlebell_Thruster",
@@ -19953,7 +20457,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kettlebell_Turkish_Get-Up_Lunge_style",
@@ -20010,7 +20515,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kettlebell_Turkish_Get-Up_Squat_style",
@@ -20068,7 +20574,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Kettlebell_Windmill",
@@ -20123,7 +20630,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kipping_Muscle_Up",
@@ -20187,7 +20695,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "pullup_bar"
+  ]
  },
  {
   "id": "Knee_Across_The_Body",
@@ -20234,7 +20745,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Knee_Circles",
@@ -20282,7 +20794,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Knee_Hip_Raise_On_Parallel_Bars",
@@ -20330,7 +20843,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Knee_Tuck_Jump",
@@ -20389,7 +20903,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Kneeling_Arm_Drill",
@@ -20438,7 +20953,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists",
@@ -20490,7 +21006,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kneeling_Cable_Triceps_Extension",
@@ -20540,7 +21057,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kneeling_Forearm_Stretch",
@@ -20582,7 +21100,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Kneeling_High_Pulley_Row",
@@ -20634,7 +21153,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kneeling_Hip_Flexor",
@@ -20678,7 +21198,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Kneeling_Jump_Squat",
@@ -20734,7 +21255,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Kneeling_Single-Arm_High_Pulley_Row",
@@ -20787,7 +21309,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Kneeling_Squat",
@@ -20842,7 +21365,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Landmine_180s",
@@ -20897,7 +21421,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Landmine_Linear_Jammer",
@@ -20959,7 +21484,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Lateral_Bound",
@@ -21020,7 +21546,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Lateral_Box_Jump",
@@ -21081,7 +21608,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Lateral_Cone_Hops",
@@ -21141,7 +21669,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Lateral_Raise_-_With_Bands",
@@ -21188,7 +21717,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Latissimus_Dorsi-SMR",
@@ -21231,7 +21761,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Leg-Over_Floor_Press",
@@ -21283,7 +21814,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Leg-Up_Hamstring_Stretch",
@@ -21327,7 +21859,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Leg_Extensions",
@@ -21374,7 +21907,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Leg_Lift",
@@ -21425,7 +21959,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Leg_Press",
@@ -21481,7 +22016,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Leg_Pull-In",
@@ -21528,7 +22064,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Leverage_Chest_Press",
@@ -21581,7 +22118,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Leverage_Deadlift",
@@ -21632,7 +22170,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Leverage_Decline_Chest_Press",
@@ -21684,7 +22223,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Leverage_High_Row",
@@ -21735,7 +22275,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Leverage_Incline_Chest_Press",
@@ -21787,7 +22328,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Leverage_Iso_Row",
@@ -21839,7 +22381,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Leverage_Shoulder_Press",
@@ -21889,7 +22432,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Leverage_Shrug",
@@ -21941,7 +22485,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Linear_3-Part_Start_Technique",
@@ -21994,7 +22539,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Linear_Acceleration_Wall_Drill",
@@ -22049,7 +22595,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Linear_Depth_Jump",
@@ -22104,7 +22651,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Log_Lift",
@@ -22169,7 +22717,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "London_Bridges",
@@ -22223,7 +22772,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Looking_At_Ceiling",
@@ -22265,7 +22815,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Low_Cable_Crossover",
@@ -22315,7 +22866,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Low_Cable_Triceps_Extension",
@@ -22363,7 +22915,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Low_Pulley_Row_To_Neck",
@@ -22418,7 +22971,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Lower_Back-SMR",
@@ -22460,7 +23014,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Lower_Back_Curl",
@@ -22503,7 +23058,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Lunge_Pass_Through",
@@ -22559,7 +23115,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Lunge_Sprint",
@@ -22614,7 +23171,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Lying_Bent_Leg_Groin",
@@ -22657,7 +23215,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Lying_Cable_Curl",
@@ -22705,7 +23264,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Lying_Cambered_Barbell_Row",
@@ -22759,7 +23319,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley",
@@ -22808,7 +23371,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head",
@@ -22856,7 +23420,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin",
@@ -22903,7 +23470,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Lying_Crossover",
@@ -22947,7 +23517,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Lying_Dumbbell_Tricep_Extension",
@@ -22998,7 +23569,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Lying_Face_Down_Plate_Neck_Resistance",
@@ -23044,7 +23618,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Lying_Face_Up_Plate_Neck_Resistance",
@@ -23090,7 +23667,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Lying_Glute",
@@ -23137,7 +23717,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Lying_Hamstring",
@@ -23183,7 +23764,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Lying_High_Bench_Barbell_Curl",
@@ -23229,7 +23811,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Lying_Leg_Curls",
@@ -23276,7 +23861,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Lying_Machine_Squat",
@@ -23332,7 +23918,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Lying_One-Arm_Lateral_Raise",
@@ -23379,7 +23966,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Lying_Prone_Quadriceps",
@@ -23423,7 +24013,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Lying_Rear_Delt_Raise",
@@ -23470,7 +24061,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Lying_Supine_Dumbbell_Curl",
@@ -23517,7 +24111,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Lying_T-Bar_Row",
@@ -23571,7 +24168,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Lying_Triceps_Press",
@@ -23619,7 +24217,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Machine_Bench_Press",
@@ -23675,7 +24276,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Machine_Bicep_Curl",
@@ -23722,7 +24324,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Machine_Preacher_Curls",
@@ -23769,7 +24372,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Machine_Shoulder_Military_Press",
@@ -23820,7 +24424,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Machine_Triceps_Extension",
@@ -23867,7 +24472,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Medicine_Ball_Chest_Pass",
@@ -23920,7 +24526,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Medicine_Ball_Full_Twist",
@@ -23969,7 +24576,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Medicine_Ball_Scoop_Throw",
@@ -24023,7 +24631,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Middle_Back_Shrug",
@@ -24069,7 +24678,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Middle_Back_Stretch",
@@ -24118,7 +24728,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Mixed_Grip_Chin",
@@ -24171,7 +24782,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Monster_Walk",
@@ -24216,7 +24828,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Mountain_Climbers",
@@ -24267,7 +24880,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Moving_Claw_Series",
@@ -24319,7 +24933,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Muscle_Snatch",
@@ -24376,7 +24991,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Muscle_Up",
@@ -24438,7 +25054,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "pullup_bar"
+  ]
  },
  {
   "id": "Narrow_Stance_Hack_Squats",
@@ -24495,7 +25114,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Narrow_Stance_Leg_Press",
@@ -24550,7 +25170,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Narrow_Stance_Squats",
@@ -24609,7 +25230,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Natural_Glute_Ham_Raise",
@@ -24663,7 +25285,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Neck-SMR",
@@ -24705,7 +25328,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Neck_Press",
@@ -24758,7 +25382,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Oblique_Crunches",
@@ -24807,7 +25432,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Oblique_Crunches_-_On_The_Floor",
@@ -24854,7 +25480,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Olympic_Squat",
@@ -24908,7 +25535,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "On-Your-Back_Quad_Stretch",
@@ -24953,7 +25581,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "On_Your_Side_Quad_Stretch",
@@ -24995,7 +25624,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "One-Arm_Dumbbell_Row",
@@ -25054,7 +25684,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Flat_Bench_Dumbbell_Flye",
@@ -25103,7 +25734,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "One-Arm_High-Pulley_Cable_Side_Bends",
@@ -25153,7 +25787,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Incline_Lateral_Raise",
@@ -25201,7 +25836,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "One-Arm_Kettlebell_Clean",
@@ -25255,7 +25893,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Kettlebell_Clean_and_Jerk",
@@ -25303,7 +25942,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Kettlebell_Floor_Press",
@@ -25352,7 +25992,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Kettlebell_Jerk",
@@ -25405,7 +26046,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Kettlebell_Military_Press_To_The_Side",
@@ -25453,7 +26095,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Kettlebell_Para_Press",
@@ -25501,7 +26144,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Kettlebell_Push_Press",
@@ -25553,7 +26197,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Kettlebell_Row",
@@ -25602,7 +26247,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Kettlebell_Snatch",
@@ -25660,7 +26306,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Kettlebell_Split_Jerk",
@@ -25717,7 +26364,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Kettlebell_Split_Snatch",
@@ -25769,7 +26417,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Kettlebell_Swings",
@@ -25824,7 +26473,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02058"
+  "compendium_code": "02058",
+  "requires": []
  },
  {
   "id": "One-Arm_Long_Bar_Row",
@@ -25877,7 +26527,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Medicine_Ball_Slam",
@@ -25928,7 +26579,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Open_Palm_Kettlebell_Clean",
@@ -25987,7 +26639,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Arm_Overhead_Kettlebell_Squats",
@@ -26043,7 +26696,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "One-Arm_Side_Deadlift",
@@ -26107,7 +26761,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "One-Arm_Side_Laterals",
@@ -26157,7 +26812,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One-Legged_Cable_Kickback",
@@ -26210,7 +26866,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One_Arm_Against_Wall",
@@ -26252,7 +26909,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "One_Arm_Chin-Up",
@@ -26310,7 +26968,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "pullup_bar"
+  ]
  },
  {
   "id": "One_Arm_Dumbbell_Bench_Press",
@@ -26366,7 +27027,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "One_Arm_Dumbbell_Preacher_Curl",
@@ -26415,7 +27079,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "One_Arm_Floor_Press",
@@ -26472,7 +27139,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One_Arm_Lat_Pulldown",
@@ -26525,7 +27193,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One_Arm_Pronated_Dumbbell_Triceps_Extension",
@@ -26574,7 +27243,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One_Arm_Supinated_Dumbbell_Triceps_Extension",
@@ -26623,7 +27293,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "One_Half_Locust",
@@ -26674,7 +27345,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "One_Handed_Hang",
@@ -26718,7 +27390,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "One_Knee_To_Chest",
@@ -26767,7 +27440,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "One_Leg_Barbell_Squat",
@@ -26827,7 +27501,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Open_Palm_Kettlebell_Clean",
@@ -26882,7 +27557,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Otis-Up",
@@ -26936,7 +27612,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Overhead_Cable_Curl",
@@ -26986,7 +27663,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Overhead_Lat",
@@ -27032,7 +27710,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Overhead_Slam",
@@ -27080,7 +27759,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Overhead_Squat",
@@ -27145,7 +27825,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Overhead_Stretch",
@@ -27196,7 +27877,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Overhead_Triceps",
@@ -27242,7 +27924,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Pallof_Press",
@@ -27297,7 +27980,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Pallof_Press_With_Rotation",
@@ -27355,7 +28039,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench",
@@ -27404,7 +28089,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Palms-Down_Wrist_Curl_Over_A_Bench",
@@ -27453,7 +28141,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench",
@@ -27502,7 +28193,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench",
@@ -27551,7 +28245,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Parallel_Bar_Dip",
@@ -27603,7 +28300,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "dip_station"
+  ]
  },
  {
   "id": "Pelvic_Tilt_Into_Bridge",
@@ -27646,7 +28346,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Peroneals-SMR",
@@ -27688,7 +28389,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Peroneals_Stretch",
@@ -27730,7 +28432,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Physioball_Hip_Bridge",
@@ -27779,7 +28482,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Pin_Presses",
@@ -27839,7 +28543,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Piriformis-SMR",
@@ -27881,7 +28586,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Plank",
@@ -27925,7 +28631,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Plate_Pinch",
@@ -27972,7 +28679,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Plate_Twist",
@@ -28021,7 +28729,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Platform_Hamstring_Slides",
@@ -28070,7 +28779,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Plie_Dumbbell_Squat",
@@ -28128,7 +28838,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Plyo_Kettlebell_Pushups",
@@ -28180,7 +28891,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Plyo_Push-up",
@@ -28235,7 +28947,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Posterior_Tibialis_Stretch",
@@ -28277,7 +28990,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Power_Clean",
@@ -28364,7 +29078,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Power_Clean_from_Blocks",
@@ -28415,7 +29130,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Power_Jerk",
@@ -28476,7 +29192,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Power_Partials",
@@ -28523,7 +29240,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Power_Snatch",
@@ -28586,7 +29304,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Power_Snatch_from_Blocks",
@@ -28651,7 +29370,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Power_Stairs",
@@ -28713,7 +29433,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Preacher_Curl",
@@ -28762,7 +29483,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Preacher_Hammer_Dumbbell_Curl",
@@ -28811,7 +29535,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Press_Sit-Up",
@@ -28864,7 +29591,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Prone_Manual_Hamstring",
@@ -28909,7 +29637,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Prowler_Sprint",
@@ -28963,7 +29692,8 @@
   "joint_stress": [],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Pull_Through",
@@ -29013,7 +29743,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Pullups",
@@ -29067,7 +29798,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "pullup_bar"
+  ]
  },
  {
   "id": "Push-Up_Wide",
@@ -29122,7 +29856,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Push-Ups_-_Close_Triceps_Position",
@@ -29174,7 +29909,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Push-Ups_With_Feet_Elevated",
@@ -29227,7 +29963,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Push-Ups_With_Feet_On_An_Exercise_Ball",
@@ -29280,7 +30017,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Push_Press",
@@ -29329,7 +30067,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Push_Press_-_Behind_the_Neck",
@@ -29382,7 +30121,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Push_Up_to_Side_Plank",
@@ -29437,7 +30177,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Pushups",
@@ -29489,7 +30230,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Pushups_Close_and_Wide_Hand_Positions",
@@ -29541,7 +30283,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Pyramid",
@@ -29586,7 +30329,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Quad_Stretch",
@@ -29628,7 +30372,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Quadriceps-SMR",
@@ -29670,7 +30415,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Quick_Leap",
@@ -29723,7 +30469,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Rack_Delivery",
@@ -29774,7 +30521,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Rack_Pull_with_Bands",
@@ -29831,7 +30579,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Rack_Pulls",
@@ -29887,7 +30636,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Rear_Leg_Raises",
@@ -29929,7 +30679,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Recumbent_Bike",
@@ -29979,7 +30730,8 @@
   "joint_stress": [],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "01200"
+  "compendium_code": "01200",
+  "requires": []
  },
  {
   "id": "Return_Push_from_Stance",
@@ -30032,7 +30784,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Reverse_Band_Bench_Press",
@@ -30090,7 +30843,10 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Reverse_Band_Box_Squat",
@@ -30154,7 +30910,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Reverse_Band_Deadlift",
@@ -30216,7 +30973,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Reverse_Band_Power_Squat",
@@ -30276,7 +31034,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Reverse_Band_Sumo_Deadlift",
@@ -30342,7 +31101,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Reverse_Barbell_Curl",
@@ -30393,7 +31153,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Reverse_Barbell_Preacher_Curls",
@@ -30445,7 +31206,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Reverse_Cable_Curl",
@@ -30496,7 +31260,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Reverse_Crunch",
@@ -30545,7 +31310,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Reverse_Flyes",
@@ -30595,7 +31361,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Reverse_Flyes_With_External_Rotation",
@@ -30645,7 +31412,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Reverse_Grip_Bent-Over_Rows",
@@ -30702,7 +31470,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Reverse_Grip_Triceps_Pushdown",
@@ -30750,7 +31519,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Reverse_Hyperextension",
@@ -30804,7 +31574,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Reverse_Machine_Flyes",
@@ -30852,7 +31623,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Reverse_Plate_Curls",
@@ -30903,7 +31675,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Reverse_Triceps_Bench_Press",
@@ -30957,7 +31730,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Rhomboids-SMR",
@@ -31002,7 +31778,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Rickshaw_Carry",
@@ -31064,7 +31841,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Rickshaw_Deadlift",
@@ -31122,7 +31900,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Ring_Dips",
@@ -31175,7 +31954,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "dip_station"
+  ]
  },
  {
   "id": "Rocket_Jump",
@@ -31227,7 +32009,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Rocking_Standing_Calf_Raise",
@@ -31278,7 +32061,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Rocky_Pull-Ups_Pulldowns",
@@ -31334,7 +32118,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "pullup_bar"
+  ]
  },
  {
   "id": "Romanian_Deadlift",
@@ -31390,7 +32177,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Romanian_Deadlift_from_Deficit",
@@ -31446,7 +32234,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Rope_Climb",
@@ -31503,7 +32292,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Rope_Crunch",
@@ -31550,7 +32340,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Rope_Jumping",
@@ -31597,7 +32388,8 @@
   "joint_stress": [],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02068"
+  "compendium_code": "02068",
+  "requires": []
  },
  {
   "id": "Rope_Straight-Arm_Pulldown",
@@ -31643,7 +32435,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Round_The_World_Shoulder_Stretch",
@@ -31691,7 +32484,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Rowing_Stationary",
@@ -31748,7 +32542,8 @@
   "joint_stress": [],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02071"
+  "compendium_code": "02071",
+  "requires": []
  },
  {
   "id": "Runners_Stretch",
@@ -31794,7 +32589,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Russian_Twist",
@@ -31845,7 +32641,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Sandbag_Load",
@@ -31913,7 +32710,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Scapular_Pull-Up",
@@ -31963,7 +32761,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "pullup_bar"
+  ]
  },
  {
   "id": "Scissor_Kick",
@@ -32009,7 +32810,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Scissors_Jump",
@@ -32063,7 +32865,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Seated_Band_Hamstring_Curl",
@@ -32109,7 +32912,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Barbell_Military_Press",
@@ -32161,7 +32965,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Barbell_Twist",
@@ -32211,7 +33016,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
@@ -32261,7 +33067,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Bent-Over_Rear_Delt_Raise",
@@ -32310,7 +33117,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
@@ -32358,7 +33166,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Biceps",
@@ -32406,7 +33215,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Seated_Cable_Rows",
@@ -32463,7 +33273,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Cable_Shoulder_Press",
@@ -32513,7 +33324,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Calf_Raise",
@@ -32562,7 +33374,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Calf_Stretch",
@@ -32611,7 +33424,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Seated_Close-Grip_Concentration_Barbell_Curl",
@@ -32658,7 +33472,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Dumbbell_Curl",
@@ -32705,7 +33520,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Dumbbell_Inner_Biceps_Curl",
@@ -32753,7 +33569,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Dumbbell_Palms-Down_Wrist_Curl",
@@ -32803,7 +33620,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Dumbbell_Palms-Up_Wrist_Curl",
@@ -32853,7 +33671,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Dumbbell_Press",
@@ -32906,7 +33725,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Flat_Bench_Leg_Pull-In",
@@ -32953,7 +33773,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Seated_Floor_Hamstring_Stretch",
@@ -32998,7 +33821,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Seated_Front_Deltoid",
@@ -33044,7 +33868,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Seated_Glute",
@@ -33090,7 +33915,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Seated_Good_Mornings",
@@ -33140,7 +33966,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Seated_Hamstring",
@@ -33186,7 +34013,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Seated_Hamstring_and_Calf_Stretch",
@@ -33231,7 +34059,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Seated_Head_Harness_Neck_Resistance",
@@ -33279,7 +34108,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Leg_Curl",
@@ -33327,7 +34157,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Leg_Tucks",
@@ -33373,7 +34204,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",
@@ -33421,7 +34253,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl",
@@ -33469,7 +34302,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_One-arm_Cable_Pulley_Rows",
@@ -33525,7 +34359,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Overhead_Stretch",
@@ -33569,7 +34404,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Seated_Palm-Up_Barbell_Wrist_Curl",
@@ -33616,7 +34452,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Palms-Down_Barbell_Wrist_Curl",
@@ -33663,7 +34500,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Side_Lateral_Raise",
@@ -33710,7 +34548,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Triceps_Press",
@@ -33756,7 +34595,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl",
@@ -33807,7 +34647,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "See-Saw_Press_Alternating_Side_Press",
@@ -33860,7 +34701,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Shotgun_Row",
@@ -33912,7 +34754,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Shoulder_Circles",
@@ -33957,7 +34800,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Shoulder_Press_-_With_Bands",
@@ -34006,7 +34850,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Shoulder_Raise",
@@ -34050,7 +34895,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Shoulder_Stretch",
@@ -34091,7 +34937,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Side-Lying_Floor_Stretch",
@@ -34133,7 +34980,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Side_Bridge",
@@ -34180,7 +35028,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Side_Hop-Sprint",
@@ -34236,7 +35085,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Side_Jackknife",
@@ -34281,7 +35131,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Side_Lateral_Raise",
@@ -34329,7 +35180,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Side_Laterals_to_Front_Raise",
@@ -34380,7 +35232,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Side_Leg_Raises",
@@ -34423,7 +35276,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Side_Lying_Groin_Stretch",
@@ -34469,7 +35323,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Side_Neck_Stretch",
@@ -34511,7 +35366,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Side_Standing_Long_Jump",
@@ -34565,7 +35421,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Side_To_Side_Chins",
@@ -34624,7 +35481,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Side_Wrist_Pull",
@@ -34671,7 +35529,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Side_to_Side_Box_Shuffle",
@@ -34727,7 +35586,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Single-Arm_Cable_Crossover",
@@ -34774,7 +35634,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Single-Arm_Linear_Jammer",
@@ -34826,7 +35687,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Single-Arm_Push-Up",
@@ -34878,7 +35740,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Single-Cone_Sprint_Drill",
@@ -34932,7 +35795,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Single-Leg_High_Box_Squat",
@@ -34983,7 +35847,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Single-Leg_Hop_Progression",
@@ -35040,7 +35905,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Single-Leg_Lateral_Hop",
@@ -35097,7 +35963,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Single-Leg_Leg_Extension",
@@ -35144,7 +36011,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Single-Leg_Stride_Jump",
@@ -35200,7 +36068,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Single_Dumbbell_Raise",
@@ -35250,7 +36119,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Single_Leg_Butt_Kick",
@@ -35303,7 +36173,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Single_Leg_Glute_Bridge",
@@ -35352,7 +36223,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Single_Leg_Push-off",
@@ -35404,7 +36276,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Sit-Up",
@@ -35451,7 +36324,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Sit_Squats",
@@ -35501,7 +36375,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Skating",
@@ -35554,7 +36429,8 @@
   "joint_stress": [],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "19030"
+  "compendium_code": "19030",
+  "requires": []
  },
  {
   "id": "Sled_Drag_-_Harness",
@@ -35607,7 +36483,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Sled_Overhead_Backward_Walk",
@@ -35661,7 +36538,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Sled_Overhead_Triceps_Extension",
@@ -35707,7 +36585,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Sled_Push",
@@ -35764,7 +36643,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Sled_Reverse_Flye",
@@ -35810,7 +36690,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Sled_Row",
@@ -35862,7 +36743,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Sledgehammer_Swings",
@@ -35919,7 +36801,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Smith_Incline_Shoulder_Raise",
@@ -35970,7 +36853,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Smith_Machine_Behind_the_Back_Shrug",
@@ -36020,7 +36906,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Bench_Press",
@@ -36073,7 +36960,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Bent_Over_Row",
@@ -36129,7 +37017,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Calf_Raise",
@@ -36177,7 +37066,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Close-Grip_Bench_Press",
@@ -36231,7 +37121,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Decline_Press",
@@ -36284,7 +37175,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Hang_Power_Clean",
@@ -36344,7 +37236,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Hip_Raise",
@@ -36390,7 +37283,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Incline_Bench_Press",
@@ -36443,7 +37337,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Leg_Press",
@@ -36496,7 +37391,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Machine_One-Arm_Upright_Row",
@@ -36549,7 +37445,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Overhead_Shoulder_Press",
@@ -36600,7 +37497,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Pistol_Squat",
@@ -36655,7 +37553,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Reverse_Calf_Raises",
@@ -36703,7 +37602,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Squat",
@@ -36763,7 +37663,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Stiff-Legged_Deadlift",
@@ -36816,7 +37717,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Smith_Machine_Upright_Row",
@@ -36871,7 +37773,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Smith_Single-Leg_Split_Squat",
@@ -36929,7 +37832,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Snatch",
@@ -36994,7 +37898,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Snatch_Balance",
@@ -37052,7 +37957,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Snatch_Deadlift",
@@ -37110,7 +38016,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Snatch_Pull",
@@ -37168,7 +38075,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Snatch_Shrug",
@@ -37218,7 +38126,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Snatch_from_Blocks",
@@ -37283,7 +38192,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Speed_Band_Overhead_Triceps",
@@ -37329,7 +38239,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Speed_Box_Squat",
@@ -37385,7 +38296,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Speed_Squats",
@@ -37444,7 +38356,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Spell_Caster",
@@ -37495,7 +38408,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Spider_Crawl",
@@ -37547,7 +38461,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Spider_Curl",
@@ -37596,7 +38511,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Spinal_Stretch",
@@ -37649,7 +38565,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Split_Clean",
@@ -37715,7 +38632,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Split_Jerk",
@@ -37773,7 +38691,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Split_Jump",
@@ -37829,7 +38748,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Split_Snatch",
@@ -37898,7 +38818,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Split_Squat_with_Dumbbells",
@@ -37951,7 +38872,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Split_Squats",
@@ -38000,7 +38922,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Squat_Jerk",
@@ -38058,7 +38981,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Squat_with_Bands",
@@ -38117,7 +39041,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Squat_with_Chains",
@@ -38175,7 +39100,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Squat_with_Plate_Movers",
@@ -38236,7 +39162,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Squats_-_With_Bands",
@@ -38293,7 +39220,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Stairmaster",
@@ -38343,7 +39271,8 @@
   "joint_stress": [],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02065"
+  "compendium_code": "02065",
+  "requires": []
  },
  {
   "id": "Standing_Alternating_Dumbbell_Press",
@@ -38394,7 +39323,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Barbell_Calf_Raise",
@@ -38443,7 +39373,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Barbell_Press_Behind_Neck",
@@ -38496,7 +39427,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
@@ -38548,7 +39480,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
@@ -38595,7 +39528,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Biceps_Cable_Curl",
@@ -38642,7 +39576,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Biceps_Stretch",
@@ -38689,7 +39624,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Standing_Bradford_Press",
@@ -38742,7 +39678,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Cable_Chest_Press",
@@ -38795,7 +39732,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Cable_Lift",
@@ -38849,7 +39787,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Cable_Wood_Chop",
@@ -38903,7 +39842,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Calf_Raises",
@@ -38951,7 +39891,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Concentration_Curl",
@@ -39000,7 +39941,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Dumbbell_Calf_Raise",
@@ -39046,7 +39988,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Dumbbell_Press",
@@ -39096,7 +40039,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Dumbbell_Reverse_Curl",
@@ -39146,7 +40090,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head",
@@ -39193,7 +40138,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Dumbbell_Triceps_Extension",
@@ -39241,7 +40187,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Dumbbell_Upright_Row",
@@ -39293,7 +40240,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Elevated_Quad_Stretch",
@@ -39336,7 +40284,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Standing_Front_Barbell_Raise_Over_Head",
@@ -39383,7 +40332,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Gastrocnemius_Calf_Stretch",
@@ -39429,7 +40379,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Standing_Hamstring_and_Calf_Stretch",
@@ -39471,7 +40422,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Standing_Hip_Circles",
@@ -39518,7 +40470,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Standing_Hip_Flexors",
@@ -39560,7 +40513,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Standing_Inner-Biceps_Curl",
@@ -39609,7 +40563,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Lateral_Stretch",
@@ -39653,7 +40608,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Standing_Leg_Curl",
@@ -39700,7 +40656,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Long_Jump",
@@ -39754,7 +40711,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Standing_Low-Pulley_Deltoid_Raise",
@@ -39804,7 +40762,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Low-Pulley_One-Arm_Triceps_Extension",
@@ -39856,7 +40815,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Military_Press",
@@ -39908,7 +40868,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Olympic_Plate_Hand_Squeeze",
@@ -39957,7 +40918,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_One-Arm_Cable_Curl",
@@ -40004,7 +40966,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench",
@@ -40051,7 +41014,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Standing_One-Arm_Dumbbell_Triceps_Extension",
@@ -40103,7 +41069,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Overhead_Barbell_Triceps_Extension",
@@ -40153,7 +41120,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Palm-In_One-Arm_Dumbbell_Press",
@@ -40204,7 +41172,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Palms-In_Dumbbell_Press",
@@ -40254,7 +41223,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl",
@@ -40302,7 +41272,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Pelvic_Tilt",
@@ -40348,7 +41319,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Standing_Rope_Crunch",
@@ -40394,7 +41366,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Standing_Soleus_And_Achilles_Stretch",
@@ -40436,7 +41409,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Standing_Toe_Touches",
@@ -40481,7 +41455,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Standing_Towel_Triceps_Extension",
@@ -40527,7 +41502,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Standing_Two-Arm_Overhead_Throw",
@@ -40578,7 +41554,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Star_Jump",
@@ -40634,7 +41611,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Step-up_with_Knee_Raise",
@@ -40686,7 +41664,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Step_Mill",
@@ -40736,7 +41715,8 @@
   "joint_stress": [],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02065"
+  "compendium_code": "02065",
+  "requires": []
  },
  {
   "id": "Stiff-Legged_Barbell_Deadlift",
@@ -40789,7 +41769,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Stiff-Legged_Dumbbell_Deadlift",
@@ -40842,7 +41823,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Stiff_Leg_Barbell_Good_Morning",
@@ -40896,7 +41878,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Stomach_Vacuum",
@@ -40942,7 +41925,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Straight-Arm_Dumbbell_Pullover",
@@ -40998,7 +41982,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Straight-Arm_Pulldown",
@@ -41045,7 +42032,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Straight_Bar_Bench_Mid_Rows",
@@ -41096,7 +42084,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Straight_Raises_on_Incline_Bench",
@@ -41145,7 +42136,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Stride_Jump_Crossover",
@@ -41202,7 +42196,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Sumo_Deadlift",
@@ -41263,7 +42258,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Sumo_Deadlift_with_Bands",
@@ -41326,7 +42322,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Sumo_Deadlift_with_Chains",
@@ -41392,7 +42389,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Superman",
@@ -41441,7 +42439,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Supine_Chest_Throw",
@@ -41493,7 +42492,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Supine_One-Arm_Overhead_Throw",
@@ -41544,7 +42544,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Supine_Two-Arm_Overhead_Throw",
@@ -41596,7 +42597,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Suspended_Fallout",
@@ -41650,7 +42652,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Suspended_Push-Up",
@@ -41702,7 +42705,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Suspended_Reverse_Crunch",
@@ -41748,7 +42752,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Suspended_Row",
@@ -41799,7 +42804,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Suspended_Split_Squat",
@@ -41858,7 +42864,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Svend_Press",
@@ -41912,7 +42919,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "T-Bar_Row_with_Handle",
@@ -41965,7 +42973,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Tate_Press",
@@ -42017,7 +43026,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "The_Straddle",
@@ -42064,7 +43074,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Thigh_Abductor",
@@ -42113,7 +43124,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Thigh_Adductor",
@@ -42164,7 +43176,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Tire_Flip",
@@ -42229,7 +43242,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Toe_Touchers",
@@ -42275,7 +43289,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Torso_Rotation",
@@ -42317,7 +43332,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Trail_Running_Walking",
@@ -42367,7 +43383,8 @@
   "joint_stress": [],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "17080"
+  "compendium_code": "17080",
+  "requires": []
  },
  {
   "id": "Trap_Bar_Deadlift",
@@ -42420,7 +43437,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Tricep_Dumbbell_Kickback",
@@ -42468,7 +43486,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Tricep_Side_Stretch",
@@ -42512,7 +43531,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Triceps_Overhead_Extension_with_Rope",
@@ -42559,7 +43579,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Triceps_Pushdown",
@@ -42606,7 +43627,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Triceps_Pushdown_-_Rope_Attachment",
@@ -42653,7 +43675,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Triceps_Pushdown_-_V-Bar_Attachment",
@@ -42700,7 +43723,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Triceps_Stretch",
@@ -42744,7 +43768,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Tuck_Crunch",
@@ -42793,7 +43818,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Two-Arm_Dumbbell_Preacher_Curl",
@@ -42839,7 +43865,10 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Two-Arm_Kettlebell_Clean",
@@ -42895,7 +43924,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Two-Arm_Kettlebell_Jerk",
@@ -42949,7 +43979,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Two-Arm_Kettlebell_Military_Press",
@@ -42996,7 +44027,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Two-Arm_Kettlebell_Row",
@@ -43046,7 +44078,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Underhand_Cable_Pulldowns",
@@ -43103,7 +44136,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Upper_Back-Leg_Grab",
@@ -43149,7 +44183,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Upper_Back_Stretch",
@@ -43191,7 +44226,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Upright_Barbell_Row",
@@ -43242,7 +44278,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Upright_Cable_Row",
@@ -43292,7 +44329,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Upright_Row_-_With_Bands",
@@ -43342,7 +44380,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Upward_Stretch",
@@ -43389,7 +44428,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "V-Bar_Pulldown",
@@ -43445,7 +44485,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "V-Bar_Pullup",
@@ -43500,7 +44541,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "pullup_bar"
+  ]
  },
  {
   "id": "Vertical_Swing",
@@ -43555,7 +44599,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02020"
+  "compendium_code": "02020",
+  "requires": []
  },
  {
   "id": "Walking_Treadmill",
@@ -43605,7 +44650,8 @@
   "joint_stress": [],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "17355"
+  "compendium_code": "17355",
+  "requires": []
  },
  {
   "id": "Weighted_Ball_Hyperextension",
@@ -43659,7 +44705,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Weighted_Ball_Side_Bend",
@@ -43707,7 +44754,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Weighted_Bench_Dip",
@@ -43760,7 +44808,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Weighted_Crunches",
@@ -43807,7 +44858,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Weighted_Jump_Squat",
@@ -43864,7 +44916,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Weighted_Pull_Ups",
@@ -43916,7 +44969,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Weighted_Sissy_Squat",
@@ -43971,7 +45025,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Weighted_Sit-Ups_-_With_Bands",
@@ -44017,7 +45072,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Weighted_Squat",
@@ -44072,7 +45128,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Wide-Grip_Barbell_Bench_Press",
@@ -44124,7 +45181,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Wide-Grip_Decline_Barbell_Bench_Press",
@@ -44176,7 +45236,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Wide-Grip_Decline_Barbell_Pullover",
@@ -44229,7 +45292,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  },
  {
   "id": "Wide-Grip_Lat_Pulldown",
@@ -44284,7 +45350,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Wide-Grip_Pulldown_Behind_The_Neck",
@@ -44339,7 +45406,8 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Wide-Grip_Rear_Pull-Up",
@@ -44394,7 +45462,10 @@
   ],
   "fatigue": "medium",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": [
+   "pullup_bar"
+  ]
  },
  {
   "id": "Wide-Grip_Standing_Barbell_Curl",
@@ -44441,7 +45512,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Wide_Stance_Barbell_Squat",
@@ -44500,7 +45572,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Wide_Stance_Stiff_Legs",
@@ -44552,7 +45625,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Wind_Sprints",
@@ -44598,7 +45672,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02056"
+  "compendium_code": "02056",
+  "requires": []
  },
  {
   "id": "Windmills",
@@ -44648,7 +45723,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Worlds_Greatest_Stretch",
@@ -44698,7 +45774,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "cooldown",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Wrist_Circles",
@@ -44741,7 +45818,8 @@
   "joint_stress": [],
   "fatigue": "low",
   "session_role": "warmup",
-  "compendium_code": "02101"
+  "compendium_code": "02101",
+  "requires": []
  },
  {
   "id": "Wrist_Roller",
@@ -44791,7 +45869,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Wrist_Rotations_with_Straight_Bar",
@@ -44836,7 +45915,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Yoke_Walk",
@@ -44898,7 +45978,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02050"
+  "compendium_code": "02050",
+  "requires": []
  },
  {
   "id": "Zercher_Squats",
@@ -44955,7 +46036,8 @@
   ],
   "fatigue": "high",
   "session_role": "main",
-  "compendium_code": "02052"
+  "compendium_code": "02052",
+  "requires": []
  },
  {
   "id": "Zottman_Curl",
@@ -45008,7 +46090,8 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": []
  },
  {
   "id": "Zottman_Preacher_Curl",
@@ -45059,6 +46142,9 @@
   ],
   "fatigue": "low",
   "session_role": "main",
-  "compendium_code": "02054"
+  "compendium_code": "02054",
+  "requires": [
+   "bench"
+  ]
  }
 ]

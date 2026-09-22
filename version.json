@@ -34,10 +34,10 @@
   },
   "exercises": {
     "main": {
-      "version": "1.2.0",
+      "version": "1.3.0",
       "count": 872,
       "updated_at": "2026-09-18",
-      "checksum": "sha256:1264f941b2a7b259f1d366e6b7841f38a8c5a4e0ce0a7ec0f6a829f238a67d19"
+      "checksum": "sha256:aaf06f4dcf1cc4a0969376695300e424a4d6172ab5d535ab7c6fcf4576838095"
     },
     "activities": {
       "version": "1.2.0",
