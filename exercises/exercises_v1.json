@@ -4,8 +4,7 @@
   "name_tr": "3/4 Sit-Up",
   "name_en": "3/4 Sit-Up",
   "alternative_names_tr": [
-   "yarım mekik",
-   "mekik"
+   "yarım mekik"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -442,7 +441,6 @@
   "name_tr": "Alternate Hammer Curl",
   "name_en": "Alternate Hammer Curl",
   "alternative_names_tr": [
-   "çekiç curl",
    "çekiç pazı"
   ],
   "category": "strength",
@@ -1278,7 +1276,7 @@
   "name_en": "Arnold Dumbbell Press",
   "alternative_names_tr": [
    "arnold pres",
-   "dambıl omuz pres"
+   "arnold press"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -1323,7 +1321,10 @@
   "fatigue": "medium",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "arnold press"
+  ]
  },
  {
   "id": "Around_The_Worlds",
@@ -2265,7 +2266,12 @@
   "name_en": "Barbell Bench Press - Medium Grip",
   "alternative_names_tr": [
    "orta tutuş bench",
-   "göğüs itişi"
+   "göğüs itişi",
+   "bench press",
+   "bench",
+   "düz bench",
+   "göğüs press",
+   "göğüs pres"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -2314,6 +2320,13 @@
   "compendium_code": "02054",
   "requires": [
    "bench"
+  ],
+  "canonical_names": [
+   "bench press",
+   "bench",
+   "düz bench",
+   "göğüs press",
+   "göğüs pres"
   ]
  },
  {
@@ -2321,8 +2334,7 @@
   "name_tr": "Barbell Curl",
   "name_en": "Barbell Curl",
   "alternative_names_tr": [
-   "halter pazı",
-   "kol bükme"
+   "halter pazı"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -2424,8 +2436,9 @@
   "name_tr": "Barbell Deadlift",
   "name_en": "Barbell Deadlift",
   "alternative_names_tr": [
-   "ölü kaldırış",
-   "halter deadlift"
+   "halter deadlift",
+   "deadlift",
+   "ölü kaldırış"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -2484,7 +2497,11 @@
   "fatigue": "high",
   "session_role": "main",
   "compendium_code": "02052",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "deadlift",
+   "ölü kaldırış"
+  ]
  },
  {
   "id": "Barbell_Full_Squat",
@@ -2720,7 +2737,8 @@
   "name_en": "Barbell Hip Thrust",
   "alternative_names_tr": [
    "halter kalça itişi",
-   "kalça kaldırma"
+   "kalça kaldırma",
+   "hip thrust"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -2767,6 +2785,9 @@
   "compendium_code": "02050",
   "requires": [
    "bench"
+  ],
+  "canonical_names": [
+   "hip thrust"
   ]
  },
  {
@@ -2775,7 +2796,10 @@
   "name_en": "Barbell Incline Bench Press - Medium Grip",
   "alternative_names_tr": [
    "eğimli bench press",
-   "üst göğüs itişi"
+   "üst göğüs itişi",
+   "incline bench press",
+   "incline bench",
+   "eğimli bench"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -2824,6 +2848,11 @@
   "compendium_code": "02054",
   "requires": [
    "bench"
+  ],
+  "canonical_names": [
+   "incline bench press",
+   "incline bench",
+   "eğimli bench"
   ]
  },
  {
@@ -3164,6 +3193,7 @@
   "name_en": "Barbell Shrug",
   "alternative_names_tr": [
    "halter shrug",
+   "shrug",
    "omuz silkme"
   ],
   "category": "strength",
@@ -3204,7 +3234,11 @@
   "fatigue": "low",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "shrug",
+   "omuz silkme"
+  ]
  },
  {
   "id": "Barbell_Shrug_Behind_The_Back",
@@ -3373,8 +3407,10 @@
   "name_tr": "Barbell Squat",
   "name_en": "Barbell Squat",
   "alternative_names_tr": [
+   "squat",
+   "skuat",
    "çömelme",
-   "skuat"
+   "halter squat"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -3427,7 +3463,13 @@
   "fatigue": "high",
   "session_role": "main",
   "compendium_code": "02052",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "squat",
+   "skuat",
+   "çömelme",
+   "halter squat"
+  ]
  },
  {
   "id": "Barbell_Squat_To_A_Bench",
@@ -4291,6 +4333,8 @@
   "name_en": "Bent Over Barbell Row",
   "alternative_names_tr": [
    "eğilerek barbell row",
+   "barbell row",
+   "bent over row",
    "halter kürek"
   ],
   "category": "strength",
@@ -4339,7 +4383,12 @@
   "fatigue": "medium",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "barbell row",
+   "bent over row",
+   "halter kürek"
+  ]
  },
  {
   "id": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
@@ -4569,8 +4618,7 @@
   "name_tr": "Bent Over Two-Dumbbell Row",
   "name_en": "Bent Over Two-Dumbbell Row",
   "alternative_names_tr": [
-   "eğilerek iki dambıl kürek",
-   "dambıl row"
+   "eğilerek iki dambıl kürek"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -5880,8 +5928,9 @@
   "name_tr": "Butterfly",
   "name_en": "Butterfly",
   "alternative_names_tr": [
-   "kelebek",
-   "göğüs açma makinesi"
+   "göğüs açma makinesi",
+   "pec deck",
+   "kelebek"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -5922,7 +5971,11 @@
   "fatigue": "low",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "pec deck",
+   "kelebek"
+  ]
  },
  {
   "id": "Cable_Chest_Press",
@@ -5984,7 +6037,9 @@
   "name_en": "Cable Crossover",
   "alternative_names_tr": [
    "kablo çapraz",
-   "göğüs kablo"
+   "göğüs kablo",
+   "cable fly",
+   "kablo fly"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -6029,7 +6084,11 @@
   "fatigue": "low",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "cable fly",
+   "kablo fly"
+  ]
  },
  {
   "id": "Cable_Crunch",
@@ -9978,8 +10037,7 @@
   "name_tr": "Crunch - Hands Overhead",
   "name_en": "Crunch - Hands Overhead",
   "alternative_names_tr": [
-   "eller yukarı mekik",
-   "mekik"
+   "eller yukarı mekik"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -10078,8 +10136,9 @@
   "name_tr": "Crunches",
   "name_en": "Crunches",
   "alternative_names_tr": [
+   "karın mekik",
    "mekik",
-   "karın mekik"
+   "crunch"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -10121,7 +10180,11 @@
   "fatigue": "low",
   "session_role": "main",
   "compendium_code": "02056",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "mekik",
+   "crunch"
+  ]
  },
  {
   "id": "Cuban_Press",
@@ -11230,7 +11293,8 @@
   "name_en": "Dips - Triceps Version",
   "alternative_names_tr": [
    "arka kol dip",
-   "paralel bar arka kol"
+   "paralel bar arka kol",
+   "triceps dips"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -11278,6 +11342,9 @@
   "compendium_code": "02056",
   "requires": [
    "dip_station"
+  ],
+  "canonical_names": [
+   "triceps dips"
   ]
  },
  {
@@ -11285,8 +11352,7 @@
   "name_tr": "Donkey Calf Raises",
   "name_en": "Donkey Calf Raises",
   "alternative_names_tr": [
-   "eşek baldır kaldırma",
-   "baldır kaldırma"
+   "eşek baldır kaldırma"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -11892,6 +11958,8 @@
   "name_en": "Dumbbell Bench Press",
   "alternative_names_tr": [
    "dambıl göğüs itiş",
+   "dumbbell press",
+   "dambıl press",
    "dambıl bench"
   ],
   "category": "strength",
@@ -11941,6 +12009,11 @@
   "compendium_code": "02054",
   "requires": [
    "bench"
+  ],
+  "canonical_names": [
+   "dumbbell press",
+   "dambıl press",
+   "dambıl bench"
   ]
  },
  {
@@ -12005,6 +12078,10 @@
   "name_en": "Dumbbell Bicep Curl",
   "alternative_names_tr": [
    "dambıl pazı bükme",
+   "biceps curl",
+   "bicep curl",
+   "dambıl curl",
+   "dumbbell curl",
    "kol bükme"
   ],
   "category": "strength",
@@ -12048,7 +12125,14 @@
   "fatigue": "low",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "biceps curl",
+   "bicep curl",
+   "dambıl curl",
+   "dumbbell curl",
+   "kol bükme"
+  ]
  },
  {
   "id": "Dumbbell_Clean",
@@ -12174,6 +12258,8 @@
   "name_en": "Dumbbell Flyes",
   "alternative_names_tr": [
    "dambıl açış",
+   "chest fly",
+   "dumbbell fly",
    "göğüs açış"
   ],
   "category": "strength",
@@ -12217,6 +12303,11 @@
   "compendium_code": "02054",
   "requires": [
    "bench"
+  ],
+  "canonical_names": [
+   "chest fly",
+   "dumbbell fly",
+   "göğüs açış"
   ]
  },
  {
@@ -12339,7 +12430,8 @@
   "name_en": "Dumbbell Lunges",
   "alternative_names_tr": [
    "dambıl lunge",
-   "dambıl hamle"
+   "dambıl hamle",
+   "lunge"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -12388,7 +12480,10 @@
   "fatigue": "medium",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "lunge"
+  ]
  },
  {
   "id": "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise",
@@ -13080,8 +13175,12 @@
   "name_tr": "Dumbbell Shoulder Press",
   "name_en": "Dumbbell Shoulder Press",
   "alternative_names_tr": [
+   "dambıl omuz",
+   "shoulder press",
+   "omuz press",
    "omuz pres",
-   "dambıl omuz"
+   "dambıl omuz press",
+   "dambıl omuz pres"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -13127,14 +13226,20 @@
   "fatigue": "medium",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "shoulder press",
+   "omuz press",
+   "omuz pres",
+   "dambıl omuz press",
+   "dambıl omuz pres"
+  ]
  },
  {
   "id": "Dumbbell_Shrug",
   "name_tr": "Dumbbell Shrug",
   "name_en": "Dumbbell Shrug",
   "alternative_names_tr": [
-   "omuz silkme",
    "trapez kaldırma"
   ],
   "category": "strength",
@@ -13230,8 +13335,7 @@
   "name_tr": "Dumbbell Squat",
   "name_en": "Dumbbell Squat",
   "alternative_names_tr": [
-   "dambıl çömelme",
-   "skuat"
+   "dambıl çömelme"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -13544,8 +13648,7 @@
   "name_tr": "EZ-Bar Curl",
   "name_en": "EZ-Bar Curl",
   "alternative_names_tr": [
-   "EZ bar pazı",
-   "kol bükme"
+   "EZ bar pazı"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -15202,7 +15305,8 @@
   "name_en": "Front Barbell Squat",
   "alternative_names_tr": [
    "ön squat",
-   "ön halter çömelme"
+   "ön halter çömelme",
+   "front squat"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -15253,7 +15357,10 @@
   "fatigue": "high",
   "session_role": "main",
   "compendium_code": "02052",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "front squat"
+  ]
  },
  {
   "id": "Front_Barbell_Squat_To_A_Bench",
@@ -16470,8 +16577,9 @@
   "name_tr": "Hammer Curls",
   "name_en": "Hammer Curls",
   "alternative_names_tr": [
-   "çekiç curl",
-   "çekiç pazı"
+   "çekiç pazı",
+   "hammer curl",
+   "çekiç curl"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -16512,7 +16620,11 @@
   "fatigue": "low",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "hammer curl",
+   "çekiç curl"
+  ]
  },
  {
   "id": "Hammer_Grip_Incline_DB_Bench_Press",
@@ -17072,6 +17184,9 @@
   "compendium_code": "02056",
   "requires": [
    "pullup_bar"
+  ],
+  "canonical_names": [
+   "bacak kaldırma"
   ]
  },
  {
@@ -18216,7 +18331,8 @@
   "name_en": "Incline Dumbbell Flyes",
   "alternative_names_tr": [
    "eğimli dambıl açış",
-   "eğimli göğüs açış"
+   "eğimli göğüs açış",
+   "incline dumbbell fly"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -18263,6 +18379,9 @@
   "compendium_code": "02054",
   "requires": [
    "bench"
+  ],
+  "canonical_names": [
+   "incline dumbbell fly"
   ]
  },
  {
@@ -19818,8 +19937,7 @@
   "name_tr": "Kettlebell Arnold Press",
   "name_en": "Kettlebell Arnold Press",
   "alternative_names_tr": [
-   "kettlebell omuz press",
-   "arnold press"
+   "kettlebell omuz press"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -21867,8 +21985,9 @@
   "name_tr": "Leg Extensions",
   "name_en": "Leg Extensions",
   "alternative_names_tr": [
-   "bacak uzatma",
-   "quadriceps makinesi"
+   "quadriceps makinesi",
+   "leg extension",
+   "bacak uzatma"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -21908,14 +22027,17 @@
   "fatigue": "low",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "leg extension",
+   "bacak uzatma"
+  ]
  },
  {
   "id": "Leg_Lift",
   "name_tr": "Leg Lift",
   "name_en": "Leg Lift",
   "alternative_names_tr": [
-   "bacak kaldırma",
    "kalça kaldırma"
   ],
   "category": "strength",
@@ -22441,7 +22563,6 @@
   "name_en": "Leverage Shrug",
   "alternative_names_tr": [
    "makinede shrug",
-   "omuz silkme",
    "trapez shrug"
   ],
   "category": "strength",
@@ -23823,7 +23944,8 @@
   "alternative_names_tr": [
    "yatarak leg curl",
    "arka bacak makinesi",
-   "lying leg curl"
+   "lying leg curl",
+   "leg curl"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -23862,7 +23984,10 @@
   "fatigue": "low",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "leg curl"
+  ]
  },
  {
   "id": "Lying_Machine_Squat",
@@ -24177,8 +24302,8 @@
   "name_en": "Lying Triceps Press",
   "alternative_names_tr": [
    "yatarak triceps press",
-   "skull crusher",
-   "yatarak arka kol"
+   "yatarak arka kol",
+   "skull crusher"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -24220,6 +24345,9 @@
   "compendium_code": "02054",
   "requires": [
    "bench"
+  ],
+  "canonical_names": [
+   "skull crusher"
   ]
  },
  {
@@ -24837,7 +24965,8 @@
   "name_en": "Mountain Climbers",
   "alternative_names_tr": [
    "dağ tırmanışı",
-   "tırmanış hareketi"
+   "tırmanış hareketi",
+   "mountain climber"
   ],
   "category": "plyometric",
   "tracking_type": "reps",
@@ -24881,7 +25010,10 @@
   "fatigue": "medium",
   "session_role": "main",
   "compendium_code": "02020",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "mountain climber"
+  ]
  },
  {
   "id": "Moving_Claw_Series",
@@ -25634,6 +25766,7 @@
   "alternative_names_tr": [
    "tek kol dambıl row",
    "tek kol dambıl çekiş",
+   "dumbbell row",
    "dambıl row"
   ],
   "category": "strength",
@@ -25685,7 +25818,11 @@
   "fatigue": "medium",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "dumbbell row",
+   "dambıl row"
+  ]
  },
  {
   "id": "One-Arm_Flat_Bench_Dumbbell_Flye",
@@ -28255,8 +28392,9 @@
   "name_tr": "Parallel Bar Dip",
   "name_en": "Parallel Bar Dip",
   "alternative_names_tr": [
+   "paralel barda dips",
    "dips",
-   "paralel barda dips"
+   "dip"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -28303,6 +28441,10 @@
   "compendium_code": "02054",
   "requires": [
    "dip_station"
+  ],
+  "canonical_names": [
+   "dips",
+   "dip"
   ]
  },
  {
@@ -29751,8 +29893,10 @@
   "name_tr": "Pullups",
   "name_en": "Pullups",
   "alternative_names_tr": [
+   "geniş tutuş barfiks",
    "barfiks",
-   "geniş tutuş barfiks"
+   "pull up",
+   "pullup"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -29801,6 +29945,11 @@
   "compendium_code": "02056",
   "requires": [
    "pullup_bar"
+  ],
+  "canonical_names": [
+   "barfiks",
+   "pull up",
+   "pullup"
   ]
  },
  {
@@ -30185,8 +30334,10 @@
   "name_tr": "Pushups",
   "name_en": "Pushups",
   "alternative_names_tr": [
+   "klasik şınav",
    "şınav",
-   "klasik şınav"
+   "push up",
+   "pushup"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -30231,7 +30382,12 @@
   "fatigue": "medium",
   "session_role": "main",
   "compendium_code": "02056",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "şınav",
+   "push up",
+   "pushup"
+  ]
  },
  {
   "id": "Pushups_Close_and_Wide_Hand_Positions",
@@ -32018,8 +32174,7 @@
   "name_en": "Rocking Standing Calf Raise",
   "alternative_names_tr": [
    "beşik calf raise",
-   "sallanarak calf raise",
-   "baldır kaldırma"
+   "sallanarak calf raise"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -32128,9 +32283,9 @@
   "name_tr": "Romanian Deadlift",
   "name_en": "Romanian Deadlift",
   "alternative_names_tr": [
-   "RDL",
    "romanya deadlifti",
-   "arka bacak deadlift"
+   "arka bacak deadlift",
+   "rdl"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -32178,7 +32333,10 @@
   "fatigue": "high",
   "session_role": "main",
   "compendium_code": "02052",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "rdl"
+  ]
  },
  {
   "id": "Romanian_Deadlift_from_Deficit",
@@ -32492,7 +32650,6 @@
   "name_tr": "Kürek (Ergometre)",
   "name_en": "Rowing, Stationary",
   "alternative_names_tr": [
-   "kürek çekme",
    "rowing ergometer",
    "kondisyon küreği"
   ],
@@ -33224,6 +33381,7 @@
   "name_en": "Seated Cable Rows",
   "alternative_names_tr": [
    "oturarak kablo çekiş",
+   "seated row",
    "cable row",
    "kürek çekme"
   ],
@@ -33274,7 +33432,12 @@
   "fatigue": "medium",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "seated row",
+   "cable row",
+   "kürek çekme"
+  ]
  },
  {
   "id": "Seated_Cable_Shoulder_Press",
@@ -34858,8 +35021,7 @@
   "name_tr": "Shoulder Raise",
   "name_en": "Shoulder Raise",
   "alternative_names_tr": [
-   "omuz kaldırma",
-   "omuz silkme"
+   "omuz kaldırma"
   ],
   "category": "flexibility",
   "tracking_type": "time",
@@ -35141,7 +35303,9 @@
   "alternative_names_tr": [
    "yana omuz açış",
    "lateral raise",
-   "yana açış"
+   "yan açış",
+   "yana açış",
+   "dambıl lateral raise"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -35181,7 +35345,13 @@
   "fatigue": "low",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "lateral raise",
+   "yan açış",
+   "yana açış",
+   "dambıl lateral raise"
+  ]
  },
  {
   "id": "Side_Laterals_to_Front_Raise",
@@ -36284,7 +36454,6 @@
   "name_tr": "Sit-Up",
   "name_en": "Sit-Up",
   "alternative_names_tr": [
-   "mekik",
    "tam mekik"
   ],
   "category": "strength",
@@ -39851,7 +40020,9 @@
   "name_en": "Standing Calf Raises",
   "alternative_names_tr": [
    "ayakta baldır kaldırma",
-   "calf raise makinesi"
+   "calf raise makinesi",
+   "calf raise",
+   "baldır kaldırma"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -39892,7 +40063,11 @@
   "fatigue": "low",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "calf raise",
+   "baldır kaldırma"
+  ]
  },
  {
   "id": "Standing_Concentration_Curl",
@@ -40823,8 +40998,10 @@
   "name_tr": "Standing Military Press",
   "name_en": "Standing Military Press",
   "alternative_names_tr": [
+   "ayakta barbell omuz pres",
+   "overhead press",
    "military press",
-   "ayakta barbell omuz pres"
+   "ohp"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -40869,7 +41046,12 @@
   "fatigue": "medium",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "overhead press",
+   "military press",
+   "ohp"
+  ]
  },
  {
   "id": "Standing_Olympic_Plate_Hand_Squeeze",
@@ -42203,9 +42385,7 @@
   "id": "Sumo_Deadlift",
   "name_tr": "Sumo Deadlift",
   "name_en": "Sumo Deadlift",
-  "alternative_names_tr": [
-   "sumo deadlift"
-  ],
+  "alternative_names_tr": [],
   "category": "strength",
   "tracking_type": "reps",
   "primary_muscles": [
@@ -43587,7 +43767,9 @@
   "name_tr": "Triceps Pushdown",
   "name_en": "Triceps Pushdown",
   "alternative_names_tr": [
-   "kablolu arka kol"
+   "kablolu arka kol",
+   "tricep pushdown",
+   "pushdown"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -43628,7 +43810,11 @@
   "fatigue": "low",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "tricep pushdown",
+   "pushdown"
+  ]
  },
  {
   "id": "Triceps_Pushdown_-_Rope_Attachment",
@@ -44235,7 +44421,8 @@
   "name_en": "Upright Barbell Row",
   "alternative_names_tr": [
    "barbell upright row",
-   "çeneye çekiş halter"
+   "çeneye çekiş halter",
+   "upright row"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -44279,7 +44466,10 @@
   "fatigue": "medium",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "upright row"
+  ]
  },
  {
   "id": "Upright_Cable_Row",
@@ -45303,7 +45493,10 @@
   "name_en": "Wide-Grip Lat Pulldown",
   "alternative_names_tr": [
    "geniş tutuş lat pulldown",
-   "kanat çekiş"
+   "kanat çekiş",
+   "lat pulldown",
+   "lat pull down",
+   "lat çekme"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -45351,7 +45544,12 @@
   "fatigue": "medium",
   "session_role": "main",
   "compendium_code": "02054",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "lat pulldown",
+   "lat pull down",
+   "lat çekme"
+  ]
  },
  {
   "id": "Wide-Grip_Pulldown_Behind_The_Neck",

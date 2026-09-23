@@ -2,28 +2,28 @@
   "schema_version": 1,
   "foods": {
     "turkomp": {
-      "version": "1.9.0",
+      "version": "1.10.0",
       "count": 639,
-      "updated_at": "2026-09-16",
-      "checksum": "sha256:12a3741a368c1538f5a594876ad421ee252d2420602b846292ff38b5da70cdb8"
+      "updated_at": "2026-09-23",
+      "checksum": "sha256:29889eb195c9cea8c80d9eb8fd074977ea1b1f1818de194dc894201e24b4f312"
     },
     "usda_top5000": {
-      "version": "1.7.0",
+      "version": "1.8.0",
       "count": 1266,
-      "updated_at": "2026-09-16",
-      "checksum": "sha256:d845162af169b5cd8a7f878690ad1dfa69af7db52136c59e0ae5ffd127cf6a79"
+      "updated_at": "2026-09-23",
+      "checksum": "sha256:1310c2b4166e92ff3ac1add3fd4bec4837f7669dc562c97b36e371dc653b7128"
     },
     "off_tr": {
-      "version": "1.7.0",
+      "version": "1.8.0",
       "count": 639,
-      "updated_at": "2026-09-16",
-      "checksum": "sha256:13d1bc26659dac132102bc5d47ed67a6cd270498d41e50f7460305d42af4284f"
+      "updated_at": "2026-09-23",
+      "checksum": "sha256:c7f22aff0f17df69b77173fa17a44a2c741518c6aa27f5d36ccb5c99f513872b"
     },
     "popular_tr": {
-      "version": "1.8.0",
+      "version": "1.9.0",
       "count": 484,
-      "updated_at": "2026-09-18",
-      "checksum": "sha256:3b53799f14d17a4c4543d26192d88ca26c577f4d859ecdf9fbfc7446c2cb1aff"
+      "updated_at": "2026-09-23",
+      "checksum": "sha256:2022be6ed0af9ee0d746113abc2ac1595b20a653b09c5ea776234a28ec7bb3c6"
     },
     "community_tr": {
       "version": "1.0.1",
@@ -34,16 +34,16 @@
   },
   "exercises": {
     "main": {
-      "version": "1.3.1",
+      "version": "1.4.0",
       "count": 872,
-      "updated_at": "2026-09-22",
-      "checksum": "sha256:27b552a74a6cc07b91d1c53687d2fcfbf5b8a781c1ec2585b240028d267e8b21"
+      "updated_at": "2026-09-23",
+      "checksum": "sha256:4ef7d295e39921711e72ec2375919e91974514503afddb6e7d336243faebfa84"
     },
     "activities": {
-      "version": "1.2.2",
+      "version": "1.3.0",
       "count": 818,
       "updated_at": "2026-09-23",
-      "checksum": "sha256:879fa13db563b1e19874b7486c438a3c9749a55193ff7a5dbabaa9fda501d80d"
+      "checksum": "sha256:48acaad4841693fe42f98b798d2d0fc427ffe7c80e704d24ea80233d21e52fb9"
     },
     "community": {
       "version": "1.0.2",

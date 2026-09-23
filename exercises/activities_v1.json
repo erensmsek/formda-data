@@ -1972,7 +1972,8 @@
   "name_tr": "Kettlebell swing (girya savurma)",
   "name_en": "Kettlebell swings",
   "alternative_names_tr": [
-   "girya sallama"
+   "girya sallama",
+   "kettlebell swing"
   ],
   "category": "cardio",
   "tracking_type": "time",
@@ -1992,7 +1993,10 @@
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
-  "muscle_map_regions": []
+  "muscle_map_regions": [],
+  "canonical_names": [
+   "kettlebell swing"
+  ]
  },
  {
   "id": "compendium_02060",
@@ -2180,9 +2184,7 @@
   "id": "compendium_02070",
   "name_tr": "Kondisyon küreği, genel, yüksek tempo",
   "name_en": "Rowing, stationary ergometer, general, vigorous effort",
-  "alternative_names_tr": [
-   "kürek çekme"
-  ],
+  "alternative_names_tr": [],
   "category": "cardio",
   "tracking_type": "time",
   "primary_muscles": [
