@@ -41837,11 +41837,11 @@
   "category": "strength",
   "tracking_type": "reps",
   "primary_muscles": [
-   "lower_back"
+   "hamstrings"
   ],
   "secondary_muscles": [
    "glutes",
-   "hamstrings"
+   "lower_back"
   ],
   "equipment": [
    "barbell"
@@ -41865,9 +41865,9 @@
    "Dengenizi kaybetmemek ve formunuzu korumak için başınızı yukarıda, sırtınızı düz tutun."
   ],
   "muscle_map_regions": [
-   "lower_back",
    "glutes",
-   "hamstrings"
+   "hamstrings",
+   "lower_back"
   ],
   "mechanic": "compound",
   "force": "push",

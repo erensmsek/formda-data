@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by Cara Denison on Pexels
+fotografci_url: https://www.pexels.com/@cara-denison-886614634
+fotograf_url: https://www.pexels.com/photo/woman-rollerblading-in-green-park-37453138/
+pexels_id: 37453138
+arama_terimi: woman inline skating in park
