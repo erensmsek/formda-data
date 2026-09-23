@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by PNW Production on Pexels
+fotografci_url: https://www.pexels.com/@pnw-prod
+fotograf_url: https://www.pexels.com/photo/a-back-view-of-a-person-standing-on-a-sup-board-while-holding-a-paddle-9354934/
+pexels_id: 9354934
+arama_terimi: person standing on paddle board calm lake

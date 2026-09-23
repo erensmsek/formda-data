@@ -1,0 +1,7 @@
+kaynak: Pexels
+lisans: Pexels License (ticari serbest, degistirilebilir)
+atif: Photo by cottonbro studio on Pexels
+fotografci_url: https://www.pexels.com/@cottonbro
+fotograf_url: https://www.pexels.com/photo/man-working-in-carpentry-7492587/
+pexels_id: 7492587
+arama_terimi: man sawing wood plank carpentry workshop

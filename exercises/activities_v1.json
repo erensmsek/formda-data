@@ -1419,7 +1419,9 @@
   "difficulty": "advanced",
   "met_value": 7.8,
   "compendium_code": "02004",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/aerobic/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -2485,7 +2487,9 @@
   "difficulty": "advanced",
   "met_value": 6.0,
   "compendium_code": "02090",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/aerobic/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -3211,7 +3215,9 @@
   "difficulty": "advanced",
   "met_value": 7.0,
   "compendium_code": "02210",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/circuit_training/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -3235,7 +3241,9 @@
   "difficulty": "advanced",
   "met_value": 11.0,
   "compendium_code": "02214",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/circuit_training/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -3531,7 +3539,9 @@
   "difficulty": "advanced",
   "met_value": 6.0,
   "compendium_code": "03005",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/salsa_dancing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -3873,7 +3883,9 @@
   "difficulty": "advanced",
   "met_value": 13.0,
   "compendium_code": "03039",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/ballroom_dancing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -3900,7 +3912,9 @@
   "difficulty": "intermediate",
   "met_value": 3.0,
   "compendium_code": "03040",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/ballroom_dancing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -3927,7 +3941,9 @@
   "difficulty": "advanced",
   "met_value": 6.0,
   "compendium_code": "03042",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/ballroom_dancing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -4314,7 +4330,9 @@
   "difficulty": "intermediate",
   "met_value": 3.5,
   "compendium_code": "04001",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/fishing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -4337,7 +4355,9 @@
   "difficulty": "intermediate",
   "met_value": 4.5,
   "compendium_code": "04005",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/fishing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -4361,7 +4381,9 @@
   "difficulty": "intermediate",
   "met_value": 4.0,
   "compendium_code": "04007",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/fishing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -4385,7 +4407,9 @@
   "difficulty": "intermediate",
   "met_value": 4.3,
   "compendium_code": "04010",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/fishing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -4435,7 +4459,9 @@
   "difficulty": "beginner",
   "met_value": 2.0,
   "compendium_code": "04030",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/fishing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -4459,7 +4485,9 @@
   "difficulty": "intermediate",
   "met_value": 3.5,
   "compendium_code": "04040",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/fishing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -4483,7 +4511,9 @@
   "difficulty": "advanced",
   "met_value": 6.0,
   "compendium_code": "04050",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/fishing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -4507,7 +4537,9 @@
   "difficulty": "beginner",
   "met_value": 2.0,
   "compendium_code": "04060",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/fishing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -4531,7 +4563,9 @@
   "difficulty": "beginner",
   "met_value": 1.8,
   "compendium_code": "04061",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/fishing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -4555,7 +4589,9 @@
   "difficulty": "intermediate",
   "met_value": 3.5,
   "compendium_code": "04062",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/fishing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -4579,7 +4615,9 @@
   "difficulty": "intermediate",
   "met_value": 3.8,
   "compendium_code": "04063",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/fishing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -4602,7 +4640,9 @@
   "difficulty": "intermediate",
   "met_value": 3.0,
   "compendium_code": "04064",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/fishing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -5365,7 +5405,9 @@
   "difficulty": "intermediate",
   "met_value": 4.5,
   "compendium_code": "05024",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/cleaning/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -5483,7 +5525,9 @@
   "difficulty": "beginner",
   "met_value": 2.5,
   "compendium_code": "05032",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/cleaning/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -5605,7 +5649,9 @@
   "difficulty": "intermediate",
   "met_value": 3.0,
   "compendium_code": "05043",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/cleaning/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -6198,7 +6244,9 @@
   "difficulty": "intermediate",
   "met_value": 5.8,
   "compendium_code": "05120",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carrying_load/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -6221,7 +6269,9 @@
   "difficulty": "intermediate",
   "met_value": 5.0,
   "compendium_code": "05121",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carrying_load/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -6269,7 +6319,9 @@
   "difficulty": "intermediate",
   "met_value": 3.5,
   "compendium_code": "05130",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/cleaning/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -6293,7 +6345,9 @@
   "difficulty": "beginner",
   "met_value": 2.0,
   "compendium_code": "05131",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/cleaning/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -6317,7 +6371,9 @@
   "difficulty": "advanced",
   "met_value": 6.5,
   "compendium_code": "05132",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/cleaning/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -6461,7 +6517,9 @@
   "difficulty": "advanced",
   "met_value": 9.0,
   "compendium_code": "05150",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carrying_load/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -7128,7 +7186,9 @@
   "difficulty": "intermediate",
   "met_value": 3.0,
   "compendium_code": "06040",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carpentry/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -7151,7 +7211,9 @@
   "difficulty": "advanced",
   "met_value": 6.0,
   "compendium_code": "06050",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carpentry/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -7175,7 +7237,9 @@
   "difficulty": "intermediate",
   "met_value": 3.8,
   "compendium_code": "06052",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carpentry/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -7199,7 +7263,9 @@
   "difficulty": "intermediate",
   "met_value": 3.3,
   "compendium_code": "06060",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carpentry/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -7223,7 +7289,9 @@
   "difficulty": "advanced",
   "met_value": 6.0,
   "compendium_code": "06070",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carpentry/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -7246,7 +7314,9 @@
   "difficulty": "intermediate",
   "met_value": 4.0,
   "compendium_code": "06072",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carpentry/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -7269,7 +7339,9 @@
   "difficulty": "beginner",
   "met_value": 2.3,
   "compendium_code": "06074",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carpentry/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -8501,7 +8573,9 @@
   "difficulty": "beginner",
   "met_value": 2.6,
   "compendium_code": "08135",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/gardening/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -8524,7 +8598,9 @@
   "difficulty": "intermediate",
   "met_value": 4.3,
   "compendium_code": "08140",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/gardening/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -8547,7 +8623,9 @@
   "difficulty": "intermediate",
   "met_value": 4.3,
   "compendium_code": "08145",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/gardening/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -8570,7 +8648,9 @@
   "difficulty": "intermediate",
   "met_value": 4.5,
   "compendium_code": "08150",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/gardening/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -8888,7 +8968,9 @@
   "difficulty": "intermediate",
   "met_value": 4.0,
   "compendium_code": "08230",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/gardening/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -8912,7 +8994,9 @@
   "difficulty": "intermediate",
   "met_value": 3.8,
   "compendium_code": "08239",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/gardening/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -8935,7 +9019,9 @@
   "difficulty": "intermediate",
   "met_value": 4.5,
   "compendium_code": "08240",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/gardening/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -8959,7 +9045,9 @@
   "difficulty": "intermediate",
   "met_value": 5.0,
   "compendium_code": "08241",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/gardening/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -9153,7 +9241,9 @@
   "difficulty": "beginner",
   "met_value": 2.3,
   "compendium_code": "08260",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/gardening/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -9176,7 +9266,9 @@
   "difficulty": "intermediate",
   "met_value": 4.0,
   "compendium_code": "08261",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/gardening/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -9199,7 +9291,9 @@
   "difficulty": "advanced",
   "met_value": 6.0,
   "compendium_code": "08262",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/gardening/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -11170,10 +11264,15 @@
   "alternative_names_tr": [],
   "category": "cardio",
   "tracking_type": "time",
-  "primary_muscles": [],
+  "primary_muscles": [
+   "quads",
+   "hamstrings",
+   "calves",
+   "glutes"
+  ],
   "secondary_muscles": [],
   "equipment": [
-   "other"
+   "bodyweight"
   ],
   "difficulty": "advanced",
   "met_value": 13.0,
@@ -11842,7 +11941,11 @@
   ],
   "category": "sports",
   "tracking_type": "time",
-  "primary_muscles": [],
+  "primary_muscles": [
+   "quads",
+   "glutes",
+   "calves"
+  ],
   "secondary_muscles": [],
   "equipment": [
    "other"
@@ -12079,7 +12182,11 @@
   ],
   "category": "sports",
   "tracking_type": "time",
-  "primary_muscles": [],
+  "primary_muscles": [
+   "quads",
+   "glutes",
+   "shoulders"
+  ],
   "secondary_muscles": [],
   "equipment": [
    "other"
@@ -12100,7 +12207,11 @@
   "alternative_names_tr": [],
   "category": "sports",
   "tracking_type": "time",
-  "primary_muscles": [],
+  "primary_muscles": [
+   "quads",
+   "glutes",
+   "shoulders"
+  ],
   "secondary_muscles": [],
   "equipment": [
    "other"
@@ -12238,7 +12349,9 @@
   "difficulty": "beginner",
   "met_value": 2.5,
   "compendium_code": "15235",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/baseball/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -13067,7 +13180,9 @@
   "difficulty": "advanced",
   "met_value": 11.3,
   "compendium_code": "15433",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/martial_arts/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -13115,7 +13230,9 @@
   "difficulty": "advanced",
   "met_value": 6.5,
   "compendium_code": "15444",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/martial_arts/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -13140,7 +13257,9 @@
   "difficulty": "advanced",
   "met_value": 9.6,
   "compendium_code": "15445",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/martial_arts/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -13165,7 +13284,9 @@
   "difficulty": "advanced",
   "met_value": 11.3,
   "compendium_code": "15446",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/martial_arts/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -13213,7 +13334,9 @@
   "difficulty": "intermediate",
   "met_value": 5.5,
   "compendium_code": "15455",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/martial_arts/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -13484,7 +13607,9 @@
   "difficulty": "advanced",
   "met_value": 6.5,
   "compendium_code": "15506",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/rock_climbing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -13663,7 +13788,9 @@
   "difficulty": "advanced",
   "met_value": 8.0,
   "compendium_code": "15533",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/rock_climbing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14052,7 +14179,9 @@
   "difficulty": "advanced",
   "met_value": 8.3,
   "compendium_code": "15560",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/rugby/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14077,7 +14206,9 @@
   "difficulty": "advanced",
   "met_value": 6.3,
   "compendium_code": "15562",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/rugby/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14125,7 +14256,9 @@
   "difficulty": "intermediate",
   "met_value": 5.0,
   "compendium_code": "15580",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/skateboarding/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14150,7 +14283,9 @@
   "difficulty": "advanced",
   "met_value": 6.0,
   "compendium_code": "15582",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/skateboarding/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14206,7 +14341,9 @@
   "difficulty": "advanced",
   "met_value": 7.5,
   "compendium_code": "15591",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/inline_skating/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14231,7 +14368,9 @@
   "difficulty": "advanced",
   "met_value": 9.8,
   "compendium_code": "15592",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/inline_skating/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14256,7 +14395,9 @@
   "difficulty": "advanced",
   "met_value": 12.3,
   "compendium_code": "15593",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/inline_skating/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14281,7 +14422,9 @@
   "difficulty": "advanced",
   "met_value": 15.5,
   "compendium_code": "15594",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/inline_skating/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14306,7 +14449,9 @@
   "difficulty": "advanced",
   "met_value": 6.8,
   "compendium_code": "15595",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/skateboarding/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14331,7 +14476,9 @@
   "difficulty": "advanced",
   "met_value": 8.3,
   "compendium_code": "15596",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/skateboarding/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14356,7 +14503,9 @@
   "difficulty": "advanced",
   "met_value": 10.5,
   "compendium_code": "15597",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/skateboarding/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14488,7 +14637,9 @@
   "difficulty": "intermediate",
   "met_value": 5.0,
   "compendium_code": "15620",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/baseball/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14512,7 +14663,9 @@
   "difficulty": "intermediate",
   "met_value": 4.0,
   "compendium_code": "15625",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/baseball/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14536,7 +14689,9 @@
   "difficulty": "intermediate",
   "met_value": 4.0,
   "compendium_code": "15630",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/baseball/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14560,7 +14715,9 @@
   "difficulty": "advanced",
   "met_value": 6.0,
   "compendium_code": "15640",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/baseball/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14911,7 +15068,11 @@
   ],
   "category": "sports",
   "tracking_type": "time",
-  "primary_muscles": [],
+  "primary_muscles": [
+   "quads",
+   "glutes",
+   "calves"
+  ],
   "secondary_muscles": [],
   "equipment": [
    "other"
@@ -14919,7 +15080,9 @@
   "difficulty": "advanced",
   "met_value": 6.3,
   "compendium_code": "15700",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/trampoline/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -14932,7 +15095,11 @@
   "alternative_names_tr": [],
   "category": "sports",
   "tracking_type": "time",
-  "primary_muscles": [],
+  "primary_muscles": [
+   "quads",
+   "glutes",
+   "calves"
+  ],
   "secondary_muscles": [],
   "equipment": [
    "other"
@@ -14940,7 +15107,9 @@
   "difficulty": "advanced",
   "met_value": 10.3,
   "compendium_code": "15702",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/trampoline/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -15144,7 +15313,11 @@
   ],
   "category": "sports",
   "tracking_type": "time",
-  "primary_muscles": [],
+  "primary_muscles": [
+   "quads",
+   "glutes",
+   "calves"
+  ],
   "secondary_muscles": [],
   "equipment": [
    "other"
@@ -15167,10 +15340,15 @@
   ],
   "category": "sports",
   "tracking_type": "time",
-  "primary_muscles": [],
+  "primary_muscles": [
+   "quads",
+   "hamstrings",
+   "calves",
+   "glutes"
+  ],
   "secondary_muscles": [],
   "equipment": [
-   "other"
+   "bodyweight"
   ],
   "difficulty": "advanced",
   "met_value": 10.0,
@@ -15202,7 +15380,9 @@
   "difficulty": "advanced",
   "met_value": 7.0,
   "compendium_code": "17010",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/hiking/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -15258,7 +15438,9 @@
   "difficulty": "advanced",
   "met_value": 7.8,
   "compendium_code": "17012",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/hiking/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -15285,7 +15467,9 @@
   "difficulty": "intermediate",
   "met_value": 4.0,
   "compendium_code": "17016",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carrying_load/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -15312,7 +15496,9 @@
   "difficulty": "intermediate",
   "met_value": 4.5,
   "compendium_code": "17018",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carrying_load/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -15339,7 +15525,9 @@
   "difficulty": "advanced",
   "met_value": 6.5,
   "compendium_code": "17019",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carrying_load/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -15366,7 +15554,9 @@
   "difficulty": "beginner",
   "met_value": 2.3,
   "compendium_code": "17021",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carrying_child/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -15568,7 +15758,9 @@
   "difficulty": "intermediate",
   "met_value": 3.8,
   "compendium_code": "17031",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/carrying_load/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -15917,7 +16109,9 @@
   "difficulty": "intermediate",
   "met_value": 3.5,
   "compendium_code": "17070",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/stair_climbing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -16071,7 +16265,9 @@
   "difficulty": "intermediate",
   "met_value": 4.5,
   "compendium_code": "17088",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/walking/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -16096,7 +16292,9 @@
   "difficulty": "advanced",
   "met_value": 8.0,
   "compendium_code": "17090",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/walking/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -17811,7 +18009,9 @@
   "difficulty": "intermediate",
   "met_value": 4.0,
   "compendium_code": "18020",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/canoeing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -17836,7 +18036,9 @@
   "difficulty": "intermediate",
   "met_value": 3.3,
   "compendium_code": "18025",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/canoeing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -17861,7 +18063,9 @@
   "difficulty": "advanced",
   "met_value": 7.0,
   "compendium_code": "18030",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/canoeing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -17886,7 +18090,9 @@
   "difficulty": "beginner",
   "met_value": 2.8,
   "compendium_code": "18040",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/canoeing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -17911,7 +18117,9 @@
   "difficulty": "intermediate",
   "met_value": 5.8,
   "compendium_code": "18050",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/canoeing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -17936,7 +18144,9 @@
   "difficulty": "advanced",
   "met_value": 12.5,
   "compendium_code": "18060",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/canoeing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -17961,7 +18171,9 @@
   "difficulty": "intermediate",
   "met_value": 3.5,
   "compendium_code": "18070",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/canoeing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18034,7 +18246,9 @@
   "difficulty": "intermediate",
   "met_value": 5.0,
   "compendium_code": "18100",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/canoeing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18059,7 +18273,9 @@
   "difficulty": "advanced",
   "met_value": 13.5,
   "compendium_code": "18104",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/canoeing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18084,7 +18300,9 @@
   "difficulty": "advanced",
   "met_value": 9.0,
   "compendium_code": "18106",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/canoeing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18112,7 +18330,9 @@
   "difficulty": "intermediate",
   "met_value": 4.0,
   "compendium_code": "18110",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/canoeing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18189,7 +18409,9 @@
   "difficulty": "intermediate",
   "met_value": 3.0,
   "compendium_code": "18120",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/sailing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18210,7 +18432,9 @@
   "difficulty": "intermediate",
   "met_value": 4.5,
   "compendium_code": "18130",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/sailing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18231,7 +18455,9 @@
   "difficulty": "advanced",
   "met_value": 9.3,
   "compendium_code": "18132",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/sailing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18252,7 +18478,9 @@
   "difficulty": "intermediate",
   "met_value": 3.3,
   "compendium_code": "18140",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/sailing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18273,7 +18501,9 @@
   "difficulty": "beginner",
   "met_value": 2.0,
   "compendium_code": "18142",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/sailing/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18347,7 +18577,9 @@
   "difficulty": "advanced",
   "met_value": 15.8,
   "compendium_code": "18180",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/scuba_diving/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18372,7 +18604,9 @@
   "difficulty": "advanced",
   "met_value": 11.8,
   "compendium_code": "18190",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/scuba_diving/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18397,7 +18631,9 @@
   "difficulty": "advanced",
   "met_value": 7.0,
   "compendium_code": "18200",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/scuba_diving/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18422,7 +18658,9 @@
   "difficulty": "intermediate",
   "met_value": 5.3,
   "compendium_code": "18202",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/scuba_diving/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18447,7 +18685,9 @@
   "difficulty": "intermediate",
   "met_value": 5.8,
   "compendium_code": "18204",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/scuba_diving/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18472,7 +18712,9 @@
   "difficulty": "intermediate",
   "met_value": 5.5,
   "compendium_code": "18206",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/scuba_diving/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18497,7 +18739,9 @@
   "difficulty": "advanced",
   "met_value": 6.8,
   "compendium_code": "18208",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/scuba_diving/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18625,7 +18869,9 @@
   "difficulty": "advanced",
   "met_value": 6.5,
   "compendium_code": "18224",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/paddleboarding/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18650,7 +18896,9 @@
   "difficulty": "beginner",
   "met_value": 2.8,
   "compendium_code": "18225",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/paddleboarding/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18675,7 +18923,9 @@
   "difficulty": "intermediate",
   "met_value": 3.8,
   "compendium_code": "18226",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/paddleboarding/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18700,7 +18950,9 @@
   "difficulty": "intermediate",
   "met_value": 5.0,
   "compendium_code": "18227",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/paddleboarding/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18725,7 +18977,9 @@
   "difficulty": "advanced",
   "met_value": 9.8,
   "compendium_code": "18228",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/paddleboarding/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -18750,7 +19004,9 @@
   "difficulty": "advanced",
   "met_value": 11.0,
   "compendium_code": "18229",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/erensmsek/formda-data/main/exercises/activity_images/paddleboarding/0.jpg"
+  ],
   "animation_url": null,
   "instructions_tr": [],
   "tips_tr": [],
@@ -19405,7 +19661,11 @@
   "alternative_names_tr": [],
   "category": "cardio",
   "tracking_type": "time",
-  "primary_muscles": [],
+  "primary_muscles": [
+   "quads",
+   "hamstrings",
+   "calves"
+  ],
   "secondary_muscles": [],
   "equipment": [
    "other"
