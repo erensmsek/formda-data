@@ -37559,6 +37559,13 @@
    "protein_source": null,
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -37624,6 +37631,13 @@
    "protein_source": "dairy",
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -37696,6 +37710,13 @@
    "protein_source": "dairy",
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -37764,6 +37785,13 @@
    "protein_source": "dairy",
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -37831,6 +37859,13 @@
    "protein_source": null,
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -37906,6 +37941,13 @@
    "protein_source": "dairy",
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -37973,6 +38015,13 @@
    "protein_source": "dairy",
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38039,6 +38088,13 @@
    "protein_source": null,
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38116,6 +38172,13 @@
    "protein_source": "poultry",
    "diet": "omnivore",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38186,6 +38249,13 @@
    "protein_source": "fish",
    "diet": "pescatarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38260,6 +38330,13 @@
    "protein_source": "fish",
    "diet": "pescatarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38336,6 +38413,13 @@
    "protein_source": "legume",
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38404,6 +38488,13 @@
    "protein_source": "legume",
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38485,6 +38576,13 @@
    "protein_source": "soy",
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38551,6 +38649,13 @@
    "protein_source": "poultry",
    "diet": "omnivore",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38618,6 +38723,13 @@
    "protein_source": "poultry",
    "diet": "omnivore",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38693,6 +38805,13 @@
    "protein_source": "seafood",
    "diet": "pescatarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38766,6 +38885,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38848,6 +38974,13 @@
    "protein_source": "fish",
    "diet": "pescatarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38923,6 +39056,13 @@
    "protein_source": "red_meat",
    "diet": "omnivore",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -38994,6 +39134,13 @@
    "protein_source": "egg",
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39068,6 +39215,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39134,6 +39288,13 @@
    "protein_source": null,
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39195,6 +39356,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39261,6 +39429,13 @@
    "protein_source": "nut_seed",
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39331,6 +39506,13 @@
    "protein_source": "dairy",
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39400,6 +39582,13 @@
    "protein_source": "dairy",
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39466,6 +39655,13 @@
    "protein_source": "dairy",
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39532,6 +39728,13 @@
    "protein_source": "dairy",
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39607,6 +39810,13 @@
    "protein_source": "nut_seed",
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39677,6 +39887,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39748,6 +39965,13 @@
    "protein_source": null,
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39814,6 +40038,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39875,6 +40106,13 @@
    "protein_source": null,
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -39947,6 +40185,13 @@
    "protein_source": null,
    "diet": "vegetarian",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40005,6 +40250,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40068,6 +40320,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40126,6 +40385,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40184,6 +40450,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40242,6 +40515,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40310,6 +40590,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40383,6 +40670,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40441,6 +40735,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40499,6 +40800,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40557,6 +40865,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40615,6 +40930,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40678,6 +41000,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40751,6 +41080,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  },
  {
@@ -40819,6 +41155,13 @@
    "protein_source": null,
    "diet": "vegan",
    "quality": "everyday"
+  },
+  "verification": {
+   "status": "unverified",
+   "source": "new_record",
+   "checked_at": null,
+   "checked_fields": [],
+   "conflicts": []
   }
  }
 ]
