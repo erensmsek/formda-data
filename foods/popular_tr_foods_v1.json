@@ -18168,7 +18168,7 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan",
-   "quality": "moderate"
+   "quality": "treat"
   },
   "verification": {
    "status": "verified",
@@ -19513,7 +19513,7 @@
    "starch_base": null,
    "protein_source": null,
    "diet": "vegan",
-   "quality": "moderate"
+   "quality": "treat"
   },
   "verification": {
    "status": "verified",
