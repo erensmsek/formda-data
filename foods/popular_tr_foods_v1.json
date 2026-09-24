@@ -4762,7 +4762,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -4863,7 +4862,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "yufka",
@@ -4955,7 +4953,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "yufka",
@@ -5230,7 +5227,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -5321,7 +5317,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -5412,7 +5407,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -6343,7 +6337,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -6438,7 +6431,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "sut",
@@ -6529,7 +6521,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "sut",
@@ -6620,7 +6611,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -6705,7 +6695,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "irmik",
@@ -6805,7 +6794,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -6898,7 +6886,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -6983,7 +6970,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "bulgur",
@@ -7084,7 +7070,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "kabak",
@@ -7164,7 +7149,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -7262,7 +7246,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "ekmek",
@@ -7356,7 +7339,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "patates",
@@ -7445,7 +7427,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -7537,7 +7518,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "patates",
@@ -7631,7 +7611,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "bulgur",
@@ -7798,7 +7777,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "seker",
@@ -7881,7 +7859,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "dana_kiyma",
@@ -8338,7 +8315,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "levrek",
@@ -9045,7 +9021,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -9131,7 +9106,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "sut",
@@ -9227,7 +9201,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "sut",
@@ -9308,7 +9281,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -9411,7 +9383,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -14672,7 +14643,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "kabak",
@@ -17925,7 +17895,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "irmik",
@@ -18016,7 +17985,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -18250,7 +18218,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -18345,7 +18312,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "lor",
@@ -18525,7 +18491,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "ayva",
@@ -18608,7 +18573,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "incir_taze",
@@ -18698,7 +18662,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "sut",
@@ -18789,7 +18752,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "sut",
@@ -18879,7 +18841,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "pirinc",
@@ -18967,7 +18928,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "sut",
@@ -19072,7 +19032,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "kadayif_ham",
@@ -19245,7 +19204,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -19324,7 +19282,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "su",
@@ -19393,7 +19350,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "su",
@@ -19604,7 +19560,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "sut",
@@ -19675,7 +19630,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "sut",
@@ -19756,7 +19710,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "su",
@@ -21404,7 +21357,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "whey_tozu",
@@ -21640,7 +21592,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "chia",
@@ -22776,7 +22727,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -22866,7 +22816,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "yufka",
@@ -22957,7 +22906,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "yufka",
@@ -23045,7 +22993,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -23650,7 +23597,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "ekmek",
@@ -23745,7 +23691,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "tavuk_gogus",
@@ -23831,7 +23776,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "tavuk_gogus",
@@ -23930,7 +23874,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -24014,7 +23957,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "ekmek",
@@ -24115,7 +24057,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "ekmek",
@@ -24352,7 +24293,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -24676,7 +24616,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "sut",
@@ -24767,7 +24706,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "sut",
@@ -24859,7 +24797,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -24951,7 +24888,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -25045,7 +24981,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -25144,7 +25079,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "bisküvi",
@@ -25696,7 +25630,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "elma",
@@ -25781,7 +25714,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "muz",
@@ -26880,7 +26812,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "yufka",
@@ -26973,7 +26904,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -27067,7 +26997,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "yogurt",
@@ -27143,7 +27072,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "espresso",
@@ -27212,7 +27140,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "espresso",
@@ -27285,7 +27212,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "espresso",
@@ -27360,7 +27286,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "espresso",
@@ -27435,7 +27360,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "espresso",
@@ -27522,7 +27446,6 @@
    "dinner",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "su",
@@ -28335,7 +28258,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "misir_cips",
@@ -29298,7 +29220,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "pita_ekmek",
@@ -29969,7 +29890,6 @@
    "breakfast",
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -30072,7 +29992,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "ekmek",
@@ -30165,7 +30084,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "hamburger_ekmegi",
@@ -30255,7 +30173,6 @@
    "lunch",
    "dinner"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "hamburger_ekmegi",
@@ -31084,7 +31001,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -31263,7 +31179,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -31365,7 +31280,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
@@ -31463,7 +31377,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "labne_krem",
@@ -31560,7 +31473,6 @@
   "meal_type_tags": [
    "snack"
   ],
-  "prep_time_min": 0,
   "ingredients": [
    {
     "slug": "un",
