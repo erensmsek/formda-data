@@ -12429,9 +12429,9 @@
   "name_tr": "Dumbbell Lunges",
   "name_en": "Dumbbell Lunges",
   "alternative_names_tr": [
-   "dambıl lunge",
    "dambıl hamle",
-   "lunge"
+   "lunge",
+   "dambıl lunge"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -12482,7 +12482,8 @@
   "compendium_code": "02054",
   "requires": [],
   "canonical_names": [
-   "lunge"
+   "lunge",
+   "dambıl lunge"
   ]
  },
  {
@@ -38996,7 +38997,9 @@
   "name_en": "Split Squat with Dumbbells",
   "alternative_names_tr": [
    "dambıl split squat",
-   "dambılla lunge"
+   "dambılla lunge",
+   "bulgarian split squat",
+   "bulgar split squat"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -39042,7 +39045,11 @@
   "fatigue": "medium",
   "session_role": "main",
   "compendium_code": "02052",
-  "requires": []
+  "requires": [],
+  "canonical_names": [
+   "bulgarian split squat",
+   "bulgar split squat"
+  ]
  },
  {
   "id": "Split_Squats",
