@@ -20,10 +20,10 @@
       "checksum": "sha256:7912d0eba988bb99a4057994ca0405bb1bb92fefdaaed56a43affa3fd5ec9100"
     },
     "popular_tr": {
-      "version": "1.10.0",
+      "version": "1.10.1",
       "count": 484,
       "updated_at": "2026-09-25",
-      "checksum": "sha256:0f6d726e2b726d3fc4fbe0cb980ba691f9dd2ee4e70f29f49811e99a33cbad3b"
+      "checksum": "sha256:0387071ed2808f9d2b4c896e381ed5e29f6f8f528865509ce599382fe07a7bb6"
     },
     "community_tr": {
       "version": "1.0.1",
