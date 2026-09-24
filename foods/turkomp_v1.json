@@ -22057,7 +22057,10 @@
     "sodium_mg"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "üzüm"
+  ]
  },
  {
   "id": "turkomp_504",
@@ -23176,7 +23179,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "çikolata"
+  ]
  },
  {
   "id": "turkomp_760",
@@ -23858,11 +23864,11 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 190
+    "grams": 200
    },
    {
     "name": "1 şişe (500 ml)",
-    "grams": 475
+    "grams": 500
    }
   ],
   "tags": [
@@ -24244,20 +24250,20 @@
   },
   "common_servings": [
    {
-    "name": "1 kase (150 g)",
-    "grams": 150
+    "name": "1 bardak (200 ml)",
+    "grams": 200
    },
    {
-    "name": "100 g",
-    "grams": 100
+    "name": "1 şişe (500 ml)",
+    "grams": 500
    }
   ],
   "tags": [
+   "beverage",
    "turkish",
-   "turkomp",
-   "vegetable"
+   "turkomp"
   ],
-  "category": "vegetable",
+  "category": "beverage",
   "meal_type_tags": [
    "lunch",
    "dinner"
@@ -24276,7 +24282,11 @@
     "sodium_mg"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "su",
+   "içme suyu"
+  ]
  },
  {
   "id": "turkomp_420",

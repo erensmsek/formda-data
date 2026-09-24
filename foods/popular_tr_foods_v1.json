@@ -76,7 +76,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "döner"
+  ]
  },
  {
   "id": "curated_doner_durum",
@@ -563,7 +566,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "köfte"
+  ]
  },
  {
   "id": "curated_adana_kebap",
@@ -1288,7 +1294,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "iskender"
+  ]
  },
  {
   "id": "curated_tantuni",
@@ -2493,7 +2502,11 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "yaprak sarma",
+   "sarma"
+  ]
  },
  {
   "id": "curated_lahana_sarma",
@@ -2775,7 +2788,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "kırmızı mercimek çorbası"
+  ]
  },
  {
   "id": "curated_ezogelin_corba",
@@ -2864,7 +2880,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "ezogelin"
+  ]
  },
  {
   "id": "curated_yayla_corba",
@@ -3388,7 +3407,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "pirinç pilavı"
+  ]
  },
  {
   "id": "curated_bulgur_pilav",
@@ -4345,7 +4367,11 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "tost",
+   "peynirli tost"
+  ]
  },
  {
   "id": "curated_sucuklu_tost",
@@ -5546,7 +5572,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "mantı"
+  ]
  },
  {
   "id": "curated_coban_salata",
@@ -7679,7 +7708,7 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -7809,7 +7838,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "türk kahvesi"
+  ]
  },
  {
   "id": "curated_kofte_ekmek",
@@ -9528,7 +9560,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "dondurma"
+  ]
  },
  {
   "id": "curated_corba_sebze",
@@ -15643,7 +15678,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "peynir"
+  ]
  },
  {
   "id": "curated_kahvalti_kasar",
@@ -16834,7 +16872,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "haşlanmış yumurta"
+  ]
  },
  {
   "id": "curated_kahvalti_tabagi",
@@ -19340,7 +19381,7 @@
   "common_servings": [
    {
     "name": "1 bardak (100 ml)",
-    "grams": 104
+    "grams": 100
    }
   ],
   "tags": [
@@ -19411,7 +19452,7 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 200
+    "grams": 204
    }
   ],
   "tags": [
@@ -19547,7 +19588,7 @@
   "common_servings": [
    {
     "name": "1 fincan (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -19622,7 +19663,7 @@
   "common_servings": [
    {
     "name": "1 fincan (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -21253,7 +21294,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "yulaf"
+  ]
  },
  {
   "id": "curated_granola_kase",
@@ -21469,7 +21513,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "protein tozu"
+  ]
  },
  {
   "id": "curated_yogurt_meyveli",
@@ -24392,7 +24439,7 @@
   "common_servings": [
    {
     "name": "1 şişe (250 ml)",
-    "grams": 250
+    "grams": 260
    }
   ],
   "tags": [
@@ -24527,7 +24574,7 @@
   "common_servings": [
    {
     "name": "1 kutu (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -25332,7 +25379,7 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -25480,7 +25527,7 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -27004,7 +27051,7 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -27747,7 +27794,7 @@
   "common_servings": [
    {
     "name": "1 kutu (250 ml)",
-    "grams": 250
+    "grams": 260
    }
   ],
   "tags": [
@@ -32904,7 +32951,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "cips"
+  ]
  },
  {
   "id": "curated_misir_cips_k",
@@ -33751,7 +33801,11 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "makarna",
+   "spagetti"
+  ]
  },
  {
   "id": "curated_pirinc_haslanmis",
@@ -34040,7 +34094,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "haşlanmış patates"
+  ]
  },
  {
   "id": "curated_patates_firin_sade",
@@ -34489,7 +34546,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "ton balığı"
+  ]
  },
  {
   "id": "curated_yesil_mercimek_corba",
@@ -39580,7 +39640,7 @@
   },
   "common_servings": [
    {
-    "name": "1 adet (20 g)",
+    "name": "1 tane (20 g)",
     "grams": 20
    },
    {
@@ -39796,7 +39856,7 @@
   },
   "common_servings": [
    {
-    "name": "1 adet (100 g)",
+    "name": "1 tane (100 g)",
     "grams": 100
    }
   ],
@@ -39862,7 +39922,7 @@
   },
   "common_servings": [
    {
-    "name": "1 adet (80 g)",
+    "name": "1 tane (80 g)",
     "grams": 80
    }
   ],

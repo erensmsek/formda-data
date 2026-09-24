@@ -6638,15 +6638,15 @@
   "common_servings": [
    {
     "name": "1 kutu (330 ml)",
-    "grams": 343
+    "grams": 340
    },
    {
     "name": "1 bardak (200 ml)",
-    "grams": 208
+    "grams": 206
    },
    {
     "name": "1 şişe (500 ml)",
-    "grams": 520
+    "grams": 515
    }
   ],
   "allergens": [
@@ -6981,15 +6981,15 @@
   "common_servings": [
    {
     "name": "1 kutu (330 ml)",
-    "grams": 343
+    "grams": 340
    },
    {
     "name": "1 bardak (200 ml)",
-    "grams": 208
+    "grams": 206
    },
    {
     "name": "1 şişe (500 ml)",
-    "grams": 520
+    "grams": 515
    }
   ],
   "allergens": [
@@ -7042,15 +7042,15 @@
   "common_servings": [
    {
     "name": "1 kutu (330 ml)",
-    "grams": 343
+    "grams": 340
    },
    {
     "name": "1 bardak (200 ml)",
-    "grams": 208
+    "grams": 206
    },
    {
     "name": "1 şişe (500 ml)",
-    "grams": 520
+    "grams": 515
    }
   ],
   "allergens": [
@@ -7103,15 +7103,15 @@
   "common_servings": [
    {
     "name": "1 kutu (330 ml)",
-    "grams": 343
+    "grams": 340
    },
    {
     "name": "1 bardak (200 ml)",
-    "grams": 208
+    "grams": 206
    },
    {
     "name": "1 şişe (500 ml)",
-    "grams": 520
+    "grams": 515
    }
   ],
   "allergens": [
@@ -7163,15 +7163,15 @@
   "common_servings": [
    {
     "name": "1 kutu (330 ml)",
-    "grams": 343
+    "grams": 340
    },
    {
     "name": "1 bardak (200 ml)",
-    "grams": 208
+    "grams": 206
    },
    {
     "name": "1 şişe (500 ml)",
-    "grams": 520
+    "grams": 515
    }
   ],
   "allergens": [
@@ -17363,11 +17363,11 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 208
+    "grams": 206
    },
    {
     "name": "1 kupa (240 ml)",
-    "grams": 250
+    "grams": 247
    }
   ],
   "allergens": [
@@ -17523,11 +17523,11 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 208
+    "grams": 206
    },
    {
     "name": "1 kupa (240 ml)",
-    "grams": 250
+    "grams": 247
    }
   ],
   "allergens": [
@@ -17577,11 +17577,11 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 208
+    "grams": 206
    },
    {
     "name": "1 kupa (240 ml)",
-    "grams": 250
+    "grams": 247
    }
   ],
   "allergens": [
@@ -56027,15 +56027,15 @@
   "common_servings": [
    {
     "name": "1 kutu (330 ml)",
-    "grams": 343
+    "grams": 330
    },
    {
     "name": "1 bardak (200 ml)",
-    "grams": 208
+    "grams": 200
    },
    {
     "name": "1 şişe (500 ml)",
-    "grams": 520
+    "grams": 500
    }
   ],
   "meal_type_tags": [
