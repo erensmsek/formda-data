@@ -7708,7 +7708,7 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -19381,7 +19381,7 @@
   "common_servings": [
    {
     "name": "1 bardak (100 ml)",
-    "grams": 104
+    "grams": 100
    }
   ],
   "tags": [
@@ -19452,7 +19452,7 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 200
+    "grams": 204
    }
   ],
   "tags": [
@@ -19588,7 +19588,7 @@
   "common_servings": [
    {
     "name": "1 fincan (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -19663,7 +19663,7 @@
   "common_servings": [
    {
     "name": "1 fincan (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -24439,7 +24439,7 @@
   "common_servings": [
    {
     "name": "1 şişe (250 ml)",
-    "grams": 250
+    "grams": 260
    }
   ],
   "tags": [
@@ -24574,7 +24574,7 @@
   "common_servings": [
    {
     "name": "1 kutu (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -25379,7 +25379,7 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -25527,7 +25527,7 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -27051,7 +27051,7 @@
   "common_servings": [
    {
     "name": "1 bardak (200 ml)",
-    "grams": 200
+    "grams": 206
    }
   ],
   "tags": [
@@ -27794,7 +27794,7 @@
   "common_servings": [
    {
     "name": "1 kutu (250 ml)",
-    "grams": 250
+    "grams": 260
    }
   ],
   "tags": [
@@ -39640,7 +39640,7 @@
   },
   "common_servings": [
    {
-    "name": "1 adet (20 g)",
+    "name": "1 tane (20 g)",
     "grams": 20
    },
    {
@@ -39856,7 +39856,7 @@
   },
   "common_servings": [
    {
-    "name": "1 adet (100 g)",
+    "name": "1 tane (100 g)",
     "grams": 100
    }
   ],
@@ -39922,7 +39922,7 @@
   },
   "common_servings": [
    {
-    "name": "1 adet (80 g)",
+    "name": "1 tane (80 g)",
     "grams": 80
    }
   ],
