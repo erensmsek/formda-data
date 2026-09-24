@@ -13581,7 +13581,6 @@
    "conflicts": []
   },
   "aliases": [
-   "sardalya",
    "ızgara sardalya"
   ]
  },
@@ -20970,7 +20969,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "fıstık"
+  ]
  },
  {
   "id": "curated_kuruyemis_yer_fistigi",
@@ -21042,7 +21044,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "fıstık"
+  ]
  },
  {
   "id": "curated_kuruyemis_kabak_cekirdegi",
@@ -24947,7 +24952,10 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "kek"
+  ]
  },
  {
   "id": "curated_brownie",
