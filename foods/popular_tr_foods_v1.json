@@ -13503,8 +13503,8 @@
  },
  {
   "id": "curated_sardalya_izgara",
-  "name_tr": "Izgara Sardalya",
-  "name_en": "Grilled Sardines",
+  "name_tr": "Sardalya (konserve, ızgara)",
+  "name_en": "Sardines (canned, grilled)",
   "category": "main_dish",
   "source": "curated",
   "per_100g": {
@@ -13579,7 +13579,11 @@
     "protein_g"
    ],
    "conflicts": []
-  }
+  },
+  "aliases": [
+   "sardalya",
+   "ızgara sardalya"
+  ]
  },
  {
   "id": "curated_zy_enginar",
