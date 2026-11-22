@@ -4,6 +4,14 @@ FormDa uygulamasının statik yemek ve egzersiz veri seti. Uygulama bu
 JSON'ları GitHub raw üzerinden açılışta indirir; `version.json` değişince
 güncellenen setleri çeker.
 
+<!-- formda-veri-paneli: yayin-ciktisi -->
+> **Bu repo yayın çıktısıdır — elle düzenleme yok.** Yemek setlerinin asıl
+> kaynağı Supabase `catalog_foods`; değişiklikler Formda Veri Paneli’nde
+> kaynak notuyla yapılır. `foods/` ve `version.json`’ı yalnız panelin yayın
+> hattı yazar (doğrulayıcı kapısı → sürüm → PR). Aşağıdaki elle güncelleme
+> adımları yemek setleri için artık geçerli değil; topluluk seti Faz 7’ye
+> kadar Actions ile, egzersiz setleri Faz 10’a kadar eski yolla güncellenir.
+
 ## Yapı
 
 ```

@@ -14,10 +14,10 @@
       "checksum": "sha256:be239c1ffe6042cb3f2379b4389939214f3e367717d4fcffcc4774380435846f"
     },
     "off_tr": {
-      "version": "1.9.0",
+      "version": "1.10.0",
       "count": 639,
-      "updated_at": "2026-09-25",
-      "checksum": "sha256:7912d0eba988bb99a4057994ca0405bb1bb92fefdaaed56a43affa3fd5ec9100"
+      "updated_at": "2026-11-23",
+      "checksum": "sha256:b88b163df382452d20dbd101f16ba8cbf26979e457de626d359b31dcb274027d"
     },
     "popular_tr": {
       "version": "1.10.1",
