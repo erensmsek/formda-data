@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
-"""Faz 9.6 — onaylanan katkıları yayına çıkarır (9.6.11, 9.6.14, 9.6.16).
+"""Faz 9.6 — onaylanan EGZERSİZ katkılarını yayına çıkarır (9.6.11, 9.6.14, 9.6.16).
 
-Supabase'den `status='approved'` kayıtları çeker, `formda-data` repo'sundaki
-community setlerini üretir, `version.json`'ı bump'lar ve Supabase'e
-`status='published'` yazar.
+Supabase'den `status='approved'` egzersiz katkılarını çeker,
+`exercises/community_exercises_v1.json`'ı üretir, `version.json`'ı bump'lar ve
+Supabase'e `status='published'` yazar.
+
+⚠️ Yemek katkıları artık Veri Paneli'nde (Faz 7, 23 Kas 2026): onay
+`submission_approve` ile `catalog_foods`'a girer, `foods/community_tr_v1.json`'ı
+panelin yayın hattı yazar. Bu betik o dosyaya DOKUNMAZ (iki yazar olmasın).
+Egzersiz kısmı spor kataloğu (panel Faz 10) gelene kadar burada kalır.
 
 **Neden curated'dan AYRI dosya**: curated set `build_curated_tr.py` ile
 üretiliyor; elle eklenen kayıt bir sonraki üretimde sessizce silinirdi.
@@ -35,7 +40,6 @@ import urllib.request
 
 DATA_ROOT = os.environ.get(
     'FORMDA_DATA', '/Volumes/e-ssd/ProjeKod/formda-data')
-FOOD_OUT = os.path.join(DATA_ROOT, 'foods/community_tr_v1.json')
 EX_OUT = os.path.join(DATA_ROOT, 'exercises/community_exercises_v1.json')
 VERSION = os.path.join(DATA_ROOT, 'version.json')
 
@@ -79,37 +83,6 @@ def fetch(table: str) -> list[dict]:
         'select': '*',
         'order': 'submitted_at.asc',
     })
-
-
-def food_record(row: dict) -> dict:
-    """Gönderimi uygulamanın beklediği gıda şemasına çevirir."""
-    name = row['name'].strip()
-    brand = (row.get('brand') or '').strip()
-    # Marka adı ada katılır — Faz 9.5'te OFF için alınan kararla aynı:
-    # aynı adlı farklı marka ürünleri aramada ayırt edilebilsin.
-    if brand and brand.lower() not in name.lower():
-        name = f'{brand} {name}'
-    per = {
-        'calories_kcal': float(row['calories_kcal']),
-        'protein_g': float(row['protein_g']),
-        'carbs_g': float(row['carbs_g']),
-        'fat_g': float(row['fat_g']),
-    }
-    for src, dst in (('fiber_g', 'fiber_g'), ('sugar_g', 'sugar_g'),
-                     ('sodium_mg', 'sodium_mg')):
-        if row.get(src) is not None:
-            per[dst] = float(row[src])
-    return {
-        'id': f'community_{row["id"]}',
-        'name_tr': name,
-        'brand': brand or None,
-        'category': row.get('category') or 'other',
-        'source': 'community',
-        'per_100g': per,
-        'common_servings': row.get('common_servings') or [],
-        'barcode': row.get('barcode'),
-        'tags': sorted({'community', row.get('category') or 'other'}),
-    }
 
 
 def exercise_record(row: dict) -> dict:
@@ -159,15 +132,10 @@ def main() -> None:
     if not (args.dry_run or args.apply):
         ap.error('--dry-run veya --apply verin')
 
-    foods = fetch('food_submissions')
     exercises = fetch('exercise_submissions')
-    new_foods = [r for r in foods if r['status'] == 'approved']
     new_ex = [r for r in exercises if r['status'] == 'approved']
 
-    print(f'yemek   : {len(foods)} yayında ({len(new_foods)} yeni onay)')
     print(f'egzersiz: {len(exercises)} yayında ({len(new_ex)} yeni onay)')
-    for r in new_foods[:10]:
-        print(f'    + {r["name"][:48]}')
     for r in new_ex[:10]:
         print(f'    + {r["name_tr"][:48]}')
 
@@ -180,13 +148,10 @@ def main() -> None:
     # çekilen (`revoked`) kayıt yeni onay yaratmadığı için setten hiç
     # düşmüyordu (9.6.16 çalışmıyordu). İçerik karşılaştırması geri çekmeyi,
     # elle düzeltmeyi ve şema değişikliğini de kapsıyor.
-    os.makedirs(os.path.dirname(FOOD_OUT), exist_ok=True)
     os.makedirs(os.path.dirname(EX_OUT), exist_ok=True)
 
     changed = []
     for label, path, payload, version_key, count in (
-        ('community_tr', FOOD_OUT, [food_record(r) for r in foods],
-         ('foods', 'community_tr'), len(foods)),
         ('community(exercises)', EX_OUT, [exercise_record(r) for r in exercises],
          ('exercises', 'community'), len(exercises)),
     ):
@@ -208,13 +173,11 @@ def main() -> None:
 
     # Durum geri yazma (9.6.14): panelde "yayında" rozeti, çift yayın önlenir.
     now = datetime.datetime.now(datetime.timezone.utc).isoformat()
-    for table, rows in (('food_submissions', new_foods),
-                        ('exercise_submissions', new_ex)):
-        for r in rows:
-            _request(table, method='PATCH',
-                     params={'id': f'eq.{r["id"]}'},
-                     body={'status': 'published', 'published_at': now})
-    print(f'{len(new_foods) + len(new_ex)} kayıt published olarak işaretlendi.')
+    for r in new_ex:
+        _request('exercise_submissions', method='PATCH',
+                 params={'id': f'eq.{r["id"]}'},
+                 body={'status': 'published', 'published_at': now})
+    print(f'{len(new_ex)} kayıt published olarak işaretlendi.')
 
 
 if __name__ == '__main__':
