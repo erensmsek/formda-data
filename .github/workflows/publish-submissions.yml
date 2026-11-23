@@ -1,4 +1,8 @@
-# Faz 9.6 — onaylanan kullanıcı katkılarını otomatik yayınlar (9.6.12, 9.6.13)
+# Faz 9.6 — onaylanan EGZERSİZ katkılarını otomatik yayınlar (9.6.12, 9.6.13)
+#
+# Yemek katkıları 23 Kas 2026'dan beri Veri Paneli'nde (Faz 7): bu iş
+# foods/community_tr_v1.json'a dokunmaz. Egzersiz kısmı panel Faz 10'da
+# (spor kataloğu) emekli olur; o zaman iş akışı ve SUPABASE_SERVICE_KEY silinir.
 #
 # Tetikleyici iki yönlü:
 #   1. repository_dispatch — Supabase'deki `notify_submission_approved`
@@ -9,7 +13,7 @@
 #
 # ⚠️ SUPABASE_SERVICE_KEY repo secret'ında. Repo PUBLIC olduğu için script
 # hata mesajlarında anahtarı yazdırmıyor; log'a asla echo etme.
-name: Katkıları yayınla
+name: Egzersiz katkılarını yayınla
 
 on:
   repository_dispatch:
@@ -53,8 +57,6 @@ jobs:
           fi
           git config user.name  "formda-bot"
           git config user.email "bot@formda.app"
-          git add foods/community_tr_v1.json \
-                  exercises/community_exercises_v1.json \
-                  version.json
-          git commit -m "data: onaylanan kullanıcı katkıları yayınlandı"
+          git add exercises/community_exercises_v1.json version.json
+          git commit -m "data: onaylanan egzersiz katkıları yayınlandı"
           git push
