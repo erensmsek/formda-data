@@ -4791,7 +4791,7 @@
    "pedal çevirme"
   ],
   "category": "cardio",
-  "tracking_type": "time",
+  "tracking_type": "distance",
   "primary_muscles": [
    "quads"
   ],
@@ -43532,7 +43532,7 @@
    "trail running"
   ],
   "category": "cardio",
-  "tracking_type": "time",
+  "tracking_type": "distance",
   "primary_muscles": [
    "quads"
   ],
@@ -43776,7 +43776,8 @@
   "alternative_names_tr": [
    "kablolu arka kol",
    "tricep pushdown",
-   "pushdown"
+   "pushdown",
+   "kablo arka kol"
   ],
   "category": "strength",
   "tracking_type": "reps",
@@ -43820,7 +43821,8 @@
   "requires": [],
   "canonical_names": [
    "tricep pushdown",
-   "pushdown"
+   "pushdown",
+   "kablo arka kol"
   ]
  },
  {
